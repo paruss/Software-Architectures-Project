@@ -1,6 +1,7 @@
+package cs4135;
 import java.util.*;
 
-public class TransactionManager extends Observable {
+public class TransactionManager {
 
   public int quantity;
 
@@ -9,6 +10,8 @@ public class TransactionManager extends Observable {
   public Product ChosenProduct;
 
   public Observer o;
+
+  productList[] = new Product[];
 
   public Double preVatTotal;
 
@@ -21,7 +24,8 @@ public class TransactionManager extends Observable {
   public enum RegionEnum{IRELAND, UK}
 
 
-  public void getNumber() {
+  public int getNumber() {
+      return quantity;
   }
 
   public void chooseProduct(void productTypeEnum) {
@@ -67,6 +71,7 @@ public class TransactionManager extends Observable {
   }
 
   public void updateTotalCost(void TotalPrice) {
+
   }
 
 }
