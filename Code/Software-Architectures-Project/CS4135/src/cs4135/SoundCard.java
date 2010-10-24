@@ -1,6 +1,11 @@
-public class SoundCard implements Product {
-    int price = 10;
-    public void getPrice{
-        return price
+public class SoundCard extends Product {
+    double price = 10.00;
+    public double getPrice(){
+        return price;
     }
+
+    public ProductTypeEnum getType(){
+        return type;
+    }
+
 }

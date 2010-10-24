@@ -1,29 +1,31 @@
-import java.util.Vector;
 
-public interface Product {
 
-    public ComponentComposite myComponentComposite;
-    /**
-   * 
-   * @element-type Computer Decorator
-   */
-  public Vector  *;
-    /**
-   * 
-   * @element-type ComputerDecorator
-   */
-  public Vector  *;
+public abstract class Product {
 
-  public abstract double cost();
+ // public ComponentComposite myComponentComposite;
 
-  public void getPrice();
 
-  public void getType();
 
-  public void addComponent();
+  //public abstract double cost();
 
-  public void removeComponent();
+  public double getPrice() {
+      throw new UnsupportedOperationException();
+  }
 
-  public void getChild();
+  public void getType(){
+      throw new UnsupportedOperationException();
+  }
+
+  public void addComponent(){
+       throw new UnsupportedOperationException();
+  }
+
+  public void removeComponent(){
+       throw new UnsupportedOperationException();
+  }
+
+  public void getChild(){
+       throw new UnsupportedOperationException();
+  }
 
 }

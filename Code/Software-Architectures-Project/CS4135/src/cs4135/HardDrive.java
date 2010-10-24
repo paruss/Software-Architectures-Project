@@ -1,2 +1,5 @@
-public class HardDrive extends Chassis implements Chassis, Product, HardDriveInterface {
+public class HardDrive implements  HardDriveInterface {
+    public void getChild(){
+
+    }
 }

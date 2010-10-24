@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class TransactionManager  {
+public class TransactionManager extends Observable {
 
   public int quantity;
 
@@ -27,19 +27,31 @@ public class TransactionManager  {
   public void chooseProduct(void productTypeEnum) {
   }
 
+  public void somethingChanged(){
+      setChanged();
+      notifyObservers();
+  }
+
+
   public void removeObserver(void componentEnum) {
   }
 
-  public void notifyObservers(void o) {
+/*  public void notifyObservers(Observer o) {
+      if(changed){
+          
+      }
+
+  }
+*/
+  public void setNumber(int quantity) {
+      this.quantity = quantity;
+      somethingChanged();
   }
 
-  public void setNumber(Product product) {
-  }
-
-  public void registerObserver(Observer o) {
-      this.o = o;
-      o.addObserver(this);
-  }
+//  public void registerObserver(Observer o) {
+//      this.o = o;
+//      o.addObserver(this);
+//  }
 
   public void setRegion(void regionEnum) {
   }
