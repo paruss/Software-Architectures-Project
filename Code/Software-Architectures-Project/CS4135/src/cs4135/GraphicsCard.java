@@ -1,2 +1,2 @@
-public class GraphicsCard extends MotherBoard implements MotherBoard, Product, GraphicsCardInterface {
+public class GraphicsCard implements GraphicsCardInterface {
 }

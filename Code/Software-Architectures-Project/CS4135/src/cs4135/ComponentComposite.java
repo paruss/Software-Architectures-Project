@@ -1,30 +1,21 @@
+package cs4135;
 import java.util.*;
 
-public class ComponentComposite implements Product {
+public class ComponentComposite extends Product {
   ArrayList productComponents = new ArrayList();
   String description;
   Double price;
-  ComponentEnum name;
+  TransactionManager.ComponentEnum name;
   String type;
-  private componentEnum ComponentName;
-
+  private TransactionManager.ComponentEnum ComponentName;
+  //
   private Product product;
 
-    /**
-   * 
-   * @element-type Computer
-   */
-    public Computer myComputer;
-
-    /**
-   * 
-   * @element-type Computer
-   */
-
-    public Product myProduct;
+  public Product myProduct;
 
   public void getChild(int i) {
       return (ComponentComposite)productComponents.get(i);
+      //return a child
   }
 
   public void removeComponent(ComponentComposite productComponent) {

@@ -1,16 +1,28 @@
 package cs4135;
-import java.util.Observable;
-import java.util.Observer;
+import java.util.*;
 
 public class UK extends region {
 
+   RegionEnum region = getRegion();
+   //Trying to obtain the current region enum, having trouble as you can see!
+
 public double addVat(double preVatTotal){
-    switch (TransactionManager.ComponentEnum){
+    //this is a fucking mess, iv no idea whats wrong! Opinions desired
+    switch (region){
         case IRELAND: {
             return preVatTotal * 1.20;
         }
-        case UK:{
+        case UK:
+            return 0;
+        default
+            throws IOExeption e;
+            /* if the enum doesnt match either of these
+            throw some sort of exception please fix so it works */
 
+/* If the state of the transaction is UK then add the vat, otherwise do nothing
+            (will be picked up by ireland)
+
+  */
         }
 
     }
@@ -18,4 +30,3 @@ public double addVat(double preVatTotal){
 
 }
 
-}

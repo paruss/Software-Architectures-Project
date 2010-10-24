@@ -4,7 +4,7 @@ public class SoundCard extends Product {
         return price;
     }
 
-    public ProductTypeEnum getType(){
+    public ProductTypeEnum getType(){ //get type from TransactionManager
         return type;
     }
 

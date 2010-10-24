@@ -1,2 +1,2 @@
-public class CPU extends MotherBoard, MotherBoard implements MotherBoard, Product {
+public class CPU implements Product {
 }

@@ -11,31 +11,40 @@ public class TransactionManager {
 
   public Observer o;
 
-  productList[] = new Product[];
+  //productList[] = new Product[];
 
   public Double preVatTotal;
 
   public Double postVatTotal;
 
-  public ComputerFactory myComputerFactory;
+  public ComputerFactory myComputerFactory; //trying to create a computer fac instance
+
+  //------------------------ENUMS----------------------------------------
 
   public enum ComponentEnum{RAM, CPU, SOUNDCARD, GRAPHICSCARD, HARDDRIVE}
   public enum ProductTypeEnum{LAPTOP, DESKTOP}
   public enum RegionEnum{IRELAND, UK}
 
+  //------------------------ENUMS-------------------------------------------
+
+  public RegionEnum getRegion(){
+      return Region;
+      /*having problems accessing this in UK class, problems with extending
+      from the abstract class*/
+  }
 
   public int getNumber() {
       return quantity;
   }
 
   public void chooseProduct(void productTypeEnum) {
-  }
+  } //TODO
 
-  public void somethingChanged(){
+ /* public void somethingChanged(){
       setChanged();
       notifyObservers();
   }
-
+*/
 
   public void removeObserver(void componentEnum) {
   }
@@ -47,11 +56,11 @@ public class TransactionManager {
 
   }
 */
-  public void setNumber(int quantity) {
+/*  public void setNumber(int quantity) {
       this.quantity = quantity;
       somethingChanged();
   }
-
+*/
 //  public void registerObserver(Observer o) {
 //      this.o = o;
 //      o.addObserver(this);
@@ -66,12 +75,15 @@ public class TransactionManager {
               break;
               default : System.out.println("Error");
               break;
+
+              /* decorator stuff here, problem there with it not knowing about
+               addRam, need the other products too*/
              }
 
   }
-
+/*
   public void updateTotalCost(void TotalPrice) {
 
   }
-
+*/
 }

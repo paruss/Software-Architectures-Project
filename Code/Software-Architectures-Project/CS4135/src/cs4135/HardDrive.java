@@ -1,4 +1,4 @@
-public class HardDrive implements  HardDriveInterface {
+public class HardDrive implements HardDriveInterface {
     public void getChild(){
 
     }
