@@ -21,7 +21,7 @@ public class Main {
         System.out.println("Please enter a computer type");
         InputStreamReader compTypeRead = new InputStreamReader(System.in);
         BufferedReader in = new BufferedReader(compTypeRead);
-
+        
          while (!(currLine.equals("quit"))){
              currLine = in.readLine();
          }

@@ -1,0 +1,43 @@
+package cs4135;
+public class ComputerFactory implements ProductFactory {
+
+  public ProductTypeEnum newProduct;
+  
+  @Override
+	public Product createProduct(ProductTypeEnum productTypeEnum) {
+		if(ProductTypeEnum.DESKTOP == productTypeEnum){
+			return createDesktopComputer();
+			
+		}
+		
+		return null;
+		
+	}
+  
+  public Product createDesktopComputer() {
+	  
+		Product motherboard = new ComponentComposite();
+		
+		Product ram = new RAM();
+		Product cpu = new CPU();
+		
+		motherboard.addComponent(ram);
+		motherboard.addComponent(cpu);
+
+		Product chassis = new ComponentComposite();
+		chassis.addComponent(motherboard);
+
+		Product computer = new ComponentComposite();
+		computer.addComponent(chassis);
+
+
+		return computer;
+      
+  }
+
+  public void createLaptopComputer(Product productTypeEnum) {
+  }
+
+
+
+}

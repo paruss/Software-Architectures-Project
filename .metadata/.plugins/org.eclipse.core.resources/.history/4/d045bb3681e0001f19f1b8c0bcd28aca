@@ -1,0 +1,56 @@
+package cs4135;
+import java.util.*;
+
+public class TransactionManager implements Observer{
+
+  public int quantity;
+
+  public RegionEnum Region;
+  
+  private Region region;
+  public TransactionManager(){
+	  setRegion(RegionEnum.IRELAND);
+  }
+  public Product ChosenProduct;
+  public Double subTotal;
+  public Double Total;
+  public ComputerFactory myComputerFactory; //trying to create a computer fac instance
+
+  public RegionEnum getRegion(){
+      return Region;
+      /*having problems accessing this in UK class, problems with extending
+      from the abstract class*/
+  }
+
+  public int getNumber() {
+      return quantity;
+  }
+
+  public void chooseProduct(ProductTypeEnum productTypeEnum) {
+  } //TODO
+
+  public void setRegion(RegionEnum region) {
+	  Region = region;
+  }
+
+  public void upgradeProduct(Product product, ComponentEnum componentEnum, int quantity) {
+      switch (componentEnum){
+              case RAM : addRam(quantity);
+              break;
+              default : System.out.println("Error");
+              break;
+
+              /* decorator stuff here, problem there with it not knowing about
+               addRam, need the other products too*/
+             }
+
+  }
+  
+
+public void update(Observable o, Object arg) {
+	
+	getVat(subTotal);
+	
+}
+
+}

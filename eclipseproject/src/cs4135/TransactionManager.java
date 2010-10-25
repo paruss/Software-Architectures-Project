@@ -1,22 +1,19 @@
 package cs4135;
 import java.util.*;
 
-public class TransactionManager {
+public class TransactionManager implements Observer{
 
   public int quantity;
 
   public RegionEnum Region;
-
+  
+  private Region region;
+  public TransactionManager(){
+	  setRegion(RegionEnum.IRELAND);
+  }
   public Product ChosenProduct;
-
-  public Observer o;
-
-  //productList[] = new Product[];
-
-  public Double preVatTotal;
-
-  public Double postVatTotal;
-
+  public Float subTotal;
+  public Double Total;
   public ComputerFactory myComputerFactory; //trying to create a computer fac instance
 
   public RegionEnum getRegion(){
@@ -24,12 +21,18 @@ public class TransactionManager {
       /*having problems accessing this in UK class, problems with extending
       from the abstract class*/
   }
+  
+
+      // normally only called by classes implementing the State interface
+	
+  TransactionManager transaction = new TransactionManager();
+  transaction.getVat();
 
   public int getNumber() {
       return quantity;
   }
 
-  public void chooseProduct(productTypeEnum productTypeEnum) {
+  public void chooseProduct(ProductTypeEnum productTypeEnum) {
   } //TODO
 
   public void setRegion(RegionEnum region) {
@@ -48,9 +51,18 @@ public class TransactionManager {
              }
 
   }
-/*
-  public void updateTotalCost(void TotalPrice) {
+  Float total = getVat( subTotal);
 
-  }
-*/
+public void update(Observable o, Object arg) {
+	
+	getVat(subTotal);
+	
+}
+
+
+
+
+
+
+
 }

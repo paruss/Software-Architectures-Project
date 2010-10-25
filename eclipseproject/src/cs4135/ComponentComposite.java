@@ -3,15 +3,12 @@
 import java.util.*;
 
 public class ComponentComposite implements Product {
-  ArrayList productComponents = new ArrayList();
+  ArrayList<Product> productComponents = new ArrayList<Product>();
   String description;
   Double price;
   //TransactionManager.ComponentEnum name;
   String type;
-  //private TransactionManager.ComponentEnum ComponentName;
-  //
-  private Product product;
-
+  
   public Product myProduct;
 
   public Product getChild(int i) {
@@ -19,12 +16,12 @@ public class ComponentComposite implements Product {
       //return a child
   }
 
-  public void removeComponent(ComponentComposite productComponent) {
-      productComponents.remove(productComponent);
+  public void removeComponent(Product product) {
+      productComponents.remove(product);
   }
 
-  public void addComponent(ComponentComposite productComponent ) {
-      productComponents.add(productComponent);
+  public void addComponent(Product product ) {
+      productComponents.add(product);
   }
 
   public void getType() {

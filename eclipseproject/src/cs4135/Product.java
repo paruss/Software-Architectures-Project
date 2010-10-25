@@ -18,9 +18,9 @@ public interface Product {
 
   public void getType();
 
-  public void addComponent(ComponentComposite productComponent );
+  public void addComponent(Product product);
 
-  public void removeComponent(ComponentComposite productComponent );
+  public void removeComponent(Product product);
 
   public Product getChild(int i);
  // public RegionEnum getRegion();

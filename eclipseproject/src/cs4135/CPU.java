@@ -14,13 +14,13 @@ public class CPU implements Product {
 	}
 
 	@Override
-	public void addComponent(ComponentComposite productComponent) {
+	public void addComponent(Product productComponent) {
 		// TODO Auto-generated method stub
 		
 	}
 
 	@Override
-	public void removeComponent(ComponentComposite productComponent) {
+	public void removeComponent(Product productComponent) {
 		// TODO Auto-generated method stub
 		
 	}

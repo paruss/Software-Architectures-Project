@@ -14,13 +14,13 @@ public class GraphicsCard implements GraphicsCardInterface {
 	}
 
 	@Override
-	public void addComponent(ComponentComposite productComponent) {
+	public void addComponent(Product product) {
 		// TODO Auto-generated method stub
 		
 	}
 
 	@Override
-	public void removeComponent(ComponentComposite productComponent) {
+	public void removeComponent(Product product) {
 		// TODO Auto-generated method stub
 		
 	}
