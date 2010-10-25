@@ -13,7 +13,7 @@ public class Basket extends Observable {
       double postVat;
       /*pre and post vat as the value of postvat will be calculated numerous
       times and we dont and we dont want to add vat to a products more
-      than once*/
+      than once @@@@TEST@@@*/
       public int getNumber() {
       return quantity;
       //returns the number of computers currently in basket
