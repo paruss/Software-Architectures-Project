@@ -19,14 +19,6 @@ public class TransactionManager {
 
   public ComputerFactory myComputerFactory; //trying to create a computer fac instance
 
-  //------------------------ENUMS----------------------------------------
-
-  public enum ComponentEnum{RAM, CPU, SOUNDCARD, GRAPHICSCARD, HARDDRIVE}
-  public enum ProductTypeEnum{LAPTOP, DESKTOP}
-  public enum RegionEnum{IRELAND, UK}
-
-  //------------------------ENUMS-------------------------------------------
-
   public RegionEnum getRegion(){
       return Region;
       /*having problems accessing this in UK class, problems with extending
@@ -37,36 +29,11 @@ public class TransactionManager {
       return quantity;
   }
 
-  public void chooseProduct(void productTypeEnum) {
+  public void chooseProduct(productTypeEnum productTypeEnum) {
   } //TODO
 
- /* public void somethingChanged(){
-      setChanged();
-      notifyObservers();
-  }
-*/
-
-  public void removeObserver(void componentEnum) {
-  }
-
-/*  public void notifyObservers(Observer o) {
-      if(changed){
-          
-      }
-
-  }
-*/
-/*  public void setNumber(int quantity) {
-      this.quantity = quantity;
-      somethingChanged();
-  }
-*/
-//  public void registerObserver(Observer o) {
-//      this.o = o;
-//      o.addObserver(this);
-//  }
-
-  public void setRegion(void regionEnum) {
+  public void setRegion(RegionEnum region) {
+	  Region = region;
   }
 
   public void upgradeProduct(Product product, ComponentEnum componentEnum, int quantity) {

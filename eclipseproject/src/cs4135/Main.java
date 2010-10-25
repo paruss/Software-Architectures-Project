@@ -2,10 +2,9 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-import java.io.*;
 
 package cs4135;
-
+import java.io.*;
 /**
  *
  * @author patrickrussell

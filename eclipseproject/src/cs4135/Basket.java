@@ -18,9 +18,9 @@ public class Basket extends Observable {
       return quantity;
       //returns the number of computers currently in basket
   }
-      public void updateTotalCost(void TotalPrice) {
+  //    public updateTotalCost(TotalPrice) {
 
-  }
+  //}
       public void setNumber(int quantity) {
       this.quantity = quantity;
       somethingChanged();

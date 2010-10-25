@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+/Users/patrickrussell/Documents/Software-Architectures-Project/.metadata/.plugins/org.eclipse.jdt.core
+2745957315.index
+2089348824.index

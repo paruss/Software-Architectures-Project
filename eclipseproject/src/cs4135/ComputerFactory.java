@@ -1,8 +1,7 @@
 package cs4135;
-public class ComputerFactory implements ProductFactory, Product {
+public class ComputerFactory implements ProductFactory {
 
   public productTypeEnum newProduct;
-
   public void createDesktopComputer(Product productTypeEnum) {
       public Ram createRam() {
           return new RAM(productTypeEnum);
@@ -10,7 +9,13 @@ public class ComputerFactory implements ProductFactory, Product {
       
   }
 
-  public void createLaptopComputer(void productTypeEnum) {
+  public void createLaptopComputer(Product productTypeEnum) {
   }
+
+@Override
+public void createProduct(productTypeEnum productTypeEnum) {
+	// TODO Auto-generated method stub
+	
+}
 
 }

@@ -1,6 +1,6 @@
 
 package cs4135;
-public abstract class Product {
+public interface Product {
 
  // public ComponentComposite myComponentComposite;
 
@@ -14,32 +14,20 @@ public abstract class Product {
      * anything
      */
 
-  public double getPrice() {
-      throw new UnsupportedOperationException();
-  }
+  public double getPrice();
 
-  public void getType(){
-      throw new UnsupportedOperationException();
-  }
+  public void getType();
 
-  public void addComponent(){
-       throw new UnsupportedOperationException();
-  }
+  public void addComponent(ComponentComposite productComponent );
 
-  public void removeComponent(){
-       throw new UnsupportedOperationException();
-  }
+  public void removeComponent(ComponentComposite productComponent );
 
-  public Product getChild(){
-       throw new UnsupportedOperationException();
-  }
-  public RegionEnum getRegion(){
-        throw new UnsupportedOperationException();
-    }
+  public Product getChild(int i);
+ // public RegionEnum getRegion();
 
-  public enum ComponentEnum{RAM, CPU, SOUNDCARD, GRAPHICSCARD, HARDDRIVE}
-  public enum ProductTypeEnum{LAPTOP, DESKTOP}
-  public enum RegionEnum{IRELAND, UK}
+  //public enum ComponentEnum{RAM, CPU, SOUNDCARD, GRAPHICSCARD, HARDDRIVE}
+  //public enum ProductTypeEnum{LAPTOP, DESKTOP}
+ // public enum RegionEnum{IRELAND, UK}
 
 
       /*having problems accessing this in UK class, problems with extending

@@ -1,6 +1,6 @@
 package cs4135;
 public interface ProductFactory {
 
-  public void createProduct(void productTypeEnum);
+  public void createProduct(productTypeEnum productTypeEnum);
 
 }

@@ -1,12 +1,35 @@
 package cs4135;
-public class SoundCard extends Product {
+public class SoundCard implements Product {
     double price = 10.00;
     public double getPrice(){
         return price;
     }
 
-    public ProductTypeEnum getType(){ //get type from TransactionManager
-        return type;
-    }
+    // productTypeEnum soundType = getType(); //get type from TransactionManager
+       // return type;
+	@Override
+	public void getType() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void addComponent(ComponentComposite productComponent ) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void removeComponent(ComponentComposite productComponent ) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public Product getChild(int i) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+    
 
 }

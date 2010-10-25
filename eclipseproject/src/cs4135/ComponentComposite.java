@@ -2,20 +2,20 @@
  package cs4135;
 import java.util.*;
 
-public class ComponentComposite extends Product {
+public class ComponentComposite implements Product {
   ArrayList productComponents = new ArrayList();
   String description;
   Double price;
-  TransactionManager.ComponentEnum name;
+  //TransactionManager.ComponentEnum name;
   String type;
-  private TransactionManager.ComponentEnum ComponentName;
+  //private TransactionManager.ComponentEnum ComponentName;
   //
   private Product product;
 
   public Product myProduct;
 
-  public void getChild(int i) {
-      return;
+  public Product getChild(int i) {
+      return (Product) productComponents.get(i);
       //return a child
   }
 
@@ -30,5 +30,15 @@ public class ComponentComposite extends Product {
   public void getType() {
       return;
   }
+
+@Override
+public double getPrice() {
+	// TODO Auto-generated method stub
+	return 0;
+}
+
+
+
+
 
 }

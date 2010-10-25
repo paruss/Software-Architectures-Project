@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="Code/Software-Architectures-Project/CS4135/src/cs4135/|Code/Software-Architectures-Project/CS4135/src/|Code/Software-Architectures-Project/CS4135/New Code/src/" kind="src" path=""/>
+	<classpathentry kind="src" path="Code/Software-Architectures-Project/CS4135/New Code/src"/>
+	<classpathentry excluding="cs4135/" kind="src" path="Code/Software-Architectures-Project/CS4135/src"/>
+	<classpathentry kind="src" path="Code/Software-Architectures-Project/CS4135/src/cs4135"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="Code/Software-Architectures-Project/CS4135/build/classes"/>
+</classpath>

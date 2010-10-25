@@ -1,4 +1,5 @@
 package cs4135;
+import java.io.IOException;
 import java.util.*;
 
 import cs4135.TransactionManager.RegionEnum;
@@ -22,7 +23,7 @@ public double addVat(double preVatTotal){
         case UK:
             return 0;
         default
-            throws IOExeption e;
+            throws  IOException e;
             /* if the enum doesnt match either of these
             throw some sort of exception please fix so it works */
 
