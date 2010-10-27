@@ -15,7 +15,7 @@ public interface Product {
      */
 
   public double getPrice();
-
+  
   public void getType();
 
   public void addComponent(Product product);
@@ -27,6 +27,8 @@ public interface Product {
   public String getName();
   
   public Product findItem(String toBeFound);
+  
+  public void decoratingProduct(Product product, ComponentEnum componentEnum, int quantity);
  // public RegionEnum getRegion();
 
   //public enum ComponentEnum{RAM, CPU, SOUNDCARD, GRAPHICSCARD, HARDDRIVE}

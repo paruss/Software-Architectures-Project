@@ -1,10 +1,10 @@
 package cs4135;
-public class GraphicsCardDecorator extends DecoratorManager implements GraphicsCardInterface {
+public class GraphicsCardDecorator  implements GraphicsCardInterface {
 
-    public GraphicsCardDecorator(Product product) {
-        this.product = product;
+   // public GraphicsCardDecorator(Product product) {
+       // this.product = product;
     //set instance variable to object we are wrapping
-    }
+   // }
 	@Override
 	public double getPrice() {
 		// TODO Auto-generated method stub
