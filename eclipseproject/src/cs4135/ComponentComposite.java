@@ -5,14 +5,38 @@ import java.util.*;
 public class ComponentComposite implements Product {
   ArrayList<Product> productComponents = new ArrayList<Product>();
   String description;
+  String name;
   Double price;
   //TransactionManager.ComponentEnum name;
   String type;
   
   public Product myProduct;
-
+  
+  public Product findItem(String toBeFound){
+ 	  Iterator iterator = productComponents.iterator();
+	  while (iterator.hasNext()){
+		  Product product =
+			  (Product)iterator.next();
+		  String compname = product.getName();
+		  if (compname.equals(toBeFound))
+		  return product;
+	
+	  }
+	      return null;
+	  }
   public Product getChild(int i) {
-      return (Product) productComponents.get(i);
+	  
+		  
+	  return (Product) productComponents.get(i);
+	 /* int leaves = productComponents.size();
+	  if(leaves < 1)
+		  return ;
+	  while(leaves > i){
+      
+	  }
+	  
+	  i++;
+	  */
       //return a child
   }
 
@@ -26,6 +50,10 @@ public class ComponentComposite implements Product {
 
   public void getType() {
       return;
+  }
+  
+  public String getName() {
+	  return name;
   }
 
 @Override

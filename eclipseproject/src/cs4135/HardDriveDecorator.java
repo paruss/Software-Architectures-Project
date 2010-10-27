@@ -1,6 +1,8 @@
 package cs4135;
-public class HardDriveDecorator implements HardDriveInterface {
-
+public class HardDriveDecorator extends DecoratorManager implements HardDriveInterface  {
+	public HardDriveDecorator (DecoratorInterface decoratedRam){
+		this.decoratedRam = decoratedRam;
+	}
 	@Override
 	public double getPrice() {
 		// TODO Auto-generated method stub
@@ -27,6 +29,18 @@ public class HardDriveDecorator implements HardDriveInterface {
 
 	@Override
 	public Product getChild(int i) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String getName() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Product findItem(String toBeFound) {
 		// TODO Auto-generated method stub
 		return null;
 	}

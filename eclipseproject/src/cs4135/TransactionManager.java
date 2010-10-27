@@ -5,44 +5,80 @@ public class TransactionManager implements Observer{
 
   public int quantity;
 
-  public RegionEnum Region;
+  public Region Region;
   
-  private Region region;
+  private RegionEnum region;
   public TransactionManager(){
 	  setRegion(RegionEnum.IRELAND);
   }
-  public Product ChosenProduct;
+  public Product chosenProduct;
   public Float subTotal;
-  public Double Total;
-  public ComputerFactory myComputerFactory; //trying to create a computer fac instance
-
+  public Float Total;
+  //public ComputerFactory myComputerFactory; //trying to create a computer fac instance
+  //Product computer = createProduct(ProductTypeEnum );
+  Product found = null;
   public RegionEnum getRegion(){
-      return Region;
+      return region;
       /*having problems accessing this in UK class, problems with extending
       from the abstract class*/
   }
-  
+  ProductTypeEnum test;
+
 
       // normally only called by classes implementing the State interface
 	
-  TransactionManager transaction = new TransactionManager();
-  transaction.getVat();
-
+   
   public int getNumber() {
       return quantity;
   }
 
-  public void chooseProduct(ProductTypeEnum productTypeEnum) {
+  public Product chooseProduct(ProductFactory productFactory, ProductTypeEnum productTypeEnum) {
+	 
+	  return productFactory.createProduct(productTypeEnum);
+	  //return (Product) new ProductFactory(productTypeEnum)
+	
+	  
+	  	
   } //TODO
-
-  public void setRegion(RegionEnum region) {
-	  Region = region;
+  
+  
+  public void updateTotal(RegionEnum regionEnum){
+	  	if (RegionEnum.IRELAND == regionEnum){
+	  		Region uk = new UK();
+	  		 Total = uk.getVat(subTotal);
+	  	}
+	  	else if(RegionEnum.UK == regionEnum){
+	  		this.region = regionEnum;
+	  		Region ireland = new Ireland();
+	  		ireland.getVat(subTotal);
+	  	}
   }
+  public void setRegion(RegionEnum newRegion) {
+
+	  	region = newRegion;	
+	   
+  }
+  
 
   public void upgradeProduct(Product product, ComponentEnum componentEnum, int quantity) {
       switch (componentEnum){
-              case RAM : addRam(quantity);
+      		  
+              case RAM : 
               break;
+              case GRAPHICSCARD: {
+            	  
+            	  if (computer.getName() == "graphics")
+            	  found = chosenProduct.findItem("graphics");
+            	  computer = new GraphicsCardDecorator(computer);
+            	  DecoratorInterface decoratedRam = new GraphicsCardDecorator(found);
+            	  GraphicsCardInterface graphics = new GraphicsCardDecorator(found);
+            	  
+           
+            	  }
+            	  
+            	  
+              
+              case HARDDRIVE:
               default : System.out.println("Error");
               break;
 
@@ -51,11 +87,11 @@ public class TransactionManager implements Observer{
              }
 
   }
-  Float total = getVat( subTotal);
+ 
 
 public void update(Observable o, Object arg) {
 	
-	getVat(subTotal);
+		updateTotal(region);
 	
 }
 

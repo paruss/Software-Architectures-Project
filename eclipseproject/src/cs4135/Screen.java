@@ -30,4 +30,16 @@ public class Screen implements Product {
 		// TODO Auto-generated method stub
 		return null;
 	}
+
+	@Override
+	public String getName() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Product findItem(String toBeFound) {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }

@@ -1,7 +1,7 @@
 package cs4135;
-import java.util.*;
 public interface Region   
 {
+	
 	
 	public float getVat(Float subTotal);
  // Observable observable;

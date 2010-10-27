@@ -20,9 +20,13 @@ public interface Product {
 
   public void addComponent(Product product);
 
-  public void removeComponent(Product product);
-
+  public void removeComponent(Product productComponent );
+  
   public Product getChild(int i);
+  
+  public String getName();
+  
+  public Product findItem(String toBeFound);
  // public RegionEnum getRegion();
 
   //public enum ComponentEnum{RAM, CPU, SOUNDCARD, GRAPHICSCARD, HARDDRIVE}

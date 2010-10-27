@@ -1,13 +1,10 @@
 package cs4135;
 public class RAM implements RamInterface, Product {
-    public double cost() {
-        return 30.00;
-    }
-
+  
 	@Override
 	public double getPrice() {
 		// TODO Auto-generated method stub
-		return 0;
+		return 30.00;
 	}
 
 	@Override
@@ -15,7 +12,10 @@ public class RAM implements RamInterface, Product {
 		// TODO Auto-generated method stub
 		
 	}
-
+	public String getName(){
+		return "ram";
+	}
+	
 	@Override
 	public void addComponent(Product product ) {
 		// TODO Auto-generated method stub
@@ -30,6 +30,12 @@ public class RAM implements RamInterface, Product {
 
 	@Override
 	public Product getChild(int i) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Product findItem(String toBeFound) {
 		// TODO Auto-generated method stub
 		return null;
 	}

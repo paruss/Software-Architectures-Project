@@ -5,14 +5,11 @@ public class RamDecorator implements RamInterface {
     public RamDecorator(Product product) {
         this.product = product;
     //set instance variable to object we are wrapping
-        }
-    public double cost(){
-        return 30.00 + product.getPrice();
     }
 	@Override
 	public double getPrice() {
 		// TODO Auto-generated method stub
-		return 0;
+		return 30.00 + product.getPrice();
 	}
 	@Override
 	public void getType() {
@@ -31,6 +28,17 @@ public class RamDecorator implements RamInterface {
 	}
 	@Override
 	public Product getChild(int i) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String getName() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	@Override
+	public Product findItem(String toBeFound) {
 		// TODO Auto-generated method stub
 		return null;
 	}
