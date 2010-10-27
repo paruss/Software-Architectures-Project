@@ -1,8 +1,8 @@
 package cs4135;
-public class HardDriveDecorator extends DecoratorManager implements HardDriveInterface  {
-	public HardDriveDecorator (DecoratorInterface decoratedRam){
-		this.decoratedRam = decoratedRam;
-	}
+public class HardDriveDecorator implements HardDriveInterface  {
+	//public HardDriveDecorator (DecoratorInterface decoratedRam){
+		//this.decoratedRam = decoratedRam;
+	//}
 	@Override
 	public double getPrice() {
 		// TODO Auto-generated method stub
