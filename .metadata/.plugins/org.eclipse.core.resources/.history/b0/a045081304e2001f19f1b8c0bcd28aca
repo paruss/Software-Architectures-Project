@@ -1,0 +1,49 @@
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+package cs4135;
+import java.io.*;
+
+import javax.swing.JOptionPane;
+/**
+ *
+ * @author patrickrussell
+ */
+public class Main {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) throws IOException {
+        String currLine = "";
+        
+        Object[] options = {"Ireland","UK"};
+int n = JOptionPane.showOptionDialog(null,
+"What Region would you like ",
+"A Silly Question",
+JOptionPane.YES_NO_CANCEL_OPTION,
+JOptionPane.QUESTION_MESSAGE,
+null,
+options,
+options[1]);
+
+        System.out.println("Please enter a computer type");
+        InputStreamReader compTypeRead = new InputStreamReader(System.in);
+        BufferedReader in = new BufferedReader(compTypeRead);
+       
+         while (!(currLine.equals("quit"))){
+             currLine = in.readLine();
+         }
+
+          if (!(currLine.equals("enter")))
+          System.out.println("your chosen computer is:" + currLine);
+          
+       
+        
+
+
+    }
+
+}

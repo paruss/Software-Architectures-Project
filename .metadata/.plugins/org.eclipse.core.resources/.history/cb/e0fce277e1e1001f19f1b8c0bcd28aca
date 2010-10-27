@@ -1,0 +1,12 @@
+package tester;
+
+
+import org.junit.Before;
+
+public class TransManagerTest {
+
+	@Before
+	public void setUp() throws Exception {
+	}
+
+}

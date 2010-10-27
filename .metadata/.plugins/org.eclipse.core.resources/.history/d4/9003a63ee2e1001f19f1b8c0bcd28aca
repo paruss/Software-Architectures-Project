@@ -1,0 +1,52 @@
+package tester;
+
+import static org.junit.Assert.*;
+
+import org.junit.Before;
+import org.junit.Test;
+
+import cs4135.TransactionManager;
+
+public class NewTest {
+
+	@Before
+	public void setUp() throws Exception {
+		TransactionManager transManager = new TransactionManager();
+	}
+
+	@Test
+	public void testTransactionManager() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testGetRegion() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testGetNumber() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testChooseProduct() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testUpdateTotal() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testSetRegion() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testUpgradeProduct() {
+		fail("Not yet implemented");
+	}
+
+}

@@ -1,0 +1,21 @@
+package cs4135;
+public abstract class DecoratorManager implements DecoratorInterface {
+  public void decorateProduct(Product product, ComponentEnum componentEnum, int quantity)
+  {
+	  if( ComponentEnum.RAM == componentEnum)
+	  {
+		  Product ramitem = product.findItem("ram");
+		  
+	  }
+  }
+  public void addHardDrive(int quantity) {
+	  
+  }
+
+ 
+
+  public void addGraphics(int quantity) {
+	  
+  }
+
+}

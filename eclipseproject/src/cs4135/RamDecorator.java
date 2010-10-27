@@ -1,9 +1,11 @@
 package cs4135;
 public class RamDecorator implements RamInterface {
     Product product;
+    int numberOfRam;
+  
     //instance variable to hold the product we are wrapping
     public RamDecorator(Product product) {
-        this.product = product;
+       //Product RAM = product;
     //set instance variable to object we are wrapping
     }
 	@Override

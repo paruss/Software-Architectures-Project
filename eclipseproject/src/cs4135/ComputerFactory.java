@@ -1,11 +1,15 @@
 package cs4135;
-public class ComputerFactory implements ProductFactory {
+
+import java.util.Observable;
+
+public class ComputerFactory extends Observable implements ProductFactory  {
 
   public ProductTypeEnum newProduct;
   
   @Override
 	public Product createProduct(ProductTypeEnum productTypeEnum) {
 		if(ProductTypeEnum.DESKTOP == productTypeEnum){
+			notifyObservers();
 			return createDesktopComputer();
 			
 		}
@@ -17,7 +21,6 @@ public class ComputerFactory implements ProductFactory {
   public Product createDesktopComputer() {
 	  
 		Product motherboard = new ComponentComposite();
-		
 		Product ram = new RAM();
 		Product cpu = new CPU();
 		Product sound = new SoundCard();
@@ -39,9 +42,9 @@ public class ComputerFactory implements ProductFactory {
 		computer.addComponent(screen);
 		computer.addComponent(motherboard);
 
-
+		
 		return computer;
-      
+        
   }
 
   public Product createLaptopComputer() {

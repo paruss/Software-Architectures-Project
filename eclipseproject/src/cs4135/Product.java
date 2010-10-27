@@ -1,5 +1,8 @@
 
 package cs4135;
+
+
+
 public interface Product {
 
  // public ComponentComposite myComponentComposite;
@@ -20,7 +23,7 @@ public interface Product {
 
   public void addComponent(Product product);
 
-  public void removeComponent(Product productComponent );
+  public void removeComponent(Product productComponent);
   
   public Product getChild(int i);
   
@@ -28,7 +31,7 @@ public interface Product {
   
   public Product findItem(String toBeFound);
   
-  public void decoratingProduct(Product product, ComponentEnum componentEnum, int quantity);
+  //public void decoratingProduct(Product product, ComponentEnum componentEnum, int quantity);
  // public RegionEnum getRegion();
 
   //public enum ComponentEnum{RAM, CPU, SOUNDCARD, GRAPHICSCARD, HARDDRIVE}

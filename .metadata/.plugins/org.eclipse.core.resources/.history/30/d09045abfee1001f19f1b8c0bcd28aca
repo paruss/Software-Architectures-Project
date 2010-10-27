@@ -1,0 +1,56 @@
+package cs4135;
+public class GraphicsCardDecorator  implements GraphicsCardInterface {
+
+   // public GraphicsCardDecorator(Product product) {
+       // this.product = product;
+    //set instance variable to object we are wrapping
+   // }
+	@Override
+	public double getPrice() {
+		// TODO Auto-generated method stub
+		return 40.00;
+	}
+
+	@Override
+	public void getType() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void addComponent(Product product) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void removeComponent(Product product) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public Product getChild(int i) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String getName() {
+		// TODO Auto-generated method stub
+		return "ram";
+	}
+
+	@Override
+	public Product findItem(String toBeFound) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void decoratingProduct(Product product, ComponentEnum componentEnum,
+			int quantity) {
+		// TODO Auto-generated method stub
+		
+	}
+}

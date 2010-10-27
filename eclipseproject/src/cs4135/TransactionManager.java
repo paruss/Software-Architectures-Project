@@ -1,11 +1,12 @@
 package cs4135;
 import java.util.*;
 
-public class TransactionManager implements Observer{
+public class TransactionManager implements Observer {
 
   public int quantity;
 
   public Region Region;
+  ArrayList<Product> productList = new ArrayList<Product>(); 
   
   private RegionEnum region;
   public TransactionManager(){
@@ -35,9 +36,10 @@ public class TransactionManager implements Observer{
   
  ProductFactory productFactory;
 
-  public Product chooseProduct(ProductTypeEnum productTypeEnum) {
+  public void addProductToList(ProductTypeEnum productTypeEnum) {
 	 
-	  return productFactory.createProduct(productTypeEnum);
+	  productList.add(productFactory.createProduct(productTypeEnum));
+	  //return productFactory.createProduct(productTypeEnum);
 	  //return (Product) new ProductFactory(productTypeEnum)
 	
 	  
@@ -77,6 +79,9 @@ public void update(Observable o, Object arg) {
 		updateTotal(region);
 	
 }
+
+
+
 
 
 

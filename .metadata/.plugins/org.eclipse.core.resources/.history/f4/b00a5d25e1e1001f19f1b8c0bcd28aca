@@ -1,0 +1,24 @@
+package tester;
+
+
+import org.junit.Assert;
+import org.junit.Before;
+
+import cs4135.RegionEnum;
+import cs4135.TransactionManager;
+
+public class TestTransactionManager {
+
+	@Before
+	public void setUp() throws Exception {
+		 TransactionManager transactionManager = new TransactionManager();
+	}
+	
+	public void testAddingAProduct(){
+		
+		TransactionManager transManager = new TransactionManager();
+			
+		
+	}
+
+}

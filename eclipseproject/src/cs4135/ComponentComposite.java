@@ -13,7 +13,7 @@ public class ComponentComposite implements Product {
   public Product myProduct;
   
   public Product findItem(String toBeFound){
- 	  Iterator iterator = productComponents.iterator();
+ 	  Iterator<Product> iterator = productComponents.iterator();
 	  while (iterator.hasNext()){
 		  Product product =
 			  (Product)iterator.next();

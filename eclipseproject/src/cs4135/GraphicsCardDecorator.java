@@ -46,4 +46,6 @@ public class GraphicsCardDecorator  implements GraphicsCardInterface {
 		// TODO Auto-generated method stub
 		return null;
 	}
+
+
 }
