@@ -1,0 +1,295 @@
+TMapTest
+v7
+r0
+t314634496.261373
+cCheck dependencies
+cProcessInfoPlistFile /Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator/MapTest.app/Info.plist MapTest-Info.plist
+cCompileXIB /Users/patrickrussell/Documents/FYP/MapTest/MainWindow.xib
+cCompileXIB /Users/patrickrussell/Documents/FYP/MapTest/MapTestViewController.xib
+cProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapTest_Prefix-ctpbgyofenniyobhizinvcfenxvo/MapTest_Prefix.pch.gch MapTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/main.o /Users/patrickrussell/Documents/FYP/MapTest/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/MapTestAppDelegate.o /Users/patrickrussell/Documents/FYP/MapTest/Classes/MapTestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/MapTestViewController.o /Users/patrickrussell/Documents/FYP/MapTest/Classes/MapTestViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/MKMapView.o /Users/patrickrussell/Documents/FYP/MapTest/MKMapView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator/MapTest.app/MapTest normal i386
+cGenerateDSYMFile /Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator/MapTest.app.dSYM /Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator/MapTest.app/MapTest
+cTouch /Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator/MapTest.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/patrickrussell/Documents/FYP/MapTest/Classes/MapTestAppDelegate.h
+c000000004D10B8A000000000000001E5
+t1292941472
+s485
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Documents/FYP/MapTest/Classes/MapTestAppDelegate.m
+c000000004D10B8A00000000000000A91
+t1292941472
+s2705
+i"MapTestAppDelegate.h"
+i"MapTestViewController.h"
+
+N/Users/patrickrussell/Documents/FYP/MapTest/Classes/MapTestViewController.h
+c000000004D10B8A000000000000000F4
+t1292941472
+s244
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Documents/FYP/MapTest/Classes/MapTestViewController.m
+c000000004D10B8A000000000000005BF
+t1292941472
+s1471
+i"MapTestViewController.h"
+
+N/Users/patrickrussell/Documents/FYP/MapTest/MKMapView.h
+c000000004D10B95D0000000000000100
+t1292941661
+s256
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/patrickrussell/Documents/FYP/MapTest/MKMapView.m
+c000000004D10B95D00000000000000BA
+t1292941661
+s186
+i"MKMapView.h"
+
+N/Users/patrickrussell/Documents/FYP/MapTest/MainWindow.xib
+c000000004D10B93A00000000000052C7
+t1292941626
+s21191
+
+N/Users/patrickrussell/Documents/FYP/MapTest/MapTestViewController.xib
+c000000004D10B8A00000000000001A45
+t1292941472
+s6725
+
+N/Users/patrickrussell/Documents/FYP/MapTest/MapTest_Prefix.pch
+c000000004D10B8A100000000000000B7
+t1292941473
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator/MapTest.app
+t1292941696
+s238
+
+N/Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator/MapTest.app.dSYM
+t1292941696
+s102
+
+N/Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator/MapTest.app/Info.plist
+t1292941679
+s591
+
+N/Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator/MapTest.app/MainWindow.nib
+t1292941686
+s2213
+
+N/Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator/MapTest.app/MapTest
+t1292941695
+s17700
+
+N/Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator/MapTest.app/MapTestViewController.nib
+t1292941686
+s1269
+
+N/Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator/MapTest.app/PkgInfo
+t1292941679
+s8
+
+N/Users/patrickrussell/Documents/FYP/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/MKMapView.o
+t1292941695
+s5248
+
+N/Users/patrickrussell/Documents/FYP/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/MapTest.LinkFileList
+c000000004D10B96F0000000000000220
+t1292941679
+s544
+
+N/Users/patrickrussell/Documents/FYP/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/MapTestAppDelegate.o
+t1292941695
+s47796
+
+N/Users/patrickrussell/Documents/FYP/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/MapTestViewController.o
+t1292941695
+s34460
+
+N/Users/patrickrussell/Documents/FYP/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/main.o
+t1292941695
+s6312
+
+N/Users/patrickrussell/Documents/FYP/MapTest/main.m
+c000000004D10B8A1000000000000016F
+t1292941473
+s367
+i<UIKit/UIKit.h>
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapTest_Prefix-ctpbgyofenniyobhizinvcfenxvo/MapTest_Prefix.pch.gch
+t1292941694
+s10204720
+
+NMapTest-Info.plist
+c000000004D10B8A0000000000000038D
+t1292941472
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies314634479#314634479#0(0"0(0#1#0"2462876304#0"0#
+
+CCompileC build/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/MKMapView.o /Users/patrickrussell/Documents/FYP/MapTest/MKMapView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314634495.495041
+e314634495.570918
+r1
+xCompileC
+xbuild/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/MKMapView.o
+x/Users/patrickrussell/Documents/FYP/MapTest/MKMapView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/patrickrussell/Documents/FYP/MapTest/MKMapView.m314634495#314634495#0(0"0(0#0#55"/Users/patrickrussell/Documents/FYP/MapTest/MKMapView.m2462876304#1979"    cd /Users/patrickrussell/Documents/FYP/MapTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/Documents/FYP/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/MapTest-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/MapTest-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/MapTest-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/MapTest-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator -I/Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Documents/FYP/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/DerivedSources/i386 -I/Users/patrickrussell/Documents/FYP/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapTest_Prefix-ctpbgyofenniyobhizinvcfenxvo/MapTest_Prefix.pch -c /Users/patrickrussell/Documents/FYP/MapTest/MKMapView.m -o /Users/patrickrussell/Documents/FYP/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/MKMapView.o0#
+
+CCompileC build/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/MapTestAppDelegate.o /Users/patrickrussell/Documents/FYP/MapTest/Classes/MapTestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314634495.252007
+e314634495.390776
+r1
+xCompileC
+xbuild/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/MapTestAppDelegate.o
+x/Users/patrickrussell/Documents/FYP/MapTest/Classes/MapTestAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/patrickrussell/Documents/FYP/MapTest/Classes/MapTestAppDelegate.m314634495#314634495#0(0"0(0#0#72"/Users/patrickrussell/Documents/FYP/MapTest/Classes/MapTestAppDelegate.m2462876304#2005"    cd /Users/patrickrussell/Documents/FYP/MapTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/Documents/FYP/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/MapTest-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/MapTest-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/MapTest-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/MapTest-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator -I/Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Documents/FYP/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/DerivedSources/i386 -I/Users/patrickrussell/Documents/FYP/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapTest_Prefix-ctpbgyofenniyobhizinvcfenxvo/MapTest_Prefix.pch -c /Users/patrickrussell/Documents/FYP/MapTest/Classes/MapTestAppDelegate.m -o /Users/patrickrussell/Documents/FYP/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/MapTestAppDelegate.o0#
+
+CCompileC build/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/MapTestViewController.o /Users/patrickrussell/Documents/FYP/MapTest/Classes/MapTestViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314634495.390934
+e314634495.494887
+r1
+xCompileC
+xbuild/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/MapTestViewController.o
+x/Users/patrickrussell/Documents/FYP/MapTest/Classes/MapTestViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/patrickrussell/Documents/FYP/MapTest/Classes/MapTestViewController.m314634495#314634495#0(0"0(0#0#75"/Users/patrickrussell/Documents/FYP/MapTest/Classes/MapTestViewController.m2462876304#2011"    cd /Users/patrickrussell/Documents/FYP/MapTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/Documents/FYP/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/MapTest-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/MapTest-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/MapTest-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/MapTest-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator -I/Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Documents/FYP/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/DerivedSources/i386 -I/Users/patrickrussell/Documents/FYP/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapTest_Prefix-ctpbgyofenniyobhizinvcfenxvo/MapTest_Prefix.pch -c /Users/patrickrussell/Documents/FYP/MapTest/Classes/MapTestViewController.m -o /Users/patrickrussell/Documents/FYP/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/MapTestViewController.o0#
+
+CCompileC build/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/main.o /Users/patrickrussell/Documents/FYP/MapTest/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314634494.541232
+e314634495.251858
+r1
+xCompileC
+xbuild/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/main.o
+x/Users/patrickrussell/Documents/FYP/MapTest/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/patrickrussell/Documents/FYP/MapTest/main.m314634494#314634495#0(0"0(0#0#50"/Users/patrickrussell/Documents/FYP/MapTest/main.m2462876304#1969"    cd /Users/patrickrussell/Documents/FYP/MapTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/Documents/FYP/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/MapTest-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/MapTest-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/MapTest-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/MapTest-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator -I/Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Documents/FYP/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/DerivedSources/i386 -I/Users/patrickrussell/Documents/FYP/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapTest_Prefix-ctpbgyofenniyobhizinvcfenxvo/MapTest_Prefix.pch -c /Users/patrickrussell/Documents/FYP/MapTest/main.m -o /Users/patrickrussell/Documents/FYP/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/patrickrussell/Documents/FYP/MapTest/MainWindow.xib
+s314634479.440997
+e314634486.908524
+r1
+xCompileXIB
+x/Users/patrickrussell/Documents/FYP/MapTest/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+o/* com.apple.ibtool.document.warnings */
+o/Users/patrickrussell/Documents/FYP/MapTest/MainWindow.xib:10: warning: 'Map Test View Controller' has both its 'View' and 'NIB Name' properties set. This configuration is not supported.
+lSLF07#2@25"CompileXIB MainWindow.xib314634479#314634486#0(732"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)/* com.apple.ibtool.document.warnings *//Users/patrickrussell/Documents/FYP/MapTest/MainWindow.xib:10: warning: 'Map Test View Controller' has both its 'View' and 'NIB Name' properties set. This configuration is not supported.1(22@114"'Map Test View Controller' has both its 'View' and 'NIB Name' properties set. This configuration is not supported.314634486#4294967295#0#0(6@58"/Users/patrickrussell/Documents/FYP/MapTest/MainWindow.xib314634426#10#0#10#0#0"0(0#0#58"/Users/patrickrussell/Documents/FYP/MapTest/MainWindow.xib2462876304#585"    cd /Users/patrickrussell/Documents/FYP/MapTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator/MapTest.app/MainWindow.nib /Users/patrickrussell/Documents/FYP/MapTest/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/patrickrussell/Documents/FYP/MapTest/MapTestViewController.xib
+s314634479.455938
+e314634486.583330
+r1
+xCompileXIB
+x/Users/patrickrussell/Documents/FYP/MapTest/MapTestViewController.xib
+lSLF07#2@36"CompileXIB MapTestViewController.xib314634479#314634486#0(0"0(0#0#69"/Users/patrickrussell/Documents/FYP/MapTest/MapTestViewController.xib2462876304#607"    cd /Users/patrickrussell/Documents/FYP/MapTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator/MapTest.app/MapTestViewController.nib /Users/patrickrussell/Documents/FYP/MapTest/MapTestViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CGenerateDSYMFile /Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator/MapTest.app.dSYM /Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator/MapTest.app/MapTest
+s314634496.082628
+e314634496.223304
+r1
+xGenerateDSYMFile
+x/Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator/MapTest.app.dSYM
+x/Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator/MapTest.app/MapTest
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/MapTest.app.dSYM build/Debug-iphonesimulator/MapTest.app/MapTest314634496#314634496#0(0"0(0#0#91"/Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator/MapTest.app/MapTest2462876304#398"    cd /Users/patrickrussell/Documents/FYP/MapTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator/MapTest.app/MapTest -o /Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator/MapTest.app.dSYM0#
+
+CLd /Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator/MapTest.app/MapTest normal i386
+s314634495.571049
+e314634496.082395
+r1
+xLd
+x/Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator/MapTest.app/MapTest
+xnormal
+xi386
+lSLF07#2@96"Link /Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator/MapTest.app/MapTest314634495#314634496#0(0"0(0#0#0"2462876304#925"    cd /Users/patrickrussell/Documents/FYP/MapTest    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator -F/Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator -filelist /Users/patrickrussell/Documents/FYP/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/MapTest.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator/MapTest.app/MapTest0#
+
+CProcessInfoPlistFile /Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator/MapTest.app/Info.plist MapTest-Info.plist
+s314634479.410394
+e314634479.440848
+r1
+xProcessInfoPlistFile
+x/Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator/MapTest.app/Info.plist
+xMapTest-Info.plist
+lSLF07#2@26"Process MapTest-Info.plist314634479#314634479#0(0"0(0#0#62"/Users/patrickrussell/Documents/FYP/MapTest/MapTest-Info.plist4717520#494"    cd /Users/patrickrussell/Documents/FYP/MapTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MapTest-Info.plist -genpkginfo /Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator/MapTest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator/MapTest.app/Info.plist0#
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapTest_Prefix-ctpbgyofenniyobhizinvcfenxvo/MapTest_Prefix.pch.gch MapTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s314634486.908702
+e314634494.540979
+r1
+xProcessPCH
+x/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapTest_Prefix-ctpbgyofenniyobhizinvcfenxvo/MapTest_Prefix.pch.gch
+xMapTest_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile MapTest_Prefix.pch314634486#314634494#0(0"0(0#0#62"/Users/patrickrussell/Documents/FYP/MapTest/MapTest_Prefix.pch2462876304#1856"    cd /Users/patrickrussell/Documents/FYP/MapTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/Documents/FYP/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/MapTest-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/MapTest-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/MapTest-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/MapTest-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator -I/Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Documents/FYP/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/DerivedSources/i386 -I/Users/patrickrussell/Documents/FYP/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/DerivedSources -c /Users/patrickrussell/Documents/FYP/MapTest/MapTest_Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapTest_Prefix-ctpbgyofenniyobhizinvcfenxvo/MapTest_Prefix.pch.gch0#
+
+CTouch /Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator/MapTest.app
+s314634496.223441
+e314634496.261301
+r1
+xTouch
+x/Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator/MapTest.app
+lSLF07#2@89"Touch /Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator/MapTest.app314634496#314634496#0(0"0(0#0#0"2462876304#288"    cd /Users/patrickrussell/Documents/FYP/MapTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/patrickrussell/Documents/FYP/MapTest/build/Debug-iphonesimulator/MapTest.app0#
+

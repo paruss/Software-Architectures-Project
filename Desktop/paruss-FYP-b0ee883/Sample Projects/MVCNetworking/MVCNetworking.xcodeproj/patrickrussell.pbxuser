@@ -1,0 +1,67 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* MVCNetworking */ = {
+		activeExec = 0;
+		executables = (
+			FFF8F0AA12D8B392005F0A1A /* MVCNetworking */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FFF8F0AA12D8B392005F0A1A /* MVCNetworking */;
+		activeSDKPreference = iphonesimulator4.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* MVCNetworking */;
+		codeSenseManager = FFF8F0BD12D8B3C2005F0A1A /* Code sense */;
+		executables = (
+			FFF8F0AA12D8B392005F0A1A /* MVCNetworking */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 316191635;
+			PBXWorkspaceStateSaveDate = 316191635;
+		};
+		sourceControlManager = FFF8F0BC12D8B3C2005F0A1A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	FFF8F0AA12D8B392005F0A1A /* MVCNetworking */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MVCNetworking;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	FFF8F0BC12D8B3C2005F0A1A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	FFF8F0BD12D8B3C2005F0A1A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

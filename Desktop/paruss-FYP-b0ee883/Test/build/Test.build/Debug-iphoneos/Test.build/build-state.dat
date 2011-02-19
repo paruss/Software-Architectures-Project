@@ -1,0 +1,521 @@
+TTest
+v7
+r0
+t308321420.397823
+cCheck dependencies
+cCpResource build/Debug-iphoneos/Test.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app/Info.plist Test-Info.plist
+cCompileXIB /Users/patrickrussell/Documents/FYP/Test/MainWindow.xib
+cCompileXIB /Users/patrickrussell/Documents/FYP/Test/TestViewController.xib
+cProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Test_Prefix-drcqravejeurumbuwjvqgxrtplii/Test_Prefix.pch.gch Test_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Test_Prefix-bwmzkybhiqbcgxfccjupgftfnhxx/Test_Prefix.pch.gch Test_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv6/main.o /Users/patrickrussell/Documents/FYP/Test/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv6/TestAppDelegate.o /Users/patrickrussell/Documents/FYP/Test/Classes/TestAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv6/TestViewController.o /Users/patrickrussell/Documents/FYP/Test/Classes/TestViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv6/Test normal armv6
+cCompileC build/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv7/main.o /Users/patrickrussell/Documents/FYP/Test/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv7/TestAppDelegate.o /Users/patrickrussell/Documents/FYP/Test/Classes/TestAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv7/TestViewController.o /Users/patrickrussell/Documents/FYP/Test/Classes/TestViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv7/Test normal armv7
+cCreateUniversalBinary /Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app/Test normal "armv6 armv7"
+cGenerateDSYMFile /Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app.dSYM /Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app/Test
+cProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" /Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app/embedded.mobileprovision
+cTouch /Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test.xcent
+cCodeSign /Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk
+c000000004C5A53C10000000000000110
+t1280988097
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist
+c000000004C06E99F00000000000001A7
+t1275521439
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+c000000004C06E99F00000000000001E5
+t1275521439
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C005A1C00000000003B4B70
+t1275091484
+s3885936
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C005A45000000000036A640
+t1275091525
+s3581504
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C005A310000000000001355
+t1275091505
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C00642C000000000000098F
+t1275094060
+s2447
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0064A60000000002703220
+t1275094182
+s40907296
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk
+c000000004C6DE9E30000000000000110
+t1282271715
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+c000000004C578FA900000000000001A7
+t1280806825
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+c000000004C578FA900000000000001E5
+t1280806825
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A51050000000000345F00
+t1280987397
+s3432192
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A52B100000000003E1EF0
+t1280987825
+s4071152
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A527F0000000000001466
+t1280987775
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C62427000000000000009CD
+t1281507952
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C62430F0000000002EBC2B0
+t1281508111
+s49005232
+
+N/Users/patrickrussell/Documents/FYP/Test/Classes/TestAppDelegate.h
+c000000004CB064BB00000000000001D3
+t1286628539
+s467
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Documents/FYP/Test/Classes/TestAppDelegate.m
+c000000004CB064BB0000000000000A82
+t1286628539
+s2690
+i"TestAppDelegate.h"
+i"TestViewController.h"
+
+N/Users/patrickrussell/Documents/FYP/Test/Classes/TestViewController.h
+c000000004CB064BB00000000000000EB
+t1286628539
+s235
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Documents/FYP/Test/Classes/TestViewController.m
+c000000004CB064BB00000000000005B3
+t1286628539
+s1459
+i"TestViewController.h"
+
+N/Users/patrickrussell/Documents/FYP/Test/MainWindow.xib
+c000000004CB064BB0000000000004E05
+t1286628539
+s19973
+
+N/Users/patrickrussell/Documents/FYP/Test/TestViewController.xib
+c000000004CB064BB0000000000001A39
+t1286628539
+s6713
+
+N/Users/patrickrussell/Documents/FYP/Test/Test_Prefix.pch
+c000000004CB064BB00000000000000B1
+t1286628539
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app
+t1286628620
+s374
+
+N/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app.dSYM
+t1286628619
+s102
+
+N/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app/Info.plist
+t1286628610
+s714
+
+N/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app/MainWindow.nib
+t1286628612
+s1117
+
+N/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app/PkgInfo
+t1286628610
+s8
+
+N/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app/ResourceRules.plist
+t1286628610
+s485
+
+N/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app/Test
+t1286628619
+s51472
+
+N/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app/TestViewController.nib
+t1286628612
+s795
+
+N/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app/embedded.mobileprovision
+t1286628566
+s15853
+
+N/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv6/Test
+t1286628618
+s16908
+
+N/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv6/Test.LinkFileList
+c000000004CB064C50000000000000169
+t1286628549
+s361
+
+N/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv6/TestAppDelegate.o
+t1286628618
+s45380
+
+N/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv6/TestViewController.o
+t1286628618
+s33728
+
+N/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv6/main.o
+t1286628618
+s6452
+
+N/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv7/Test
+t1286628619
+s16908
+
+N/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv7/Test.LinkFileList
+c000000004CB064C50000000000000169
+t1286628549
+s361
+
+N/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv7/TestAppDelegate.o
+t1286628619
+s45300
+
+N/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv7/TestViewController.o
+t1286628619
+s33704
+
+N/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv7/main.o
+t1286628618
+s6436
+
+N/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test.xcent
+t1286628619
+s414
+
+N/Users/patrickrussell/Documents/FYP/Test/main.m
+c000000004CB064BB000000000000016C
+t1286628539
+s364
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision
+c000000004CB063CE0000000000003DED
+t1286628302
+s15853
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Test_Prefix-bwmzkybhiqbcgxfccjupgftfnhxx/Test_Prefix.pch.gch
+t1286628618
+s9421460
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Test_Prefix-divmncwqnzyjcfeetpugmsvlrkab/Test_Prefix.pch.gch
+t1286628564
+s9831984
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Test_Prefix-drcqravejeurumbuwjvqgxrtplii/Test_Prefix.pch.gch
+t1286628615
+s8958612
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Test_Prefix-fzfwlndcjviotveylpmxmyjxnqji/Test_Prefix.pch.gch
+t1286628564
+s10294832
+
+NTest-Info.plist
+c000000004CB064BB000000000000038D
+t1286628539
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308321410#308321410#0(129"[BWARN]warning: building with 'Targeted Device Family' set to iPhone only ('1') not supported with SDK 'Device - iPhone OS 3.2'.1(22@121"warning: building with 'Targeted Device Family' set to iPhone only ('1') not supported with SDK 'Device - iPhone OS 3.2'.308321410#4294967295#0#0(1@0"0(0#1#0"2549534656#0"0#
+
+CCodeSign /Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app
+s308321419.472355
+e308321420.397704
+r1
+xCodeSign
+x/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app
+lSLF07#2@38"CodeSign build/Debug-iphoneos/Test.app308321419#308321420#0(0"0(0#0#70"/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app2549534656#644"    cd /Users/patrickrussell/Documents/FYP/Test    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Patrick Russell (WD3RPMEYT5)" --resource-rules=/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app/ResourceRules.plist --entitlements /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test.xcent /Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app0#
+
+CCompileC build/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv6/TestAppDelegate.o /Users/patrickrussell/Documents/FYP/Test/Classes/TestAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s308321418.451972
+e308321418.552353
+r1
+xCompileC
+xbuild/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv6/TestAppDelegate.o
+x/Users/patrickrussell/Documents/FYP/Test/Classes/TestAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/patrickrussell/Documents/FYP/Test/Classes/TestAppDelegate.m308321418#308321418#0(0"0(0#0#66"/Users/patrickrussell/Documents/FYP/Test/Classes/TestAppDelegate.m2549534656#1716"    cd /Users/patrickrussell/Documents/FYP/Test    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/DerivedSources/armv6 -I/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Test_Prefix-drcqravejeurumbuwjvqgxrtplii/Test_Prefix.pch -c /Users/patrickrussell/Documents/FYP/Test/Classes/TestAppDelegate.m -o /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv6/TestAppDelegate.o0#
+
+CCompileC build/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv6/TestViewController.o /Users/patrickrussell/Documents/FYP/Test/Classes/TestViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s308321418.552501
+e308321418.629733
+r1
+xCompileC
+xbuild/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv6/TestViewController.o
+x/Users/patrickrussell/Documents/FYP/Test/Classes/TestViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/patrickrussell/Documents/FYP/Test/Classes/TestViewController.m308321418#308321418#0(0"0(0#0#69"/Users/patrickrussell/Documents/FYP/Test/Classes/TestViewController.m2549534656#1722"    cd /Users/patrickrussell/Documents/FYP/Test    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/DerivedSources/armv6 -I/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Test_Prefix-drcqravejeurumbuwjvqgxrtplii/Test_Prefix.pch -c /Users/patrickrussell/Documents/FYP/Test/Classes/TestViewController.m -o /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv6/TestViewController.o0#
+
+CCompileC build/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv6/main.o /Users/patrickrussell/Documents/FYP/Test/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s308321418.385893
+e308321418.451821
+r1
+xCompileC
+xbuild/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv6/main.o
+x/Users/patrickrussell/Documents/FYP/Test/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/patrickrussell/Documents/FYP/Test/main.m308321418#308321418#0(0"0(0#0#47"/Users/patrickrussell/Documents/FYP/Test/main.m2549534656#1686"    cd /Users/patrickrussell/Documents/FYP/Test    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/DerivedSources/armv6 -I/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Test_Prefix-drcqravejeurumbuwjvqgxrtplii/Test_Prefix.pch -c /Users/patrickrussell/Documents/FYP/Test/main.m -o /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv7/TestAppDelegate.o /Users/patrickrussell/Documents/FYP/Test/Classes/TestAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s308321418.977112
+e308321419.078447
+r1
+xCompileC
+xbuild/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv7/TestAppDelegate.o
+x/Users/patrickrussell/Documents/FYP/Test/Classes/TestAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/patrickrussell/Documents/FYP/Test/Classes/TestAppDelegate.m308321418#308321419#0(0"0(0#0#66"/Users/patrickrussell/Documents/FYP/Test/Classes/TestAppDelegate.m2549534656#1716"    cd /Users/patrickrussell/Documents/FYP/Test    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/DerivedSources/armv7 -I/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Test_Prefix-bwmzkybhiqbcgxfccjupgftfnhxx/Test_Prefix.pch -c /Users/patrickrussell/Documents/FYP/Test/Classes/TestAppDelegate.m -o /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv7/TestAppDelegate.o0#
+
+CCompileC build/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv7/TestViewController.o /Users/patrickrussell/Documents/FYP/Test/Classes/TestViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s308321419.078615
+e308321419.159778
+r1
+xCompileC
+xbuild/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv7/TestViewController.o
+x/Users/patrickrussell/Documents/FYP/Test/Classes/TestViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/patrickrussell/Documents/FYP/Test/Classes/TestViewController.m308321419#308321419#0(0"0(0#0#69"/Users/patrickrussell/Documents/FYP/Test/Classes/TestViewController.m2549534656#1722"    cd /Users/patrickrussell/Documents/FYP/Test    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/DerivedSources/armv7 -I/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Test_Prefix-bwmzkybhiqbcgxfccjupgftfnhxx/Test_Prefix.pch -c /Users/patrickrussell/Documents/FYP/Test/Classes/TestViewController.m -o /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv7/TestViewController.o0#
+
+CCompileC build/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv7/main.o /Users/patrickrussell/Documents/FYP/Test/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s308321418.907006
+e308321418.976954
+r1
+xCompileC
+xbuild/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv7/main.o
+x/Users/patrickrussell/Documents/FYP/Test/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/patrickrussell/Documents/FYP/Test/main.m308321418#308321418#0(0"0(0#0#47"/Users/patrickrussell/Documents/FYP/Test/main.m2549534656#1686"    cd /Users/patrickrussell/Documents/FYP/Test    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/DerivedSources/armv7 -I/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Test_Prefix-bwmzkybhiqbcgxfccjupgftfnhxx/Test_Prefix.pch -c /Users/patrickrussell/Documents/FYP/Test/main.m -o /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/patrickrussell/Documents/FYP/Test/MainWindow.xib
+s308321410.072666
+e308321412.488699
+r1
+xCompileXIB
+x/Users/patrickrussell/Documents/FYP/Test/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib308321410#308321412#0(0"0(0#0#55"/Users/patrickrussell/Documents/FYP/Test/MainWindow.xib2549534656#545"    cd /Users/patrickrussell/Documents/FYP/Test    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app/MainWindow.nib /Users/patrickrussell/Documents/FYP/Test/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk0#
+
+CCompileXIB /Users/patrickrussell/Documents/FYP/Test/TestViewController.xib
+s308321410.083276
+e308321412.584389
+r1
+xCompileXIB
+x/Users/patrickrussell/Documents/FYP/Test/TestViewController.xib
+lSLF07#2@33"CompileXIB TestViewController.xib308321410#308321412#0(0"0(0#0#63"/Users/patrickrussell/Documents/FYP/Test/TestViewController.xib2549534656#561"    cd /Users/patrickrussell/Documents/FYP/Test    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app/TestViewController.nib /Users/patrickrussell/Documents/FYP/Test/TestViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk0#
+
+CCpResource build/Debug-iphoneos/Test.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+s308321410.035102
+e308321410.072117
+r1
+xCpResource
+xbuild/Debug-iphoneos/Test.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist308321410#308321410#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist4231240#481"    cd /Users/patrickrussell/Documents/FYP/Test    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist /Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app0#
+
+CCpResource build/Debug-iphoneos/Test.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+s308321349.136736
+e308321349.211853
+r1
+xCpResource
+xbuild/Debug-iphoneos/Test.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist308321349#308321349#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist4231240#481"    cd /Users/patrickrussell/Documents/FYP/Test    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist /Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app0#
+
+CCreateUniversalBinary /Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app/Test normal "armv6 armv7"
+s308321419.360801
+e308321419.366557
+r1
+xCreateUniversalBinary
+x/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app/Test
+xnormal
+xarmv6 armv7
+lSLF07#2@77"CreateUniversalBinary build/Debug-iphoneos/Test.app/Test normal "armv6 armv7"308321419#308321419#0(0"0(0#0#52"/Users/patrickrussell/Documents/FYP/Test/armv6 armv72549534656#502"    cd /Users/patrickrussell/Documents/FYP/Test    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv6/Test /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv7/Test -output /Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app/Test0#
+
+CGenerateDSYMFile /Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app.dSYM /Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app/Test
+s308321419.366692
+e308321419.447199
+r1
+xGenerateDSYMFile
+x/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app.dSYM
+x/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app/Test
+lSLF07#2@86"GenerateDSYMFile build/Debug-iphoneos/Test.app.dSYM build/Debug-iphoneos/Test.app/Test308321419#308321419#0(0"0(0#0#75"/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app/Test2549534656#359"    cd /Users/patrickrussell/Documents/FYP/Test    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app/Test -o /Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app.dSYM0#
+
+CLd /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv6/Test normal armv6
+s308321418.629875
+e308321418.906853
+r1
+xLd
+x/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv6/Test
+xnormal
+xarmv6
+lSLF07#2@114"Link /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv6/Test308321418#308321418#0(0"0(0#0#0"2549534656#851"    cd /Users/patrickrussell/Documents/FYP/Test    setenv IPHONEOS_DEPLOYMENT_TARGET 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -L/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos -F/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos -filelist /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv6/Test.LinkFileList -dead_strip -miphoneos-version-min=3.2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv6/Test0#
+
+CLd /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv7/Test normal armv7
+s308321419.159905
+e308321419.360648
+r1
+xLd
+x/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv7/Test
+xnormal
+xarmv7
+lSLF07#2@114"Link /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv7/Test308321419#308321419#0(0"0(0#0#0"2549534656#851"    cd /Users/patrickrussell/Documents/FYP/Test    setenv IPHONEOS_DEPLOYMENT_TARGET 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -L/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos -F/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos -filelist /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv7/Test.LinkFileList -dead_strip -miphoneos-version-min=3.2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Objects-normal/armv7/Test0#
+
+CProcessInfoPlistFile /Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app/Info.plist Test-Info.plist
+s308321410.036304
+e308321410.072554
+r1
+xProcessInfoPlistFile
+x/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app/Info.plist
+xTest-Info.plist
+lSLF07#2@23"Process Test-Info.plist308321410#308321410#0(0"0(0#0#56"/Users/patrickrussell/Documents/FYP/Test/Test-Info.plist2549534656#558"    cd /Users/patrickrussell/Documents/FYP/Test    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Test-Info.plist -genpkginfo /Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app/ResourceRules.plist -o /Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app/Info.plist0#
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Test_Prefix-bwmzkybhiqbcgxfccjupgftfnhxx/Test_Prefix.pch.gch Test_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s308321415.944849
+e308321418.385659
+r1
+xProcessPCH
+x/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Test_Prefix-bwmzkybhiqbcgxfccjupgftfnhxx/Test_Prefix.pch.gch
+xTest_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile Test_Prefix.pch308321415#308321418#0(0"0(0#0#56"/Users/patrickrussell/Documents/FYP/Test/Test_Prefix.pch2549534656#1585"    cd /Users/patrickrussell/Documents/FYP/Test    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/DerivedSources/armv7 -I/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/DerivedSources -c /Users/patrickrussell/Documents/FYP/Test/Test_Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Test_Prefix-bwmzkybhiqbcgxfccjupgftfnhxx/Test_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Test_Prefix-divmncwqnzyjcfeetpugmsvlrkab/Test_Prefix.pch.gch Test_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s308321361.655458
+e308321364.084633
+r1
+xProcessPCH
+x/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Test_Prefix-divmncwqnzyjcfeetpugmsvlrkab/Test_Prefix.pch.gch
+xTest_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile Test_Prefix.pch308321361#308321364#0(0"0(0#0#56"/Users/patrickrussell/Documents/FYP/Test/Test_Prefix.pch2549534656#1585"    cd /Users/patrickrussell/Documents/FYP/Test    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/DerivedSources/armv6 -I/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/DerivedSources -c /Users/patrickrussell/Documents/FYP/Test/Test_Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Test_Prefix-divmncwqnzyjcfeetpugmsvlrkab/Test_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Test_Prefix-drcqravejeurumbuwjvqgxrtplii/Test_Prefix.pch.gch Test_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s308321412.584580
+e308321415.944543
+r1
+xProcessPCH
+x/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Test_Prefix-drcqravejeurumbuwjvqgxrtplii/Test_Prefix.pch.gch
+xTest_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile Test_Prefix.pch308321412#308321415#0(0"0(0#0#56"/Users/patrickrussell/Documents/FYP/Test/Test_Prefix.pch4231240#1585"    cd /Users/patrickrussell/Documents/FYP/Test    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/DerivedSources/armv6 -I/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/DerivedSources -c /Users/patrickrussell/Documents/FYP/Test/Test_Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Test_Prefix-drcqravejeurumbuwjvqgxrtplii/Test_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Test_Prefix-fzfwlndcjviotveylpmxmyjxnqji/Test_Prefix.pch.gch Test_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s308321364.084883
+e308321364.979150
+r1
+xProcessPCH
+x/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Test_Prefix-fzfwlndcjviotveylpmxmyjxnqji/Test_Prefix.pch.gch
+xTest_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile Test_Prefix.pch308321364#308321364#0(0"0(0#0#56"/Users/patrickrussell/Documents/FYP/Test/Test_Prefix.pch2549534656#1585"    cd /Users/patrickrussell/Documents/FYP/Test    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/DerivedSources/armv7 -I/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/DerivedSources -c /Users/patrickrussell/Documents/FYP/Test/Test_Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Test_Prefix-fzfwlndcjviotveylpmxmyjxnqji/Test_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" /Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app/embedded.mobileprovision
+s308321366.645539
+e308321366.662834
+r1
+xProcessProductPackaging
+x/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision
+x/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app/embedded.mobileprovision
+lSLF07#2@198"ProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" build/Debug-iphoneos/Test.app/embedded.mobileprovision308321366#308321366#0(0"0(0#0#95"/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app/embedded.mobileprovision2549534656#433"    cd /Users/patrickrussell/Documents/FYP/Test    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" -o /Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test.xcent
+s308321419.452288
+e308321419.472201
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist
+x/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test.xcent
+lSLF07#2@166"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist build/Test.build/Debug-iphoneos/Test.build/Test.xcent308321419#308321419#0(0"0(0#0#94"/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test.xcent2549534656#427"    cd /Users/patrickrussell/Documents/FYP/Test    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test.xcent0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test.xcent
+s308321366.686592
+e308321366.699034
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+x/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test.xcent
+lSLF07#2@166"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist build/Test.build/Debug-iphoneos/Test.build/Test.xcent308321366#308321366#0(0"0(0#0#94"/Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test.xcent2549534656#427"    cd /Users/patrickrussell/Documents/FYP/Test    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/patrickrussell/Documents/FYP/Test/build/Test.build/Debug-iphoneos/Test.build/Test.xcent0#
+
+CTouch /Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app
+s308321419.447585
+e308321419.452139
+r1
+xTouch
+x/Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app
+lSLF07#2@76"Touch /Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app308321419#308321419#0(0"0(0#0#0"2549534656#265"    cd /Users/patrickrussell/Documents/FYP/Test    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/patrickrussell/Documents/FYP/Test/build/Debug-iphoneos/Test.app0#
+

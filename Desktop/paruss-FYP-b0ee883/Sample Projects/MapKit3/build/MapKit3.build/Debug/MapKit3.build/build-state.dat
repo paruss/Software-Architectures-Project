@@ -1,0 +1,63 @@
+TMapKit3
+v7
+r1
+
+N/Users/patrickrussell/Downloads/MapKit3/FlipsideView.xib
+c0000000049DA6065000000000000264B
+t1239048293
+s9803
+
+N/Users/patrickrussell/Downloads/MapKit3/MainView.xib
+c0000000049DC083C0000000000002C35
+t1239156796
+s11317
+
+N/Users/patrickrussell/Downloads/MapKit3/MainWindow.xib
+c0000000049DA60650000000000001DD7
+t1239048293
+s7639
+
+N/Users/patrickrussell/Downloads/MapKit3/build/Debug/MapKit3.app
+t2
+s0
+
+N/Users/patrickrussell/Downloads/MapKit3/build/Debug/MapKit3.app/Contents/Info.plist
+t2
+s0
+
+N/Users/patrickrussell/Downloads/MapKit3/build/Debug/MapKit3.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/patrickrussell/Downloads/MapKit3/build/Debug/MapKit3.app/Contents/Resources/FlipsideView.nib
+t2
+s0
+
+N/Users/patrickrussell/Downloads/MapKit3/build/Debug/MapKit3.app/Contents/Resources/MainView.nib
+t2
+s0
+
+N/Users/patrickrussell/Downloads/MapKit3/build/Debug/MapKit3.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+NMapKit3-Info.plist
+c0000000049DA6065000000000000038D
+t1239048293
+s909
+
+CCompileXIB /Users/patrickrussell/Downloads/MapKit3/FlipsideView.xib
+r0
+
+CCompileXIB /Users/patrickrussell/Downloads/MapKit3/MainView.xib
+r0
+
+CCompileXIB /Users/patrickrussell/Downloads/MapKit3/MainWindow.xib
+r0
+
+CProcessInfoPlistFile /Users/patrickrussell/Downloads/MapKit3/build/Debug/MapKit3.app/Contents/Info.plist MapKit3-Info.plist
+r0
+
+CTouch /Users/patrickrussell/Downloads/MapKit3/build/Debug/MapKit3.app
+r0
+

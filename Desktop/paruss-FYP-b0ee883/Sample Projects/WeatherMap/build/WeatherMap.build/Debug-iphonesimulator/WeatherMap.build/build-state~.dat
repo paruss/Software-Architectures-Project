@@ -1,0 +1,591 @@
+TWeatherMap
+v7
+r0
+t316209586.182345
+cCheck dependencies
+cProcessInfoPlistFile /Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/Info.plist WeatherMap-Info.plist
+cCompileXIB /Users/patrickrussell/Downloads/WeatherMap/en.lproj/MainWindow.xib
+cCompileXIB /Users/patrickrussell/Downloads/WeatherMap/en.lproj/MapViewController.xib
+cCpResource build/Debug-iphonesimulator/WeatherMap.app/cloudy.png images/cloudy.png
+cCpResource build/Debug-iphonesimulator/WeatherMap.app/Icon-72.png images/Icon-72.png
+cCpResource build/Debug-iphonesimulator/WeatherMap.app/Icon-Small-50.png images/Icon-Small-50.png
+cCpResource build/Debug-iphonesimulator/WeatherMap.app/Icon-Small.png images/Icon-Small.png
+cCpResource build/Debug-iphonesimulator/WeatherMap.app/Icon-Small@2x.png images/Icon-Small@2x.png
+cCpResource build/Debug-iphonesimulator/WeatherMap.app/Icon.png images/Icon.png
+cCpResource build/Debug-iphonesimulator/WeatherMap.app/Icon@2x.png images/Icon@2x.png
+cCpResource build/Debug-iphonesimulator/WeatherMap.app/partly_cloudy.png images/partly_cloudy.png
+cCpResource build/Debug-iphonesimulator/WeatherMap.app/sunny.png images/sunny.png
+cCpResource build/Debug-iphonesimulator/WeatherMap.app/iTunesArtwork iTunesArtwork
+cProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WeatherMap_Prefix-guijrqmetowkonakiiykrxmclwsz/WeatherMap_Prefix.pch.gch WeatherMap_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelCompile /Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/WeatherMap.mom /Users/patrickrussell/Downloads/WeatherMap/WeatherMap.xcdatamodel
+cCompileC build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/main.o /Users/patrickrussell/Downloads/WeatherMap/Classes/../main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/AppDelegate.o /Users/patrickrussell/Downloads/WeatherMap/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/WeatherItem.o /Users/patrickrussell/Downloads/WeatherMap/Classes/WeatherItem.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/WeatherServer.o /Users/patrickrussell/Downloads/WeatherMap/Classes/WeatherServer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/MapViewController.o /Users/patrickrussell/Downloads/WeatherMap/Classes/MapViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/WeatherAnnotationView.o /Users/patrickrussell/Downloads/WeatherMap/Classes/WeatherAnnotationView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/WeatherMap normal i386
+cGenerateDSYMFile /Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app.dSYM /Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/WeatherMap
+cTouch /Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C494D410000000000000132
+t1279872321
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004BFDFEB400000000001CFA90
+t1274937012
+s1899152
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004BFDFEA8000000000000046B
+t1274937000
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C04724700000000000002FE
+t1275359815
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C04725B0000000000160350
+t1275359835
+s1442640
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h
+c000000004BF4CBF90000000000001A3B
+t1274334201
+s6715
+
+N/Users/patrickrussell/Downloads/WeatherMap/Classes/../main.m
+c000000004C2D0A470000000000000AA7
+t1278020167
+s2727
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Downloads/WeatherMap/Classes/AppDelegate.h
+c000000004C2D0A470000000000000BA6
+t1278020167
+s2982
+
+N/Users/patrickrussell/Downloads/WeatherMap/Classes/AppDelegate.m
+c000000004C2D0A470000000000000BF3
+t1278020167
+s3059
+i"AppDelegate.h"
+i"MapViewController.h"
+i"WeatherServer.h"
+i"WeatherItem.h"
+
+N/Users/patrickrussell/Downloads/WeatherMap/Classes/MapViewController.h
+c000000004C2D0A470000000000000B98
+t1278020167
+s2968
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+
+N/Users/patrickrussell/Downloads/WeatherMap/Classes/MapViewController.m
+c000000004C2D0A47000000000000102F
+t1278020167
+s4143
+i"MapViewController.h"
+i"WeatherServer.h"
+i"WeatherItem.h"
+i"WeatherAnnotationView.h"
+
+N/Users/patrickrussell/Downloads/WeatherMap/Classes/WeatherAnnotationView.h
+c000000004C2D0A470000000000000A58
+t1278020167
+s2648
+i<MapKit/MapKit.h>
+
+N/Users/patrickrussell/Downloads/WeatherMap/Classes/WeatherAnnotationView.m
+c000000004C2D0A4700000000000017BD
+t1278020167
+s6077
+i"WeatherAnnotationView.h"
+i"WeatherItem.h"
+
+N/Users/patrickrussell/Downloads/WeatherMap/Classes/WeatherItem.h
+c000000004C2D0A470000000000000CEE
+t1278020167
+s3310
+i<CoreData/CoreData.h>
+i<MapKit/MapKit.h>
+
+N/Users/patrickrussell/Downloads/WeatherMap/Classes/WeatherItem.m
+c000000004C2D0A470000000000000AE4
+t1278020167
+s2788
+i"WeatherItem.h"
+
+N/Users/patrickrussell/Downloads/WeatherMap/Classes/WeatherServer.h
+c000000004C2D0A470000000000000BE6
+t1278020167
+s3046
+i<CoreData/CoreData.h>
+i<MapKit/MapKit.h>
+
+N/Users/patrickrussell/Downloads/WeatherMap/Classes/WeatherServer.m
+c000000004C2D0A47000000000000291D
+t1278020167
+s10525
+i"WeatherServer.h"
+i"WeatherItem.h"
+
+N/Users/patrickrussell/Downloads/WeatherMap/WeatherMap.xcdatamodel
+c000000004C2D0A460000000000000088
+t1278020166
+s136
+
+N/Users/patrickrussell/Downloads/WeatherMap/WeatherMap_Prefix.pch
+c000000004B3288090000000000000168
+t1261602825
+s360
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app
+t1294516786
+s578
+
+N/Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app.dSYM
+t1294516786
+s102
+
+N/Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/Icon-72.png
+t1294516779
+s1063
+
+N/Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/Icon-Small-50.png
+t1294516779
+s992
+
+N/Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/Icon-Small.png
+t1294516779
+s918
+
+N/Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/Icon-Small@2x.png
+t1294516779
+s1010
+
+N/Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/Icon.png
+t1294516779
+s1007
+
+N/Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/Icon@2x.png
+t1294516779
+s1252
+
+N/Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/Info.plist
+t1294516776
+s741
+
+N/Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/PkgInfo
+t1294516776
+s8
+
+N/Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/WeatherMap
+t1294516786
+s36420
+
+N/Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/WeatherMap.mom
+t1294516784
+s1681
+
+N/Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/cloudy.png
+t1294516779
+s9220
+
+N/Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/en.lproj/MainWindow.nib
+t1294516779
+s1183
+
+N/Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/en.lproj/MapViewController.nib
+t1294516780
+s1456
+
+N/Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/iTunesArtwork
+t1294516779
+s5188
+
+N/Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/partly_cloudy.png
+t1294516779
+s10040
+
+N/Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/sunny.png
+t1294516779
+s9169
+
+N/Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/AppDelegate.o
+t1294516784
+s50120
+
+N/Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/MapViewController.o
+t1294516785
+s49096
+
+N/Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/WeatherAnnotationView.o
+t1294516785
+s46088
+
+N/Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/WeatherItem.o
+t1294516784
+s14024
+
+N/Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/WeatherMap.LinkFileList
+c000000004D28C228000000000000034D
+t1294516776
+s845
+
+N/Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/WeatherServer.o
+t1294516785
+s30664
+
+N/Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/main.o
+t1294516784
+s6332
+
+N/Users/patrickrussell/Downloads/WeatherMap/en.lproj/MainWindow.xib
+c000000004B328809000000000000559D
+t1261602825
+s21917
+
+N/Users/patrickrussell/Downloads/WeatherMap/en.lproj/MapViewController.xib
+c000000004B32880900000000000052BE
+t1261602825
+s21182
+
+N/Users/patrickrussell/Downloads/WeatherMap/iTunesArtwork
+c000000004C250DCB0000000000001444
+t1277496779
+s5188
+
+N/Users/patrickrussell/Downloads/WeatherMap/images/Icon-72.png
+c000000004C250DCB0000000000000427
+t1277496779
+s1063
+
+N/Users/patrickrussell/Downloads/WeatherMap/images/Icon-Small-50.png
+c000000004C250DCB00000000000003E0
+t1277496779
+s992
+
+N/Users/patrickrussell/Downloads/WeatherMap/images/Icon-Small.png
+c000000004C250DCB0000000000000396
+t1277496779
+s918
+
+N/Users/patrickrussell/Downloads/WeatherMap/images/Icon-Small@2x.png
+c000000004C250DCB00000000000003F2
+t1277496779
+s1010
+
+N/Users/patrickrussell/Downloads/WeatherMap/images/Icon.png
+c000000004C250DCB00000000000003EF
+t1277496779
+s1007
+
+N/Users/patrickrussell/Downloads/WeatherMap/images/Icon@2x.png
+c000000004C250DCB00000000000004E4
+t1277496779
+s1252
+
+N/Users/patrickrussell/Downloads/WeatherMap/images/cloudy.png
+c000000004C250DCB0000000000002404
+t1277496779
+s9220
+
+N/Users/patrickrussell/Downloads/WeatherMap/images/partly_cloudy.png
+c000000004C250DCB0000000000002738
+t1277496779
+s10040
+
+N/Users/patrickrussell/Downloads/WeatherMap/images/sunny.png
+c000000004C250DCB00000000000023D1
+t1277496779
+s9169
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WeatherMap_Prefix-guijrqmetowkonakiiykrxmclwsz/WeatherMap_Prefix.pch.gch
+t1294516783
+s10778860
+
+NWeatherMap-Info.plist
+c000000004C250DCB0000000000000459
+t1277496779
+s1113
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies316209576#316209576#0(0"0(0#1#0"2501739152#0"0#
+
+CCompileC build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/AppDelegate.o /Users/patrickrussell/Downloads/WeatherMap/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316209584.586778
+e316209584.803811
+r1
+xCompileC
+xbuild/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/AppDelegate.o
+x/Users/patrickrussell/Downloads/WeatherMap/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/patrickrussell/Downloads/WeatherMap/Classes/AppDelegate.m316209584#316209584#0(0"0(0#0#64"/Users/patrickrussell/Downloads/WeatherMap/Classes/AppDelegate.m2501739152#2081"    cd /Users/patrickrussell/Downloads/WeatherMap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-generated-files.hmap -I/Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-own-target-headers.hmap -I/Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-project-headers.hmap -F/Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WeatherMap_Prefix-guijrqmetowkonakiiykrxmclwsz/WeatherMap_Prefix.pch -c /Users/patrickrussell/Downloads/WeatherMap/Classes/AppDelegate.m -o /Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/MapViewController.o /Users/patrickrussell/Downloads/WeatherMap/Classes/MapViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316209585.071491
+e316209585.192952
+r1
+xCompileC
+xbuild/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/MapViewController.o
+x/Users/patrickrussell/Downloads/WeatherMap/Classes/MapViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/patrickrussell/Downloads/WeatherMap/Classes/MapViewController.m316209585#316209585#0(0"0(0#0#70"/Users/patrickrussell/Downloads/WeatherMap/Classes/MapViewController.m2501739152#2093"    cd /Users/patrickrussell/Downloads/WeatherMap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-generated-files.hmap -I/Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-own-target-headers.hmap -I/Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-project-headers.hmap -F/Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WeatherMap_Prefix-guijrqmetowkonakiiykrxmclwsz/WeatherMap_Prefix.pch -c /Users/patrickrussell/Downloads/WeatherMap/Classes/MapViewController.m -o /Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/MapViewController.o0#
+
+CCompileC build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/WeatherAnnotationView.o /Users/patrickrussell/Downloads/WeatherMap/Classes/WeatherAnnotationView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316209585.193115
+e316209585.324992
+r1
+xCompileC
+xbuild/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/WeatherAnnotationView.o
+x/Users/patrickrussell/Downloads/WeatherMap/Classes/WeatherAnnotationView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/patrickrussell/Downloads/WeatherMap/Classes/WeatherAnnotationView.m316209585#316209585#0(0"0(0#0#74"/Users/patrickrussell/Downloads/WeatherMap/Classes/WeatherAnnotationView.m2501739152#2101"    cd /Users/patrickrussell/Downloads/WeatherMap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-generated-files.hmap -I/Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-own-target-headers.hmap -I/Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-project-headers.hmap -F/Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WeatherMap_Prefix-guijrqmetowkonakiiykrxmclwsz/WeatherMap_Prefix.pch -c /Users/patrickrussell/Downloads/WeatherMap/Classes/WeatherAnnotationView.m -o /Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/WeatherAnnotationView.o0#
+
+CCompileC build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/WeatherItem.o /Users/patrickrussell/Downloads/WeatherMap/Classes/WeatherItem.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316209584.803966
+e316209584.911442
+r1
+xCompileC
+xbuild/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/WeatherItem.o
+x/Users/patrickrussell/Downloads/WeatherMap/Classes/WeatherItem.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/patrickrussell/Downloads/WeatherMap/Classes/WeatherItem.m316209584#316209584#0(0"0(0#0#64"/Users/patrickrussell/Downloads/WeatherMap/Classes/WeatherItem.m2501739152#2081"    cd /Users/patrickrussell/Downloads/WeatherMap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-generated-files.hmap -I/Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-own-target-headers.hmap -I/Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-project-headers.hmap -F/Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WeatherMap_Prefix-guijrqmetowkonakiiykrxmclwsz/WeatherMap_Prefix.pch -c /Users/patrickrussell/Downloads/WeatherMap/Classes/WeatherItem.m -o /Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/WeatherItem.o0#
+
+CCompileC build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/WeatherServer.o /Users/patrickrussell/Downloads/WeatherMap/Classes/WeatherServer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316209584.911593
+e316209585.071318
+r1
+xCompileC
+xbuild/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/WeatherServer.o
+x/Users/patrickrussell/Downloads/WeatherMap/Classes/WeatherServer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/patrickrussell/Downloads/WeatherMap/Classes/WeatherServer.m316209584#316209585#0(0"0(0#0#66"/Users/patrickrussell/Downloads/WeatherMap/Classes/WeatherServer.m2501739152#2085"    cd /Users/patrickrussell/Downloads/WeatherMap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-generated-files.hmap -I/Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-own-target-headers.hmap -I/Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-project-headers.hmap -F/Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WeatherMap_Prefix-guijrqmetowkonakiiykrxmclwsz/WeatherMap_Prefix.pch -c /Users/patrickrussell/Downloads/WeatherMap/Classes/WeatherServer.m -o /Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/WeatherServer.o0#
+
+CCompileC build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/main.o /Users/patrickrussell/Downloads/WeatherMap/Classes/../main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316209584.447933
+e316209584.586628
+r1
+xCompileC
+xbuild/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/main.o
+x/Users/patrickrussell/Downloads/WeatherMap/Classes/../main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/patrickrussell/Downloads/WeatherMap/Classes/../main.m316209584#316209584#0(0"0(0#0#60"/Users/patrickrussell/Downloads/WeatherMap/Classes/../main.m2501739152#2070"    cd /Users/patrickrussell/Downloads/WeatherMap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-generated-files.hmap -I/Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-own-target-headers.hmap -I/Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-project-headers.hmap -F/Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WeatherMap_Prefix-guijrqmetowkonakiiykrxmclwsz/WeatherMap_Prefix.pch -c /Users/patrickrussell/Downloads/WeatherMap/Classes/../main.m -o /Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/patrickrussell/Downloads/WeatherMap/en.lproj/MainWindow.xib
+s316209576.245271
+e316209579.074838
+r1
+xCompileXIB
+x/Users/patrickrussell/Downloads/WeatherMap/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib316209576#316209579#0(0"0(0#0#66"/Users/patrickrussell/Downloads/WeatherMap/en.lproj/MainWindow.xib2501739152#603"    cd /Users/patrickrussell/Downloads/WeatherMap    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/en.lproj/MainWindow.nib /Users/patrickrussell/Downloads/WeatherMap/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/patrickrussell/Downloads/WeatherMap/en.lproj/MapViewController.xib
+s316209576.263593
+e316209580.095094
+r1
+xCompileXIB
+x/Users/patrickrussell/Downloads/WeatherMap/en.lproj/MapViewController.xib
+lSLF07#2@41"CompileXIB en.lproj/MapViewController.xib316209576#316209580#0(0"0(0#0#73"/Users/patrickrussell/Downloads/WeatherMap/en.lproj/MapViewController.xib2501739152#617"    cd /Users/patrickrussell/Downloads/WeatherMap    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/en.lproj/MapViewController.nib /Users/patrickrussell/Downloads/WeatherMap/en.lproj/MapViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCpResource build/Debug-iphonesimulator/WeatherMap.app/Icon-72.png images/Icon-72.png
+s316209579.076325
+e316209579.232119
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WeatherMap.app/Icon-72.png
+ximages/Icon-72.png
+lSLF07#2@23"Copy images/Icon-72.png316209579#316209579#0(0"0(0#0#61"/Users/patrickrussell/Downloads/WeatherMap/images/Icon-72.png2501739152#477"    cd /Users/patrickrussell/Downloads/WeatherMap    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/patrickrussell/Downloads/WeatherMap/images/Icon-72.png /Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app0#
+
+CCpResource build/Debug-iphonesimulator/WeatherMap.app/Icon-Small-50.png images/Icon-Small-50.png
+s316209579.090715
+e316209579.228620
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WeatherMap.app/Icon-Small-50.png
+ximages/Icon-Small-50.png
+lSLF07#2@29"Copy images/Icon-Small-50.png316209579#316209579#0(0"0(0#0#67"/Users/patrickrussell/Downloads/WeatherMap/images/Icon-Small-50.png2501739152#483"    cd /Users/patrickrussell/Downloads/WeatherMap    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/patrickrussell/Downloads/WeatherMap/images/Icon-Small-50.png /Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app0#
+
+CCpResource build/Debug-iphonesimulator/WeatherMap.app/Icon-Small.png images/Icon-Small.png
+s316209579.102296
+e316209579.232324
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WeatherMap.app/Icon-Small.png
+ximages/Icon-Small.png
+lSLF07#2@26"Copy images/Icon-Small.png316209579#316209579#0(0"0(0#0#64"/Users/patrickrussell/Downloads/WeatherMap/images/Icon-Small.png2501739152#480"    cd /Users/patrickrussell/Downloads/WeatherMap    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/patrickrussell/Downloads/WeatherMap/images/Icon-Small.png /Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app0#
+
+CCpResource build/Debug-iphonesimulator/WeatherMap.app/Icon-Small@2x.png images/Icon-Small@2x.png
+s316209579.104835
+e316209579.228793
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WeatherMap.app/Icon-Small@2x.png
+ximages/Icon-Small@2x.png
+lSLF07#2@29"Copy images/Icon-Small@2x.png316209579#316209579#0(0"0(0#0#67"/Users/patrickrussell/Downloads/WeatherMap/images/Icon-Small@2x.png2501739152#483"    cd /Users/patrickrussell/Downloads/WeatherMap    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/patrickrussell/Downloads/WeatherMap/images/Icon-Small@2x.png /Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app0#
+
+CCpResource build/Debug-iphonesimulator/WeatherMap.app/Icon.png images/Icon.png
+s316209579.105999
+e316209579.218900
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WeatherMap.app/Icon.png
+ximages/Icon.png
+lSLF07#2@20"Copy images/Icon.png316209579#316209579#0(0"0(0#0#58"/Users/patrickrussell/Downloads/WeatherMap/images/Icon.png2501739152#474"    cd /Users/patrickrussell/Downloads/WeatherMap    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/patrickrussell/Downloads/WeatherMap/images/Icon.png /Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app0#
+
+CCpResource build/Debug-iphonesimulator/WeatherMap.app/Icon@2x.png images/Icon@2x.png
+s316209579.107096
+e316209579.228975
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WeatherMap.app/Icon@2x.png
+ximages/Icon@2x.png
+lSLF07#2@23"Copy images/Icon@2x.png316209579#316209579#0(0"0(0#0#61"/Users/patrickrussell/Downloads/WeatherMap/images/Icon@2x.png2501739152#477"    cd /Users/patrickrussell/Downloads/WeatherMap    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/patrickrussell/Downloads/WeatherMap/images/Icon@2x.png /Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app0#
+
+CCpResource build/Debug-iphonesimulator/WeatherMap.app/cloudy.png images/cloudy.png
+s316209579.075043
+e316209579.228412
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WeatherMap.app/cloudy.png
+ximages/cloudy.png
+lSLF07#2@22"Copy images/cloudy.png316209579#316209579#0(0"0(0#0#60"/Users/patrickrussell/Downloads/WeatherMap/images/cloudy.png2501739152#476"    cd /Users/patrickrussell/Downloads/WeatherMap    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/patrickrussell/Downloads/WeatherMap/images/cloudy.png /Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app0#
+
+CCpResource build/Debug-iphonesimulator/WeatherMap.app/iTunesArtwork iTunesArtwork
+s316209579.219234
+e316209579.314717
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WeatherMap.app/iTunesArtwork
+xiTunesArtwork
+lSLF07#2@18"Copy iTunesArtwork316209579#316209579#0(0"0(0#0#56"/Users/patrickrussell/Downloads/WeatherMap/iTunesArtwork2501739152#472"    cd /Users/patrickrussell/Downloads/WeatherMap    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/patrickrussell/Downloads/WeatherMap/iTunesArtwork /Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app0#
+
+CCpResource build/Debug-iphonesimulator/WeatherMap.app/partly_cloudy.png images/partly_cloudy.png
+s316209579.108196
+e316209579.219116
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WeatherMap.app/partly_cloudy.png
+ximages/partly_cloudy.png
+lSLF07#2@29"Copy images/partly_cloudy.png316209579#316209579#0(0"0(0#0#67"/Users/patrickrussell/Downloads/WeatherMap/images/partly_cloudy.png2501739152#483"    cd /Users/patrickrussell/Downloads/WeatherMap    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/patrickrussell/Downloads/WeatherMap/images/partly_cloudy.png /Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app0#
+
+CCpResource build/Debug-iphonesimulator/WeatherMap.app/sunny.png images/sunny.png
+s316209579.109335
+e316209579.229151
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WeatherMap.app/sunny.png
+ximages/sunny.png
+lSLF07#2@21"Copy images/sunny.png316209579#316209579#0(0"0(0#0#59"/Users/patrickrussell/Downloads/WeatherMap/images/sunny.png2501739152#475"    cd /Users/patrickrussell/Downloads/WeatherMap    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/patrickrussell/Downloads/WeatherMap/images/sunny.png /Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app0#
+
+CDataModelCompile /Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/WeatherMap.mom /Users/patrickrussell/Downloads/WeatherMap/WeatherMap.xcdatamodel
+s316209584.042922
+e316209584.447775
+r1
+xDataModelCompile
+x/Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/WeatherMap.mom
+x/Users/patrickrussell/Downloads/WeatherMap/WeatherMap.xcdatamodel
+lSLF07#2@73"Compile /Users/patrickrussell/Downloads/WeatherMap/WeatherMap.xcdatamodel316209584#316209584#0(0"0(0#0#65"/Users/patrickrussell/Downloads/WeatherMap/WeatherMap.xcdatamodel2501739152#405"    cd /Users/patrickrussell/Downloads/WeatherMap    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 /Users/patrickrussell/Downloads/WeatherMap/WeatherMap.xcdatamodel /Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/WeatherMap.mom0#
+
+CGenerateDSYMFile /Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app.dSYM /Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/WeatherMap
+s316209586.127481
+e316209586.176494
+r1
+xGenerateDSYMFile
+x/Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app.dSYM
+x/Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/WeatherMap
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/WeatherMap.app.dSYM build/Debug-iphonesimulator/WeatherMap.app/WeatherMap316209586#316209586#0(0"0(0#0#96"/Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/WeatherMap2501739152#404"    cd /Users/patrickrussell/Downloads/WeatherMap    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/WeatherMap -o /Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app.dSYM0#
+
+CLd /Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/WeatherMap normal i386
+s316209585.325135
+e316209586.127248
+r1
+xLd
+x/Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/WeatherMap
+xnormal
+xi386
+lSLF07#2@101"Link /Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/WeatherMap316209585#316209586#0(0"0(0#0#0"2501739152#973"    cd /Users/patrickrussell/Downloads/WeatherMap    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator -F/Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator -filelist /Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/WeatherMap.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -framework MapKit -o /Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/WeatherMap0#
+
+CProcessInfoPlistFile /Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/Info.plist WeatherMap-Info.plist
+s316209576.239717
+e316209576.245132
+r1
+xProcessInfoPlistFile
+x/Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/Info.plist
+xWeatherMap-Info.plist
+lSLF07#2@29"Process WeatherMap-Info.plist316209576#316209576#0(0"0(0#0#64"/Users/patrickrussell/Downloads/WeatherMap/WeatherMap-Info.plist2501739152#500"    cd /Users/patrickrussell/Downloads/WeatherMap    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility WeatherMap-Info.plist -genpkginfo /Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/Info.plist0#
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WeatherMap_Prefix-guijrqmetowkonakiiykrxmclwsz/WeatherMap_Prefix.pch.gch WeatherMap_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s316209580.095304
+e316209584.042529
+r1
+xProcessPCH
+x/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WeatherMap_Prefix-guijrqmetowkonakiiykrxmclwsz/WeatherMap_Prefix.pch.gch
+xWeatherMap_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile WeatherMap_Prefix.pch316209580#316209584#0(0"0(0#0#64"/Users/patrickrussell/Downloads/WeatherMap/WeatherMap_Prefix.pch2501739152#1944"    cd /Users/patrickrussell/Downloads/WeatherMap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-generated-files.hmap -I/Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-own-target-headers.hmap -I/Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-project-headers.hmap -F/Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/DerivedSources -c /Users/patrickrussell/Downloads/WeatherMap/WeatherMap_Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WeatherMap_Prefix-guijrqmetowkonakiiykrxmclwsz/WeatherMap_Prefix.pch.gch0#
+
+CTouch /Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app
+s316209586.176627
+e316209586.182270
+r1
+xTouch
+x/Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app
+lSLF07#2@91"Touch /Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app316209586#316209586#0(0"0(0#0#0"2501739152#289"    cd /Users/patrickrussell/Downloads/WeatherMap    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/patrickrussell/Downloads/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app0#
+

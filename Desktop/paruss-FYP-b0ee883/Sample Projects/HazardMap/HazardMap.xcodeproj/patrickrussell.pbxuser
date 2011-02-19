@@ -1,0 +1,150 @@
+// !$*UTF8*$!
+{
+	1A2D226C118E4A7600142450 /* compactgrid */ = {
+		activeExec = 0;
+		executables = (
+			FFDC700812D5275600463922 /* compactgrid */,
+		);
+	};
+	1D3623240D0F684500981E51 /* HazardMapAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {523, 754}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 998}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* HazardMap */ = {
+		activeExec = 0;
+		executables = (
+			FFDC700712D5275600463922 /* HazardMap */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FFDC700712D5275600463922 /* HazardMap */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* HazardMap */;
+		codeSenseManager = FFDC701712D5275A00463922 /* Code sense */;
+		executables = (
+			FFDC700712D5275600463922 /* HazardMap */,
+			FFDC700812D5275600463922 /* compactgrid */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 315959126;
+			PBXWorkspaceStateSaveDate = 315959126;
+		};
+		perUserProjectItems = {
+			FFDC701C12D527C800463922 /* PBXBookmark */ = FFDC701C12D527C800463922 /* PBXBookmark */;
+			FFDC701D12D527C800463922 /* PBXTextBookmark */ = FFDC701D12D527C800463922 /* PBXTextBookmark */;
+		};
+		sourceControlManager = FFDC701612D5275A00463922 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	FFDC700712D5275600463922 /* HazardMap */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = HazardMap;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	FFDC700812D5275600463922 /* compactgrid */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = compactgrid;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	FFDC701612D5275A00463922 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	FFDC701712D5275A00463922 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	FFDC701C12D527C800463922 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1D3623240D0F684500981E51 /* HazardMapAppDelegate.h */;
+	};
+	FFDC701D12D527C800463922 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* HazardMapAppDelegate.h */;
+		name = "HazardMapAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 998;
+		vrLoc = 0;
+	};
+}

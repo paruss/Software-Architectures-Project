@@ -1,0 +1,498 @@
+TMultipleDetailViews
+v7
+r0
+t315852012.272409
+cCheck dependencies
+cCpResource build/Debug-iphoneos/MultipleDetailViews.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app/Info.plist MultipleDetailViews-Info.plist
+cCpResource build/Debug-iphoneos/MultipleDetailViews.app/ReadMe.txt ReadMe.txt
+cCompileXIB /Users/patrickrussell/Downloads/MultipleDetailViews/en.lproj/FirstDetailView.xib
+cCompileXIB /Users/patrickrussell/Downloads/MultipleDetailViews/en.lproj/MainWindow.xib
+cCompileXIB /Users/patrickrussell/Downloads/MultipleDetailViews/en.lproj/SecondDetailView.xib
+cProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleDetailViews_Prefix-bogbrvltjrcxdaaiivslmcqmbvrg/MultipleDetailViews_Prefix.pch.gch MultipleDetailViews_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/Objects-normal/armv7/main.o /Users/patrickrussell/Downloads/MultipleDetailViews/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/Objects-normal/armv7/AppDelegate.o /Users/patrickrussell/Downloads/MultipleDetailViews/Classes/AppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/Objects-normal/armv7/FirstDetailViewController.o /Users/patrickrussell/Downloads/MultipleDetailViews/Classes/FirstDetailViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/Objects-normal/armv7/RootViewController.o /Users/patrickrussell/Downloads/MultipleDetailViews/Classes/RootViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/Objects-normal/armv7/SecondDetailViewController.o /Users/patrickrussell/Downloads/MultipleDetailViews/Classes/SecondDetailViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app/MultipleDetailViews normal armv7
+cGenerateDSYMFile /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app.dSYM /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app/MultipleDetailViews
+cProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app/embedded.mobileprovision
+cTouch /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/MultipleDetailViews.xcent
+cCodeSign /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk
+c000000004C5A53C10000000000000110
+t1280988097
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist
+c000000004C06E99F00000000000001A7
+t1275521439
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+c000000004C06E99F00000000000001E5
+t1275521439
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C005A1C00000000003B4B70
+t1275091484
+s3885936
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C005A45000000000036A640
+t1275091525
+s3581504
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C005A310000000000001355
+t1275091505
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C00642C000000000000098F
+t1275094060
+s2447
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0064A60000000002703220
+t1275094182
+s40907296
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk
+c000000004C6DE9E30000000000000110
+t1282271715
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+c000000004C578FA900000000000001A7
+t1280806825
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+c000000004C578FA900000000000001E5
+t1280806825
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A51050000000000345F00
+t1280987397
+s3432192
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A52B100000000003E1EF0
+t1280987825
+s4071152
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A527F0000000000001466
+t1280987775
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C62427000000000000009CD
+t1281507952
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C62430F0000000002EBC2B0
+t1281508111
+s49005232
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/Classes/AppDelegate.h
+c000000004BCE30AD0000000000000B1D
+t1271804077
+s2845
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/Classes/AppDelegate.m
+c000000004BCE30AD0000000000000B92
+t1271804077
+s2962
+i"AppDelegate.h"
+i"RootViewController.h"
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/Classes/FirstDetailViewController.h
+c000000004BCE30AD0000000000000B72
+t1271804077
+s2930
+i<UIKit/UIKit.h>
+i"RootViewController.h"
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/Classes/FirstDetailViewController.m
+c000000004BCE30AD0000000000000F1B
+t1271804077
+s3867
+i"FirstDetailViewController.h"
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/Classes/RootViewController.h
+c000000004BCE30AD0000000000000D8B
+t1271804077
+s3467
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/Classes/RootViewController.m
+c000000004BCE30AD0000000000001CE9
+t1271804077
+s7401
+i"RootViewController.h"
+i"FirstDetailViewController.h"
+i"SecondDetailViewController.h"
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/Classes/SecondDetailViewController.h
+c000000004BCE30AD0000000000000B97
+t1271804077
+s2967
+i<UIKit/UIKit.h>
+i"RootViewController.h"
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/Classes/SecondDetailViewController.m
+c000000004BCE30AD0000000000000E45
+t1271804077
+s3653
+i"SecondDetailViewController.h"
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/MultipleDetailViews_Prefix.pch
+c000000004BB3C88800000000000000CF
+t1270073480
+s207
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/ReadMe.txt
+c000000004BC63640000000000000084B
+t1271281216
+s2123
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app
+t1294159212
+s374
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app.dSYM
+t1294159211
+s102
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app/Info.plist
+t1294159206
+s987
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app/MultipleDetailViews
+t1294159211
+s26900
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app/PkgInfo
+t1294159206
+s8
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app/ReadMe.txt
+t1294159183
+s2123
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app/ResourceRules.plist
+t1294159206
+s485
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app/embedded.mobileprovision
+t1294159190
+s15853
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app/en.lproj/FirstDetailView.nib
+t1294159208
+s2224
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app/en.lproj/MainWindow.nib
+t1294159208
+s3299
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app/en.lproj/SecondDetailView.nib
+t1294159208
+s1754
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/MultipleDetailViews.xcent
+t1294159211
+s444
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/Objects-normal/armv7/AppDelegate.o
+t1294159211
+s45480
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/Objects-normal/armv7/FirstDetailViewController.o
+t1294159211
+s39032
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/Objects-normal/armv7/MultipleDetailViews.LinkFileList
+c000000004D234D4F000000000000033D
+t1294159183
+s829
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/Objects-normal/armv7/RootViewController.o
+t1294159211
+s48812
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/Objects-normal/armv7/SecondDetailViewController.o
+t1294159211
+s38056
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/Objects-normal/armv7/main.o
+t1294159211
+s6456
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/en.lproj/FirstDetailView.xib
+c000000004BC636400000000000004DDB
+t1271281216
+s19931
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/en.lproj/MainWindow.xib
+c000000004BC636400000000000007025
+t1271281216
+s28709
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/en.lproj/SecondDetailView.xib
+c000000004BC636400000000000004CE0
+t1271281216
+s19680
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/main.m
+c000000004BCE30AD0000000000000A83
+t1271804077
+s2691
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision
+c000000004CB063CE0000000000003DED
+t1286628302
+s15853
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleDetailViews_Prefix-bogbrvltjrcxdaaiivslmcqmbvrg/MultipleDetailViews_Prefix.pch.gch
+t1294159210
+s10294832
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleDetailViews_Prefix-fuibeavodxwnreayofeojtaadtrr/MultipleDetailViews_Prefix.pch.gch
+t1294159189
+s9421460
+
+NMultipleDetailViews-Info.plist
+c000000004BC6364000000000000004AA
+t1271281216
+s1194
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315852006#315852006#0(0"0(0#1#0"2462876304#0"0#
+
+CCodeSign /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app
+s315852011.835407
+e315852012.272353
+r1
+xCodeSign
+x/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app
+lSLF07#2@53"CodeSign build/Debug-iphoneos/MultipleDetailViews.app315852011#315852012#0(0"0(0#0#96"/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app2462876304#763"    cd /Users/patrickrussell/Downloads/MultipleDetailViews    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Patrick Russell (WD3RPMEYT5)" --resource-rules=/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app/ResourceRules.plist --entitlements /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/MultipleDetailViews.xcent /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app0#
+
+CCompileC build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/Objects-normal/armv7/AppDelegate.o /Users/patrickrussell/Downloads/MultipleDetailViews/Classes/AppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315852011.228667
+e315852011.345456
+r1
+xCompileC
+xbuild/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/Objects-normal/armv7/AppDelegate.o
+x/Users/patrickrussell/Downloads/MultipleDetailViews/Classes/AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/patrickrussell/Downloads/MultipleDetailViews/Classes/AppDelegate.m315852011#315852011#0(0"0(0#0#73"/Users/patrickrussell/Downloads/MultipleDetailViews/Classes/AppDelegate.m2462876304#2129"    cd /Users/patrickrussell/Downloads/MultipleDetailViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/MultipleDetailViews-generated-files.hmap -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/MultipleDetailViews-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/MultipleDetailViews-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/MultipleDetailViews-project-headers.hmap -F/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/DerivedSources/armv7 -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleDetailViews_Prefix-bogbrvltjrcxdaaiivslmcqmbvrg/MultipleDetailViews_Prefix.pch -c /Users/patrickrussell/Downloads/MultipleDetailViews/Classes/AppDelegate.m -o /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/Objects-normal/armv7/AppDelegate.o0#
+
+CCompileC build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/Objects-normal/armv7/FirstDetailViewController.o /Users/patrickrussell/Downloads/MultipleDetailViews/Classes/FirstDetailViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315852011.345622
+e315852011.460018
+r1
+xCompileC
+xbuild/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/Objects-normal/armv7/FirstDetailViewController.o
+x/Users/patrickrussell/Downloads/MultipleDetailViews/Classes/FirstDetailViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/patrickrussell/Downloads/MultipleDetailViews/Classes/FirstDetailViewController.m315852011#315852011#0(0"0(0#0#87"/Users/patrickrussell/Downloads/MultipleDetailViews/Classes/FirstDetailViewController.m2462876304#2157"    cd /Users/patrickrussell/Downloads/MultipleDetailViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/MultipleDetailViews-generated-files.hmap -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/MultipleDetailViews-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/MultipleDetailViews-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/MultipleDetailViews-project-headers.hmap -F/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/DerivedSources/armv7 -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleDetailViews_Prefix-bogbrvltjrcxdaaiivslmcqmbvrg/MultipleDetailViews_Prefix.pch -c /Users/patrickrussell/Downloads/MultipleDetailViews/Classes/FirstDetailViewController.m -o /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/Objects-normal/armv7/FirstDetailViewController.o0#
+
+CCompileC build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/Objects-normal/armv7/RootViewController.o /Users/patrickrussell/Downloads/MultipleDetailViews/Classes/RootViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315852011.460184
+e315852011.607957
+r1
+xCompileC
+xbuild/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/Objects-normal/armv7/RootViewController.o
+x/Users/patrickrussell/Downloads/MultipleDetailViews/Classes/RootViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/patrickrussell/Downloads/MultipleDetailViews/Classes/RootViewController.m315852011#315852011#0(0"0(0#0#80"/Users/patrickrussell/Downloads/MultipleDetailViews/Classes/RootViewController.m2462876304#2143"    cd /Users/patrickrussell/Downloads/MultipleDetailViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/MultipleDetailViews-generated-files.hmap -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/MultipleDetailViews-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/MultipleDetailViews-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/MultipleDetailViews-project-headers.hmap -F/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/DerivedSources/armv7 -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleDetailViews_Prefix-bogbrvltjrcxdaaiivslmcqmbvrg/MultipleDetailViews_Prefix.pch -c /Users/patrickrussell/Downloads/MultipleDetailViews/Classes/RootViewController.m -o /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/Objects-normal/armv7/RootViewController.o0#
+
+CCompileC build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/Objects-normal/armv7/SecondDetailViewController.o /Users/patrickrussell/Downloads/MultipleDetailViews/Classes/SecondDetailViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315852011.608139
+e315852011.710977
+r1
+xCompileC
+xbuild/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/Objects-normal/armv7/SecondDetailViewController.o
+x/Users/patrickrussell/Downloads/MultipleDetailViews/Classes/SecondDetailViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/patrickrussell/Downloads/MultipleDetailViews/Classes/SecondDetailViewController.m315852011#315852011#0(0"0(0#0#88"/Users/patrickrussell/Downloads/MultipleDetailViews/Classes/SecondDetailViewController.m2462876304#2159"    cd /Users/patrickrussell/Downloads/MultipleDetailViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/MultipleDetailViews-generated-files.hmap -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/MultipleDetailViews-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/MultipleDetailViews-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/MultipleDetailViews-project-headers.hmap -F/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/DerivedSources/armv7 -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleDetailViews_Prefix-bogbrvltjrcxdaaiivslmcqmbvrg/MultipleDetailViews_Prefix.pch -c /Users/patrickrussell/Downloads/MultipleDetailViews/Classes/SecondDetailViewController.m -o /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/Objects-normal/armv7/SecondDetailViewController.o0#
+
+CCompileC build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/Objects-normal/armv7/main.o /Users/patrickrussell/Downloads/MultipleDetailViews/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315852011.077163
+e315852011.228510
+r1
+xCompileC
+xbuild/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/Objects-normal/armv7/main.o
+x/Users/patrickrussell/Downloads/MultipleDetailViews/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/patrickrussell/Downloads/MultipleDetailViews/main.m315852011#315852011#0(0"0(0#0#58"/Users/patrickrussell/Downloads/MultipleDetailViews/main.m2462876304#2107"    cd /Users/patrickrussell/Downloads/MultipleDetailViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/MultipleDetailViews-generated-files.hmap -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/MultipleDetailViews-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/MultipleDetailViews-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/MultipleDetailViews-project-headers.hmap -F/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/DerivedSources/armv7 -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleDetailViews_Prefix-bogbrvltjrcxdaaiivslmcqmbvrg/MultipleDetailViews_Prefix.pch -c /Users/patrickrussell/Downloads/MultipleDetailViews/main.m -o /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/patrickrussell/Downloads/MultipleDetailViews/en.lproj/FirstDetailView.xib
+s315852006.488757
+e315852008.216382
+r1
+xCompileXIB
+x/Users/patrickrussell/Downloads/MultipleDetailViews/en.lproj/FirstDetailView.xib
+lSLF07#2@39"CompileXIB en.lproj/FirstDetailView.xib315852006#315852008#0(0"0(0#0#80"/Users/patrickrussell/Downloads/MultipleDetailViews/en.lproj/FirstDetailView.xib2462876304#621"    cd /Users/patrickrussell/Downloads/MultipleDetailViews    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app/en.lproj/FirstDetailView.nib /Users/patrickrussell/Downloads/MultipleDetailViews/en.lproj/FirstDetailView.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/patrickrussell/Downloads/MultipleDetailViews/en.lproj/MainWindow.xib
+s315852006.489969
+e315852008.229827
+r1
+xCompileXIB
+x/Users/patrickrussell/Downloads/MultipleDetailViews/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib315852006#315852008#0(0"0(0#0#75"/Users/patrickrussell/Downloads/MultipleDetailViews/en.lproj/MainWindow.xib2462876304#611"    cd /Users/patrickrussell/Downloads/MultipleDetailViews    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app/en.lproj/MainWindow.nib /Users/patrickrussell/Downloads/MultipleDetailViews/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/patrickrussell/Downloads/MultipleDetailViews/en.lproj/SecondDetailView.xib
+s315852008.216577
+e315852008.928607
+r1
+xCompileXIB
+x/Users/patrickrussell/Downloads/MultipleDetailViews/en.lproj/SecondDetailView.xib
+lSLF07#2@40"CompileXIB en.lproj/SecondDetailView.xib315852008#315852008#0(0"0(0#0#81"/Users/patrickrussell/Downloads/MultipleDetailViews/en.lproj/SecondDetailView.xib2462876304#623"    cd /Users/patrickrussell/Downloads/MultipleDetailViews    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app/en.lproj/SecondDetailView.nib /Users/patrickrussell/Downloads/MultipleDetailViews/en.lproj/SecondDetailView.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCpResource build/Debug-iphoneos/MultipleDetailViews.app/ReadMe.txt ReadMe.txt
+s315851983.511569
+e315851983.523095
+r1
+xCpResource
+xbuild/Debug-iphoneos/MultipleDetailViews.app/ReadMe.txt
+xReadMe.txt
+lSLF07#2@15"Copy ReadMe.txt315851983#315851983#0(0"0(0#0#62"/Users/patrickrussell/Downloads/MultipleDetailViews/ReadMe.txt2462876304#491"    cd /Users/patrickrussell/Downloads/MultipleDetailViews    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/patrickrussell/Downloads/MultipleDetailViews/ReadMe.txt /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app0#
+
+CCpResource build/Debug-iphoneos/MultipleDetailViews.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+s315851983.478294
+e315851983.511437
+r1
+xCpResource
+xbuild/Debug-iphoneos/MultipleDetailViews.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist315851983#315851983#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist2462876304#518"    cd /Users/patrickrussell/Downloads/MultipleDetailViews    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app0#
+
+CCpResource build/Debug-iphoneos/MultipleDetailViews.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+s315852006.429910
+e315852006.488131
+r1
+xCpResource
+xbuild/Debug-iphoneos/MultipleDetailViews.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist315852006#315852006#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist2462876304#518"    cd /Users/patrickrussell/Downloads/MultipleDetailViews    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app0#
+
+CGenerateDSYMFile /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app.dSYM /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app/MultipleDetailViews
+s315852011.767329
+e315852011.809026
+r1
+xGenerateDSYMFile
+x/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app.dSYM
+x/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app/MultipleDetailViews
+lSLF07#2@131"GenerateDSYMFile build/Debug-iphoneos/MultipleDetailViews.app.dSYM build/Debug-iphoneos/MultipleDetailViews.app/MultipleDetailViews315852011#315852011#0(0"0(0#0#116"/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app/MultipleDetailViews2462876304#437"    cd /Users/patrickrussell/Downloads/MultipleDetailViews    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app/MultipleDetailViews -o /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app.dSYM0#
+
+CLd /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app/MultipleDetailViews normal armv7
+s315852011.711124
+e315852011.767166
+r1
+xLd
+x/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app/MultipleDetailViews
+xnormal
+xarmv7
+lSLF07#2@121"Link /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app/MultipleDetailViews315852011#315852011#0(0"0(0#0#0"2462876304#947"    cd /Users/patrickrussell/Downloads/MultipleDetailViews    setenv IPHONEOS_DEPLOYMENT_TARGET 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -L/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos -F/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos -filelist /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/Objects-normal/armv7/MultipleDetailViews.LinkFileList -dead_strip -miphoneos-version-min=4.1 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app/MultipleDetailViews0#
+
+CProcessInfoPlistFile /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app/Info.plist MultipleDetailViews-Info.plist
+s315852006.450597
+e315852006.488516
+r1
+xProcessInfoPlistFile
+x/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app/Info.plist
+xMultipleDetailViews-Info.plist
+lSLF07#2@38"Process MultipleDetailViews-Info.plist315852006#315852006#0(0"0(0#0#82"/Users/patrickrussell/Downloads/MultipleDetailViews/MultipleDetailViews-Info.plist2462876304#662"    cd /Users/patrickrussell/Downloads/MultipleDetailViews    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MultipleDetailViews-Info.plist -genpkginfo /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app/ResourceRules.plist -o /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app/Info.plist0#
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleDetailViews_Prefix-bogbrvltjrcxdaaiivslmcqmbvrg/MultipleDetailViews_Prefix.pch.gch MultipleDetailViews_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315852008.928804
+e315852011.076920
+r1
+xProcessPCH
+x/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleDetailViews_Prefix-bogbrvltjrcxdaaiivslmcqmbvrg/MultipleDetailViews_Prefix.pch.gch
+xMultipleDetailViews_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile MultipleDetailViews_Prefix.pch315852008#315852011#0(0"0(0#0#82"/Users/patrickrussell/Downloads/MultipleDetailViews/MultipleDetailViews_Prefix.pch2462876304#1980"    cd /Users/patrickrussell/Downloads/MultipleDetailViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/MultipleDetailViews-generated-files.hmap -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/MultipleDetailViews-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/MultipleDetailViews-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/MultipleDetailViews-project-headers.hmap -F/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/DerivedSources/armv7 -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/DerivedSources -c /Users/patrickrussell/Downloads/MultipleDetailViews/MultipleDetailViews_Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleDetailViews_Prefix-bogbrvltjrcxdaaiivslmcqmbvrg/MultipleDetailViews_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleDetailViews_Prefix-fuibeavodxwnreayofeojtaadtrr/MultipleDetailViews_Prefix.pch.gch MultipleDetailViews_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315851988.486984
+e315851989.714978
+r1
+xProcessPCH
+x/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleDetailViews_Prefix-fuibeavodxwnreayofeojtaadtrr/MultipleDetailViews_Prefix.pch.gch
+xMultipleDetailViews_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile MultipleDetailViews_Prefix.pch315851988#315851989#0(0"0(0#0#82"/Users/patrickrussell/Downloads/MultipleDetailViews/MultipleDetailViews_Prefix.pch2462876304#1980"    cd /Users/patrickrussell/Downloads/MultipleDetailViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/MultipleDetailViews-generated-files.hmap -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/MultipleDetailViews-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/MultipleDetailViews-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/MultipleDetailViews-project-headers.hmap -F/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/DerivedSources/armv7 -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/DerivedSources -c /Users/patrickrussell/Downloads/MultipleDetailViews/MultipleDetailViews_Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleDetailViews_Prefix-fuibeavodxwnreayofeojtaadtrr/MultipleDetailViews_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app/embedded.mobileprovision
+s315851990.382436
+e315851990.415465
+r1
+xProcessProductPackaging
+x/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision
+x/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app/embedded.mobileprovision
+lSLF07#2@213"ProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" build/Debug-iphoneos/MultipleDetailViews.app/embedded.mobileprovision315851990#315851990#0(0"0(0#0#121"/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app/embedded.mobileprovision2462876304#470"    cd /Users/patrickrussell/Downloads/MultipleDetailViews    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" -o /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/MultipleDetailViews.xcent
+s315851990.557659
+e315851990.602633
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist
+x/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/MultipleDetailViews.xcent
+lSLF07#2@211"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/MultipleDetailViews.xcent315851990#315851990#0(0"0(0#0#150"/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/MultipleDetailViews.xcent2462876304#494"    cd /Users/patrickrussell/Downloads/MultipleDetailViews    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/MultipleDetailViews.xcent0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/MultipleDetailViews.xcent
+s315852011.814805
+e315852011.835238
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+x/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/MultipleDetailViews.xcent
+lSLF07#2@211"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/MultipleDetailViews.xcent315852011#315852011#0(0"0(0#0#150"/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/MultipleDetailViews.xcent2462876304#494"    cd /Users/patrickrussell/Downloads/MultipleDetailViews    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphoneos/MultipleDetailViews.build/MultipleDetailViews.xcent0#
+
+CTouch /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app
+s315852011.809337
+e315852011.814654
+r1
+xTouch
+x/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app
+lSLF07#2@102"Touch /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app315852011#315852011#0(0"0(0#0#0"2462876304#302"    cd /Users/patrickrussell/Downloads/MultipleDetailViews    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphoneos/MultipleDetailViews.app0#
+

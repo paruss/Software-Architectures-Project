@@ -1,0 +1,1079 @@
+TMapCallouts
+v7
+r0
+t316898712.839248
+cCheck dependencies
+cCpResource build/Debug-iphoneos/MapCallouts.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Info.plist Info.plist
+cCompileXIB /Users/patrickrussell/Downloads/MapCallouts/en.lproj/MainWindow.xib
+cCompileXIB /Users/patrickrussell/Downloads/MapCallouts/en.lproj/MapViewController.xib
+cCompileXIB /Users/patrickrussell/Downloads/MapCallouts/en.lproj/DetailViewController.xib
+cCpResource build/Debug-iphoneos/MapCallouts.app/ReadMe.txt ReadMe.txt
+cCopyPNGFile /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Default.png images/Default.png
+cCopyPNGFile /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/flag.png images/flag.png
+cCopyPNGFile /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/GoldenGate.png images/GoldenGate.png
+cCopyPNGFile /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Icon-72.png images/Icon-72.png
+cCopyPNGFile /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Icon-Small-50.png images/Icon-Small-50.png
+cCopyPNGFile /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Icon-Small.png images/Icon-Small.png
+cCopyPNGFile /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Icon-Small@2x.png images/Icon-Small@2x.png
+cCopyPNGFile /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Icon.png images/Icon.png
+cCopyPNGFile /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Icon@2x.png images/Icon@2x.png
+cCopyPNGFile /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Location.png images/Location.png
+cCopyPNGFile /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/SFIcon.png images/SFIcon.png
+cCpResource build/Debug-iphoneos/MapCallouts.app/iTunesArtwork images/../iTunesArtwork
+cProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bbploxmglgxqycbzygkgrrkjzxnu/Prefix.pch.gch Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/main.o /Users/patrickrussell/Downloads/MapCallouts/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/AppDelegate.o /Users/patrickrussell/Downloads/MapCallouts/AppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/SFAnnotation.o /Users/patrickrussell/Downloads/MapCallouts/SFAnnotation.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/MapViewController.o /Users/patrickrussell/Downloads/MapCallouts/MapViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/BridgeAnnotation.o /Users/patrickrussell/Downloads/MapCallouts/BridgeAnnotation.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/DetailViewController.o /Users/patrickrussell/Downloads/MapCallouts/DetailViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/MapCallouts normal armv6
+cGenerateDSYMFile /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app.dSYM /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/MapCallouts
+cProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/B5B5B91C-0678-47A9-8750-6532D30E6A04.mobileprovision" /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/embedded.mobileprovision
+cTouch /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/MapCallouts.xcent
+cCodeSign /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk
+c000000004C6DE9E30000000000000110
+t1282271715
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+c000000004C578FA900000000000001A7
+t1280806825
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+c000000004C578FA900000000000001E5
+t1280806825
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A51050000000000345F00
+t1280987397
+s3432192
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A52B100000000003E1EF0
+t1280987825
+s4071152
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A527F0000000000001466
+t1280987775
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C6C31EB00000000000002FE
+t1282159083
+s766
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C6C320B00000000002801E0
+t1282159115
+s2621920
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C62427000000000000009CD
+t1281507952
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C62430F0000000002EBC2B0
+t1281508111
+s49005232
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/AppDelegate.h
+c000000004D35ECA70000000000000B22
+t1295379623
+s2850
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/AppDelegate.m
+c000000004D35ECA70000000000000BA4
+t1295379623
+s2980
+i"AppDelegate.h"
+i"MapViewController.h"
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/BridgeAnnotation.h
+c000000004D35ECA70000000000000A4F
+t1295379623
+s2639
+i<MapKit/MapKit.h>
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/BridgeAnnotation.m
+c000000004D35ECA70000000000000BFE
+t1295379623
+s3070
+i"BridgeAnnotation.h"
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/DetailViewController.h
+c000000004D35ECA70000000000000A52
+t1295379623
+s2642
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/DetailViewController.m
+c000000004D35ECA70000000000000B6F
+t1295379623
+s2927
+i"DetailViewController.h"
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/MapViewController.h
+c000000004D35ECA70000000000000CA7
+t1295379623
+s3239
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/MapViewController.m
+c000000004D35ECA7000000000000288D
+t1295379623
+s10381
+i"MapViewController.h"
+i"DetailViewController.h"
+i"SFAnnotation.h"
+i"BridgeAnnotation.h"
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/Prefix.pch
+c000000004D35ECA70000000000000059
+t1295379623
+s89
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/ReadMe.txt
+c000000004D35ECA70000000000000923
+t1295379623
+s2339
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/SFAnnotation.h
+c000000004D35ECA70000000000000B25
+t1295379623
+s2853
+i<MapKit/MapKit.h>
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/SFAnnotation.m
+c000000004D35ECA70000000000000BF9
+t1295379623
+s3065
+i"SFAnnotation.h"
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/Debug-iphoneos/MapCallouts.app
+t1295379624
+s782
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/Debug-iphoneos/MapCallouts.app.dSYM
+t1295379623
+s102
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Default.png
+t1295379624
+s15122
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/Debug-iphoneos/MapCallouts.app/GoldenGate.png
+t1295379624
+s238044
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Icon-72.png
+t1295379624
+s925
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Icon-Small-50.png
+t1295379624
+s880
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Icon-Small.png
+t1295379624
+s854
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Icon-Small@2x.png
+t1295379624
+s893
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Icon.png
+t1295379624
+s891
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Icon@2x.png
+t1295379624
+s995
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Info.plist
+t1295379624
+s846
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Location.png
+t1295379624
+s4623
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/Debug-iphoneos/MapCallouts.app/MapCallouts
+t1295379624
+s37792
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/Debug-iphoneos/MapCallouts.app/PkgInfo
+t1295379624
+s8
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/Debug-iphoneos/MapCallouts.app/ReadMe.txt
+t1295379624
+s2339
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/Debug-iphoneos/MapCallouts.app/ResourceRules.plist
+t1295379624
+s485
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/Debug-iphoneos/MapCallouts.app/SFIcon.png
+t1295379624
+s305
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/Debug-iphoneos/MapCallouts.app/embedded.mobileprovision
+t1295379624
+s7182
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/Debug-iphoneos/MapCallouts.app/en.lproj/DetailViewController.nib
+t1295379624
+s1068
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/Debug-iphoneos/MapCallouts.app/en.lproj/MainWindow.nib
+t1295379624
+s2034
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/Debug-iphoneos/MapCallouts.app/en.lproj/MapViewController.nib
+t1295379624
+s1776
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/Debug-iphoneos/MapCallouts.app/flag.png
+t1295379624
+s902
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/Debug-iphoneos/MapCallouts.app/iTunesArtwork
+t1295379624
+s5188
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/AppDelegate.o
+t1295379624
+s47200
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/BridgeAnnotation.o
+t1295379624
+s10928
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/DetailViewController.o
+t1295379624
+s34408
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/MapCallouts.LinkFileList
+c000000004D35ECA8000000000000033E
+t1295379624
+s830
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/MapViewController.o
+t1295379624
+s57832
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/SFAnnotation.o
+t1295379624
+s14872
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/main.o
+t1295379624
+s6456
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/en.lproj/DetailViewController.xib
+c000000004D35ECA80000000000004121
+t1295379624
+s16673
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/en.lproj/MainWindow.xib
+c000000004D35ECA800000000000072B4
+t1295379624
+s29364
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/en.lproj/MapViewController.xib
+c000000004D35ECA80000000000005A61
+t1295379624
+s23137
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/images/../iTunesArtwork
+c000000004D35ECA80000000000001444
+t1295379624
+s5188
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/images/Default.png
+c000000004D35ECA80000000000003AFD
+t1295379624
+s15101
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/images/GoldenGate.png
+c000000004D35ECA80000000000036755
+t1295379624
+s223061
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/images/Icon-72.png
+c000000004D35ECA80000000000000427
+t1295379624
+s1063
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/images/Icon-Small-50.png
+c000000004D35ECA800000000000003E0
+t1295379624
+s992
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/images/Icon-Small.png
+c000000004D35ECA80000000000000396
+t1295379624
+s918
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/images/Icon-Small@2x.png
+c000000004D35ECA800000000000003F2
+t1295379624
+s1010
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/images/Icon.png
+c000000004D35ECA800000000000003EF
+t1295379624
+s1007
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/images/Icon@2x.png
+c000000004D35ECA800000000000004E4
+t1295379624
+s1252
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/images/Location.png
+c000000004D35ECA800000000000011BA
+t1295379624
+s4538
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/images/SFIcon.png
+c000000004D35ECA80000000000000107
+t1295379624
+s263
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/images/flag.png
+c000000004D35ECA800000000000003E3
+t1295379624
+s995
+
+N/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/main.m
+c000000004D35ECA80000000000000AB0
+t1295379624
+s2736
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Downloads/MapCallouts/AppDelegate.h
+c000000004C2536810000000000000B22
+t1277507201
+s2850
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Downloads/MapCallouts/AppDelegate.m
+c000000004C2536810000000000000BA4
+t1277507201
+s2980
+i"AppDelegate.h"
+i"MapViewController.h"
+
+N/Users/patrickrussell/Downloads/MapCallouts/BridgeAnnotation.h
+c000000004C2536810000000000000A4F
+t1277507201
+s2639
+i<MapKit/MapKit.h>
+
+N/Users/patrickrussell/Downloads/MapCallouts/BridgeAnnotation.m
+c000000004C2536810000000000000BFE
+t1277507201
+s3070
+i"BridgeAnnotation.h"
+
+N/Users/patrickrussell/Downloads/MapCallouts/DetailViewController.h
+c000000004C2536810000000000000A52
+t1277507201
+s2642
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Downloads/MapCallouts/DetailViewController.m
+c000000004C2536810000000000000B6F
+t1277507201
+s2927
+i"DetailViewController.h"
+
+N/Users/patrickrussell/Downloads/MapCallouts/MapViewController.h
+c000000004C2536810000000000000CA7
+t1277507201
+s3239
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+
+N/Users/patrickrussell/Downloads/MapCallouts/MapViewController.m
+c000000004C253681000000000000288D
+t1277507201
+s10381
+i"MapViewController.h"
+i"DetailViewController.h"
+i"SFAnnotation.h"
+i"BridgeAnnotation.h"
+
+N/Users/patrickrussell/Downloads/MapCallouts/Prefix.pch
+c000000004B96E7580000000000000059
+t1268180824
+s89
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Downloads/MapCallouts/ReadMe.txt
+c000000004C2509A70000000000000923
+t1277495719
+s2339
+
+N/Users/patrickrussell/Downloads/MapCallouts/SFAnnotation.h
+c000000004C2536810000000000000B25
+t1277507201
+s2853
+i<MapKit/MapKit.h>
+
+N/Users/patrickrussell/Downloads/MapCallouts/SFAnnotation.m
+c000000004C2536810000000000000BF9
+t1277507201
+s3065
+i"SFAnnotation.h"
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app
+t1295199573
+s782
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app.dSYM
+t1294151283
+s102
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Default.png
+t1294151276
+s15122
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/GoldenGate.png
+t1294151276
+s238044
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Icon-72.png
+t1294151276
+s925
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Icon-Small-50.png
+t1294151276
+s880
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Icon-Small.png
+t1294151276
+s854
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Icon-Small@2x.png
+t1294151276
+s893
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Icon.png
+t1294151276
+s891
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Icon@2x.png
+t1294151276
+s995
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Info.plist
+t1295199572
+s846
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Location.png
+t1294151277
+s4623
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/MapCallouts
+t1294151283
+s37792
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/PkgInfo
+t1295199572
+s8
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/ReadMe.txt
+t1294151274
+s2339
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/ResourceRules.plist
+t1294151269
+s485
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/SFIcon.png
+t1294151277
+s305
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/embedded.mobileprovision
+t1295189336
+s7182
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/en.lproj/DetailViewController.nib
+t1294151275
+s1068
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/en.lproj/MainWindow.nib
+t1294151274
+s2034
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/en.lproj/MapViewController.nib
+t1294151274
+s1776
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/flag.png
+t1294151275
+s902
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/iTunesArtwork
+t1294151277
+s5188
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/MapCallouts.xcent
+t1295199572
+s436
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/AppDelegate.o
+t1294151282
+s47200
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/BridgeAnnotation.o
+t1294151282
+s10928
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/DetailViewController.o
+t1294151282
+s34408
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/MapCallouts.LinkFileList
+c000000004D232E65000000000000033E
+t1294151269
+s830
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/MapViewController.o
+t1294151282
+s57832
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/SFAnnotation.o
+t1294151282
+s14872
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/main.o
+t1294151281
+s6456
+
+N/Users/patrickrussell/Downloads/MapCallouts/en.lproj/DetailViewController.xib
+c000000004B96E7580000000000004160
+t1268180824
+s16736
+
+N/Users/patrickrussell/Downloads/MapCallouts/en.lproj/MainWindow.xib
+c000000004B96E75800000000000072B4
+t1268180824
+s29364
+
+N/Users/patrickrussell/Downloads/MapCallouts/en.lproj/MapViewController.xib
+c000000004B96E7580000000000005A61
+t1268180824
+s23137
+
+N/Users/patrickrussell/Downloads/MapCallouts/images/../iTunesArtwork
+c000000004C2509590000000000001444
+t1277495641
+s5188
+
+N/Users/patrickrussell/Downloads/MapCallouts/images/Default.png
+c000000004C2509590000000000003AFD
+t1277495641
+s15101
+
+N/Users/patrickrussell/Downloads/MapCallouts/images/GoldenGate.png
+c000000004C1BE0590000000000036755
+t1276895321
+s223061
+
+N/Users/patrickrussell/Downloads/MapCallouts/images/Icon-72.png
+c000000004C2509590000000000000427
+t1277495641
+s1063
+
+N/Users/patrickrussell/Downloads/MapCallouts/images/Icon-Small-50.png
+c000000004C25095900000000000003E0
+t1277495641
+s992
+
+N/Users/patrickrussell/Downloads/MapCallouts/images/Icon-Small.png
+c000000004C1A9FA20000000000000396
+t1276813218
+s918
+
+N/Users/patrickrussell/Downloads/MapCallouts/images/Icon-Small@2x.png
+c000000004C1A9FA200000000000003F2
+t1276813218
+s1010
+
+N/Users/patrickrussell/Downloads/MapCallouts/images/Icon.png
+c000000004C1A9FA200000000000003EF
+t1276813218
+s1007
+
+N/Users/patrickrussell/Downloads/MapCallouts/images/Icon@2x.png
+c000000004C1A9FA200000000000004E4
+t1276813218
+s1252
+
+N/Users/patrickrussell/Downloads/MapCallouts/images/Location.png
+c000000004C1BE05900000000000011BA
+t1276895321
+s4538
+
+N/Users/patrickrussell/Downloads/MapCallouts/images/SFIcon.png
+c000000004C1BE0590000000000000107
+t1276895321
+s263
+
+N/Users/patrickrussell/Downloads/MapCallouts/images/flag.png
+c000000004C1BE05900000000000003E3
+t1276895321
+s995
+
+N/Users/patrickrussell/Downloads/MapCallouts/main.m
+c000000004C2536810000000000000AB0
+t1277507201
+s2736
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision
+c000000004CB063CE0000000000003DED
+t1286628302
+s15853
+
+N/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/B5B5B91C-0678-47A9-8750-6532D30E6A04.mobileprovision
+c000000004D3301150000000000001C0E
+t1295188245
+s7182
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bbploxmglgxqycbzygkgrrkjzxnu/Prefix.pch.gch
+t1294151281
+s9848368
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-hgvliqthnfxfonawqqaehlzaiwmp/Prefix.pch.gch
+t2
+s0
+
+NInfo.plist
+c000000004D35ECA70000000000000424
+t1295379623
+s1060
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies316898709#316898709#0(0"0(0#1#0"2501739152#0"0#
+
+CCodeSign "/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/Debug-iphoneos/MapCallouts.app"
+r0
+
+CCodeSign /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app
+s316898710.004622
+e316898712.839096
+r1
+xCodeSign
+x/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app
+o/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app: replacing existing signature
+lSLF07#2@45"CodeSign build/Debug-iphoneos/MapCallouts.app316898710#316898712#0(111"/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app: replacing existing signature0(0#0#80"/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app4717520#691"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Patrick Russell (WD3RPMEYT5)" --resource-rules=/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/ResourceRules.plist --entitlements /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/MapCallouts.xcent /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app0#
+
+CCompileC build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/AppDelegate.o "/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/AppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/AppDelegate.o /Users/patrickrussell/Downloads/MapCallouts/AppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315844081.827152
+e315844082.067110
+r1
+xCompileC
+xbuild/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/AppDelegate.o
+x/Users/patrickrussell/Downloads/MapCallouts/AppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/patrickrussell/Downloads/MapCallouts/AppDelegate.m315844081#315844082#0(0"0(0#0#57"/Users/patrickrussell/Downloads/MapCallouts/AppDelegate.m2462876304#1849"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/MapCallouts-generated-files.hmap -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/MapCallouts-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/MapCallouts-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/MapCallouts-project-headers.hmap -F/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bbploxmglgxqycbzygkgrrkjzxnu/Prefix.pch -c /Users/patrickrussell/Downloads/MapCallouts/AppDelegate.m -o /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/AppDelegate.o0#
+
+CCompileC build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/BridgeAnnotation.o "/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/BridgeAnnotation.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/BridgeAnnotation.o /Users/patrickrussell/Downloads/MapCallouts/BridgeAnnotation.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315844082.348944
+e315844082.441116
+r1
+xCompileC
+xbuild/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/BridgeAnnotation.o
+x/Users/patrickrussell/Downloads/MapCallouts/BridgeAnnotation.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/patrickrussell/Downloads/MapCallouts/BridgeAnnotation.m315844082#315844082#0(0"0(0#0#62"/Users/patrickrussell/Downloads/MapCallouts/BridgeAnnotation.m2462876304#1859"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/MapCallouts-generated-files.hmap -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/MapCallouts-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/MapCallouts-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/MapCallouts-project-headers.hmap -F/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bbploxmglgxqycbzygkgrrkjzxnu/Prefix.pch -c /Users/patrickrussell/Downloads/MapCallouts/BridgeAnnotation.m -o /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/BridgeAnnotation.o0#
+
+CCompileC build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/DetailViewController.o "/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/DetailViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/DetailViewController.o /Users/patrickrussell/Downloads/MapCallouts/DetailViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315844082.441271
+e315844082.525751
+r1
+xCompileC
+xbuild/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/DetailViewController.o
+x/Users/patrickrussell/Downloads/MapCallouts/DetailViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/patrickrussell/Downloads/MapCallouts/DetailViewController.m315844082#315844082#0(0"0(0#0#66"/Users/patrickrussell/Downloads/MapCallouts/DetailViewController.m2462876304#1867"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/MapCallouts-generated-files.hmap -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/MapCallouts-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/MapCallouts-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/MapCallouts-project-headers.hmap -F/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bbploxmglgxqycbzygkgrrkjzxnu/Prefix.pch -c /Users/patrickrussell/Downloads/MapCallouts/DetailViewController.m -o /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/DetailViewController.o0#
+
+CCompileC build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/MapViewController.o "/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/MapViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/MapViewController.o /Users/patrickrussell/Downloads/MapCallouts/MapViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315844082.174973
+e315844082.348786
+r1
+xCompileC
+xbuild/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/MapViewController.o
+x/Users/patrickrussell/Downloads/MapCallouts/MapViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/patrickrussell/Downloads/MapCallouts/MapViewController.m315844082#315844082#0(0"0(0#0#63"/Users/patrickrussell/Downloads/MapCallouts/MapViewController.m2462876304#1861"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/MapCallouts-generated-files.hmap -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/MapCallouts-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/MapCallouts-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/MapCallouts-project-headers.hmap -F/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bbploxmglgxqycbzygkgrrkjzxnu/Prefix.pch -c /Users/patrickrussell/Downloads/MapCallouts/MapViewController.m -o /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/MapViewController.o0#
+
+CCompileC build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/SFAnnotation.o "/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/SFAnnotation.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/SFAnnotation.o /Users/patrickrussell/Downloads/MapCallouts/SFAnnotation.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315844082.067262
+e315844082.174808
+r1
+xCompileC
+xbuild/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/SFAnnotation.o
+x/Users/patrickrussell/Downloads/MapCallouts/SFAnnotation.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/patrickrussell/Downloads/MapCallouts/SFAnnotation.m315844082#315844082#0(0"0(0#0#58"/Users/patrickrussell/Downloads/MapCallouts/SFAnnotation.m2462876304#1851"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/MapCallouts-generated-files.hmap -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/MapCallouts-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/MapCallouts-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/MapCallouts-project-headers.hmap -F/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bbploxmglgxqycbzygkgrrkjzxnu/Prefix.pch -c /Users/patrickrussell/Downloads/MapCallouts/SFAnnotation.m -o /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/SFAnnotation.o0#
+
+CCompileC build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/main.o "/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/main.o /Users/patrickrussell/Downloads/MapCallouts/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315844081.666777
+e315844081.826998
+r1
+xCompileC
+xbuild/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/main.o
+x/Users/patrickrussell/Downloads/MapCallouts/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/patrickrussell/Downloads/MapCallouts/main.m315844081#315844081#0(0"0(0#0#50"/Users/patrickrussell/Downloads/MapCallouts/main.m2462876304#1835"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/MapCallouts-generated-files.hmap -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/MapCallouts-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/MapCallouts-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/MapCallouts-project-headers.hmap -F/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bbploxmglgxqycbzygkgrrkjzxnu/Prefix.pch -c /Users/patrickrussell/Downloads/MapCallouts/main.m -o /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/main.o0#
+
+CCompileXIB "/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/en.lproj/DetailViewController.xib"
+r0
+
+CCompileXIB "/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/en.lproj/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/en.lproj/MapViewController.xib"
+r0
+
+CCompileXIB /Users/patrickrussell/Downloads/MapCallouts/en.lproj/DetailViewController.xib
+s315844074.683997
+e315844075.614896
+r1
+xCompileXIB
+x/Users/patrickrussell/Downloads/MapCallouts/en.lproj/DetailViewController.xib
+lSLF07#2@44"CompileXIB en.lproj/DetailViewController.xib315844074#315844075#0(0"0(0#0#77"/Users/patrickrussell/Downloads/MapCallouts/en.lproj/DetailViewController.xib2462876304#599"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/en.lproj/DetailViewController.nib /Users/patrickrussell/Downloads/MapCallouts/en.lproj/DetailViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/patrickrussell/Downloads/MapCallouts/en.lproj/MainWindow.xib
+s315844069.685023
+e315844074.683792
+r1
+xCompileXIB
+x/Users/patrickrussell/Downloads/MapCallouts/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib315844069#315844074#0(0"0(0#0#67"/Users/patrickrussell/Downloads/MapCallouts/en.lproj/MainWindow.xib2462876304#579"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/en.lproj/MainWindow.nib /Users/patrickrussell/Downloads/MapCallouts/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/patrickrussell/Downloads/MapCallouts/en.lproj/MapViewController.xib
+s315844069.686420
+e315844074.875953
+r1
+xCompileXIB
+x/Users/patrickrussell/Downloads/MapCallouts/en.lproj/MapViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@41"CompileXIB en.lproj/MapViewController.xib315844069#315844074#0(504"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#74"/Users/patrickrussell/Downloads/MapCallouts/en.lproj/MapViewController.xib2462876304#593"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/en.lproj/MapViewController.nib /Users/patrickrussell/Downloads/MapCallouts/en.lproj/MapViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCopyPNGFile "/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Default.png" images/Default.png
+r0
+
+CCopyPNGFile "/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/Debug-iphoneos/MapCallouts.app/GoldenGate.png" images/GoldenGate.png
+r0
+
+CCopyPNGFile "/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Icon-72.png" images/Icon-72.png
+r0
+
+CCopyPNGFile "/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Icon-Small-50.png" images/Icon-Small-50.png
+r0
+
+CCopyPNGFile "/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Icon-Small.png" images/Icon-Small.png
+r0
+
+CCopyPNGFile "/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Icon-Small@2x.png" images/Icon-Small@2x.png
+r0
+
+CCopyPNGFile "/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Icon.png" images/Icon.png
+r0
+
+CCopyPNGFile "/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Icon@2x.png" images/Icon@2x.png
+r0
+
+CCopyPNGFile "/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Location.png" images/Location.png
+r0
+
+CCopyPNGFile "/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/Debug-iphoneos/MapCallouts.app/SFIcon.png" images/SFIcon.png
+r0
+
+CCopyPNGFile "/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/Debug-iphoneos/MapCallouts.app/flag.png" images/flag.png
+r0
+
+CCopyPNGFile /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Default.png images/Default.png
+s315844074.877314
+e315844076.069552
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Default.png
+ximages/Default.png
+lSLF07#2@79"CopyPNGFile build/Debug-iphoneos/MapCallouts.app/Default.png images/Default.png315844074#315844076#0(0"0(0#0#62"/Users/patrickrussell/Downloads/MapCallouts/images/Default.png2462876304#588"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/MapCallouts/images/Default.png /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Default.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/GoldenGate.png images/GoldenGate.png
+s315844075.977422
+e315844076.884355
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/GoldenGate.png
+ximages/GoldenGate.png
+lSLF07#2@85"CopyPNGFile build/Debug-iphoneos/MapCallouts.app/GoldenGate.png images/GoldenGate.png315844075#315844076#0(0"0(0#0#65"/Users/patrickrussell/Downloads/MapCallouts/images/GoldenGate.png2462876304#594"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/MapCallouts/images/GoldenGate.png /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/GoldenGate.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Icon-72.png images/Icon-72.png
+s315844076.069684
+e315844076.110743
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Icon-72.png
+ximages/Icon-72.png
+lSLF07#2@79"CopyPNGFile build/Debug-iphoneos/MapCallouts.app/Icon-72.png images/Icon-72.png315844076#315844076#0(0"0(0#0#62"/Users/patrickrussell/Downloads/MapCallouts/images/Icon-72.png2462876304#588"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/MapCallouts/images/Icon-72.png /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Icon-72.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Icon-Small-50.png images/Icon-Small-50.png
+s315844076.110907
+e315844076.176791
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Icon-Small-50.png
+ximages/Icon-Small-50.png
+lSLF07#2@91"CopyPNGFile build/Debug-iphoneos/MapCallouts.app/Icon-Small-50.png images/Icon-Small-50.png315844076#315844076#0(0"0(0#0#68"/Users/patrickrussell/Downloads/MapCallouts/images/Icon-Small-50.png2462876304#600"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/MapCallouts/images/Icon-Small-50.png /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Icon-Small-50.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Icon-Small.png images/Icon-Small.png
+s315844076.176934
+e315844076.214257
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Icon-Small.png
+ximages/Icon-Small.png
+lSLF07#2@85"CopyPNGFile build/Debug-iphoneos/MapCallouts.app/Icon-Small.png images/Icon-Small.png315844076#315844076#0(0"0(0#0#65"/Users/patrickrussell/Downloads/MapCallouts/images/Icon-Small.png2462876304#594"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/MapCallouts/images/Icon-Small.png /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Icon-Small.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Icon-Small@2x.png images/Icon-Small@2x.png
+s315844076.884519
+e315844076.920150
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Icon-Small@2x.png
+ximages/Icon-Small@2x.png
+lSLF07#2@91"CopyPNGFile build/Debug-iphoneos/MapCallouts.app/Icon-Small@2x.png images/Icon-Small@2x.png315844076#315844076#0(0"0(0#0#68"/Users/patrickrussell/Downloads/MapCallouts/images/Icon-Small@2x.png2462876304#600"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/MapCallouts/images/Icon-Small@2x.png /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Icon-Small@2x.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Icon.png images/Icon.png
+s315844076.920290
+e315844076.956168
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Icon.png
+ximages/Icon.png
+lSLF07#2@73"CopyPNGFile build/Debug-iphoneos/MapCallouts.app/Icon.png images/Icon.png315844076#315844076#0(0"0(0#0#59"/Users/patrickrussell/Downloads/MapCallouts/images/Icon.png2462876304#582"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/MapCallouts/images/Icon.png /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Icon.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Icon@2x.png images/Icon@2x.png
+s315844076.956312
+e315844076.994916
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Icon@2x.png
+ximages/Icon@2x.png
+lSLF07#2@79"CopyPNGFile build/Debug-iphoneos/MapCallouts.app/Icon@2x.png images/Icon@2x.png315844076#315844076#0(0"0(0#0#62"/Users/patrickrussell/Downloads/MapCallouts/images/Icon@2x.png2462876304#588"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/MapCallouts/images/Icon@2x.png /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Icon@2x.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Location.png images/Location.png
+s315844076.995065
+e315844077.038311
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Location.png
+ximages/Location.png
+lSLF07#2@81"CopyPNGFile build/Debug-iphoneos/MapCallouts.app/Location.png images/Location.png315844076#315844077#0(0"0(0#0#63"/Users/patrickrussell/Downloads/MapCallouts/images/Location.png2462876304#590"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/MapCallouts/images/Location.png /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Location.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/SFIcon.png images/SFIcon.png
+s315844077.038477
+e315844077.074114
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/SFIcon.png
+ximages/SFIcon.png
+lSLF07#2@77"CopyPNGFile build/Debug-iphoneos/MapCallouts.app/SFIcon.png images/SFIcon.png315844077#315844077#0(0"0(0#0#61"/Users/patrickrussell/Downloads/MapCallouts/images/SFIcon.png2462876304#586"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/MapCallouts/images/SFIcon.png /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/SFIcon.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/flag.png images/flag.png
+s315844075.615036
+e315844075.977283
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/flag.png
+ximages/flag.png
+lSLF07#2@73"CopyPNGFile build/Debug-iphoneos/MapCallouts.app/flag.png images/flag.png315844075#315844075#0(0"0(0#0#59"/Users/patrickrussell/Downloads/MapCallouts/images/flag.png2462876304#582"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/MapCallouts/images/flag.png /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/flag.png0#
+
+CCpResource build/Debug-iphoneos/MapCallouts.app/ReadMe.txt ReadMe.txt
+s315844074.876081
+e315844074.929319
+r1
+xCpResource
+xbuild/Debug-iphoneos/MapCallouts.app/ReadMe.txt
+xReadMe.txt
+lSLF07#2@15"Copy ReadMe.txt315844074#315844074#0(0"0(0#0#54"/Users/patrickrussell/Downloads/MapCallouts/ReadMe.txt2462876304#459"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/patrickrussell/Downloads/MapCallouts/ReadMe.txt /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app0#
+
+CCpResource build/Debug-iphoneos/MapCallouts.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+s315844069.535789
+e315844069.684847
+r1
+xCpResource
+xbuild/Debug-iphoneos/MapCallouts.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist315844069#315844069#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist4717520#494"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app0#
+
+CCpResource build/Debug-iphoneos/MapCallouts.app/iTunesArtwork images/../iTunesArtwork
+s315844077.074256
+e315844077.082882
+r1
+xCpResource
+xbuild/Debug-iphoneos/MapCallouts.app/iTunesArtwork
+ximages/../iTunesArtwork
+lSLF07#2@28"Copy images/../iTunesArtwork315844077#315844077#0(0"0(0#0#67"/Users/patrickrussell/Downloads/MapCallouts/images/../iTunesArtwork2462876304#472"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/patrickrussell/Downloads/MapCallouts/images/../iTunesArtwork /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app0#
+
+CGenerateDSYMFile "/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/Debug-iphoneos/MapCallouts.app.dSYM" "/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/Debug-iphoneos/MapCallouts.app/MapCallouts"
+r0
+
+CGenerateDSYMFile /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app.dSYM /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/MapCallouts
+s315844083.188869
+e315844083.324856
+r1
+xGenerateDSYMFile
+x/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app.dSYM
+x/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/MapCallouts
+lSLF07#2@107"GenerateDSYMFile build/Debug-iphoneos/MapCallouts.app.dSYM build/Debug-iphoneos/MapCallouts.app/MapCallouts315844083#315844083#0(0"0(0#0#92"/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/MapCallouts2462876304#389"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/MapCallouts -o /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app.dSYM0#
+
+CLd "/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/Debug-iphoneos/MapCallouts.app/MapCallouts" normal armv6
+r0
+
+CLd /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/MapCallouts normal armv6
+s315844082.525896
+e315844083.188617
+r1
+xLd
+x/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/MapCallouts
+xnormal
+xarmv6
+lSLF07#2@97"Link /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/MapCallouts315844082#315844083#0(0"0(0#0#0"2462876304#885"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv IPHONEOS_DEPLOYMENT_TARGET 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -L/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos -F/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos -filelist /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/Objects-normal/armv6/MapCallouts.LinkFileList -dead_strip -miphoneos-version-min=3.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -o /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/MapCallouts0#
+
+CProcessInfoPlistFile "/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Info.plist" Info.plist
+r0
+
+CProcessInfoPlistFile /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Info.plist Info.plist
+s316892372.537314
+e316892372.619545
+r1
+xProcessInfoPlistFile
+x/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist316892372#316892372#0(0"0(0#0#54"/Users/patrickrussell/Downloads/MapCallouts/Info.plist2501739152#586"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/ResourceRules.plist -o /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/Info.plist0#
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bbploxmglgxqycbzygkgrrkjzxnu/Prefix.pch.gch Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315844077.083065
+e315844081.666513
+r1
+xProcessPCH
+x/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bbploxmglgxqycbzygkgrrkjzxnu/Prefix.pch.gch
+xPrefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@21"Precompile Prefix.pch315844077#315844081#0(0"0(0#0#54"/Users/patrickrussell/Downloads/MapCallouts/Prefix.pch2462876304#1712"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/MapCallouts-generated-files.hmap -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/MapCallouts-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/MapCallouts-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/MapCallouts-project-headers.hmap -F/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/DerivedSources -c /Users/patrickrussell/Downloads/MapCallouts/Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bbploxmglgxqycbzygkgrrkjzxnu/Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-hgvliqthnfxfonawqqaehlzaiwmp/Prefix.pch.gch Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/embedded.mobileprovision
+s315844083.325019
+e315844083.366620
+r1
+xProcessProductPackaging
+x/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision
+x/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/embedded.mobileprovision
+lSLF07#2@205"ProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" build/Debug-iphoneos/MapCallouts.app/embedded.mobileprovision315844083#315844083#0(0"0(0#0#105"/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/embedded.mobileprovision2462876304#446"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" -o /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/embedded.mobileprovision0#
+
+CProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/B5B5B91C-0678-47A9-8750-6532D30E6A04.mobileprovision" "/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/Debug-iphoneos/MapCallouts.app/embedded.mobileprovision"
+r0
+
+CProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/B5B5B91C-0678-47A9-8750-6532D30E6A04.mobileprovision" /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/embedded.mobileprovision
+s316882136.098124
+e316882136.254711
+r1
+xProcessProductPackaging
+x/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/B5B5B91C-0678-47A9-8750-6532D30E6A04.mobileprovision
+x/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/embedded.mobileprovision
+lSLF07#2@205"ProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/B5B5B91C-0678-47A9-8750-6532D30E6A04.mobileprovision" build/Debug-iphoneos/MapCallouts.app/embedded.mobileprovision316882136#316882136#0(0"0(0#0#105"/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/embedded.mobileprovision2501739152#446"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/B5B5B91C-0678-47A9-8750-6532D30E6A04.mobileprovision" -o /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist "/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/MapCallouts.xcent"
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/MapCallouts.xcent
+s316892372.637958
+e316892372.682708
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+x/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/MapCallouts.xcent
+lSLF07#2@187"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/MapCallouts.xcent316892372#316892372#0(0"0(0#0#118"/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/MapCallouts.xcent2501739152#454"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphoneos/MapCallouts.build/MapCallouts.xcent0#
+
+CTouch "/Users/patrickrussell/Documents/FYP/Sample Projects/MapCallouts/build/Debug-iphoneos/MapCallouts.app"
+r0
+
+CTouch /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app
+s316892372.622825
+e316892372.637794
+r1
+xTouch
+x/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app
+lSLF07#2@86"Touch /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app316892372#316892372#0(0"0(0#0#0"2501739152#278"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphoneos/MapCallouts.app0#
+

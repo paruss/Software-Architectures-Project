@@ -1,0 +1,301 @@
+TMapKit
+v7
+r0
+t314635927.781479
+cCheck dependencies
+cProcessInfoPlistFile /Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphonesimulator/MapKit.app/Info.plist MapKit-Info.plist
+cCompileXIB /Users/patrickrussell/Documents/FYP/MapKit/MainWindow.xib
+cCompileXIB /Users/patrickrussell/Documents/FYP/MapKit/MapKitViewController.xib
+cProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit_Prefix-aabgctijdnunrnasblcltscnljrl/MapKit_Prefix.pch.gch MapKit_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapKit.build/Debug-iphonesimulator/MapKit.build/Objects-normal/i386/main.o /Users/patrickrussell/Documents/FYP/MapKit/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapKit.build/Debug-iphonesimulator/MapKit.build/Objects-normal/i386/MapKitAppDelegate.o /Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapKit.build/Debug-iphonesimulator/MapKit.build/Objects-normal/i386/MapKitViewController.o /Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphonesimulator/MapKit.app/MapKit normal i386
+cGenerateDSYMFile /Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphonesimulator/MapKit.app.dSYM /Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphonesimulator/MapKit.app/MapKit
+cTouch /Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphonesimulator/MapKit.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004C5A4D1600000000001E06E0
+t1280986390
+s1967840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioServices.h
+c000000004C5A4D020000000000010AAD
+t1280986370
+s68269
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004C6C2FF1000000000006B7E0
+t1282158577
+s440288
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004C6C2FEA00000000000001D0
+t1282158570
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MapKit.framework/Headers/MKAnnotation.h
+c000000004C6C3011000000000000027E
+t1282158609
+s638
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MapKit.framework/Headers/MKMapView.h
+c000000004C6C301100000000000023B9
+t1282158609
+s9145
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C6C301100000000000002FE
+t1282158609
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C6C303B000000000016DD50
+t1282158651
+s1498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitAppDelegate.h
+c000000004D10BA5D00000000000001DF
+t1292941917
+s479
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitAppDelegate.m
+c000000004D10BA5D0000000000000A8C
+t1292941917
+s2700
+i"MapKitAppDelegate.h"
+i"MapKitViewController.h"
+
+N/Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitViewController.h
+c000000004D10BD4E00000000000002AC
+t1292942670
+s684
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i<MapKit/MKAnnotation.h>
+i<CoreLocation/CoreLocation.h>
+i<MapKit/MKMapView.h>
+i<AudioToolbox/AudioServices.h>
+
+N/Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitViewController.m
+c000000004D10BF16000000000000057E
+t1292943126
+s1406
+i"MapKitViewController.h"
+
+N/Users/patrickrussell/Documents/FYP/MapKit/MainWindow.xib
+c000000004D10BA5D0000000000004E1D
+t1292941917
+s19997
+
+N/Users/patrickrussell/Documents/FYP/MapKit/MapKitViewController.xib
+c000000004D10BA5D0000000000001A41
+t1292941917
+s6721
+
+N/Users/patrickrussell/Documents/FYP/MapKit/MapKit_Prefix.pch
+c000000004D10BA5D00000000000000B5
+t1292941917
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphonesimulator/MapKit.app
+t1292943127
+s238
+
+N/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphonesimulator/MapKit.app.dSYM
+t1292943127
+s102
+
+N/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphonesimulator/MapKit.app/Info.plist
+t1292942585
+s587
+
+N/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphonesimulator/MapKit.app/MainWindow.nib
+t1292942591
+s1679
+
+N/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphonesimulator/MapKit.app/MapKit
+t1292943127
+s18164
+
+N/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphonesimulator/MapKit.app/MapKitViewController.nib
+t1292942590
+s1269
+
+N/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphonesimulator/MapKit.app/PkgInfo
+t1292942585
+s8
+
+N/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/Objects-normal/i386/MapKit.LinkFileList
+c000000004D10BCF90000000000000191
+t1292942585
+s401
+
+N/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/Objects-normal/i386/MapKitAppDelegate.o
+t1292942670
+s49052
+
+N/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/Objects-normal/i386/MapKitViewController.o
+t1292943127
+s43724
+
+N/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/Objects-normal/i386/main.o
+t1292942594
+s6312
+
+N/Users/patrickrussell/Documents/FYP/MapKit/main.m
+c000000004D10BA5D000000000000016E
+t1292941917
+s366
+i<UIKit/UIKit.h>
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit_Prefix-aabgctijdnunrnasblcltscnljrl/MapKit_Prefix.pch.gch
+t1292942594
+s10204720
+
+NMapKit-Info.plist
+c000000004D10BA5D000000000000038D
+t1292941917
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies314635926#314635927#0(0"0(0#1#0"2462876304#0"0#
+
+CCompileC build/MapKit.build/Debug-iphonesimulator/MapKit.build/Objects-normal/i386/MapKitAppDelegate.o /Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314635470.539938
+e314635470.686168
+r1
+xCompileC
+xbuild/MapKit.build/Debug-iphonesimulator/MapKit.build/Objects-normal/i386/MapKitAppDelegate.o
+x/Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitAppDelegate.m314635470#314635470#0(0"0(0#0#70"/Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitAppDelegate.m2462876304#1972"    cd /Users/patrickrussell/Documents/FYP/MapKit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/MapKit-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/MapKit-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/MapKit-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/MapKit-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphonesimulator -I/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/DerivedSources/i386 -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit_Prefix-aabgctijdnunrnasblcltscnljrl/MapKit_Prefix.pch -c /Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitAppDelegate.m -o /Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/Objects-normal/i386/MapKitAppDelegate.o0#
+
+CCompileC build/MapKit.build/Debug-iphonesimulator/MapKit.build/Objects-normal/i386/MapKitViewController.o /Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314635926.838434
+e314635927.247835
+r1
+xCompileC
+xbuild/MapKit.build/Debug-iphonesimulator/MapKit.build/Objects-normal/i386/MapKitViewController.o
+x/Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitViewController.m314635926#314635927#0(0"0(0#0#73"/Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitViewController.m2462876304#1978"    cd /Users/patrickrussell/Documents/FYP/MapKit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/MapKit-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/MapKit-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/MapKit-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/MapKit-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphonesimulator -I/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/DerivedSources/i386 -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit_Prefix-aabgctijdnunrnasblcltscnljrl/MapKit_Prefix.pch -c /Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitViewController.m -o /Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/Objects-normal/i386/MapKitViewController.o0#
+
+CCompileC build/MapKit.build/Debug-iphonesimulator/MapKit.build/Objects-normal/i386/main.o /Users/patrickrussell/Documents/FYP/MapKit/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314635394.430279
+e314635394.556101
+r1
+xCompileC
+xbuild/MapKit.build/Debug-iphonesimulator/MapKit.build/Objects-normal/i386/main.o
+x/Users/patrickrussell/Documents/FYP/MapKit/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/patrickrussell/Documents/FYP/MapKit/main.m314635394#314635394#0(0"0(0#0#49"/Users/patrickrussell/Documents/FYP/MapKit/main.m2462876304#1938"    cd /Users/patrickrussell/Documents/FYP/MapKit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/MapKit-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/MapKit-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/MapKit-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/MapKit-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphonesimulator -I/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/DerivedSources/i386 -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit_Prefix-aabgctijdnunrnasblcltscnljrl/MapKit_Prefix.pch -c /Users/patrickrussell/Documents/FYP/MapKit/main.m -o /Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/patrickrussell/Documents/FYP/MapKit/MainWindow.xib
+s314635385.426231
+e314635391.035372
+r1
+xCompileXIB
+x/Users/patrickrussell/Documents/FYP/MapKit/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib314635385#314635391#0(0"0(0#0#57"/Users/patrickrussell/Documents/FYP/MapKit/MainWindow.xib2462876304#581"    cd /Users/patrickrussell/Documents/FYP/MapKit    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphonesimulator/MapKit.app/MainWindow.nib /Users/patrickrussell/Documents/FYP/MapKit/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/patrickrussell/Documents/FYP/MapKit/MapKitViewController.xib
+s314635385.444693
+e314635390.835881
+r1
+xCompileXIB
+x/Users/patrickrussell/Documents/FYP/MapKit/MapKitViewController.xib
+lSLF07#2@35"CompileXIB MapKitViewController.xib314635385#314635390#0(0"0(0#0#67"/Users/patrickrussell/Documents/FYP/MapKit/MapKitViewController.xib2462876304#601"    cd /Users/patrickrussell/Documents/FYP/MapKit    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphonesimulator/MapKit.app/MapKitViewController.nib /Users/patrickrussell/Documents/FYP/MapKit/MapKitViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CGenerateDSYMFile /Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphonesimulator/MapKit.app.dSYM /Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphonesimulator/MapKit.app/MapKit
+s314635927.643219
+e314635927.748355
+r1
+xGenerateDSYMFile
+x/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphonesimulator/MapKit.app.dSYM
+x/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphonesimulator/MapKit.app/MapKit
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/MapKit.app.dSYM build/Debug-iphonesimulator/MapKit.app/MapKit314635927#314635927#0(0"0(0#0#88"/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphonesimulator/MapKit.app/MapKit2462876304#392"    cd /Users/patrickrussell/Documents/FYP/MapKit    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphonesimulator/MapKit.app/MapKit -o /Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphonesimulator/MapKit.app.dSYM0#
+
+CLd /Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphonesimulator/MapKit.app/MapKit normal i386
+s314635927.247962
+e314635927.643071
+r1
+xLd
+x/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphonesimulator/MapKit.app/MapKit
+xnormal
+xi386
+lSLF07#2@93"Link /Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphonesimulator/MapKit.app/MapKit314635927#314635927#0(0"0(0#0#0"2462876304#981"    cd /Users/patrickrussell/Documents/FYP/MapKit    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphonesimulator -F/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphonesimulator -filelist /Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/Objects-normal/i386/MapKit.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework AudioToolbox -framework CoreLocation -framework MapKit -o /Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphonesimulator/MapKit.app/MapKit0#
+
+CProcessInfoPlistFile /Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphonesimulator/MapKit.app/Info.plist MapKit-Info.plist
+s314635385.417003
+e314635385.426085
+r1
+xProcessInfoPlistFile
+x/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphonesimulator/MapKit.app/Info.plist
+xMapKit-Info.plist
+lSLF07#2@25"Process MapKit-Info.plist314635385#314635385#0(0"0(0#0#60"/Users/patrickrussell/Documents/FYP/MapKit/MapKit-Info.plist4717520#488"    cd /Users/patrickrussell/Documents/FYP/MapKit    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MapKit-Info.plist -genpkginfo /Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphonesimulator/MapKit.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphonesimulator/MapKit.app/Info.plist0#
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit_Prefix-aabgctijdnunrnasblcltscnljrl/MapKit_Prefix.pch.gch MapKit_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s314635391.035599
+e314635394.430063
+r1
+xProcessPCH
+x/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit_Prefix-aabgctijdnunrnasblcltscnljrl/MapKit_Prefix.pch.gch
+xMapKit_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile MapKit_Prefix.pch314635391#314635394#0(0"0(0#0#60"/Users/patrickrussell/Documents/FYP/MapKit/MapKit_Prefix.pch2462876304#1827"    cd /Users/patrickrussell/Documents/FYP/MapKit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/MapKit-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/MapKit-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/MapKit-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/MapKit-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphonesimulator -I/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/DerivedSources/i386 -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/DerivedSources -c /Users/patrickrussell/Documents/FYP/MapKit/MapKit_Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit_Prefix-aabgctijdnunrnasblcltscnljrl/MapKit_Prefix.pch.gch0#
+
+CTouch /Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphonesimulator/MapKit.app
+s314635927.748481
+e314635927.781417
+r1
+xTouch
+x/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphonesimulator/MapKit.app
+lSLF07#2@87"Touch /Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphonesimulator/MapKit.app314635927#314635927#0(0"0(0#0#0"2462876304#285"    cd /Users/patrickrussell/Documents/FYP/MapKit    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphonesimulator/MapKit.app0#
+

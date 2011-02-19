@@ -1,0 +1,224 @@
+TMapCallouts
+v7
+r1
+cCheck dependencies
+
+N/Users/patrickrussell/Downloads/MapCallouts/ReadMe.txt
+c000000004C2509A70000000000000923
+t1277495719
+s2339
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug/MapCallouts.app
+t2
+s0
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug/MapCallouts.app/Contents/Info.plist
+t2
+s0
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug/MapCallouts.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug/MapCallouts.app/Contents/Resources/Default.png
+t2
+s0
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug/MapCallouts.app/Contents/Resources/GoldenGate.png
+t2
+s0
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug/MapCallouts.app/Contents/Resources/Icon-72.png
+t2
+s0
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug/MapCallouts.app/Contents/Resources/Icon-Small-50.png
+t2
+s0
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug/MapCallouts.app/Contents/Resources/Icon-Small.png
+t2
+s0
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug/MapCallouts.app/Contents/Resources/Icon-Small@2x.png
+t2
+s0
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug/MapCallouts.app/Contents/Resources/Icon.png
+t2
+s0
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug/MapCallouts.app/Contents/Resources/Icon@2x.png
+t2
+s0
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug/MapCallouts.app/Contents/Resources/Location.png
+t2
+s0
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug/MapCallouts.app/Contents/Resources/ReadMe.txt
+t2
+s0
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug/MapCallouts.app/Contents/Resources/SFIcon.png
+t2
+s0
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug/MapCallouts.app/Contents/Resources/en.lproj/DetailViewController.nib
+t2
+s0
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug/MapCallouts.app/Contents/Resources/en.lproj/MainWindow.nib
+t2
+s0
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug/MapCallouts.app/Contents/Resources/en.lproj/MapViewController.nib
+t2
+s0
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug/MapCallouts.app/Contents/Resources/flag.png
+t2
+s0
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug/MapCallouts.app/Contents/Resources/iTunesArtwork
+t2
+s0
+
+N/Users/patrickrussell/Downloads/MapCallouts/en.lproj/DetailViewController.xib
+c000000004B96E7580000000000004160
+t1268180824
+s16736
+
+N/Users/patrickrussell/Downloads/MapCallouts/en.lproj/MainWindow.xib
+c000000004B96E75800000000000072B4
+t1268180824
+s29364
+
+N/Users/patrickrussell/Downloads/MapCallouts/en.lproj/MapViewController.xib
+c000000004B96E7580000000000005A61
+t1268180824
+s23137
+
+N/Users/patrickrussell/Downloads/MapCallouts/images/../iTunesArtwork
+c000000004C2509590000000000001444
+t1277495641
+s5188
+
+N/Users/patrickrussell/Downloads/MapCallouts/images/Default.png
+c000000004C2509590000000000003AFD
+t1277495641
+s15101
+
+N/Users/patrickrussell/Downloads/MapCallouts/images/GoldenGate.png
+c000000004C1BE0590000000000036755
+t1276895321
+s223061
+
+N/Users/patrickrussell/Downloads/MapCallouts/images/Icon-72.png
+c000000004C2509590000000000000427
+t1277495641
+s1063
+
+N/Users/patrickrussell/Downloads/MapCallouts/images/Icon-Small-50.png
+c000000004C25095900000000000003E0
+t1277495641
+s992
+
+N/Users/patrickrussell/Downloads/MapCallouts/images/Icon-Small.png
+c000000004C1A9FA20000000000000396
+t1276813218
+s918
+
+N/Users/patrickrussell/Downloads/MapCallouts/images/Icon-Small@2x.png
+c000000004C1A9FA200000000000003F2
+t1276813218
+s1010
+
+N/Users/patrickrussell/Downloads/MapCallouts/images/Icon.png
+c000000004C1A9FA200000000000003EF
+t1276813218
+s1007
+
+N/Users/patrickrussell/Downloads/MapCallouts/images/Icon@2x.png
+c000000004C1A9FA200000000000004E4
+t1276813218
+s1252
+
+N/Users/patrickrussell/Downloads/MapCallouts/images/Location.png
+c000000004C1BE05900000000000011BA
+t1276895321
+s4538
+
+N/Users/patrickrussell/Downloads/MapCallouts/images/SFIcon.png
+c000000004C1BE0590000000000000107
+t1276895321
+s263
+
+N/Users/patrickrussell/Downloads/MapCallouts/images/flag.png
+c000000004C1BE05900000000000003E3
+t1276895321
+s995
+
+NInfo.plist
+c000000004C2509A70000000000000425
+t1277495719
+s1061
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315844023#315844023#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos4.0'1(4@58"error: There is no SDK with the name or path 'iphoneos4.0'315844023#4294967295#0#0(1@0"0(0#1#0"2462876304#0"0#
+
+CCompileXIB /Users/patrickrussell/Downloads/MapCallouts/en.lproj/DetailViewController.xib
+r0
+
+CCompileXIB /Users/patrickrussell/Downloads/MapCallouts/en.lproj/MainWindow.xib
+r0
+
+CCompileXIB /Users/patrickrussell/Downloads/MapCallouts/en.lproj/MapViewController.xib
+r0
+
+CCpResource build/Debug/MapCallouts.app/Contents/Resources/Default.png images/Default.png
+r0
+
+CCpResource build/Debug/MapCallouts.app/Contents/Resources/GoldenGate.png images/GoldenGate.png
+r0
+
+CCpResource build/Debug/MapCallouts.app/Contents/Resources/Icon-72.png images/Icon-72.png
+r0
+
+CCpResource build/Debug/MapCallouts.app/Contents/Resources/Icon-Small-50.png images/Icon-Small-50.png
+r0
+
+CCpResource build/Debug/MapCallouts.app/Contents/Resources/Icon-Small.png images/Icon-Small.png
+r0
+
+CCpResource build/Debug/MapCallouts.app/Contents/Resources/Icon-Small@2x.png images/Icon-Small@2x.png
+r0
+
+CCpResource build/Debug/MapCallouts.app/Contents/Resources/Icon.png images/Icon.png
+r0
+
+CCpResource build/Debug/MapCallouts.app/Contents/Resources/Icon@2x.png images/Icon@2x.png
+r0
+
+CCpResource build/Debug/MapCallouts.app/Contents/Resources/Location.png images/Location.png
+r0
+
+CCpResource build/Debug/MapCallouts.app/Contents/Resources/ReadMe.txt ReadMe.txt
+r0
+
+CCpResource build/Debug/MapCallouts.app/Contents/Resources/SFIcon.png images/SFIcon.png
+r0
+
+CCpResource build/Debug/MapCallouts.app/Contents/Resources/flag.png images/flag.png
+r0
+
+CCpResource build/Debug/MapCallouts.app/Contents/Resources/iTunesArtwork images/../iTunesArtwork
+r0
+
+CProcessInfoPlistFile /Users/patrickrussell/Downloads/MapCallouts/build/Debug/MapCallouts.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Users/patrickrussell/Downloads/MapCallouts/build/Debug/MapCallouts.app
+r0
+

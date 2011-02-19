@@ -1,0 +1,63 @@
+TLocations
+v7
+r1
+
+N/Users/patrickrussell/Downloads/PhotoLocations/Classes/EventDetailViewController.xib
+c000000004A4ACE0C00000000000069E3
+t1246416396
+s27107
+
+N/Users/patrickrussell/Downloads/PhotoLocations/MainWindow.xib
+c000000004A26BD4A0000000000001ED7
+t1244052810
+s7895
+
+N/Users/patrickrussell/Downloads/PhotoLocations/ReadMe.txt
+c000000004C49228E0000000000001046
+t1279861390
+s4166
+
+N/Users/patrickrussell/Downloads/PhotoLocations/build/Debug/Locations.app
+t2
+s0
+
+N/Users/patrickrussell/Downloads/PhotoLocations/build/Debug/Locations.app/Contents/Info.plist
+t2
+s0
+
+N/Users/patrickrussell/Downloads/PhotoLocations/build/Debug/Locations.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/patrickrussell/Downloads/PhotoLocations/build/Debug/Locations.app/Contents/Resources/EventDetailViewController.nib
+t2
+s0
+
+N/Users/patrickrussell/Downloads/PhotoLocations/build/Debug/Locations.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/patrickrussell/Downloads/PhotoLocations/build/Debug/Locations.app/Contents/Resources/ReadMe.txt
+t2
+s0
+
+NInfo.plist
+c000000004C2E4014000000000000038D
+t1278099476
+s909
+
+CCompileXIB /Users/patrickrussell/Downloads/PhotoLocations/Classes/EventDetailViewController.xib
+r0
+
+CCompileXIB /Users/patrickrussell/Downloads/PhotoLocations/MainWindow.xib
+r0
+
+CCpResource build/Debug/Locations.app/Contents/Resources/ReadMe.txt ReadMe.txt
+r0
+
+CProcessInfoPlistFile /Users/patrickrussell/Downloads/PhotoLocations/build/Debug/Locations.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Users/patrickrussell/Downloads/PhotoLocations/build/Debug/Locations.app
+r0
+

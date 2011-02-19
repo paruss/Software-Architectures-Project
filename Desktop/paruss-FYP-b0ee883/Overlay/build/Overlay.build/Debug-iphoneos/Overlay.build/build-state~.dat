@@ -1,0 +1,406 @@
+TOverlay
+v7
+r0
+t308583814.185304
+cCheck dependencies
+cCpResource build/Debug-iphoneos/Overlay.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos/Overlay.app/Info.plist Overlay-Info.plist
+cCompileXIB /Users/patrickrussell/Documents/FYP/Overlay/MainWindow.xib
+cCompileXIB /Users/patrickrussell/Documents/FYP/Overlay/OverlayViewController.xib
+cProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Overlay_Prefix-csviyvgjpuatctgewxzzplknozuy/Overlay_Prefix.pch.gch Overlay_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Overlay_Prefix-faudcxblntqeahegpwygmxijqfpv/Overlay_Prefix.pch.gch Overlay_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Overlay.build/Debug-iphoneos/Overlay.build/Objects-normal/armv6/main.o /Users/patrickrussell/Documents/FYP/Overlay/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Overlay.build/Debug-iphoneos/Overlay.build/Objects-normal/armv6/OverlayAppDelegate.o /Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Overlay.build/Debug-iphoneos/Overlay.build/Objects-normal/armv6/OverlayViewController.o /Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Overlay.build/Debug-iphoneos/Overlay.build/Objects-normal/armv7/main.o /Users/patrickrussell/Documents/FYP/Overlay/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Overlay.build/Debug-iphoneos/Overlay.build/Objects-normal/armv7/OverlayAppDelegate.o /Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Overlay.build/Debug-iphoneos/Overlay.build/Objects-normal/armv7/OverlayViewController.o /Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" /Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos/Overlay.app/embedded.mobileprovision
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist /Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Overlay.xcent
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk
+c000000004C6DE9E30000000000000110
+t1282271715
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+c000000004C578FA900000000000001A7
+t1280806825
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+c000000004C578FA900000000000001E5
+t1280806825
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A51050000000000345F00
+t1280987397
+s3432192
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A52B100000000003E1EF0
+t1280987825
+s4071152
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A527F0000000000001466
+t1280987775
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C62427000000000000009CD
+t1281507952
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C62430F0000000002EBC2B0
+t1281508111
+s49005232
+
+N/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayAppDelegate.h
+c000000004CB463EE00000000000001E5
+t1286890478
+s485
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayAppDelegate.m
+c000000004CB463EE0000000000000A91
+t1286890478
+s2705
+i"OverlayAppDelegate.h"
+i"OverlayViewController.h"
+
+N/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.h
+c000000004CB465F000000000000001B3
+t1286890992
+s435
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m
+c000000004CB465F00000000000000778
+t1286890992
+s1912
+i"OverlayViewController.h"
+
+N/Users/patrickrussell/Documents/FYP/Overlay/MainWindow.xib
+c000000004CB463EE0000000000004E29
+t1286890478
+s20009
+
+N/Users/patrickrussell/Documents/FYP/Overlay/OverlayViewController.xib
+c000000004CB463EE0000000000001A45
+t1286890478
+s6725
+
+N/Users/patrickrussell/Documents/FYP/Overlay/Overlay_Prefix.pch
+c000000004CB463EE00000000000000B7
+t1286890478
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos/Overlay.app
+t2
+s0
+
+N/Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos/Overlay.app.dSYM
+t2
+s0
+
+N/Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos/Overlay.app/Info.plist
+t1286890993
+s726
+
+N/Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos/Overlay.app/MainWindow.nib
+t1286891003
+s1681
+
+N/Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos/Overlay.app/Overlay
+t2
+s0
+
+N/Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos/Overlay.app/OverlayViewController.nib
+t1286891003
+s1269
+
+N/Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos/Overlay.app/PkgInfo
+t1286890993
+s8
+
+N/Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos/Overlay.app/ResourceRules.plist
+t1286890993
+s485
+
+N/Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos/Overlay.app/embedded.mobileprovision
+t1286891014
+s15853
+
+N/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Objects-normal/armv6/Overlay
+t2
+s0
+
+N/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Objects-normal/armv6/Overlay.LinkFileList
+c000000004CB465F0000000000000018A
+t1286890992
+s394
+
+N/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Objects-normal/armv6/OverlayAppDelegate.o
+t1286891013
+s47404
+
+N/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Objects-normal/armv6/OverlayViewController.o
+t2
+s0
+
+N/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Objects-normal/armv6/main.o
+t1286891013
+s6456
+
+N/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Objects-normal/armv7/Overlay
+t2
+s0
+
+N/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Objects-normal/armv7/Overlay.LinkFileList
+c000000004CB465F0000000000000018A
+t1286890992
+s394
+
+N/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Objects-normal/armv7/OverlayAppDelegate.o
+t1286891013
+s47320
+
+N/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Objects-normal/armv7/OverlayViewController.o
+t2
+s0
+
+N/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Objects-normal/armv7/main.o
+t1286891013
+s6440
+
+N/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Overlay.xcent
+t1286891014
+s420
+
+N/Users/patrickrussell/Documents/FYP/Overlay/main.m
+c000000004CB463EE000000000000016F
+t1286890478
+s367
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision
+c000000004CB063CE0000000000003DED
+t1286628302
+s15853
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Overlay_Prefix-csviyvgjpuatctgewxzzplknozuy/Overlay_Prefix.pch.gch
+t1286891010
+s9831984
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Overlay_Prefix-faudcxblntqeahegpwygmxijqfpv/Overlay_Prefix.pch.gch
+t1286891012
+s10294832
+
+NOverlay-Info.plist
+c000000004CB463EE000000000000038D
+t1286890478
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308583792#308583792#0(0"0(0#1#0"2549534656#0"0#
+
+CCodeSign /Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos/Overlay.app
+r0
+
+CCompileC build/Overlay.build/Debug-iphoneos/Overlay.build/Objects-normal/armv6/OverlayAppDelegate.o /Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s308583813.581333
+e308583813.681575
+r1
+xCompileC
+xbuild/Overlay.build/Debug-iphoneos/Overlay.build/Objects-normal/armv6/OverlayAppDelegate.o
+x/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayAppDelegate.m308583813#308583813#0(0"0(0#0#72"/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayAppDelegate.m2549534656#1815"    cd /Users/patrickrussell/Documents/FYP/Overlay    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Overlay-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Overlay-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Overlay-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Overlay-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/DerivedSources/armv6 -I/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Overlay_Prefix-csviyvgjpuatctgewxzzplknozuy/Overlay_Prefix.pch -c /Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayAppDelegate.m -o /Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Objects-normal/armv6/OverlayAppDelegate.o0#
+
+CCompileC build/Overlay.build/Debug-iphoneos/Overlay.build/Objects-normal/armv6/OverlayViewController.o /Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s308583813.681739
+e308583813.758928
+r0
+xCompileC
+xbuild/Overlay.build/Debug-iphoneos/Overlay.build/Objects-normal/armv6/OverlayViewController.o
+x/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m: In function '-[OverlayViewController viewDidAppear:]':
+o/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m:20: error: incompatible type for argument 1 of '__CGAffineTransformMake'
+o/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m:20: error: too few arguments to function '__CGAffineTransformMake'
+o/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m:57: error: 'didReceiveMemoryWarning' undeclared (first use in this function)
+o/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m:57: error: (Each undeclared identifier is reported only once
+o/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m:57: error: for each function it appears in.)
+o/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m:57: error: expected ';' before '{' token
+o/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m:74: error: expected declaration or statement at end of input
+o/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m: At top level:
+o/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m:74: warning: '@end' missing in implementation context
+lSLF07#2@83"Compile /Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m308583813#308583813#0(1310"/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m: In function '-[OverlayViewController viewDidAppear:]':/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m:20: error: incompatible type for argument 1 of '__CGAffineTransformMake'/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m:20: error: too few arguments to function '__CGAffineTransformMake'/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m:57: error: 'didReceiveMemoryWarning' undeclared (first use in this function)/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m:57: error: (Each undeclared identifier is reported only once/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m:57: error: for each function it appears in.)/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m:57: error: expected ';' before '{' token/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m:74: error: expected declaration or statement at end of input/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m: At top level:/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m:74: warning: '@end' missing in implementation context7(4@61"Incompatible type for argument 1 of '__CGAffineTransformMake'308583813#132#149#0(6@75"/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m308583792#20#0#20#0#0"0(4@55"Too few arguments to function '__CGAffineTransformMake'308583813#281#143#0(6@75"/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m308583792#20#0#20#0#33"too few arguments to function '*'0(4@65"'didReceiveMemoryWarning' undeclared (first use in this function)308583813#424#153#0(6@75"/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m308583792#57#0#57#0#43"'*' undeclared (first use in this function)0(4@29"Expected ';' before '{' token308583813#835#117#0(6@75"/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m308583792#57#0#57#0#19"expected * before *0(4@49"Expected declaration or statement at end of input308583813#952#137#0(6@75"/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m308583792#74#0#74#0#49"expected declaration or statement at end of input0(23@13"At top level:308583813#1089#91#0(6@75"/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m308583792#0#0#0#0#0"0(22@40"'@end' missing in implementation context308583813#1180#130#0(6@75"/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m308583792#74#0#74#0#40"'@end' missing in implementation context0(0#0#75"/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m2549534656#1821"    cd /Users/patrickrussell/Documents/FYP/Overlay    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Overlay-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Overlay-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Overlay-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Overlay-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/DerivedSources/armv6 -I/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Overlay_Prefix-csviyvgjpuatctgewxzzplknozuy/Overlay_Prefix.pch -c /Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m -o /Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Objects-normal/armv6/OverlayViewController.o1#
+
+CCompileC build/Overlay.build/Debug-iphoneos/Overlay.build/Objects-normal/armv6/main.o /Users/patrickrussell/Documents/FYP/Overlay/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s308583812.987385
+e308583813.581153
+r1
+xCompileC
+xbuild/Overlay.build/Debug-iphoneos/Overlay.build/Objects-normal/armv6/main.o
+x/Users/patrickrussell/Documents/FYP/Overlay/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/patrickrussell/Documents/FYP/Overlay/main.m308583812#308583813#0(0"0(0#0#50"/Users/patrickrussell/Documents/FYP/Overlay/main.m2549534656#1779"    cd /Users/patrickrussell/Documents/FYP/Overlay    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Overlay-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Overlay-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Overlay-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Overlay-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/DerivedSources/armv6 -I/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Overlay_Prefix-csviyvgjpuatctgewxzzplknozuy/Overlay_Prefix.pch -c /Users/patrickrussell/Documents/FYP/Overlay/main.m -o /Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/Overlay.build/Debug-iphoneos/Overlay.build/Objects-normal/armv7/OverlayAppDelegate.o /Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s308583813.848925
+e308583813.965109
+r1
+xCompileC
+xbuild/Overlay.build/Debug-iphoneos/Overlay.build/Objects-normal/armv7/OverlayAppDelegate.o
+x/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayAppDelegate.m308583813#308583813#0(0"0(0#0#72"/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayAppDelegate.m2549534656#1815"    cd /Users/patrickrussell/Documents/FYP/Overlay    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Overlay-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Overlay-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Overlay-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Overlay-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/DerivedSources/armv7 -I/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Overlay_Prefix-faudcxblntqeahegpwygmxijqfpv/Overlay_Prefix.pch -c /Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayAppDelegate.m -o /Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Objects-normal/armv7/OverlayAppDelegate.o0#
+
+CCompileC build/Overlay.build/Debug-iphoneos/Overlay.build/Objects-normal/armv7/OverlayViewController.o /Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s308583813.965267
+e308583814.031334
+r0
+xCompileC
+xbuild/Overlay.build/Debug-iphoneos/Overlay.build/Objects-normal/armv7/OverlayViewController.o
+x/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m: In function '-[OverlayViewController viewDidAppear:]':
+o/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m:20: error: incompatible type for argument 1 of '__CGAffineTransformMake'
+o/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m:20: error: too few arguments to function '__CGAffineTransformMake'
+o/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m:57: error: 'didReceiveMemoryWarning' undeclared (first use in this function)
+o/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m:57: error: (Each undeclared identifier is reported only once
+o/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m:57: error: for each function it appears in.)
+o/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m:57: error: expected ';' before '{' token
+o/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m:74: error: expected declaration or statement at end of input
+o/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m: At top level:
+o/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m:74: warning: '@end' missing in implementation context
+lSLF07#2@83"Compile /Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m308583813#308583814#0(1310"/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m: In function '-[OverlayViewController viewDidAppear:]':/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m:20: error: incompatible type for argument 1 of '__CGAffineTransformMake'/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m:20: error: too few arguments to function '__CGAffineTransformMake'/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m:57: error: 'didReceiveMemoryWarning' undeclared (first use in this function)/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m:57: error: (Each undeclared identifier is reported only once/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m:57: error: for each function it appears in.)/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m:57: error: expected ';' before '{' token/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m:74: error: expected declaration or statement at end of input/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m: At top level:/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m:74: warning: '@end' missing in implementation context7(4@61"Incompatible type for argument 1 of '__CGAffineTransformMake'308583814#132#149#0(6@75"/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m308583792#20#0#20#0#0"0(4@55"Too few arguments to function '__CGAffineTransformMake'308583814#281#143#0(6@75"/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m308583792#20#0#20#0#33"too few arguments to function '*'0(4@65"'didReceiveMemoryWarning' undeclared (first use in this function)308583814#424#153#0(6@75"/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m308583792#57#0#57#0#43"'*' undeclared (first use in this function)0(4@29"Expected ';' before '{' token308583814#835#117#0(6@75"/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m308583792#57#0#57#0#19"expected * before *0(4@49"Expected declaration or statement at end of input308583814#952#137#0(6@75"/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m308583792#74#0#74#0#49"expected declaration or statement at end of input0(23@13"At top level:308583814#1089#91#0(6@75"/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m308583792#0#0#0#0#0"0(22@40"'@end' missing in implementation context308583814#1180#130#0(6@75"/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m308583792#74#0#74#0#40"'@end' missing in implementation context0(0#0#75"/Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m2549534656#1821"    cd /Users/patrickrussell/Documents/FYP/Overlay    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Overlay-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Overlay-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Overlay-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Overlay-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/DerivedSources/armv7 -I/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Overlay_Prefix-faudcxblntqeahegpwygmxijqfpv/Overlay_Prefix.pch -c /Users/patrickrussell/Documents/FYP/Overlay/Classes/OverlayViewController.m -o /Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Objects-normal/armv7/OverlayViewController.o1#
+
+CCompileC build/Overlay.build/Debug-iphoneos/Overlay.build/Objects-normal/armv7/main.o /Users/patrickrussell/Documents/FYP/Overlay/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s308583813.759078
+e308583813.848540
+r1
+xCompileC
+xbuild/Overlay.build/Debug-iphoneos/Overlay.build/Objects-normal/armv7/main.o
+x/Users/patrickrussell/Documents/FYP/Overlay/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/patrickrussell/Documents/FYP/Overlay/main.m308583813#308583813#0(0"0(0#0#50"/Users/patrickrussell/Documents/FYP/Overlay/main.m2549534656#1779"    cd /Users/patrickrussell/Documents/FYP/Overlay    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Overlay-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Overlay-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Overlay-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Overlay-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/DerivedSources/armv7 -I/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Overlay_Prefix-faudcxblntqeahegpwygmxijqfpv/Overlay_Prefix.pch -c /Users/patrickrussell/Documents/FYP/Overlay/main.m -o /Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/patrickrussell/Documents/FYP/Overlay/MainWindow.xib
+s308583793.200245
+e308583804.412620
+r1
+xCompileXIB
+x/Users/patrickrussell/Documents/FYP/Overlay/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib308583793#308583804#0(0"0(0#0#58"/Users/patrickrussell/Documents/FYP/Overlay/MainWindow.xib2549534656#557"    cd /Users/patrickrussell/Documents/FYP/Overlay    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos/Overlay.app/MainWindow.nib /Users/patrickrussell/Documents/FYP/Overlay/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/patrickrussell/Documents/FYP/Overlay/OverlayViewController.xib
+s308583793.201833
+e308583804.374762
+r1
+xCompileXIB
+x/Users/patrickrussell/Documents/FYP/Overlay/OverlayViewController.xib
+lSLF07#2@36"CompileXIB OverlayViewController.xib308583793#308583804#0(0"0(0#0#69"/Users/patrickrussell/Documents/FYP/Overlay/OverlayViewController.xib2549534656#579"    cd /Users/patrickrussell/Documents/FYP/Overlay    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos/Overlay.app/OverlayViewController.nib /Users/patrickrussell/Documents/FYP/Overlay/OverlayViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCpResource build/Debug-iphoneos/Overlay.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+s308583792.983443
+e308583793.200094
+r1
+xCpResource
+xbuild/Debug-iphoneos/Overlay.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist308583792#308583793#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist4717520#490"    cd /Users/patrickrussell/Documents/FYP/Overlay    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist /Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos/Overlay.app0#
+
+CCreateUniversalBinary /Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos/Overlay.app/Overlay normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile /Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos/Overlay.app.dSYM /Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos/Overlay.app/Overlay
+r0
+
+CLd /Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Objects-normal/armv6/Overlay normal armv6
+r0
+
+CLd /Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Objects-normal/armv7/Overlay normal armv7
+r0
+
+CProcessInfoPlistFile /Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos/Overlay.app/Info.plist Overlay-Info.plist
+s308583793.038703
+e308583793.109876
+r1
+xProcessInfoPlistFile
+x/Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos/Overlay.app/Info.plist
+xOverlay-Info.plist
+lSLF07#2@26"Process Overlay-Info.plist308583793#308583793#0(0"0(0#0#62"/Users/patrickrussell/Documents/FYP/Overlay/Overlay-Info.plist2549534656#582"    cd /Users/patrickrussell/Documents/FYP/Overlay    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Overlay-Info.plist -genpkginfo /Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos/Overlay.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos/Overlay.app/ResourceRules.plist -o /Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos/Overlay.app/Info.plist0#
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Overlay_Prefix-csviyvgjpuatctgewxzzplknozuy/Overlay_Prefix.pch.gch Overlay_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s308583804.412813
+e308583810.394889
+r1
+xProcessPCH
+x/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Overlay_Prefix-csviyvgjpuatctgewxzzplknozuy/Overlay_Prefix.pch.gch
+xOverlay_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Overlay_Prefix.pch308583804#308583810#0(0"0(0#0#62"/Users/patrickrussell/Documents/FYP/Overlay/Overlay_Prefix.pch2549534656#1672"    cd /Users/patrickrussell/Documents/FYP/Overlay    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Overlay-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Overlay-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Overlay-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Overlay-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/DerivedSources/armv6 -I/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/DerivedSources -c /Users/patrickrussell/Documents/FYP/Overlay/Overlay_Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Overlay_Prefix-csviyvgjpuatctgewxzzplknozuy/Overlay_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Overlay_Prefix-faudcxblntqeahegpwygmxijqfpv/Overlay_Prefix.pch.gch Overlay_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s308583810.395146
+e308583812.987055
+r1
+xProcessPCH
+x/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Overlay_Prefix-faudcxblntqeahegpwygmxijqfpv/Overlay_Prefix.pch.gch
+xOverlay_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Overlay_Prefix.pch308583810#308583812#0(0"0(0#0#62"/Users/patrickrussell/Documents/FYP/Overlay/Overlay_Prefix.pch2549534656#1672"    cd /Users/patrickrussell/Documents/FYP/Overlay    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Overlay-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Overlay-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Overlay-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Overlay-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/DerivedSources/armv7 -I/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/DerivedSources -c /Users/patrickrussell/Documents/FYP/Overlay/Overlay_Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Overlay_Prefix-faudcxblntqeahegpwygmxijqfpv/Overlay_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" /Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos/Overlay.app/embedded.mobileprovision
+s308583814.031505
+e308583814.114270
+r1
+xProcessProductPackaging
+x/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision
+x/Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos/Overlay.app/embedded.mobileprovision
+lSLF07#2@201"ProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" build/Debug-iphoneos/Overlay.app/embedded.mobileprovision308583814#308583814#0(0"0(0#0#101"/Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos/Overlay.app/embedded.mobileprovision2549534656#442"    cd /Users/patrickrussell/Documents/FYP/Overlay    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" -o /Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos/Overlay.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist /Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Overlay.xcent
+s308583814.114409
+e308583814.185195
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+x/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Overlay.xcent
+lSLF07#2@175"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist build/Overlay.build/Debug-iphoneos/Overlay.build/Overlay.xcent308583814#308583814#0(0"0(0#0#106"/Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Overlay.xcent2549534656#442"    cd /Users/patrickrussell/Documents/FYP/Overlay    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/patrickrussell/Documents/FYP/Overlay/build/Overlay.build/Debug-iphoneos/Overlay.build/Overlay.xcent0#
+
+CTouch /Users/patrickrussell/Documents/FYP/Overlay/build/Debug-iphoneos/Overlay.app
+r0
+

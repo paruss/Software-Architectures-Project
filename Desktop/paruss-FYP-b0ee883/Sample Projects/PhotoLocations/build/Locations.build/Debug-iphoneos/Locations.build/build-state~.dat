@@ -1,0 +1,510 @@
+TLocations
+v7
+r0
+t315844576.510500
+cCheck dependencies
+cCpResource build/Debug-iphoneos/Locations.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app/Info.plist Info.plist
+cCompileXIB /Users/patrickrussell/Downloads/PhotoLocations/MainWindow.xib
+cCompileXIB /Users/patrickrussell/Downloads/PhotoLocations/Classes/EventDetailViewController.xib
+cCpResource build/Debug-iphoneos/Locations.app/ReadMe.txt ReadMe.txt
+cProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Locations_Prefix-egulkxmhaicmsognbvxnwzftxbgm/Locations_Prefix.pch.gch Locations_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cDataModelVersionCompile /Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app/Locations.momd /Users/patrickrussell/Downloads/PhotoLocations/Locations.xcdatamodeld
+cCompileC build/Locations.build/Debug-iphoneos/Locations.build/Objects-normal/armv6/main.o /Users/patrickrussell/Downloads/PhotoLocations/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Locations.build/Debug-iphoneos/Locations.build/Objects-normal/armv6/LocationsAppDelegate.o /Users/patrickrussell/Downloads/PhotoLocations/Classes/LocationsAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Locations.build/Debug-iphoneos/Locations.build/Objects-normal/armv6/RootViewController.o /Users/patrickrussell/Downloads/PhotoLocations/Classes/RootViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Locations.build/Debug-iphoneos/Locations.build/Objects-normal/armv6/Event.o /Users/patrickrussell/Downloads/PhotoLocations/Classes/Event.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Locations.build/Debug-iphoneos/Locations.build/Objects-normal/armv6/EventDetailViewController.o /Users/patrickrussell/Downloads/PhotoLocations/Classes/EventDetailViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Locations.build/Debug-iphoneos/Locations.build/Objects-normal/armv6/Photo.o /Users/patrickrussell/Downloads/PhotoLocations/Classes/Photo.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Locations.build/Debug-iphoneos/Locations.build/Objects-normal/armv6/UIImageToDataTransformer.o /Users/patrickrussell/Downloads/PhotoLocations/Classes/UIImageToDataTransformer.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app/Locations normal armv6
+cGenerateDSYMFile /Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app.dSYM /Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app/Locations
+cProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" /Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app/embedded.mobileprovision
+cTouch /Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist /Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Locations.xcent
+cCodeSign /Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk
+c000000004C6DE9E30000000000000110
+t1282271715
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+c000000004C578FA900000000000001A7
+t1280806825
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+c000000004C578FA900000000000001E5
+t1280806825
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004C5A533700000000002F9FB0
+t1280987959
+s3121072
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004C5A5311000000000000046B
+t1280987921
+s1131
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A51050000000000345F00
+t1280987397
+s3432192
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004C6C2FE600000000000C79C0
+t1282158566
+s817600
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004C6C2FDF00000000000001D0
+t1282158559
+s464
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A52B100000000003E1EF0
+t1280987825
+s4071152
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A527F0000000000001466
+t1280987775
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C62427000000000000009CD
+t1281507952
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C62430F0000000002EBC2B0
+t1281508111
+s49005232
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/Availability.h
+c000000004C57A57A0000000000001A5C
+t1280812410
+s6748
+
+N/Users/patrickrussell/Downloads/PhotoLocations/Classes/Event.h
+c000000004C4A13B10000000000000BC3
+t1279923121
+s3011
+
+N/Users/patrickrussell/Downloads/PhotoLocations/Classes/Event.m
+c000000004C4A13B10000000000000C1B
+t1279923121
+s3099
+i"Event.h"
+i"Photo.h"
+i"UIImageToDataTransformer.h"
+
+N/Users/patrickrussell/Downloads/PhotoLocations/Classes/EventDetailViewController.h
+c000000004C4A13B10000000000000CD6
+t1279923121
+s3286
+
+N/Users/patrickrussell/Downloads/PhotoLocations/Classes/EventDetailViewController.m
+c000000004C4A13B10000000000001B53
+t1279923121
+s6995
+i"EventDetailViewController.h"
+i"Event.h"
+i"Photo.h"
+
+N/Users/patrickrussell/Downloads/PhotoLocations/Classes/EventDetailViewController.xib
+c000000004A4ACE0C00000000000069E3
+t1246416396
+s27107
+
+N/Users/patrickrussell/Downloads/PhotoLocations/Classes/LocationsAppDelegate.h
+c000000004C4A13B10000000000000D02
+t1279923121
+s3330
+
+N/Users/patrickrussell/Downloads/PhotoLocations/Classes/LocationsAppDelegate.m
+c000000004C4A13B10000000000001CE1
+t1279923121
+s7393
+i"LocationsAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/patrickrussell/Downloads/PhotoLocations/Classes/Photo.h
+c000000004C4A13B10000000000000AAB
+t1279923121
+s2731
+
+N/Users/patrickrussell/Downloads/PhotoLocations/Classes/Photo.m
+c000000004C4A13B10000000000000A69
+t1279923121
+s2665
+i"Photo.h"
+i"Event.h"
+
+N/Users/patrickrussell/Downloads/PhotoLocations/Classes/RootViewController.h
+c000000004C4A13B10000000000000CC1
+t1279923121
+s3265
+i<CoreLocation/CoreLocation.h>
+
+N/Users/patrickrussell/Downloads/PhotoLocations/Classes/RootViewController.m
+c000000004C4A13B10000000000002710
+t1279923121
+s10000
+i"RootViewController.h"
+i"LocationsAppDelegate.h"
+i"Event.h"
+i"EventDetailViewController.h"
+
+N/Users/patrickrussell/Downloads/PhotoLocations/Classes/UIImageToDataTransformer.h
+c000000004C4A13B10000000000000A73
+t1279923121
+s2675
+
+N/Users/patrickrussell/Downloads/PhotoLocations/Classes/UIImageToDataTransformer.m
+c000000004C4A13B10000000000000BB0
+t1279923121
+s2992
+i"UIImageToDataTransformer.h"
+
+N/Users/patrickrussell/Downloads/PhotoLocations/Locations.xcdatamodeld
+c000000004C4A13B000000000000000AA
+t1279923120
+s170
+
+N/Users/patrickrussell/Downloads/PhotoLocations/Locations_Prefix.pch
+c000000004A26BD4A000000000000015C
+t1244052810
+s348
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/patrickrussell/Downloads/PhotoLocations/MainWindow.xib
+c000000004A26BD4A0000000000001ED7
+t1244052810
+s7895
+
+N/Users/patrickrussell/Downloads/PhotoLocations/ReadMe.txt
+c000000004C49228E0000000000001046
+t1279861390
+s4166
+
+N/Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app
+t1294151776
+s442
+
+N/Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app.dSYM
+t1294151775
+s102
+
+N/Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app/EventDetailViewController.nib
+t1294151770
+s2410
+
+N/Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app/Info.plist
+t1294151769
+s734
+
+N/Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app/Locations
+t1294151775
+s42792
+
+N/Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app/Locations.momd
+t1294151774
+s170
+
+N/Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app/MainWindow.nib
+t1294151769
+s962
+
+N/Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app/PkgInfo
+t1294151769
+s8
+
+N/Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app/ReadMe.txt
+t1294151769
+s4166
+
+N/Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app/ResourceRules.plist
+t1294151769
+s485
+
+N/Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app/embedded.mobileprovision
+t1294151775
+s15853
+
+N/Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Locations.xcent
+t1294151775
+s424
+
+N/Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Objects-normal/armv6/Event.o
+t1294151774
+s11216
+
+N/Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Objects-normal/armv6/EventDetailViewController.o
+t1294151774
+s60328
+
+N/Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Objects-normal/armv6/Locations.LinkFileList
+c000000004D23305900000000000003C9
+t1294151769
+s969
+
+N/Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Objects-normal/armv6/LocationsAppDelegate.o
+t1294151774
+s60712
+
+N/Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Objects-normal/armv6/Photo.o
+t1294151774
+s5472
+
+N/Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Objects-normal/armv6/RootViewController.o
+t1294151774
+s64592
+
+N/Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Objects-normal/armv6/UIImageToDataTransformer.o
+t1294151774
+s9820
+
+N/Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Objects-normal/armv6/main.o
+t1294151773
+s6464
+
+N/Users/patrickrussell/Downloads/PhotoLocations/main.m
+c000000004C4A13B10000000000000A7D
+t1279923121
+s2685
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision
+c000000004CB063CE0000000000003DED
+t1286628302
+s15853
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Locations_Prefix-egulkxmhaicmsognbvxnwzftxbgm/Locations_Prefix.pch.gch
+t1294151773
+s10410220
+
+NInfo.plist
+c000000004C2E4014000000000000038D
+t1278099476
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315844569#315844569#0(0"0(0#1#0"2462876304#0"0#
+
+CCodeSign /Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app
+s315844575.899907
+e315844576.510377
+r1
+xCodeSign
+x/Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app
+lSLF07#2@43"CodeSign build/Debug-iphoneos/Locations.app315844575#315844576#0(0"0(0#0#81"/Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app2462876304#693"    cd /Users/patrickrussell/Downloads/PhotoLocations    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Patrick Russell (WD3RPMEYT5)" --resource-rules=/Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app/ResourceRules.plist --entitlements /Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Locations.xcent /Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app0#
+
+CCompileC build/Locations.build/Debug-iphoneos/Locations.build/Objects-normal/armv6/Event.o /Users/patrickrussell/Downloads/PhotoLocations/Classes/Event.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315844574.573969
+e315844574.652911
+r1
+xCompileC
+xbuild/Locations.build/Debug-iphoneos/Locations.build/Objects-normal/armv6/Event.o
+x/Users/patrickrussell/Downloads/PhotoLocations/Classes/Event.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/patrickrussell/Downloads/PhotoLocations/Classes/Event.m315844574#315844574#0(0"0(0#0#62"/Users/patrickrussell/Downloads/PhotoLocations/Classes/Event.m2462876304#1862"    cd /Users/patrickrussell/Downloads/PhotoLocations    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Locations-generated-files.hmap -I/Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Locations-own-target-headers.hmap -I/Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Locations-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Locations-project-headers.hmap -F/Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Locations_Prefix-egulkxmhaicmsognbvxnwzftxbgm/Locations_Prefix.pch -c /Users/patrickrussell/Downloads/PhotoLocations/Classes/Event.m -o /Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Objects-normal/armv6/Event.o0#
+
+CCompileC build/Locations.build/Debug-iphoneos/Locations.build/Objects-normal/armv6/EventDetailViewController.o /Users/patrickrussell/Downloads/PhotoLocations/Classes/EventDetailViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315844574.653080
+e315844574.800921
+r1
+xCompileC
+xbuild/Locations.build/Debug-iphoneos/Locations.build/Objects-normal/armv6/EventDetailViewController.o
+x/Users/patrickrussell/Downloads/PhotoLocations/Classes/EventDetailViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/patrickrussell/Downloads/PhotoLocations/Classes/EventDetailViewController.m315844574#315844574#0(0"0(0#0#82"/Users/patrickrussell/Downloads/PhotoLocations/Classes/EventDetailViewController.m2462876304#1902"    cd /Users/patrickrussell/Downloads/PhotoLocations    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Locations-generated-files.hmap -I/Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Locations-own-target-headers.hmap -I/Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Locations-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Locations-project-headers.hmap -F/Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Locations_Prefix-egulkxmhaicmsognbvxnwzftxbgm/Locations_Prefix.pch -c /Users/patrickrussell/Downloads/PhotoLocations/Classes/EventDetailViewController.m -o /Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Objects-normal/armv6/EventDetailViewController.o0#
+
+CCompileC build/Locations.build/Debug-iphoneos/Locations.build/Objects-normal/armv6/LocationsAppDelegate.o /Users/patrickrussell/Downloads/PhotoLocations/Classes/LocationsAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315844574.041742
+e315844574.389946
+r1
+xCompileC
+xbuild/Locations.build/Debug-iphoneos/Locations.build/Objects-normal/armv6/LocationsAppDelegate.o
+x/Users/patrickrussell/Downloads/PhotoLocations/Classes/LocationsAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/patrickrussell/Downloads/PhotoLocations/Classes/LocationsAppDelegate.m315844574#315844574#0(0"0(0#0#77"/Users/patrickrussell/Downloads/PhotoLocations/Classes/LocationsAppDelegate.m2462876304#1892"    cd /Users/patrickrussell/Downloads/PhotoLocations    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Locations-generated-files.hmap -I/Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Locations-own-target-headers.hmap -I/Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Locations-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Locations-project-headers.hmap -F/Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Locations_Prefix-egulkxmhaicmsognbvxnwzftxbgm/Locations_Prefix.pch -c /Users/patrickrussell/Downloads/PhotoLocations/Classes/LocationsAppDelegate.m -o /Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Objects-normal/armv6/LocationsAppDelegate.o0#
+
+CCompileC build/Locations.build/Debug-iphoneos/Locations.build/Objects-normal/armv6/Photo.o /Users/patrickrussell/Downloads/PhotoLocations/Classes/Photo.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315844574.801079
+e315844574.871190
+r1
+xCompileC
+xbuild/Locations.build/Debug-iphoneos/Locations.build/Objects-normal/armv6/Photo.o
+x/Users/patrickrussell/Downloads/PhotoLocations/Classes/Photo.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/patrickrussell/Downloads/PhotoLocations/Classes/Photo.m315844574#315844574#0(0"0(0#0#62"/Users/patrickrussell/Downloads/PhotoLocations/Classes/Photo.m2462876304#1862"    cd /Users/patrickrussell/Downloads/PhotoLocations    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Locations-generated-files.hmap -I/Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Locations-own-target-headers.hmap -I/Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Locations-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Locations-project-headers.hmap -F/Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Locations_Prefix-egulkxmhaicmsognbvxnwzftxbgm/Locations_Prefix.pch -c /Users/patrickrussell/Downloads/PhotoLocations/Classes/Photo.m -o /Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Objects-normal/armv6/Photo.o0#
+
+CCompileC build/Locations.build/Debug-iphoneos/Locations.build/Objects-normal/armv6/RootViewController.o /Users/patrickrussell/Downloads/PhotoLocations/Classes/RootViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315844574.390107
+e315844574.573807
+r1
+xCompileC
+xbuild/Locations.build/Debug-iphoneos/Locations.build/Objects-normal/armv6/RootViewController.o
+x/Users/patrickrussell/Downloads/PhotoLocations/Classes/RootViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/patrickrussell/Downloads/PhotoLocations/Classes/RootViewController.m315844574#315844574#0(0"0(0#0#75"/Users/patrickrussell/Downloads/PhotoLocations/Classes/RootViewController.m2462876304#1888"    cd /Users/patrickrussell/Downloads/PhotoLocations    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Locations-generated-files.hmap -I/Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Locations-own-target-headers.hmap -I/Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Locations-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Locations-project-headers.hmap -F/Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Locations_Prefix-egulkxmhaicmsognbvxnwzftxbgm/Locations_Prefix.pch -c /Users/patrickrussell/Downloads/PhotoLocations/Classes/RootViewController.m -o /Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Objects-normal/armv6/RootViewController.o0#
+
+CCompileC build/Locations.build/Debug-iphoneos/Locations.build/Objects-normal/armv6/UIImageToDataTransformer.o /Users/patrickrussell/Downloads/PhotoLocations/Classes/UIImageToDataTransformer.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315844574.871422
+e315844574.970908
+r1
+xCompileC
+xbuild/Locations.build/Debug-iphoneos/Locations.build/Objects-normal/armv6/UIImageToDataTransformer.o
+x/Users/patrickrussell/Downloads/PhotoLocations/Classes/UIImageToDataTransformer.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/patrickrussell/Downloads/PhotoLocations/Classes/UIImageToDataTransformer.m315844574#315844574#0(0"0(0#0#81"/Users/patrickrussell/Downloads/PhotoLocations/Classes/UIImageToDataTransformer.m2462876304#1900"    cd /Users/patrickrussell/Downloads/PhotoLocations    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Locations-generated-files.hmap -I/Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Locations-own-target-headers.hmap -I/Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Locations-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Locations-project-headers.hmap -F/Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Locations_Prefix-egulkxmhaicmsognbvxnwzftxbgm/Locations_Prefix.pch -c /Users/patrickrussell/Downloads/PhotoLocations/Classes/UIImageToDataTransformer.m -o /Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Objects-normal/armv6/UIImageToDataTransformer.o0#
+
+CCompileC build/Locations.build/Debug-iphoneos/Locations.build/Objects-normal/armv6/main.o /Users/patrickrussell/Downloads/PhotoLocations/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315844573.327916
+e315844574.041583
+r1
+xCompileC
+xbuild/Locations.build/Debug-iphoneos/Locations.build/Objects-normal/armv6/main.o
+x/Users/patrickrussell/Downloads/PhotoLocations/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/patrickrussell/Downloads/PhotoLocations/main.m315844573#315844574#0(0"0(0#0#53"/Users/patrickrussell/Downloads/PhotoLocations/main.m2462876304#1852"    cd /Users/patrickrussell/Downloads/PhotoLocations    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Locations-generated-files.hmap -I/Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Locations-own-target-headers.hmap -I/Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Locations-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Locations-project-headers.hmap -F/Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Locations_Prefix-egulkxmhaicmsognbvxnwzftxbgm/Locations_Prefix.pch -c /Users/patrickrussell/Downloads/PhotoLocations/main.m -o /Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Objects-normal/armv6/main.o0#
+
+CCompileXIB /Users/patrickrussell/Downloads/PhotoLocations/Classes/EventDetailViewController.xib
+s315844569.242332
+e315844570.185923
+r1
+xCompileXIB
+x/Users/patrickrussell/Downloads/PhotoLocations/Classes/EventDetailViewController.xib
+lSLF07#2@48"CompileXIB Classes/EventDetailViewController.xib315844569#315844570#0(0"0(0#0#84"/Users/patrickrussell/Downloads/PhotoLocations/Classes/EventDetailViewController.xib2462876304#606"    cd /Users/patrickrussell/Downloads/PhotoLocations    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app/EventDetailViewController.nib /Users/patrickrussell/Downloads/PhotoLocations/Classes/EventDetailViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/patrickrussell/Downloads/PhotoLocations/MainWindow.xib
+s315844569.241148
+e315844569.952118
+r1
+xCompileXIB
+x/Users/patrickrussell/Downloads/PhotoLocations/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib315844569#315844569#0(0"0(0#0#61"/Users/patrickrussell/Downloads/PhotoLocations/MainWindow.xib2462876304#568"    cd /Users/patrickrussell/Downloads/PhotoLocations    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app/MainWindow.nib /Users/patrickrussell/Downloads/PhotoLocations/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCpResource build/Debug-iphoneos/Locations.app/ReadMe.txt ReadMe.txt
+s315844569.952251
+e315844569.962264
+r1
+xCpResource
+xbuild/Debug-iphoneos/Locations.app/ReadMe.txt
+xReadMe.txt
+lSLF07#2@15"Copy ReadMe.txt315844569#315844569#0(0"0(0#0#57"/Users/patrickrussell/Downloads/PhotoLocations/ReadMe.txt2462876304#466"    cd /Users/patrickrussell/Downloads/PhotoLocations    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/patrickrussell/Downloads/PhotoLocations/ReadMe.txt /Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app0#
+
+CCpResource build/Debug-iphoneos/Locations.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+s315844569.160407
+e315844569.241021
+r1
+xCpResource
+xbuild/Debug-iphoneos/Locations.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist315844569#315844569#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist2462876304#498"    cd /Users/patrickrussell/Downloads/PhotoLocations    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist /Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app0#
+
+CDataModelVersionCompile /Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app/Locations.momd /Users/patrickrussell/Downloads/PhotoLocations/Locations.xcdatamodeld
+s315844573.326330
+e315844574.368529
+r1
+xDataModelVersionCompile
+x/Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app/Locations.momd
+x/Users/patrickrussell/Downloads/PhotoLocations/Locations.xcdatamodeld
+lSLF07#2@96"DataModelVersionCompile build/Debug-iphoneos/Locations.app/Locations.momd Locations.xcdatamodeld315844573#315844574#0(0"0(0#0#69"/Users/patrickrussell/Downloads/PhotoLocations/Locations.xcdatamodeld2462876304#373"    cd /Users/patrickrussell/Downloads/PhotoLocations    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc /Users/patrickrussell/Downloads/PhotoLocations/Locations.xcdatamodeld /Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app/Locations.momd0#
+
+CGenerateDSYMFile /Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app.dSYM /Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app/Locations
+s315844575.725598
+e315844575.837538
+r1
+xGenerateDSYMFile
+x/Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app.dSYM
+x/Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app/Locations
+lSLF07#2@101"GenerateDSYMFile build/Debug-iphoneos/Locations.app.dSYM build/Debug-iphoneos/Locations.app/Locations315844575#315844575#0(0"0(0#0#91"/Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app/Locations2462876304#392"    cd /Users/patrickrussell/Downloads/PhotoLocations    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app/Locations -o /Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app.dSYM0#
+
+CLd /Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app/Locations normal armv6
+s315844574.971045
+e315844575.725419
+r1
+xLd
+x/Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app/Locations
+xnormal
+xarmv6
+lSLF07#2@96"Link /Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app/Locations315844574#315844575#0(0"0(0#0#0"2462876304#916"    cd /Users/patrickrussell/Downloads/PhotoLocations    setenv IPHONEOS_DEPLOYMENT_TARGET 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -L/Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos -F/Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos -filelist /Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Objects-normal/armv6/Locations.LinkFileList -dead_strip -miphoneos-version-min=3.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -framework CoreLocation -o /Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app/Locations0#
+
+CProcessInfoPlistFile /Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app/Info.plist Info.plist
+s315844569.162910
+e315844569.185099
+r1
+xProcessInfoPlistFile
+x/Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist315844569#315844569#0(0"0(0#0#57"/Users/patrickrussell/Downloads/PhotoLocations/Info.plist2462876304#592"    cd /Users/patrickrussell/Downloads/PhotoLocations    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app/ResourceRules.plist -o /Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app/Info.plist0#
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Locations_Prefix-egulkxmhaicmsognbvxnwzftxbgm/Locations_Prefix.pch.gch Locations_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315844570.186117
+e315844573.326092
+r1
+xProcessPCH
+x/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Locations_Prefix-egulkxmhaicmsognbvxnwzftxbgm/Locations_Prefix.pch.gch
+xLocations_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Locations_Prefix.pch315844570#315844573#0(0"0(0#0#67"/Users/patrickrussell/Downloads/PhotoLocations/Locations_Prefix.pch2462876304#1740"    cd /Users/patrickrussell/Downloads/PhotoLocations    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Locations-generated-files.hmap -I/Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Locations-own-target-headers.hmap -I/Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Locations-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Locations-project-headers.hmap -F/Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/DerivedSources -c /Users/patrickrussell/Downloads/PhotoLocations/Locations_Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Locations_Prefix-egulkxmhaicmsognbvxnwzftxbgm/Locations_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" /Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app/embedded.mobileprovision
+s315844575.837697
+e315844575.870363
+r1
+xProcessProductPackaging
+x/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision
+x/Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app/embedded.mobileprovision
+lSLF07#2@203"ProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" build/Debug-iphoneos/Locations.app/embedded.mobileprovision315844575#315844575#0(0"0(0#0#106"/Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app/embedded.mobileprovision2462876304#450"    cd /Users/patrickrussell/Downloads/PhotoLocations    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" -o /Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist /Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Locations.xcent
+s315844575.888093
+e315844575.899741
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+x/Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Locations.xcent
+lSLF07#2@181"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist build/Locations.build/Debug-iphoneos/Locations.build/Locations.xcent315844575#315844575#0(0"0(0#0#115"/Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Locations.xcent2462876304#454"    cd /Users/patrickrussell/Downloads/PhotoLocations    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/patrickrussell/Downloads/PhotoLocations/build/Locations.build/Debug-iphoneos/Locations.build/Locations.xcent0#
+
+CTouch /Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app
+s315844575.870476
+e315844575.887938
+r1
+xTouch
+x/Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app
+lSLF07#2@87"Touch /Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app315844575#315844575#0(0"0(0#0#0"2462876304#282"    cd /Users/patrickrussell/Downloads/PhotoLocations    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/patrickrussell/Downloads/PhotoLocations/build/Debug-iphoneos/Locations.app0#
+

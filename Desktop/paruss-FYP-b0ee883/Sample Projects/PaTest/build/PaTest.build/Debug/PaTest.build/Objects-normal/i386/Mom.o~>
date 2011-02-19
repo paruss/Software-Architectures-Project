@@ -1,0 +1,4 @@
+/Users/patrickrussell/Documents/FYP/PaTest/Mom.m: In function '-[Mom setNum1]':
+/Users/patrickrussell/Documents/FYP/PaTest/Mom.m:14: error: 'num1' undeclared (first use in this function)
+/Users/patrickrussell/Documents/FYP/PaTest/Mom.m:14: error: (Each undeclared identifier is reported only once
+/Users/patrickrussell/Documents/FYP/PaTest/Mom.m:14: error: for each function it appears in.)

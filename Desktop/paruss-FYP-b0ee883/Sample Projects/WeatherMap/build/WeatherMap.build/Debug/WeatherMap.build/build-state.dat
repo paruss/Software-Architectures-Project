@@ -1,0 +1,176 @@
+TWeatherMap
+v7
+r1
+cCheck dependencies
+
+N/Users/patrickrussell/Downloads/WeatherMap/build/Debug/WeatherMap.app
+t2
+s0
+
+N/Users/patrickrussell/Downloads/WeatherMap/build/Debug/WeatherMap.app/Contents/Info.plist
+t2
+s0
+
+N/Users/patrickrussell/Downloads/WeatherMap/build/Debug/WeatherMap.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/patrickrussell/Downloads/WeatherMap/build/Debug/WeatherMap.app/Contents/Resources/Icon-72.png
+t2
+s0
+
+N/Users/patrickrussell/Downloads/WeatherMap/build/Debug/WeatherMap.app/Contents/Resources/Icon-Small-50.png
+t2
+s0
+
+N/Users/patrickrussell/Downloads/WeatherMap/build/Debug/WeatherMap.app/Contents/Resources/Icon-Small.png
+t2
+s0
+
+N/Users/patrickrussell/Downloads/WeatherMap/build/Debug/WeatherMap.app/Contents/Resources/Icon-Small@2x.png
+t2
+s0
+
+N/Users/patrickrussell/Downloads/WeatherMap/build/Debug/WeatherMap.app/Contents/Resources/Icon.png
+t2
+s0
+
+N/Users/patrickrussell/Downloads/WeatherMap/build/Debug/WeatherMap.app/Contents/Resources/Icon@2x.png
+t2
+s0
+
+N/Users/patrickrussell/Downloads/WeatherMap/build/Debug/WeatherMap.app/Contents/Resources/cloudy.png
+t2
+s0
+
+N/Users/patrickrussell/Downloads/WeatherMap/build/Debug/WeatherMap.app/Contents/Resources/en.lproj/MainWindow.nib
+t2
+s0
+
+N/Users/patrickrussell/Downloads/WeatherMap/build/Debug/WeatherMap.app/Contents/Resources/en.lproj/MapViewController.nib
+t2
+s0
+
+N/Users/patrickrussell/Downloads/WeatherMap/build/Debug/WeatherMap.app/Contents/Resources/iTunesArtwork
+t2
+s0
+
+N/Users/patrickrussell/Downloads/WeatherMap/build/Debug/WeatherMap.app/Contents/Resources/partly_cloudy.png
+t2
+s0
+
+N/Users/patrickrussell/Downloads/WeatherMap/build/Debug/WeatherMap.app/Contents/Resources/sunny.png
+t2
+s0
+
+N/Users/patrickrussell/Downloads/WeatherMap/en.lproj/MainWindow.xib
+c000000004B328809000000000000559D
+t1261602825
+s21917
+
+N/Users/patrickrussell/Downloads/WeatherMap/en.lproj/MapViewController.xib
+c000000004B32880900000000000052BE
+t1261602825
+s21182
+
+N/Users/patrickrussell/Downloads/WeatherMap/iTunesArtwork
+c000000004C250DCB0000000000001444
+t1277496779
+s5188
+
+N/Users/patrickrussell/Downloads/WeatherMap/images/Icon-72.png
+c000000004C250DCB0000000000000427
+t1277496779
+s1063
+
+N/Users/patrickrussell/Downloads/WeatherMap/images/Icon-Small-50.png
+c000000004C250DCB00000000000003E0
+t1277496779
+s992
+
+N/Users/patrickrussell/Downloads/WeatherMap/images/Icon-Small.png
+c000000004C250DCB0000000000000396
+t1277496779
+s918
+
+N/Users/patrickrussell/Downloads/WeatherMap/images/Icon-Small@2x.png
+c000000004C250DCB00000000000003F2
+t1277496779
+s1010
+
+N/Users/patrickrussell/Downloads/WeatherMap/images/Icon.png
+c000000004C250DCB00000000000003EF
+t1277496779
+s1007
+
+N/Users/patrickrussell/Downloads/WeatherMap/images/Icon@2x.png
+c000000004C250DCB00000000000004E4
+t1277496779
+s1252
+
+N/Users/patrickrussell/Downloads/WeatherMap/images/cloudy.png
+c000000004C250DCB0000000000002404
+t1277496779
+s9220
+
+N/Users/patrickrussell/Downloads/WeatherMap/images/partly_cloudy.png
+c000000004C250DCB0000000000002738
+t1277496779
+s10040
+
+N/Users/patrickrussell/Downloads/WeatherMap/images/sunny.png
+c000000004C250DCB00000000000023D1
+t1277496779
+s9169
+
+NWeatherMap-Info.plist
+c000000004C250DCB0000000000000459
+t1277496779
+s1113
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies316209560#316209560#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos4.0'1(4@58"error: There is no SDK with the name or path 'iphoneos4.0'316209560#4294967295#0#0(1@0"0(0#1#0"2501739152#0"0#
+
+CCompileXIB /Users/patrickrussell/Downloads/WeatherMap/en.lproj/MainWindow.xib
+r0
+
+CCompileXIB /Users/patrickrussell/Downloads/WeatherMap/en.lproj/MapViewController.xib
+r0
+
+CCpResource build/Debug/WeatherMap.app/Contents/Resources/Icon-72.png images/Icon-72.png
+r0
+
+CCpResource build/Debug/WeatherMap.app/Contents/Resources/Icon-Small-50.png images/Icon-Small-50.png
+r0
+
+CCpResource build/Debug/WeatherMap.app/Contents/Resources/Icon-Small.png images/Icon-Small.png
+r0
+
+CCpResource build/Debug/WeatherMap.app/Contents/Resources/Icon-Small@2x.png images/Icon-Small@2x.png
+r0
+
+CCpResource build/Debug/WeatherMap.app/Contents/Resources/Icon.png images/Icon.png
+r0
+
+CCpResource build/Debug/WeatherMap.app/Contents/Resources/Icon@2x.png images/Icon@2x.png
+r0
+
+CCpResource build/Debug/WeatherMap.app/Contents/Resources/cloudy.png images/cloudy.png
+r0
+
+CCpResource build/Debug/WeatherMap.app/Contents/Resources/iTunesArtwork iTunesArtwork
+r0
+
+CCpResource build/Debug/WeatherMap.app/Contents/Resources/partly_cloudy.png images/partly_cloudy.png
+r0
+
+CCpResource build/Debug/WeatherMap.app/Contents/Resources/sunny.png images/sunny.png
+r0
+
+CProcessInfoPlistFile /Users/patrickrussell/Downloads/WeatherMap/build/Debug/WeatherMap.app/Contents/Info.plist WeatherMap-Info.plist
+r0
+
+CTouch /Users/patrickrussell/Downloads/WeatherMap/build/Debug/WeatherMap.app
+r0
+

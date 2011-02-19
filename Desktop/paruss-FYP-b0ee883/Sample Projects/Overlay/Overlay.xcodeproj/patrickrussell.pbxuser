@@ -1,0 +1,175 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* OverlayAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {551, 299}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{43, 442}";
+		};
+	};
+	1D3623250D0F684500981E51 /* OverlayAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1157}}";
+			sepNavSelRange = "{302, 0}";
+			sepNavVisRange = "{2341, 364}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Overlay */ = {
+		activeExec = 0;
+		executables = (
+			FF08BCCB12649B6E0086533B /* Overlay */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* OverlayViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {810, 524}}";
+			sepNavSelRange = "{369, 0}";
+			sepNavVisRange = "{0, 435}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* OverlayViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {880, 949}}";
+			sepNavSelRange = "{447, 0}";
+			sepNavVisRange = "{229, 518}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FF08BCCB12649B6E0086533B /* Overlay */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Overlay */;
+		codeSenseManager = FF08BCDA12649B8D0086533B /* Code sense */;
+		executables = (
+			FF08BCCB12649B6E0086533B /* Overlay */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					705,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 308583278;
+			PBXWorkspaceStateSaveDate = 308583278;
+		};
+		perUserProjectItems = {
+			FF08BCF012649E4B0086533B /* PBXTextBookmark */ = FF08BCF012649E4B0086533B /* PBXTextBookmark */;
+			FF08BCF112649E4B0086533B /* PBXTextBookmark */ = FF08BCF112649E4B0086533B /* PBXTextBookmark */;
+			FF08BCF212649E4B0086533B /* PBXTextBookmark */ = FF08BCF212649E4B0086533B /* PBXTextBookmark */;
+			FF08BCF312649E4B0086533B /* XCBuildMessageTextBookmark */ = FF08BCF312649E4B0086533B /* XCBuildMessageTextBookmark */;
+			FF08BCF412649E4B0086533B /* PBXTextBookmark */ = FF08BCF412649E4B0086533B /* PBXTextBookmark */;
+		};
+		sourceControlManager = FF08BCD912649B8D0086533B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	FF08BCCB12649B6E0086533B /* Overlay */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Overlay;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	FF08BCD912649B8D0086533B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	FF08BCDA12649B8D0086533B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	FF08BCF012649E4B0086533B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* OverlayAppDelegate.h */;
+		name = "OverlayAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 442;
+		vrLoc = 43;
+	};
+	FF08BCF112649E4B0086533B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* OverlayAppDelegate.m */;
+		name = "OverlayAppDelegate.m: 16";
+		rLen = 0;
+		rLoc = 302;
+		rType = 0;
+		vrLen = 364;
+		vrLoc = 2341;
+	};
+	FF08BCF212649E4B0086533B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* OverlayViewController.h */;
+		name = "OverlayViewController.h: 16";
+		rLen = 0;
+		rLoc = 369;
+		rType = 0;
+		vrLen = 435;
+		vrLoc = 0;
+	};
+	FF08BCF312649E4B0086533B /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Incompatible type for argument 1 of '__CGAffineTransformMake'";
+		fRef = 28D7ACF70DDB3853001CB0EB /* OverlayViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 19;
+		rType = 1;
+	};
+	FF08BCF412649E4B0086533B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* OverlayViewController.m */;
+		name = "OverlayViewController.m: 24";
+		rLen = 0;
+		rLoc = 742;
+		rType = 0;
+		vrLen = 1080;
+		vrLoc = 43;
+	};
+}

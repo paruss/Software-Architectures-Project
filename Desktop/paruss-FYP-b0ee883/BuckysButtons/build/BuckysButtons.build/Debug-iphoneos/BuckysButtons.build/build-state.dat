@@ -1,0 +1,521 @@
+TBuckysButtons
+v7
+r0
+t308440893.262693
+cCheck dependencies
+cCpResource build/Debug-iphoneos/BuckysButtons.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app/Info.plist BuckysButtons-Info.plist
+cCompileXIB /Users/patrickrussell/Documents/FYP/BuckysButtons/MainWindow.xib
+cCompileXIB /Users/patrickrussell/Documents/FYP/BuckysButtons/BuckysButtonsViewController.xib
+cProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuckysButtons_Prefix-fpxspabgqdehwvcrnegrddstymce/BuckysButtons_Prefix.pch.gch BuckysButtons_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuckysButtons_Prefix-fnbtcrywyovuwvbckrxewggceggk/BuckysButtons_Prefix.pch.gch BuckysButtons_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv6/main.o /Users/patrickrussell/Documents/FYP/BuckysButtons/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv6/BuckysButtonsAppDelegate.o /Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv6/BuckysButtonsViewController.o /Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv6/BuckysButtons normal armv6
+cCompileC build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv7/main.o /Users/patrickrussell/Documents/FYP/BuckysButtons/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv7/BuckysButtonsAppDelegate.o /Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv7/BuckysButtonsViewController.o /Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv7/BuckysButtons normal armv7
+cCreateUniversalBinary /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app/BuckysButtons normal "armv6 armv7"
+cGenerateDSYMFile /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app.dSYM /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app/BuckysButtons
+cProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app/embedded.mobileprovision
+cTouch /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons.xcent
+cCodeSign /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk
+c000000004C5A53C10000000000000110
+t1280988097
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist
+c000000004C06E99F00000000000001A7
+t1275521439
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+c000000004C06E99F00000000000001E5
+t1275521439
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C005A1C00000000003B4B70
+t1275091484
+s3885936
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C005A45000000000036A640
+t1275091525
+s3581504
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C005A310000000000001355
+t1275091505
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C00642C000000000000098F
+t1275094060
+s2447
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0064A60000000002703220
+t1275094182
+s40907296
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk
+c000000004C6DE9E30000000000000110
+t1282271715
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+c000000004C578FA900000000000001A7
+t1280806825
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+c000000004C578FA900000000000001E5
+t1280806825
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A51050000000000345F00
+t1280987397
+s3432192
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A52B100000000003E1EF0
+t1280987825
+s4071152
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A527F0000000000001466
+t1280987775
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C62427000000000000009CD
+t1281507952
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C62430F0000000002EBC2B0
+t1281508111
+s49005232
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/BuckysButtonsViewController.xib
+c000000004CB2376E000000000000598D
+t1286748014
+s22925
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/BuckysButtons_Prefix.pch
+c000000004CB21C9400000000000000C3
+t1286741140
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsAppDelegate.h
+c000000004CB21C940000000000000209
+t1286741140
+s521
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsAppDelegate.m
+c000000004CB21C940000000000000AAF
+t1286741140
+s2735
+i"BuckysButtonsAppDelegate.h"
+i"BuckysButtonsViewController.h"
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsViewController.h
+c000000004CB220AD00000000000000CF
+t1286742189
+s207
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsViewController.m
+c000000004CB2211C0000000000000396
+t1286742300
+s918
+i"BuckysButtonsViewController.h"
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/MainWindow.xib
+c000000004CB21C940000000000004E71
+t1286741140
+s20081
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons.xcent
+t1286748092
+s432
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv6/BuckysButtons
+t1286748090
+s18140
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv6/BuckysButtons.LinkFileList
+c000000004CB220AD00000000000001CC
+t1286742189
+s460
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv6/BuckysButtonsAppDelegate.o
+t1286748090
+s45856
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv6/BuckysButtonsViewController.o
+t1286748090
+s37296
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv6/main.o
+t1286748090
+s6468
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv7/BuckysButtons
+t1286748092
+s18140
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv7/BuckysButtons.LinkFileList
+c000000004CB220AD00000000000001CC
+t1286742189
+s460
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv7/BuckysButtonsAppDelegate.o
+t1286748091
+s45776
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv7/BuckysButtonsViewController.o
+t1286748091
+s37228
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv7/main.o
+t1286748091
+s6452
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app
+t1286748093
+s374
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app.dSYM
+t1286748092
+s102
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app/BuckysButtons
+t1286748092
+s52736
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app/BuckysButtonsViewController.nib
+t1286748089
+s2085
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app/Info.plist
+t1286748083
+s750
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app/MainWindow.nib
+t1286748089
+s1135
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app/PkgInfo
+t1286748083
+s8
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app/ResourceRules.plist
+t1286748083
+s485
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app/embedded.mobileprovision
+t1286742192
+s15853
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/main.m
+c000000004CB21C940000000000000175
+t1286741140
+s373
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision
+c000000004CB063CE0000000000003DED
+t1286628302
+s15853
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuckysButtons_Prefix-ezlmczhejpjxqcedsrlyescdefau/BuckysButtons_Prefix.pch.gch
+t1286742192
+s10294832
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuckysButtons_Prefix-ffzmdwjwvtdycidnqmprmdlsmjoj/BuckysButtons_Prefix.pch.gch
+t1286742191
+s9831984
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuckysButtons_Prefix-fnbtcrywyovuwvbckrxewggceggk/BuckysButtons_Prefix.pch.gch
+t1286742354
+s9421460
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuckysButtons_Prefix-fpxspabgqdehwvcrnegrddstymce/BuckysButtons_Prefix.pch.gch
+t1286742354
+s8958612
+
+NBuckysButtons-Info.plist
+c000000004CB21C94000000000000038D
+t1286741140
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308440883#308440883#0(129"[BWARN]warning: building with 'Targeted Device Family' set to iPhone only ('1') not supported with SDK 'Device - iPhone OS 3.2'.1(22@121"warning: building with 'Targeted Device Family' set to iPhone only ('1') not supported with SDK 'Device - iPhone OS 3.2'.308440883#4294967295#0#0(1@0"0(0#1#0"2549534656#0"0#
+
+CCodeSign /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app
+s308440892.417580
+e308440893.262503
+r1
+xCodeSign
+x/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app
+lSLF07#2@47"CodeSign build/Debug-iphoneos/BuckysButtons.app308440892#308440893#0(0"0(0#0#88"/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app2549534656#725"    cd /Users/patrickrussell/Documents/FYP/BuckysButtons    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Patrick Russell (WD3RPMEYT5)" --resource-rules=/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app/ResourceRules.plist --entitlements /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons.xcent /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app0#
+
+CCompileC build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv6/BuckysButtonsAppDelegate.o /Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s308440890.031071
+e308440890.165298
+r1
+xCompileC
+xbuild/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv6/BuckysButtonsAppDelegate.o
+x/Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsAppDelegate.m308440890#308440890#0(0"0(0#0#84"/Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsAppDelegate.m2549534656#2013"    cd /Users/patrickrussell/Documents/FYP/BuckysButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/DerivedSources/armv6 -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuckysButtons_Prefix-fpxspabgqdehwvcrnegrddstymce/BuckysButtons_Prefix.pch -c /Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsAppDelegate.m -o /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv6/BuckysButtonsAppDelegate.o0#
+
+CCompileC build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv6/BuckysButtonsViewController.o /Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s308440890.165454
+e308440890.258134
+r1
+xCompileC
+xbuild/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv6/BuckysButtonsViewController.o
+x/Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsViewController.m308440890#308440890#0(0"0(0#0#87"/Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsViewController.m2549534656#2019"    cd /Users/patrickrussell/Documents/FYP/BuckysButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/DerivedSources/armv6 -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuckysButtons_Prefix-fpxspabgqdehwvcrnegrddstymce/BuckysButtons_Prefix.pch -c /Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsViewController.m -o /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv6/BuckysButtonsViewController.o0#
+
+CCompileC build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv6/main.o /Users/patrickrussell/Documents/FYP/BuckysButtons/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s308440889.259099
+e308440890.030903
+r1
+xCompileC
+xbuild/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv6/main.o
+x/Users/patrickrussell/Documents/FYP/BuckysButtons/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/patrickrussell/Documents/FYP/BuckysButtons/main.m308440889#308440890#0(0"0(0#0#56"/Users/patrickrussell/Documents/FYP/BuckysButtons/main.m2549534656#1965"    cd /Users/patrickrussell/Documents/FYP/BuckysButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/DerivedSources/armv6 -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuckysButtons_Prefix-fpxspabgqdehwvcrnegrddstymce/BuckysButtons_Prefix.pch -c /Users/patrickrussell/Documents/FYP/BuckysButtons/main.m -o /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv7/BuckysButtonsAppDelegate.o /Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s308440891.601395
+e308440891.783998
+r1
+xCompileC
+xbuild/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv7/BuckysButtonsAppDelegate.o
+x/Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsAppDelegate.m308440891#308440891#0(0"0(0#0#84"/Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsAppDelegate.m2549534656#2013"    cd /Users/patrickrussell/Documents/FYP/BuckysButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/DerivedSources/armv7 -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuckysButtons_Prefix-fnbtcrywyovuwvbckrxewggceggk/BuckysButtons_Prefix.pch -c /Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsAppDelegate.m -o /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv7/BuckysButtonsAppDelegate.o0#
+
+CCompileC build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv7/BuckysButtonsViewController.o /Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s308440891.784153
+e308440891.913457
+r1
+xCompileC
+xbuild/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv7/BuckysButtonsViewController.o
+x/Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsViewController.m308440891#308440891#0(0"0(0#0#87"/Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsViewController.m2549534656#2019"    cd /Users/patrickrussell/Documents/FYP/BuckysButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/DerivedSources/armv7 -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuckysButtons_Prefix-fnbtcrywyovuwvbckrxewggceggk/BuckysButtons_Prefix.pch -c /Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsViewController.m -o /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv7/BuckysButtonsViewController.o0#
+
+CCompileC build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv7/main.o /Users/patrickrussell/Documents/FYP/BuckysButtons/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s308440890.697609
+e308440891.601084
+r1
+xCompileC
+xbuild/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv7/main.o
+x/Users/patrickrussell/Documents/FYP/BuckysButtons/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/patrickrussell/Documents/FYP/BuckysButtons/main.m308440890#308440891#0(0"0(0#0#56"/Users/patrickrussell/Documents/FYP/BuckysButtons/main.m2549534656#1965"    cd /Users/patrickrussell/Documents/FYP/BuckysButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/DerivedSources/armv7 -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuckysButtons_Prefix-fnbtcrywyovuwvbckrxewggceggk/BuckysButtons_Prefix.pch -c /Users/patrickrussell/Documents/FYP/BuckysButtons/main.m -o /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/patrickrussell/Documents/FYP/BuckysButtons/BuckysButtonsViewController.xib
+s308440883.509902
+e308440889.203175
+r1
+xCompileXIB
+x/Users/patrickrussell/Documents/FYP/BuckysButtons/BuckysButtonsViewController.xib
+lSLF07#2@42"CompileXIB BuckysButtonsViewController.xib308440883#308440889#0(0"0(0#0#81"/Users/patrickrussell/Documents/FYP/BuckysButtons/BuckysButtonsViewController.xib2549534656#615"    cd /Users/patrickrussell/Documents/FYP/BuckysButtons    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app/BuckysButtonsViewController.nib /Users/patrickrussell/Documents/FYP/BuckysButtons/BuckysButtonsViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk0#
+
+CCompileXIB /Users/patrickrussell/Documents/FYP/BuckysButtons/MainWindow.xib
+s308440883.508634
+e308440889.258486
+r1
+xCompileXIB
+x/Users/patrickrussell/Documents/FYP/BuckysButtons/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib308440883#308440889#0(0"0(0#0#64"/Users/patrickrussell/Documents/FYP/BuckysButtons/MainWindow.xib2549534656#581"    cd /Users/patrickrussell/Documents/FYP/BuckysButtons    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app/MainWindow.nib /Users/patrickrussell/Documents/FYP/BuckysButtons/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk0#
+
+CCpResource build/Debug-iphoneos/BuckysButtons.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+s308440883.362508
+e308440883.493503
+r1
+xCpResource
+xbuild/Debug-iphoneos/BuckysButtons.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist308440883#308440883#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist2549534656#508"    cd /Users/patrickrussell/Documents/FYP/BuckysButtons    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app0#
+
+CCpResource build/Debug-iphoneos/BuckysButtons.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+s308440850.737343
+e308440850.810151
+r1
+xCpResource
+xbuild/Debug-iphoneos/BuckysButtons.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist308440850#308440850#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist2549534656#508"    cd /Users/patrickrussell/Documents/FYP/BuckysButtons    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app0#
+
+CCreateUniversalBinary /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app/BuckysButtons normal "armv6 armv7"
+s308440892.264971
+e308440892.271404
+r1
+xCreateUniversalBinary
+x/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app/BuckysButtons
+xnormal
+xarmv6 armv7
+lSLF07#2@95"CreateUniversalBinary build/Debug-iphoneos/BuckysButtons.app/BuckysButtons normal "armv6 armv7"308440892#308440892#0(0"0(0#0#61"/Users/patrickrussell/Documents/FYP/BuckysButtons/armv6 armv72549534656#610"    cd /Users/patrickrussell/Documents/FYP/BuckysButtons    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv6/BuckysButtons /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv7/BuckysButtons -output /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app/BuckysButtons0#
+
+CGenerateDSYMFile /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app.dSYM /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app/BuckysButtons
+s308440892.271556
+e308440892.391587
+r1
+xGenerateDSYMFile
+x/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app.dSYM
+x/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app/BuckysButtons
+lSLF07#2@113"GenerateDSYMFile build/Debug-iphoneos/BuckysButtons.app.dSYM build/Debug-iphoneos/BuckysButtons.app/BuckysButtons308440892#308440892#0(0"0(0#0#102"/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app/BuckysButtons2549534656#413"    cd /Users/patrickrussell/Documents/FYP/BuckysButtons    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app/BuckysButtons -o /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app.dSYM0#
+
+CLd /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv6/BuckysButtons normal armv6
+s308440890.258284
+e308440890.697449
+r1
+xLd
+x/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv6/BuckysButtons
+xnormal
+xarmv6
+lSLF07#2@150"Link /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv6/BuckysButtons308440890#308440890#0(0"0(0#0#0"2549534656#950"    cd /Users/patrickrussell/Documents/FYP/BuckysButtons    setenv IPHONEOS_DEPLOYMENT_TARGET 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -L/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos -F/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos -filelist /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv6/BuckysButtons.LinkFileList -dead_strip -miphoneos-version-min=3.2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv6/BuckysButtons0#
+
+CLd /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv7/BuckysButtons normal armv7
+s308440891.913598
+e308440892.264820
+r1
+xLd
+x/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv7/BuckysButtons
+xnormal
+xarmv7
+lSLF07#2@150"Link /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv7/BuckysButtons308440891#308440892#0(0"0(0#0#0"2549534656#950"    cd /Users/patrickrussell/Documents/FYP/BuckysButtons    setenv IPHONEOS_DEPLOYMENT_TARGET 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -L/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos -F/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos -filelist /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv7/BuckysButtons.LinkFileList -dead_strip -miphoneos-version-min=3.2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/Objects-normal/armv7/BuckysButtons0#
+
+CProcessInfoPlistFile /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app/Info.plist BuckysButtons-Info.plist
+s308440883.365629
+e308440883.508488
+r1
+xProcessInfoPlistFile
+x/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app/Info.plist
+xBuckysButtons-Info.plist
+lSLF07#2@32"Process BuckysButtons-Info.plist308440883#308440883#0(0"0(0#0#74"/Users/patrickrussell/Documents/FYP/BuckysButtons/BuckysButtons-Info.plist2549534656#630"    cd /Users/patrickrussell/Documents/FYP/BuckysButtons    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility BuckysButtons-Info.plist -genpkginfo /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app/ResourceRules.plist -o /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app/Info.plist0#
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuckysButtons_Prefix-ezlmczhejpjxqcedsrlyescdefau/BuckysButtons_Prefix.pch.gch BuckysButtons_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s308434990.195225
+e308434992.107148
+r1
+xProcessPCH
+x/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuckysButtons_Prefix-ezlmczhejpjxqcedsrlyescdefau/BuckysButtons_Prefix.pch.gch
+xBuckysButtons_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile BuckysButtons_Prefix.pch308434990#308434992#0(0"0(0#0#74"/Users/patrickrussell/Documents/FYP/BuckysButtons/BuckysButtons_Prefix.pch2549534656#1846"    cd /Users/patrickrussell/Documents/FYP/BuckysButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/DerivedSources/armv7 -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/DerivedSources -c /Users/patrickrussell/Documents/FYP/BuckysButtons/BuckysButtons_Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuckysButtons_Prefix-ezlmczhejpjxqcedsrlyescdefau/BuckysButtons_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuckysButtons_Prefix-ffzmdwjwvtdycidnqmprmdlsmjoj/BuckysButtons_Prefix.pch.gch BuckysButtons_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s308434990.193587
+e308434991.861039
+r1
+xProcessPCH
+x/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuckysButtons_Prefix-ffzmdwjwvtdycidnqmprmdlsmjoj/BuckysButtons_Prefix.pch.gch
+xBuckysButtons_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile BuckysButtons_Prefix.pch308434990#308434991#0(0"0(0#0#74"/Users/patrickrussell/Documents/FYP/BuckysButtons/BuckysButtons_Prefix.pch2549534656#1846"    cd /Users/patrickrussell/Documents/FYP/BuckysButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/DerivedSources/armv6 -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/DerivedSources -c /Users/patrickrussell/Documents/FYP/BuckysButtons/BuckysButtons_Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuckysButtons_Prefix-ffzmdwjwvtdycidnqmprmdlsmjoj/BuckysButtons_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuckysButtons_Prefix-fnbtcrywyovuwvbckrxewggceggk/BuckysButtons_Prefix.pch.gch BuckysButtons_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s308435154.020227
+e308435154.841950
+r1
+xProcessPCH
+x/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuckysButtons_Prefix-fnbtcrywyovuwvbckrxewggceggk/BuckysButtons_Prefix.pch.gch
+xBuckysButtons_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile BuckysButtons_Prefix.pch308435154#308435154#0(0"0(0#0#74"/Users/patrickrussell/Documents/FYP/BuckysButtons/BuckysButtons_Prefix.pch2549534656#1846"    cd /Users/patrickrussell/Documents/FYP/BuckysButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/DerivedSources/armv7 -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/DerivedSources -c /Users/patrickrussell/Documents/FYP/BuckysButtons/BuckysButtons_Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuckysButtons_Prefix-fnbtcrywyovuwvbckrxewggceggk/BuckysButtons_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuckysButtons_Prefix-fpxspabgqdehwvcrnegrddstymce/BuckysButtons_Prefix.pch.gch BuckysButtons_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s308435153.174890
+e308435154.020053
+r1
+xProcessPCH
+x/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuckysButtons_Prefix-fpxspabgqdehwvcrnegrddstymce/BuckysButtons_Prefix.pch.gch
+xBuckysButtons_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile BuckysButtons_Prefix.pch308435153#308435154#0(0"0(0#0#74"/Users/patrickrussell/Documents/FYP/BuckysButtons/BuckysButtons_Prefix.pch2549534656#1846"    cd /Users/patrickrussell/Documents/FYP/BuckysButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/DerivedSources/armv6 -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/DerivedSources -c /Users/patrickrussell/Documents/FYP/BuckysButtons/BuckysButtons_Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuckysButtons_Prefix-fpxspabgqdehwvcrnegrddstymce/BuckysButtons_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app/embedded.mobileprovision
+s308434992.597197
+e308434992.630425
+r1
+xProcessProductPackaging
+x/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision
+x/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app/embedded.mobileprovision
+lSLF07#2@207"ProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" build/Debug-iphoneos/BuckysButtons.app/embedded.mobileprovision308434992#308434992#0(0"0(0#0#113"/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app/embedded.mobileprovision2549534656#460"    cd /Users/patrickrussell/Documents/FYP/BuckysButtons    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" -o /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons.xcent
+s308440892.397082
+e308440892.417467
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist
+x/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons.xcent
+lSLF07#2@193"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons.xcent308440892#308440892#0(0"0(0#0#130"/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons.xcent2549534656#472"    cd /Users/patrickrussell/Documents/FYP/BuckysButtons    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons.xcent0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons.xcent
+s308440855.888112
+e308440855.900581
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+x/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons.xcent
+lSLF07#2@193"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons.xcent308440855#308440855#0(0"0(0#0#130"/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons.xcent2549534656#472"    cd /Users/patrickrussell/Documents/FYP/BuckysButtons    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphoneos/BuckysButtons.build/BuckysButtons.xcent0#
+
+CTouch /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app
+s308440892.391888
+e308440892.396934
+r1
+xTouch
+x/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app
+lSLF07#2@94"Touch /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app308440892#308440892#0(0"0(0#0#0"2549534656#292"    cd /Users/patrickrussell/Documents/FYP/BuckysButtons    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphoneos/BuckysButtons.app0#
+

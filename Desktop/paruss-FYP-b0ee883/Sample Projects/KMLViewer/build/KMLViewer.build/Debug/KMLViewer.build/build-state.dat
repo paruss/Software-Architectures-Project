@@ -1,0 +1,152 @@
+TKMLViewer
+v7
+r1
+cCheck dependencies
+
+N/Users/patrickrussell/Downloads/KMLViewer/build/Debug/KMLViewer.app
+t2
+s0
+
+N/Users/patrickrussell/Downloads/KMLViewer/build/Debug/KMLViewer.app/Contents/Info.plist
+t2
+s0
+
+N/Users/patrickrussell/Downloads/KMLViewer/build/Debug/KMLViewer.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/patrickrussell/Downloads/KMLViewer/build/Debug/KMLViewer.app/Contents/Resources/Icon-72.png
+t2
+s0
+
+N/Users/patrickrussell/Downloads/KMLViewer/build/Debug/KMLViewer.app/Contents/Resources/Icon-Small-50.png
+t2
+s0
+
+N/Users/patrickrussell/Downloads/KMLViewer/build/Debug/KMLViewer.app/Contents/Resources/Icon-Small.png
+t2
+s0
+
+N/Users/patrickrussell/Downloads/KMLViewer/build/Debug/KMLViewer.app/Contents/Resources/Icon-Small@2x.png
+t2
+s0
+
+N/Users/patrickrussell/Downloads/KMLViewer/build/Debug/KMLViewer.app/Contents/Resources/Icon.png
+t2
+s0
+
+N/Users/patrickrussell/Downloads/KMLViewer/build/Debug/KMLViewer.app/Contents/Resources/Icon@2x.png
+t2
+s0
+
+N/Users/patrickrussell/Downloads/KMLViewer/build/Debug/KMLViewer.app/Contents/Resources/en.lproj/KMLViewerViewController.nib
+t2
+s0
+
+N/Users/patrickrussell/Downloads/KMLViewer/build/Debug/KMLViewer.app/Contents/Resources/en.lproj/MainWindow.nib
+t2
+s0
+
+N/Users/patrickrussell/Downloads/KMLViewer/build/Debug/KMLViewer.app/Contents/Resources/iTunesArtwork
+t2
+s0
+
+N/Users/patrickrussell/Downloads/KMLViewer/build/Debug/KMLViewer.app/Contents/Resources/route.kml
+t2
+s0
+
+N/Users/patrickrussell/Downloads/KMLViewer/en.lproj/KMLViewerViewController.xib
+c000000004C46089E0000000000004389
+t1279658142
+s17289
+
+N/Users/patrickrussell/Downloads/KMLViewer/en.lproj/MainWindow.xib
+c000000004C46089E0000000000004E41
+t1279658142
+s20033
+
+N/Users/patrickrussell/Downloads/KMLViewer/images/Icon-72.png
+c000000004C4609AB0000000000000427
+t1279658411
+s1063
+
+N/Users/patrickrussell/Downloads/KMLViewer/images/Icon-Small-50.png
+c000000004C4609AB00000000000003E0
+t1279658411
+s992
+
+N/Users/patrickrussell/Downloads/KMLViewer/images/Icon-Small.png
+c000000004C4609AB0000000000000396
+t1279658411
+s918
+
+N/Users/patrickrussell/Downloads/KMLViewer/images/Icon-Small@2x.png
+c000000004C4609AB00000000000003F2
+t1279658411
+s1010
+
+N/Users/patrickrussell/Downloads/KMLViewer/images/Icon.png
+c000000004C4609AB00000000000003EF
+t1279658411
+s1007
+
+N/Users/patrickrussell/Downloads/KMLViewer/images/Icon@2x.png
+c000000004C4609AB00000000000004E4
+t1279658411
+s1252
+
+N/Users/patrickrussell/Downloads/KMLViewer/images/iTunesArtwork
+c000000004C4609AB0000000000001444
+t1279658411
+s5188
+
+N/Users/patrickrussell/Downloads/KMLViewer/route.kml
+c000000004BFEE35B00000000000055E8
+t1274995547
+s21992
+
+NKMLViewer-Info.plist
+c000000004C4609AB000000000000049C
+t1279658411
+s1180
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315851728#315851728#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos4.0'1(4@58"error: There is no SDK with the name or path 'iphoneos4.0'315851728#4294967295#0#0(1@0"0(0#1#0"2462876304#0"0#
+
+CCompileXIB /Users/patrickrussell/Downloads/KMLViewer/en.lproj/KMLViewerViewController.xib
+r0
+
+CCompileXIB /Users/patrickrussell/Downloads/KMLViewer/en.lproj/MainWindow.xib
+r0
+
+CCpResource build/Debug/KMLViewer.app/Contents/Resources/Icon-72.png images/Icon-72.png
+r0
+
+CCpResource build/Debug/KMLViewer.app/Contents/Resources/Icon-Small-50.png images/Icon-Small-50.png
+r0
+
+CCpResource build/Debug/KMLViewer.app/Contents/Resources/Icon-Small.png images/Icon-Small.png
+r0
+
+CCpResource build/Debug/KMLViewer.app/Contents/Resources/Icon-Small@2x.png images/Icon-Small@2x.png
+r0
+
+CCpResource build/Debug/KMLViewer.app/Contents/Resources/Icon.png images/Icon.png
+r0
+
+CCpResource build/Debug/KMLViewer.app/Contents/Resources/Icon@2x.png images/Icon@2x.png
+r0
+
+CCpResource build/Debug/KMLViewer.app/Contents/Resources/iTunesArtwork images/iTunesArtwork
+r0
+
+CCpResource build/Debug/KMLViewer.app/Contents/Resources/route.kml route.kml
+r0
+
+CProcessInfoPlistFile /Users/patrickrussell/Downloads/KMLViewer/build/Debug/KMLViewer.app/Contents/Info.plist KMLViewer-Info.plist
+r0
+
+CTouch /Users/patrickrussell/Downloads/KMLViewer/build/Debug/KMLViewer.app
+r0
+

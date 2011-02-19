@@ -1,0 +1,369 @@
+TMultipleDetailViews
+v7
+r0
+t315852034.223336
+cCheck dependencies
+cProcessInfoPlistFile /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/Info.plist MultipleDetailViews-Info.plist
+cCpResource build/Debug-iphonesimulator/MultipleDetailViews.app/ReadMe.txt ReadMe.txt
+cCompileXIB /Users/patrickrussell/Downloads/MultipleDetailViews/en.lproj/FirstDetailView.xib
+cCompileXIB /Users/patrickrussell/Downloads/MultipleDetailViews/en.lproj/MainWindow.xib
+cCompileXIB /Users/patrickrussell/Downloads/MultipleDetailViews/en.lproj/SecondDetailView.xib
+cProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleDetailViews_Prefix-hihtzisxotorprdbjskfuyofwchr/MultipleDetailViews_Prefix.pch.gch MultipleDetailViews_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/main.o /Users/patrickrussell/Downloads/MultipleDetailViews/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/AppDelegate.o /Users/patrickrussell/Downloads/MultipleDetailViews/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/FirstDetailViewController.o /Users/patrickrussell/Downloads/MultipleDetailViews/Classes/FirstDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/RootViewController.o /Users/patrickrussell/Downloads/MultipleDetailViews/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/SecondDetailViewController.o /Users/patrickrussell/Downloads/MultipleDetailViews/Classes/SecondDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/MultipleDetailViews normal i386
+cGenerateDSYMFile /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app.dSYM /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/MultipleDetailViews
+cTouch /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C494D410000000000000132
+t1279872321
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/Classes/AppDelegate.h
+c000000004BCE30AD0000000000000B1D
+t1271804077
+s2845
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/Classes/AppDelegate.m
+c000000004BCE30AD0000000000000B92
+t1271804077
+s2962
+i"AppDelegate.h"
+i"RootViewController.h"
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/Classes/FirstDetailViewController.h
+c000000004BCE30AD0000000000000B72
+t1271804077
+s2930
+i<UIKit/UIKit.h>
+i"RootViewController.h"
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/Classes/FirstDetailViewController.m
+c000000004BCE30AD0000000000000F1B
+t1271804077
+s3867
+i"FirstDetailViewController.h"
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/Classes/RootViewController.h
+c000000004BCE30AD0000000000000D8B
+t1271804077
+s3467
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/Classes/RootViewController.m
+c000000004BCE30AD0000000000001CE9
+t1271804077
+s7401
+i"RootViewController.h"
+i"FirstDetailViewController.h"
+i"SecondDetailViewController.h"
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/Classes/SecondDetailViewController.h
+c000000004BCE30AD0000000000000B97
+t1271804077
+s2967
+i<UIKit/UIKit.h>
+i"RootViewController.h"
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/Classes/SecondDetailViewController.m
+c000000004BCE30AD0000000000000E45
+t1271804077
+s3653
+i"SecondDetailViewController.h"
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/MultipleDetailViews_Prefix.pch
+c000000004BB3C88800000000000000CF
+t1270073480
+s207
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/ReadMe.txt
+c000000004BC63640000000000000084B
+t1271281216
+s2123
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app
+t1294159234
+s238
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app.dSYM
+t1294159234
+s102
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/Info.plist
+t1294159226
+s852
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/MultipleDetailViews
+t1294159234
+s27012
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/PkgInfo
+t1294159226
+s8
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/ReadMe.txt
+t1294159226
+s2123
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/en.lproj/FirstDetailView.nib
+t1294159227
+s1372
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/en.lproj/MainWindow.nib
+t1294159227
+s1839
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/en.lproj/SecondDetailView.nib
+t1294159229
+s1045
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/AppDelegate.o
+t1294159233
+s45556
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/FirstDetailViewController.o
+t1294159233
+s39360
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/MultipleDetailViews.LinkFileList
+c000000004D234D7A000000000000035B
+t1294159226
+s859
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/RootViewController.o
+t1294159233
+s50220
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/SecondDetailViewController.o
+t1294159233
+s38388
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/main.o
+t1294159233
+s6328
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/en.lproj/FirstDetailView.xib
+c000000004BC636400000000000004DDB
+t1271281216
+s19931
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/en.lproj/MainWindow.xib
+c000000004BC636400000000000007025
+t1271281216
+s28709
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/en.lproj/SecondDetailView.xib
+c000000004BC636400000000000004CE0
+t1271281216
+s19680
+
+N/Users/patrickrussell/Downloads/MultipleDetailViews/main.m
+c000000004BCE30AD0000000000000A83
+t1271804077
+s2691
+i<UIKit/UIKit.h>
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleDetailViews_Prefix-hihtzisxotorprdbjskfuyofwchr/MultipleDetailViews_Prefix.pch.gch
+t1294159232
+s10200624
+
+NMultipleDetailViews-Info.plist
+c000000004BC6364000000000000004AA
+t1271281216
+s1194
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315852026#315852026#0(0"0(0#1#0"2462876304#0"0#
+
+CCompileC build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/AppDelegate.o /Users/patrickrussell/Downloads/MultipleDetailViews/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315852033.149366
+e315852033.251762
+r1
+xCompileC
+xbuild/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/AppDelegate.o
+x/Users/patrickrussell/Downloads/MultipleDetailViews/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@81"Compile /Users/patrickrussell/Downloads/MultipleDetailViews/Classes/AppDelegate.m315852033#315852033#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#73"/Users/patrickrussell/Downloads/MultipleDetailViews/Classes/AppDelegate.m2462876304#2360"    cd /Users/patrickrussell/Downloads/MultipleDetailViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-generated-files.hmap -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-project-headers.hmap -F/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleDetailViews_Prefix-hihtzisxotorprdbjskfuyofwchr/MultipleDetailViews_Prefix.pch -c /Users/patrickrussell/Downloads/MultipleDetailViews/Classes/AppDelegate.m -o /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/FirstDetailViewController.o /Users/patrickrussell/Downloads/MultipleDetailViews/Classes/FirstDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315852033.251930
+e315852033.351030
+r1
+xCompileC
+xbuild/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/FirstDetailViewController.o
+x/Users/patrickrussell/Downloads/MultipleDetailViews/Classes/FirstDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@95"Compile /Users/patrickrussell/Downloads/MultipleDetailViews/Classes/FirstDetailViewController.m315852033#315852033#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#87"/Users/patrickrussell/Downloads/MultipleDetailViews/Classes/FirstDetailViewController.m2462876304#2388"    cd /Users/patrickrussell/Downloads/MultipleDetailViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-generated-files.hmap -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-project-headers.hmap -F/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleDetailViews_Prefix-hihtzisxotorprdbjskfuyofwchr/MultipleDetailViews_Prefix.pch -c /Users/patrickrussell/Downloads/MultipleDetailViews/Classes/FirstDetailViewController.m -o /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/FirstDetailViewController.o0#
+
+CCompileC build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/RootViewController.o /Users/patrickrussell/Downloads/MultipleDetailViews/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315852033.351191
+e315852033.471856
+r1
+xCompileC
+xbuild/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/RootViewController.o
+x/Users/patrickrussell/Downloads/MultipleDetailViews/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@88"Compile /Users/patrickrussell/Downloads/MultipleDetailViews/Classes/RootViewController.m315852033#315852033#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#80"/Users/patrickrussell/Downloads/MultipleDetailViews/Classes/RootViewController.m2462876304#2374"    cd /Users/patrickrussell/Downloads/MultipleDetailViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-generated-files.hmap -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-project-headers.hmap -F/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleDetailViews_Prefix-hihtzisxotorprdbjskfuyofwchr/MultipleDetailViews_Prefix.pch -c /Users/patrickrussell/Downloads/MultipleDetailViews/Classes/RootViewController.m -o /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/SecondDetailViewController.o /Users/patrickrussell/Downloads/MultipleDetailViews/Classes/SecondDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315852033.472022
+e315852033.577057
+r1
+xCompileC
+xbuild/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/SecondDetailViewController.o
+x/Users/patrickrussell/Downloads/MultipleDetailViews/Classes/SecondDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@96"Compile /Users/patrickrussell/Downloads/MultipleDetailViews/Classes/SecondDetailViewController.m315852033#315852033#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#88"/Users/patrickrussell/Downloads/MultipleDetailViews/Classes/SecondDetailViewController.m2462876304#2390"    cd /Users/patrickrussell/Downloads/MultipleDetailViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-generated-files.hmap -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-project-headers.hmap -F/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleDetailViews_Prefix-hihtzisxotorprdbjskfuyofwchr/MultipleDetailViews_Prefix.pch -c /Users/patrickrussell/Downloads/MultipleDetailViews/Classes/SecondDetailViewController.m -o /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/SecondDetailViewController.o0#
+
+CCompileC build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/main.o /Users/patrickrussell/Downloads/MultipleDetailViews/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315852033.029562
+e315852033.149204
+r1
+xCompileC
+xbuild/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/main.o
+x/Users/patrickrussell/Downloads/MultipleDetailViews/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@66"Compile /Users/patrickrussell/Downloads/MultipleDetailViews/main.m315852033#315852033#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#58"/Users/patrickrussell/Downloads/MultipleDetailViews/main.m2462876304#2338"    cd /Users/patrickrussell/Downloads/MultipleDetailViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-generated-files.hmap -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-project-headers.hmap -F/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleDetailViews_Prefix-hihtzisxotorprdbjskfuyofwchr/MultipleDetailViews_Prefix.pch -c /Users/patrickrussell/Downloads/MultipleDetailViews/main.m -o /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/patrickrussell/Downloads/MultipleDetailViews/en.lproj/FirstDetailView.xib
+s315852026.102381
+e315852028.216323
+r1
+xCompileXIB
+x/Users/patrickrussell/Downloads/MultipleDetailViews/en.lproj/FirstDetailView.xib
+lSLF07#2@39"CompileXIB en.lproj/FirstDetailView.xib315852026#315852028#0(0"0(0#0#80"/Users/patrickrussell/Downloads/MultipleDetailViews/en.lproj/FirstDetailView.xib2462876304#649"    cd /Users/patrickrussell/Downloads/MultipleDetailViews    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/en.lproj/FirstDetailView.nib /Users/patrickrussell/Downloads/MultipleDetailViews/en.lproj/FirstDetailView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/patrickrussell/Downloads/MultipleDetailViews/en.lproj/MainWindow.xib
+s315852026.119176
+e315852027.676244
+r1
+xCompileXIB
+x/Users/patrickrussell/Downloads/MultipleDetailViews/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib315852026#315852027#0(0"0(0#0#75"/Users/patrickrussell/Downloads/MultipleDetailViews/en.lproj/MainWindow.xib2462876304#639"    cd /Users/patrickrussell/Downloads/MultipleDetailViews    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/en.lproj/MainWindow.nib /Users/patrickrussell/Downloads/MultipleDetailViews/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/patrickrussell/Downloads/MultipleDetailViews/en.lproj/SecondDetailView.xib
+s315852027.676515
+e315852029.040800
+r1
+xCompileXIB
+x/Users/patrickrussell/Downloads/MultipleDetailViews/en.lproj/SecondDetailView.xib
+lSLF07#2@40"CompileXIB en.lproj/SecondDetailView.xib315852027#315852029#0(0"0(0#0#81"/Users/patrickrussell/Downloads/MultipleDetailViews/en.lproj/SecondDetailView.xib2462876304#651"    cd /Users/patrickrussell/Downloads/MultipleDetailViews    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/en.lproj/SecondDetailView.nib /Users/patrickrussell/Downloads/MultipleDetailViews/en.lproj/SecondDetailView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCpResource build/Debug-iphonesimulator/MultipleDetailViews.app/ReadMe.txt ReadMe.txt
+s315852026.100236
+e315852026.119037
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MultipleDetailViews.app/ReadMe.txt
+xReadMe.txt
+lSLF07#2@15"Copy ReadMe.txt315852026#315852026#0(0"0(0#0#62"/Users/patrickrussell/Downloads/MultipleDetailViews/ReadMe.txt2462876304#505"    cd /Users/patrickrussell/Downloads/MultipleDetailViews    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/patrickrussell/Downloads/MultipleDetailViews/ReadMe.txt /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app0#
+
+CGenerateDSYMFile /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app.dSYM /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/MultipleDetailViews
+s315852034.169840
+e315852034.217857
+r1
+xGenerateDSYMFile
+x/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app.dSYM
+x/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/MultipleDetailViews
+lSLF07#2@145"GenerateDSYMFile build/Debug-iphonesimulator/MultipleDetailViews.app.dSYM build/Debug-iphonesimulator/MultipleDetailViews.app/MultipleDetailViews315852034#315852034#0(0"0(0#0#123"/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/MultipleDetailViews2462876304#458"    cd /Users/patrickrussell/Downloads/MultipleDetailViews    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/MultipleDetailViews -o /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app.dSYM0#
+
+CLd /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/MultipleDetailViews normal i386
+s315852033.577206
+e315852034.169669
+r1
+xLd
+x/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/MultipleDetailViews
+xnormal
+xi386
+lSLF07#2@128"Link /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/MultipleDetailViews315852033#315852034#0(0"0(0#0#0"2462876304#1025"    cd /Users/patrickrussell/Downloads/MultipleDetailViews    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator -F/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator -filelist /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/MultipleDetailViews.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/MultipleDetailViews0#
+
+CProcessInfoPlistFile /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/Info.plist MultipleDetailViews-Info.plist
+s315852026.088133
+e315852026.100079
+r1
+xProcessInfoPlistFile
+x/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/Info.plist
+xMultipleDetailViews-Info.plist
+lSLF07#2@38"Process MultipleDetailViews-Info.plist315852026#315852026#0(0"0(0#0#82"/Users/patrickrussell/Downloads/MultipleDetailViews/MultipleDetailViews-Info.plist2462876304#554"    cd /Users/patrickrussell/Downloads/MultipleDetailViews    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MultipleDetailViews-Info.plist -genpkginfo /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/Info.plist0#
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleDetailViews_Prefix-hihtzisxotorprdbjskfuyofwchr/MultipleDetailViews_Prefix.pch.gch MultipleDetailViews_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s315852029.040995
+e315852033.029249
+r1
+xProcessPCH
+x/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleDetailViews_Prefix-hihtzisxotorprdbjskfuyofwchr/MultipleDetailViews_Prefix.pch.gch
+xMultipleDetailViews_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@41"Precompile MultipleDetailViews_Prefix.pch315852029#315852033#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#82"/Users/patrickrussell/Downloads/MultipleDetailViews/MultipleDetailViews_Prefix.pch2462876304#2205"    cd /Users/patrickrussell/Downloads/MultipleDetailViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-generated-files.hmap -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-project-headers.hmap -F/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/DerivedSources -c /Users/patrickrussell/Downloads/MultipleDetailViews/MultipleDetailViews_Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleDetailViews_Prefix-hihtzisxotorprdbjskfuyofwchr/MultipleDetailViews_Prefix.pch.gch0#
+
+CTouch /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app
+s315852034.217997
+e315852034.223269
+r1
+xTouch
+x/Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app
+lSLF07#2@109"Touch /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app315852034#315852034#0(0"0(0#0#0"2462876304#316"    cd /Users/patrickrussell/Downloads/MultipleDetailViews    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/patrickrussell/Downloads/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app0#
+

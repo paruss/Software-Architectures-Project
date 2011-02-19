@@ -1,0 +1,354 @@
+TToolbarSearch
+v7
+r0
+t315852762.844348
+cCheck dependencies
+cProcessInfoPlistFile /Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/Info.plist ToolbarSearch-Info.plist
+cCpResource build/Debug-iphonesimulator/ToolbarSearch.app/ReadMe.txt ReadMe.txt
+cCompileXIB /Users/patrickrussell/Downloads/ToolbarSearch/en.lproj/MainWindow.xib
+cCompileXIB /Users/patrickrussell/Downloads/ToolbarSearch/en.lproj/ToolbarSearchViewController.xib
+cProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToolbarSearch_Prefix-fzzbskiqfaxkizbuqmnuyjcdveox/ToolbarSearch_Prefix.pch.gch ToolbarSearch_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/main.o /Users/patrickrussell/Downloads/ToolbarSearch/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/ToolbarSearchAppDelegate.o /Users/patrickrussell/Downloads/ToolbarSearch/Classes/ToolbarSearchAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/ToolbarSearchViewController.o /Users/patrickrussell/Downloads/ToolbarSearch/Classes/ToolbarSearchViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/RecentSearchesController.o /Users/patrickrussell/Downloads/ToolbarSearch/Classes/RecentSearchesController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/ToolbarSearch normal i386
+cGenerateDSYMFile /Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app.dSYM /Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/ToolbarSearch
+cTouch /Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004C494D260000000000000110
+t1279872294
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C494D410000000000000132
+t1279872321
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/patrickrussell/Downloads/ToolbarSearch/Classes/RecentSearchesController.h
+c000000004BCCD8020000000000001044
+t1271715842
+s4164
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Downloads/ToolbarSearch/Classes/RecentSearchesController.m
+c000000004BCCD80200000000000022CB
+t1271715842
+s8907
+i"RecentSearchesController.h"
+
+N/Users/patrickrussell/Downloads/ToolbarSearch/Classes/ToolbarSearchAppDelegate.h
+c000000004BCCD8020000000000000AF5
+t1271715842
+s2805
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Downloads/ToolbarSearch/Classes/ToolbarSearchAppDelegate.m
+c000000004BCCD8020000000000000BB2
+t1271715842
+s2994
+i"ToolbarSearchAppDelegate.h"
+i"ToolbarSearchViewController.h"
+
+N/Users/patrickrussell/Downloads/ToolbarSearch/Classes/ToolbarSearchViewController.h
+c000000004BCCD8020000000000000D73
+t1271715842
+s3443
+i<UIKit/UIKit.h>
+i"RecentSearchesController.h"
+
+N/Users/patrickrussell/Downloads/ToolbarSearch/Classes/ToolbarSearchViewController.m
+c000000004BCCD8020000000000002199
+t1271715842
+s8601
+i"ToolbarSearchViewController.h"
+i"RecentSearchesController.h"
+
+N/Users/patrickrussell/Downloads/ToolbarSearch/ReadMe.txt
+c000000004BC5FF1B000000000000088D
+t1271267099
+s2189
+
+N/Users/patrickrussell/Downloads/ToolbarSearch/ToolbarSearch_Prefix.pch
+c000000004BB3C9F400000000000000C3
+t1270073844
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app
+t1294159928
+s238
+
+N/Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app.dSYM
+t1294159928
+s102
+
+N/Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/Info.plist
+t1294159918
+s822
+
+N/Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/PkgInfo
+t1294159918
+s8
+
+N/Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/ReadMe.txt
+t1294159919
+s2189
+
+N/Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/ToolbarSearch
+t1294159928
+s34512
+
+N/Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/en.lproj/MainWindow.nib
+t1294159922
+s1111
+
+N/Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/en.lproj/ToolbarSearchViewController.nib
+t1294159923
+s1473
+
+N/Users/patrickrussell/Downloads/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/RecentSearchesController.o
+t1294159927
+s60872
+
+N/Users/patrickrussell/Downloads/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/ToolbarSearch.LinkFileList
+c000000004D23502E0000000000000273
+t1294159918
+s627
+
+N/Users/patrickrussell/Downloads/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/ToolbarSearchAppDelegate.o
+t1294159927
+s46836
+
+N/Users/patrickrussell/Downloads/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/ToolbarSearchViewController.o
+t1294159927
+s60656
+
+N/Users/patrickrussell/Downloads/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/main.o
+t1294159926
+s6316
+
+N/Users/patrickrussell/Downloads/ToolbarSearch/en.lproj/MainWindow.xib
+c000000004BC5FF1B000000000000536C
+t1271267099
+s21356
+
+N/Users/patrickrussell/Downloads/ToolbarSearch/en.lproj/ToolbarSearchViewController.xib
+c000000004BC5FF1B00000000000050F0
+t1271267099
+s20720
+
+N/Users/patrickrussell/Downloads/ToolbarSearch/main.m
+c000000004BCCD8020000000000000A83
+t1271715842
+s2691
+i<UIKit/UIKit.h>
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToolbarSearch_Prefix-fdonqgdnaordzzbikuqhgbrtmlxv/ToolbarSearch_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToolbarSearch_Prefix-fzzbskiqfaxkizbuqmnuyjcdveox/ToolbarSearch_Prefix.pch.gch
+t1294159926
+s10200624
+
+NToolbarSearch-Info.plist
+c000000004BC5FF1B00000000000004D6
+t1271267099
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315852762#315852762#0(0"0(0#1#0"2462876304#0"0#
+
+CCompileC build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/RecentSearchesController.o /Users/patrickrussell/Downloads/ToolbarSearch/Classes/RecentSearchesController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315852727.220379
+e315852727.358374
+r1
+xCompileC
+xbuild/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/RecentSearchesController.o
+x/Users/patrickrussell/Downloads/ToolbarSearch/Classes/RecentSearchesController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@88"Compile /Users/patrickrussell/Downloads/ToolbarSearch/Classes/RecentSearchesController.m315852727#315852727#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#80"/Users/patrickrussell/Downloads/ToolbarSearch/Classes/RecentSearchesController.m2462876304#2200"    cd /Users/patrickrussell/Downloads/ToolbarSearch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/patrickrussell/Downloads/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/ToolbarSearch-generated-files.hmap -I/Users/patrickrussell/Downloads/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/ToolbarSearch-own-target-headers.hmap -I/Users/patrickrussell/Downloads/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/ToolbarSearch-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/ToolbarSearch-project-headers.hmap -F/Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToolbarSearch_Prefix-fzzbskiqfaxkizbuqmnuyjcdveox/ToolbarSearch_Prefix.pch -c /Users/patrickrussell/Downloads/ToolbarSearch/Classes/RecentSearchesController.m -o /Users/patrickrussell/Downloads/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/RecentSearchesController.o0#
+
+CCompileC build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/ToolbarSearchAppDelegate.o /Users/patrickrussell/Downloads/ToolbarSearch/Classes/ToolbarSearchAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315852726.906512
+e315852727.071248
+r1
+xCompileC
+xbuild/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/ToolbarSearchAppDelegate.o
+x/Users/patrickrussell/Downloads/ToolbarSearch/Classes/ToolbarSearchAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@88"Compile /Users/patrickrussell/Downloads/ToolbarSearch/Classes/ToolbarSearchAppDelegate.m315852726#315852727#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#80"/Users/patrickrussell/Downloads/ToolbarSearch/Classes/ToolbarSearchAppDelegate.m2462876304#2200"    cd /Users/patrickrussell/Downloads/ToolbarSearch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/patrickrussell/Downloads/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/ToolbarSearch-generated-files.hmap -I/Users/patrickrussell/Downloads/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/ToolbarSearch-own-target-headers.hmap -I/Users/patrickrussell/Downloads/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/ToolbarSearch-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/ToolbarSearch-project-headers.hmap -F/Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToolbarSearch_Prefix-fzzbskiqfaxkizbuqmnuyjcdveox/ToolbarSearch_Prefix.pch -c /Users/patrickrussell/Downloads/ToolbarSearch/Classes/ToolbarSearchAppDelegate.m -o /Users/patrickrussell/Downloads/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/ToolbarSearchAppDelegate.o0#
+
+CCompileC build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/ToolbarSearchViewController.o /Users/patrickrussell/Downloads/ToolbarSearch/Classes/ToolbarSearchViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315852727.071415
+e315852727.220218
+r1
+xCompileC
+xbuild/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/ToolbarSearchViewController.o
+x/Users/patrickrussell/Downloads/ToolbarSearch/Classes/ToolbarSearchViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@91"Compile /Users/patrickrussell/Downloads/ToolbarSearch/Classes/ToolbarSearchViewController.m315852727#315852727#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#83"/Users/patrickrussell/Downloads/ToolbarSearch/Classes/ToolbarSearchViewController.m2462876304#2206"    cd /Users/patrickrussell/Downloads/ToolbarSearch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/patrickrussell/Downloads/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/ToolbarSearch-generated-files.hmap -I/Users/patrickrussell/Downloads/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/ToolbarSearch-own-target-headers.hmap -I/Users/patrickrussell/Downloads/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/ToolbarSearch-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/ToolbarSearch-project-headers.hmap -F/Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToolbarSearch_Prefix-fzzbskiqfaxkizbuqmnuyjcdveox/ToolbarSearch_Prefix.pch -c /Users/patrickrussell/Downloads/ToolbarSearch/Classes/ToolbarSearchViewController.m -o /Users/patrickrussell/Downloads/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/ToolbarSearchViewController.o0#
+
+CCompileC build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/main.o /Users/patrickrussell/Downloads/ToolbarSearch/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315852726.746713
+e315852726.906333
+r1
+xCompileC
+xbuild/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/main.o
+x/Users/patrickrussell/Downloads/ToolbarSearch/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@60"Compile /Users/patrickrussell/Downloads/ToolbarSearch/main.m315852726#315852726#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#52"/Users/patrickrussell/Downloads/ToolbarSearch/main.m2462876304#2152"    cd /Users/patrickrussell/Downloads/ToolbarSearch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/patrickrussell/Downloads/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/ToolbarSearch-generated-files.hmap -I/Users/patrickrussell/Downloads/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/ToolbarSearch-own-target-headers.hmap -I/Users/patrickrussell/Downloads/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/ToolbarSearch-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/ToolbarSearch-project-headers.hmap -F/Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToolbarSearch_Prefix-fzzbskiqfaxkizbuqmnuyjcdveox/ToolbarSearch_Prefix.pch -c /Users/patrickrussell/Downloads/ToolbarSearch/main.m -o /Users/patrickrussell/Downloads/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/patrickrussell/Downloads/ToolbarSearch/en.lproj/MainWindow.xib
+s315852718.979646
+e315852722.942696
+r1
+xCompileXIB
+x/Users/patrickrussell/Downloads/ToolbarSearch/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib315852718#315852722#0(0"0(0#0#69"/Users/patrickrussell/Downloads/ToolbarSearch/en.lproj/MainWindow.xib2462876304#615"    cd /Users/patrickrussell/Downloads/ToolbarSearch    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/en.lproj/MainWindow.nib /Users/patrickrussell/Downloads/ToolbarSearch/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/patrickrussell/Downloads/ToolbarSearch/en.lproj/ToolbarSearchViewController.xib
+s315852719.016027
+e315852723.114342
+r1
+xCompileXIB
+x/Users/patrickrussell/Downloads/ToolbarSearch/en.lproj/ToolbarSearchViewController.xib
+lSLF07#2@51"CompileXIB en.lproj/ToolbarSearchViewController.xib315852719#315852723#0(0"0(0#0#86"/Users/patrickrussell/Downloads/ToolbarSearch/en.lproj/ToolbarSearchViewController.xib2462876304#649"    cd /Users/patrickrussell/Downloads/ToolbarSearch    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/en.lproj/ToolbarSearchViewController.nib /Users/patrickrussell/Downloads/ToolbarSearch/en.lproj/ToolbarSearchViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCpResource build/Debug-iphonesimulator/ToolbarSearch.app/ReadMe.txt ReadMe.txt
+s315852718.977367
+e315852719.015883
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ToolbarSearch.app/ReadMe.txt
+xReadMe.txt
+lSLF07#2@15"Copy ReadMe.txt315852718#315852719#0(0"0(0#0#56"/Users/patrickrussell/Downloads/ToolbarSearch/ReadMe.txt2462876304#481"    cd /Users/patrickrussell/Downloads/ToolbarSearch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/patrickrussell/Downloads/ToolbarSearch/ReadMe.txt /Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app0#
+
+CGenerateDSYMFile /Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app.dSYM /Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/ToolbarSearch
+s315852728.865777
+e315852728.945421
+r1
+xGenerateDSYMFile
+x/Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app.dSYM
+x/Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/ToolbarSearch
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/ToolbarSearch.app.dSYM build/Debug-iphonesimulator/ToolbarSearch.app/ToolbarSearch315852728#315852728#0(0"0(0#0#105"/Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/ToolbarSearch2462876304#422"    cd /Users/patrickrussell/Downloads/ToolbarSearch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/ToolbarSearch -o /Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app.dSYM0#
+
+CLd /Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/ToolbarSearch normal i386
+s315852727.358523
+e315852728.865484
+r1
+xLd
+x/Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/ToolbarSearch
+xnormal
+xi386
+lSLF07#2@110"Link /Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/ToolbarSearch315852727#315852728#0(0"0(0#0#0"2462876304#965"    cd /Users/patrickrussell/Downloads/ToolbarSearch    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator -F/Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator -filelist /Users/patrickrussell/Downloads/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/ToolbarSearch.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/ToolbarSearch0#
+
+CProcessInfoPlistFile /Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/Info.plist ToolbarSearch-Info.plist
+s315852718.893174
+e315852718.977228
+r1
+xProcessInfoPlistFile
+x/Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/Info.plist
+xToolbarSearch-Info.plist
+lSLF07#2@32"Process ToolbarSearch-Info.plist315852718#315852718#0(0"0(0#0#70"/Users/patrickrussell/Downloads/ToolbarSearch/ToolbarSearch-Info.plist2462876304#518"    cd /Users/patrickrussell/Downloads/ToolbarSearch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ToolbarSearch-Info.plist -genpkginfo /Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/Info.plist0#
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToolbarSearch_Prefix-fdonqgdnaordzzbikuqhgbrtmlxv/ToolbarSearch_Prefix.pch.gch ToolbarSearch_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToolbarSearch_Prefix-fzzbskiqfaxkizbuqmnuyjcdveox/ToolbarSearch_Prefix.pch.gch ToolbarSearch_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s315852723.114538
+e315852726.746442
+r1
+xProcessPCH
+x/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToolbarSearch_Prefix-fzzbskiqfaxkizbuqmnuyjcdveox/ToolbarSearch_Prefix.pch.gch
+xToolbarSearch_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@35"Precompile ToolbarSearch_Prefix.pch315852723#315852726#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#70"/Users/patrickrussell/Downloads/ToolbarSearch/ToolbarSearch_Prefix.pch2462876304#2031"    cd /Users/patrickrussell/Downloads/ToolbarSearch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/patrickrussell/Downloads/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/ToolbarSearch-generated-files.hmap -I/Users/patrickrussell/Downloads/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/ToolbarSearch-own-target-headers.hmap -I/Users/patrickrussell/Downloads/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/ToolbarSearch-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/ToolbarSearch-project-headers.hmap -F/Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/DerivedSources -c /Users/patrickrussell/Downloads/ToolbarSearch/ToolbarSearch_Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToolbarSearch_Prefix-fzzbskiqfaxkizbuqmnuyjcdveox/ToolbarSearch_Prefix.pch.gch0#
+
+CTouch /Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app
+s315852728.945560
+e315852728.950515
+r1
+xTouch
+x/Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app
+lSLF07#2@97"Touch /Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app315852728#315852728#0(0"0(0#0#0"2462876304#298"    cd /Users/patrickrussell/Downloads/ToolbarSearch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/patrickrussell/Downloads/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app0#
+

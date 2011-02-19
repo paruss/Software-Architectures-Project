@@ -1,0 +1,152 @@
+TAlternateViews
+v7
+r1
+cCheck dependencies
+
+N/Users/patrickrussell/Downloads/AlternateViews/build/Debug/AlternateViews.app
+t2
+s0
+
+N/Users/patrickrussell/Downloads/AlternateViews/build/Debug/AlternateViews.app/Contents/Info.plist
+t2
+s0
+
+N/Users/patrickrussell/Downloads/AlternateViews/build/Debug/AlternateViews.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/patrickrussell/Downloads/AlternateViews/build/Debug/AlternateViews.app/Contents/Resources/Icon-72.png
+t2
+s0
+
+N/Users/patrickrussell/Downloads/AlternateViews/build/Debug/AlternateViews.app/Contents/Resources/Icon-Small-50.png
+t2
+s0
+
+N/Users/patrickrussell/Downloads/AlternateViews/build/Debug/AlternateViews.app/Contents/Resources/Icon-Small.png
+t2
+s0
+
+N/Users/patrickrussell/Downloads/AlternateViews/build/Debug/AlternateViews.app/Contents/Resources/Icon-Small@2x.png
+t2
+s0
+
+N/Users/patrickrussell/Downloads/AlternateViews/build/Debug/AlternateViews.app/Contents/Resources/Icon.png
+t2
+s0
+
+N/Users/patrickrussell/Downloads/AlternateViews/build/Debug/AlternateViews.app/Contents/Resources/Icon@2x.png
+t2
+s0
+
+N/Users/patrickrussell/Downloads/AlternateViews/build/Debug/AlternateViews.app/Contents/Resources/en.lproj/LandscapeView.nib
+t2
+s0
+
+N/Users/patrickrussell/Downloads/AlternateViews/build/Debug/AlternateViews.app/Contents/Resources/en.lproj/MainWindow.nib
+t2
+s0
+
+N/Users/patrickrussell/Downloads/AlternateViews/build/Debug/AlternateViews.app/Contents/Resources/en.lproj/PortraitView.nib
+t2
+s0
+
+N/Users/patrickrussell/Downloads/AlternateViews/build/Debug/AlternateViews.app/Contents/Resources/iTunesArtwork
+t2
+s0
+
+N/Users/patrickrussell/Downloads/AlternateViews/en.lproj/LandscapeView.xib
+c0000000049FA5691000000000000201B
+t1241142929
+s8219
+
+N/Users/patrickrussell/Downloads/AlternateViews/en.lproj/MainWindow.xib
+c0000000049FA56910000000000002C07
+t1241142929
+s11271
+
+N/Users/patrickrussell/Downloads/AlternateViews/en.lproj/PortraitView.xib
+c0000000049FA56910000000000001E29
+t1241142929
+s7721
+
+N/Users/patrickrussell/Downloads/AlternateViews/images/Icon-72.png
+c000000004C22780F0000000000000427
+t1277327375
+s1063
+
+N/Users/patrickrussell/Downloads/AlternateViews/images/Icon-Small-50.png
+c000000004C22780F00000000000003E0
+t1277327375
+s992
+
+N/Users/patrickrussell/Downloads/AlternateViews/images/Icon-Small.png
+c000000004C22780F0000000000000396
+t1277327375
+s918
+
+N/Users/patrickrussell/Downloads/AlternateViews/images/Icon-Small@2x.png
+c000000004C22780F00000000000003F2
+t1277327375
+s1010
+
+N/Users/patrickrussell/Downloads/AlternateViews/images/Icon.png
+c000000004C22780F00000000000003EF
+t1277327375
+s1007
+
+N/Users/patrickrussell/Downloads/AlternateViews/images/Icon@2x.png
+c000000004C22780F00000000000004E4
+t1277327375
+s1252
+
+N/Users/patrickrussell/Downloads/AlternateViews/images/iTunesArtwork
+c000000004C22780F0000000000001444
+t1277327375
+s5188
+
+NInfo.plist
+c000000004C22780F00000000000004A1
+t1277327375
+s1185
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315851944#315851944#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos4.0'1(4@58"error: There is no SDK with the name or path 'iphoneos4.0'315851944#4294967295#0#0(1@0"0(0#1#0"2462876304#0"0#
+
+CCompileXIB /Users/patrickrussell/Downloads/AlternateViews/en.lproj/LandscapeView.xib
+r0
+
+CCompileXIB /Users/patrickrussell/Downloads/AlternateViews/en.lproj/MainWindow.xib
+r0
+
+CCompileXIB /Users/patrickrussell/Downloads/AlternateViews/en.lproj/PortraitView.xib
+r0
+
+CCpResource build/Debug/AlternateViews.app/Contents/Resources/Icon-72.png images/Icon-72.png
+r0
+
+CCpResource build/Debug/AlternateViews.app/Contents/Resources/Icon-Small-50.png images/Icon-Small-50.png
+r0
+
+CCpResource build/Debug/AlternateViews.app/Contents/Resources/Icon-Small.png images/Icon-Small.png
+r0
+
+CCpResource build/Debug/AlternateViews.app/Contents/Resources/Icon-Small@2x.png images/Icon-Small@2x.png
+r0
+
+CCpResource build/Debug/AlternateViews.app/Contents/Resources/Icon.png images/Icon.png
+r0
+
+CCpResource build/Debug/AlternateViews.app/Contents/Resources/Icon@2x.png images/Icon@2x.png
+r0
+
+CCpResource build/Debug/AlternateViews.app/Contents/Resources/iTunesArtwork images/iTunesArtwork
+r0
+
+CProcessInfoPlistFile /Users/patrickrussell/Downloads/AlternateViews/build/Debug/AlternateViews.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Users/patrickrussell/Downloads/AlternateViews/build/Debug/AlternateViews.app
+r0
+

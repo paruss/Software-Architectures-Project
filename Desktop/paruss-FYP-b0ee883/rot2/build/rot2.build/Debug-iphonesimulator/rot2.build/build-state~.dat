@@ -1,0 +1,256 @@
+Trot2
+v7
+r0
+t308489736.085805
+cCheck dependencies
+cProcessInfoPlistFile /Users/patrickrussell/Documents/FYP/rot2/build/Debug-iphonesimulator/rot2.app/Info.plist rot2-Info.plist
+cCompileXIB /Users/patrickrussell/Documents/FYP/rot2/MainWindow.xib
+cCompileXIB /Users/patrickrussell/Documents/FYP/rot2/rot2ViewController.xib
+cProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/rot2_Prefix-dotnnmqhvhyngxatpxnczmcqiffz/rot2_Prefix.pch.gch rot2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/rot2.build/Debug-iphonesimulator/rot2.build/Objects-normal/i386/main.o /Users/patrickrussell/Documents/FYP/rot2/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/rot2.build/Debug-iphonesimulator/rot2.build/Objects-normal/i386/rot2AppDelegate.o /Users/patrickrussell/Documents/FYP/rot2/Classes/rot2AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/rot2.build/Debug-iphonesimulator/rot2.build/Objects-normal/i386/rot2ViewController.o /Users/patrickrussell/Documents/FYP/rot2/Classes/rot2ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/patrickrussell/Documents/FYP/rot2/build/Debug-iphonesimulator/rot2.app/rot2 normal i386
+cGenerateDSYMFile /Users/patrickrussell/Documents/FYP/rot2/build/Debug-iphonesimulator/rot2.app.dSYM /Users/patrickrussell/Documents/FYP/rot2/build/Debug-iphonesimulator/rot2.app/rot2
+cTouch /Users/patrickrussell/Documents/FYP/rot2/build/Debug-iphonesimulator/rot2.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/patrickrussell/Documents/FYP/rot2/Classes/rot2AppDelegate.h
+c000000004CB2F5E400000000000001D3
+t1286796772
+s467
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Documents/FYP/rot2/Classes/rot2AppDelegate.m
+c000000004CB2F5E40000000000000A82
+t1286796772
+s2690
+i"rot2AppDelegate.h"
+i"rot2ViewController.h"
+
+N/Users/patrickrussell/Documents/FYP/rot2/Classes/rot2ViewController.h
+c000000004CB2F5E400000000000000EB
+t1286796772
+s235
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Documents/FYP/rot2/Classes/rot2ViewController.m
+c000000004CB2F6850000000000000526
+t1286796933
+s1318
+i"rot2ViewController.h"
+
+N/Users/patrickrussell/Documents/FYP/rot2/MainWindow.xib
+c000000004CB2F5E40000000000004E05
+t1286796772
+s19973
+
+N/Users/patrickrussell/Documents/FYP/rot2/build/Debug-iphonesimulator/rot2.app
+t1286796936
+s238
+
+N/Users/patrickrussell/Documents/FYP/rot2/build/Debug-iphonesimulator/rot2.app.dSYM
+t1286796936
+s102
+
+N/Users/patrickrussell/Documents/FYP/rot2/build/Debug-iphonesimulator/rot2.app/Info.plist
+t1286796933
+s579
+
+N/Users/patrickrussell/Documents/FYP/rot2/build/Debug-iphonesimulator/rot2.app/MainWindow.nib
+t1286796934
+s1675
+
+N/Users/patrickrussell/Documents/FYP/rot2/build/Debug-iphonesimulator/rot2.app/PkgInfo
+t1286796933
+s8
+
+N/Users/patrickrussell/Documents/FYP/rot2/build/Debug-iphonesimulator/rot2.app/rot2
+t1286796936
+s17108
+
+N/Users/patrickrussell/Documents/FYP/rot2/build/Debug-iphonesimulator/rot2.app/rot2ViewController.nib
+t1286796934
+s1269
+
+N/Users/patrickrussell/Documents/FYP/rot2/build/rot2.build/Debug-iphonesimulator/rot2.build/Objects-normal/i386/main.o
+t1286796935
+s6308
+
+N/Users/patrickrussell/Documents/FYP/rot2/build/rot2.build/Debug-iphonesimulator/rot2.build/Objects-normal/i386/rot2.LinkFileList
+c000000004CB2F685000000000000017B
+t1286796933
+s379
+
+N/Users/patrickrussell/Documents/FYP/rot2/build/rot2.build/Debug-iphonesimulator/rot2.build/Objects-normal/i386/rot2AppDelegate.o
+t1286796935
+s47620
+
+N/Users/patrickrussell/Documents/FYP/rot2/build/rot2.build/Debug-iphonesimulator/rot2.build/Objects-normal/i386/rot2ViewController.o
+t1286796935
+s34920
+
+N/Users/patrickrussell/Documents/FYP/rot2/main.m
+c000000004CB2F5E4000000000000016C
+t1286796772
+s364
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Documents/FYP/rot2/rot2ViewController.xib
+c000000004CB2F5E40000000000001A39
+t1286796772
+s6713
+
+N/Users/patrickrussell/Documents/FYP/rot2/rot2_Prefix.pch
+c000000004CB2F5E400000000000000B1
+t1286796772
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/rot2_Prefix-dotnnmqhvhyngxatpxnczmcqiffz/rot2_Prefix.pch.gch
+t1286796935
+s10204720
+
+Nrot2-Info.plist
+c000000004CB2F5E4000000000000038D
+t1286796772
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308489733#308489733#0(0"0(0#1#0"2549534656#0"0#
+
+CCompileC build/rot2.build/Debug-iphonesimulator/rot2.build/Objects-normal/i386/main.o /Users/patrickrussell/Documents/FYP/rot2/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308489735.690612
+e308489735.778878
+r1
+xCompileC
+xbuild/rot2.build/Debug-iphonesimulator/rot2.build/Objects-normal/i386/main.o
+x/Users/patrickrussell/Documents/FYP/rot2/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/patrickrussell/Documents/FYP/rot2/main.m308489735#308489735#0(0"0(0#0#47"/Users/patrickrussell/Documents/FYP/rot2/main.m2549534656#1876"    cd /Users/patrickrussell/Documents/FYP/rot2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/Documents/FYP/rot2/build/rot2.build/Debug-iphonesimulator/rot2.build/rot2-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/rot2/build/rot2.build/Debug-iphonesimulator/rot2.build/rot2-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/rot2/build/rot2.build/Debug-iphonesimulator/rot2.build/rot2-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/rot2/build/rot2.build/Debug-iphonesimulator/rot2.build/rot2-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/rot2/build/Debug-iphonesimulator -I/Users/patrickrussell/Documents/FYP/rot2/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Documents/FYP/rot2/build/rot2.build/Debug-iphonesimulator/rot2.build/DerivedSources/i386 -I/Users/patrickrussell/Documents/FYP/rot2/build/rot2.build/Debug-iphonesimulator/rot2.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/rot2_Prefix-dotnnmqhvhyngxatpxnczmcqiffz/rot2_Prefix.pch -c /Users/patrickrussell/Documents/FYP/rot2/main.m -o /Users/patrickrussell/Documents/FYP/rot2/build/rot2.build/Debug-iphonesimulator/rot2.build/Objects-normal/i386/main.o0#
+
+CCompileC build/rot2.build/Debug-iphonesimulator/rot2.build/Objects-normal/i386/rot2AppDelegate.o /Users/patrickrussell/Documents/FYP/rot2/Classes/rot2AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308489735.779027
+e308489735.878318
+r1
+xCompileC
+xbuild/rot2.build/Debug-iphonesimulator/rot2.build/Objects-normal/i386/rot2AppDelegate.o
+x/Users/patrickrussell/Documents/FYP/rot2/Classes/rot2AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/patrickrussell/Documents/FYP/rot2/Classes/rot2AppDelegate.m308489735#308489735#0(0"0(0#0#66"/Users/patrickrussell/Documents/FYP/rot2/Classes/rot2AppDelegate.m2549534656#1906"    cd /Users/patrickrussell/Documents/FYP/rot2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/Documents/FYP/rot2/build/rot2.build/Debug-iphonesimulator/rot2.build/rot2-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/rot2/build/rot2.build/Debug-iphonesimulator/rot2.build/rot2-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/rot2/build/rot2.build/Debug-iphonesimulator/rot2.build/rot2-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/rot2/build/rot2.build/Debug-iphonesimulator/rot2.build/rot2-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/rot2/build/Debug-iphonesimulator -I/Users/patrickrussell/Documents/FYP/rot2/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Documents/FYP/rot2/build/rot2.build/Debug-iphonesimulator/rot2.build/DerivedSources/i386 -I/Users/patrickrussell/Documents/FYP/rot2/build/rot2.build/Debug-iphonesimulator/rot2.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/rot2_Prefix-dotnnmqhvhyngxatpxnczmcqiffz/rot2_Prefix.pch -c /Users/patrickrussell/Documents/FYP/rot2/Classes/rot2AppDelegate.m -o /Users/patrickrussell/Documents/FYP/rot2/build/rot2.build/Debug-iphonesimulator/rot2.build/Objects-normal/i386/rot2AppDelegate.o0#
+
+CCompileC build/rot2.build/Debug-iphonesimulator/rot2.build/Objects-normal/i386/rot2ViewController.o /Users/patrickrussell/Documents/FYP/rot2/Classes/rot2ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308489735.878476
+e308489735.963491
+r1
+xCompileC
+xbuild/rot2.build/Debug-iphonesimulator/rot2.build/Objects-normal/i386/rot2ViewController.o
+x/Users/patrickrussell/Documents/FYP/rot2/Classes/rot2ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/patrickrussell/Documents/FYP/rot2/Classes/rot2ViewController.m308489735#308489735#0(0"0(0#0#69"/Users/patrickrussell/Documents/FYP/rot2/Classes/rot2ViewController.m2549534656#1912"    cd /Users/patrickrussell/Documents/FYP/rot2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/Documents/FYP/rot2/build/rot2.build/Debug-iphonesimulator/rot2.build/rot2-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/rot2/build/rot2.build/Debug-iphonesimulator/rot2.build/rot2-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/rot2/build/rot2.build/Debug-iphonesimulator/rot2.build/rot2-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/rot2/build/rot2.build/Debug-iphonesimulator/rot2.build/rot2-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/rot2/build/Debug-iphonesimulator -I/Users/patrickrussell/Documents/FYP/rot2/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Documents/FYP/rot2/build/rot2.build/Debug-iphonesimulator/rot2.build/DerivedSources/i386 -I/Users/patrickrussell/Documents/FYP/rot2/build/rot2.build/Debug-iphonesimulator/rot2.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/rot2_Prefix-dotnnmqhvhyngxatpxnczmcqiffz/rot2_Prefix.pch -c /Users/patrickrussell/Documents/FYP/rot2/Classes/rot2ViewController.m -o /Users/patrickrussell/Documents/FYP/rot2/build/rot2.build/Debug-iphonesimulator/rot2.build/Objects-normal/i386/rot2ViewController.o0#
+
+CCompileXIB /Users/patrickrussell/Documents/FYP/rot2/MainWindow.xib
+s308489733.924477
+e308489734.599071
+r1
+xCompileXIB
+x/Users/patrickrussell/Documents/FYP/rot2/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib308489733#308489734#0(0"0(0#0#55"/Users/patrickrussell/Documents/FYP/rot2/MainWindow.xib4717520#573"    cd /Users/patrickrussell/Documents/FYP/rot2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Documents/FYP/rot2/build/Debug-iphonesimulator/rot2.app/MainWindow.nib /Users/patrickrussell/Documents/FYP/rot2/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/patrickrussell/Documents/FYP/rot2/rot2ViewController.xib
+s308489733.925905
+e308489734.594612
+r1
+xCompileXIB
+x/Users/patrickrussell/Documents/FYP/rot2/rot2ViewController.xib
+lSLF07#2@33"CompileXIB rot2ViewController.xib308489733#308489734#0(0"0(0#0#63"/Users/patrickrussell/Documents/FYP/rot2/rot2ViewController.xib2549534656#589"    cd /Users/patrickrussell/Documents/FYP/rot2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Documents/FYP/rot2/build/Debug-iphonesimulator/rot2.app/rot2ViewController.nib /Users/patrickrussell/Documents/FYP/rot2/rot2ViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CGenerateDSYMFile /Users/patrickrussell/Documents/FYP/rot2/build/Debug-iphonesimulator/rot2.app.dSYM /Users/patrickrussell/Documents/FYP/rot2/build/Debug-iphonesimulator/rot2.app/rot2
+s308489736.020514
+e308489736.081225
+r1
+xGenerateDSYMFile
+x/Users/patrickrussell/Documents/FYP/rot2/build/Debug-iphonesimulator/rot2.app.dSYM
+x/Users/patrickrussell/Documents/FYP/rot2/build/Debug-iphonesimulator/rot2.app/rot2
+lSLF07#2@100"GenerateDSYMFile build/Debug-iphonesimulator/rot2.app.dSYM build/Debug-iphonesimulator/rot2.app/rot2308489736#308489736#0(0"0(0#0#82"/Users/patrickrussell/Documents/FYP/rot2/build/Debug-iphonesimulator/rot2.app/rot22549534656#380"    cd /Users/patrickrussell/Documents/FYP/rot2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/patrickrussell/Documents/FYP/rot2/build/Debug-iphonesimulator/rot2.app/rot2 -o /Users/patrickrussell/Documents/FYP/rot2/build/Debug-iphonesimulator/rot2.app.dSYM0#
+
+CLd /Users/patrickrussell/Documents/FYP/rot2/build/Debug-iphonesimulator/rot2.app/rot2 normal i386
+s308489735.963627
+e308489736.020366
+r1
+xLd
+x/Users/patrickrussell/Documents/FYP/rot2/build/Debug-iphonesimulator/rot2.app/rot2
+xnormal
+xi386
+lSLF07#2@87"Link /Users/patrickrussell/Documents/FYP/rot2/build/Debug-iphonesimulator/rot2.app/rot2308489735#308489736#0(0"0(0#0#0"2549534656#895"    cd /Users/patrickrussell/Documents/FYP/rot2    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/patrickrussell/Documents/FYP/rot2/build/Debug-iphonesimulator -F/Users/patrickrussell/Documents/FYP/rot2/build/Debug-iphonesimulator -filelist /Users/patrickrussell/Documents/FYP/rot2/build/rot2.build/Debug-iphonesimulator/rot2.build/Objects-normal/i386/rot2.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/patrickrussell/Documents/FYP/rot2/build/Debug-iphonesimulator/rot2.app/rot20#
+
+CProcessInfoPlistFile /Users/patrickrussell/Documents/FYP/rot2/build/Debug-iphonesimulator/rot2.app/Info.plist rot2-Info.plist
+s308489733.898701
+e308489733.924329
+r1
+xProcessInfoPlistFile
+x/Users/patrickrussell/Documents/FYP/rot2/build/Debug-iphonesimulator/rot2.app/Info.plist
+xrot2-Info.plist
+lSLF07#2@23"Process rot2-Info.plist308489733#308489733#0(0"0(0#0#56"/Users/patrickrussell/Documents/FYP/rot2/rot2-Info.plist2549534656#476"    cd /Users/patrickrussell/Documents/FYP/rot2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility rot2-Info.plist -genpkginfo /Users/patrickrussell/Documents/FYP/rot2/build/Debug-iphonesimulator/rot2.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/patrickrussell/Documents/FYP/rot2/build/Debug-iphonesimulator/rot2.app/Info.plist0#
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/rot2_Prefix-dotnnmqhvhyngxatpxnczmcqiffz/rot2_Prefix.pch.gch rot2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308489734.599241
+e308489735.690395
+r1
+xProcessPCH
+x/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/rot2_Prefix-dotnnmqhvhyngxatpxnczmcqiffz/rot2_Prefix.pch.gch
+xrot2_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile rot2_Prefix.pch308489734#308489735#0(0"0(0#0#56"/Users/patrickrussell/Documents/FYP/rot2/rot2_Prefix.pch2549534656#1769"    cd /Users/patrickrussell/Documents/FYP/rot2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/Documents/FYP/rot2/build/rot2.build/Debug-iphonesimulator/rot2.build/rot2-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/rot2/build/rot2.build/Debug-iphonesimulator/rot2.build/rot2-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/rot2/build/rot2.build/Debug-iphonesimulator/rot2.build/rot2-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/rot2/build/rot2.build/Debug-iphonesimulator/rot2.build/rot2-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/rot2/build/Debug-iphonesimulator -I/Users/patrickrussell/Documents/FYP/rot2/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Documents/FYP/rot2/build/rot2.build/Debug-iphonesimulator/rot2.build/DerivedSources/i386 -I/Users/patrickrussell/Documents/FYP/rot2/build/rot2.build/Debug-iphonesimulator/rot2.build/DerivedSources -c /Users/patrickrussell/Documents/FYP/rot2/rot2_Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/rot2_Prefix-dotnnmqhvhyngxatpxnczmcqiffz/rot2_Prefix.pch.gch0#
+
+CTouch /Users/patrickrussell/Documents/FYP/rot2/build/Debug-iphonesimulator/rot2.app
+s308489736.081355
+e308489736.085748
+r1
+xTouch
+x/Users/patrickrussell/Documents/FYP/rot2/build/Debug-iphonesimulator/rot2.app
+lSLF07#2@83"Touch /Users/patrickrussell/Documents/FYP/rot2/build/Debug-iphonesimulator/rot2.app308489736#308489736#0(0"0(0#0#0"2549534656#279"    cd /Users/patrickrussell/Documents/FYP/rot2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/patrickrussell/Documents/FYP/rot2/build/Debug-iphonesimulator/rot2.app0#
+

@@ -1,0 +1,407 @@
+TMapKit3
+v7
+r0
+t315316463.488469
+cCheck dependencies
+cProcessInfoPlistFile /Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator/MapKit3.app/Info.plist MapKit3-Info.plist
+cCompileXIB /Users/patrickrussell/Downloads/MapKit3/FlipsideView.xib
+cCompileXIB /Users/patrickrussell/Downloads/MapKit3/MainView.xib
+cCompileXIB /Users/patrickrussell/Downloads/MapKit3/MainWindow.xib
+cProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit3_Prefix-drnxtyhjtumvdqfhomxvotgbbwkm/MapKit3_Prefix.pch.gch MapKit3_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/Objects-normal/i386/main.o /Users/patrickrussell/Downloads/MapKit3/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/Objects-normal/i386/MapKit3AppDelegate.o /Users/patrickrussell/Downloads/MapKit3/Classes/MapKit3AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/Objects-normal/i386/FlipsideView.o /Users/patrickrussell/Downloads/MapKit3/Classes/FlipsideView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/Objects-normal/i386/MainView.o /Users/patrickrussell/Downloads/MapKit3/Classes/MainView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/Objects-normal/i386/MainViewController.o /Users/patrickrussell/Downloads/MapKit3/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/Objects-normal/i386/FlipsideViewController.o /Users/patrickrussell/Downloads/MapKit3/Classes/FlipsideViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/Objects-normal/i386/ParkPlaceMark.o /Users/patrickrussell/Downloads/MapKit3/ParkPlaceMark.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator/MapKit3.app/MapKit3 normal i386
+cGenerateDSYMFile /Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator/MapKit3.app.dSYM /Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator/MapKit3.app/MapKit3
+cTouch /Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator/MapKit3.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004C6C2FF1000000000006B7E0
+t1282158577
+s440288
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004C6C2FEA00000000000001D0
+t1282158570
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MapKit.framework/Headers/MKReverseGeocoder.h
+c000000004C6C301100000000000006CF
+t1282158609
+s1743
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C6C301100000000000002FE
+t1282158609
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C6C303B000000000016DD50
+t1282158651
+s1498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/Availability.h
+c000000004C57A0390000000000001A5C
+t1280811065
+s6748
+
+N/Users/patrickrussell/Downloads/MapKit3/Classes/FlipsideView.h
+c0000000049DA606500000000000000B4
+t1239048293
+s180
+
+N/Users/patrickrussell/Downloads/MapKit3/Classes/FlipsideView.m
+c0000000049DA606500000000000001B4
+t1239048293
+s436
+i"FlipsideView.h"
+
+N/Users/patrickrussell/Downloads/MapKit3/Classes/FlipsideViewController.h
+c0000000049DA60650000000000000209
+t1239048293
+s521
+
+N/Users/patrickrussell/Downloads/MapKit3/Classes/FlipsideViewController.m
+c0000000049DA60650000000000000448
+t1239048293
+s1096
+i"FlipsideViewController.h"
+
+N/Users/patrickrussell/Downloads/MapKit3/Classes/MainView.h
+c0000000049DA606500000000000000C4
+t1239048293
+s196
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Downloads/MapKit3/Classes/MainView.m
+c0000000049DA606500000000000001A8
+t1239048293
+s424
+i"MainView.h"
+
+N/Users/patrickrussell/Downloads/MapKit3/Classes/MainViewController.h
+c0000000049DCCDD40000000000000207
+t1239207380
+s519
+i"FlipsideViewController.h"
+i"ParkPlaceMark.h"
+i<MapKit/MapKit.h>
+i<MapKit/MKReverseGeocoder.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/patrickrussell/Downloads/MapKit3/Classes/MainViewController.m
+c000000004D1370540000000000000E83
+t1293119572
+s3715
+i"MainViewController.h"
+i"MainView.h"
+
+N/Users/patrickrussell/Downloads/MapKit3/Classes/MapKit3AppDelegate.h
+c0000000049DA606500000000000001B7
+t1239048293
+s439
+
+N/Users/patrickrussell/Downloads/MapKit3/Classes/MapKit3AppDelegate.m
+c0000000049DA60650000000000000322
+t1239048293
+s802
+i"MapKit3AppDelegate.h"
+i"MainViewController.h"
+
+N/Users/patrickrussell/Downloads/MapKit3/FlipsideView.xib
+c0000000049DA6065000000000000264B
+t1239048293
+s9803
+
+N/Users/patrickrussell/Downloads/MapKit3/MainView.xib
+c0000000049DC083C0000000000002C35
+t1239156796
+s11317
+
+N/Users/patrickrussell/Downloads/MapKit3/MainWindow.xib
+c0000000049DA60650000000000001DD7
+t1239048293
+s7639
+
+N/Users/patrickrussell/Downloads/MapKit3/MapKit3_Prefix.pch
+c0000000049DA60650000000000000140
+t1239048293
+s320
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Downloads/MapKit3/ParkPlaceMark.h
+c0000000049DCCDC1000000000000014B
+t1239207361
+s331
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+
+N/Users/patrickrussell/Downloads/MapKit3/ParkPlaceMark.m
+c0000000049DCCDBD0000000000000140
+t1239207357
+s320
+i"ParkPlaceMark.h"
+
+N/Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator/MapKit3.app
+t1293119574
+s272
+
+N/Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator/MapKit3.app.dSYM
+t1293119574
+s102
+
+N/Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator/MapKit3.app/FlipsideView.nib
+t1239048326
+s1764
+
+N/Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator/MapKit3.app/Info.plist
+t1239048324
+s542
+
+N/Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator/MapKit3.app/MainView.nib
+t1239156800
+s3156
+
+N/Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator/MapKit3.app/MainWindow.nib
+t1239048326
+s1341
+
+N/Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator/MapKit3.app/MapKit3
+t1293119574
+s27032
+
+N/Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator/MapKit3.app/PkgInfo
+t1239048324
+s8
+
+N/Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/Objects-normal/i386/FlipsideView.o
+t1293119544
+s34400
+
+N/Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/Objects-normal/i386/FlipsideViewController.o
+t1293119544
+s37772
+
+N/Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/Objects-normal/i386/MainView.o
+t1293119544
+s34316
+
+N/Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/Objects-normal/i386/MainViewController.o
+t1293119573
+s52208
+
+N/Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/Objects-normal/i386/MapKit3.LinkFileList
+c000000004D13703100000000000003A0
+t1293119537
+s928
+
+N/Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/Objects-normal/i386/MapKit3AppDelegate.o
+t1293119544
+s47784
+
+N/Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/Objects-normal/i386/ParkPlaceMark.o
+t1293119544
+s11016
+
+N/Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/Objects-normal/i386/main.o
+t1293119543
+s6304
+
+N/Users/patrickrussell/Downloads/MapKit3/main.m
+c0000000049DA60650000000000000164
+t1239048293
+s356
+i<UIKit/UIKit.h>
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit3_Prefix-drnxtyhjtumvdqfhomxvotgbbwkm/MapKit3_Prefix.pch.gch
+t1293119543
+s10204720
+
+NMapKit3-Info.plist
+c0000000049DA6065000000000000038D
+t1239048293
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315316463#315316463#0(0"0(0#1#0"4231240#0"0#
+
+CCompileC build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/Objects-normal/i386/FlipsideView.o /Users/patrickrussell/Downloads/MapKit3/Classes/FlipsideView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314812344.260548
+e314812344.347781
+r1
+xCompileC
+xbuild/MapKit3.build/Debug-iphonesimulator/MapKit3.build/Objects-normal/i386/FlipsideView.o
+x/Users/patrickrussell/Downloads/MapKit3/Classes/FlipsideView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/patrickrussell/Downloads/MapKit3/Classes/FlipsideView.m314812344#314812344#0(0"0(0#0#62"/Users/patrickrussell/Downloads/MapKit3/Classes/FlipsideView.m2462876304#1949"    cd /Users/patrickrussell/Downloads/MapKit3    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/MapKit3-generated-files.hmap -I/Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/MapKit3-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/MapKit3-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/MapKit3-project-headers.hmap -F/Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit3_Prefix-drnxtyhjtumvdqfhomxvotgbbwkm/MapKit3_Prefix.pch -c /Users/patrickrussell/Downloads/MapKit3/Classes/FlipsideView.m -o /Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/Objects-normal/i386/FlipsideView.o0#
+
+CCompileC build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/Objects-normal/i386/FlipsideViewController.o /Users/patrickrussell/Downloads/MapKit3/Classes/FlipsideViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314812344.601067
+e314812344.711596
+r1
+xCompileC
+xbuild/MapKit3.build/Debug-iphonesimulator/MapKit3.build/Objects-normal/i386/FlipsideViewController.o
+x/Users/patrickrussell/Downloads/MapKit3/Classes/FlipsideViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/patrickrussell/Downloads/MapKit3/Classes/FlipsideViewController.m314812344#314812344#0(0"0(0#0#72"/Users/patrickrussell/Downloads/MapKit3/Classes/FlipsideViewController.m2462876304#1969"    cd /Users/patrickrussell/Downloads/MapKit3    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/MapKit3-generated-files.hmap -I/Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/MapKit3-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/MapKit3-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/MapKit3-project-headers.hmap -F/Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit3_Prefix-drnxtyhjtumvdqfhomxvotgbbwkm/MapKit3_Prefix.pch -c /Users/patrickrussell/Downloads/MapKit3/Classes/FlipsideViewController.m -o /Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/Objects-normal/i386/FlipsideViewController.o0#
+
+CCompileC build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/Objects-normal/i386/MainView.o /Users/patrickrussell/Downloads/MapKit3/Classes/MainView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314812344.347942
+e314812344.454072
+r1
+xCompileC
+xbuild/MapKit3.build/Debug-iphonesimulator/MapKit3.build/Objects-normal/i386/MainView.o
+x/Users/patrickrussell/Downloads/MapKit3/Classes/MainView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/patrickrussell/Downloads/MapKit3/Classes/MainView.m314812344#314812344#0(0"0(0#0#58"/Users/patrickrussell/Downloads/MapKit3/Classes/MainView.m2462876304#1941"    cd /Users/patrickrussell/Downloads/MapKit3    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/MapKit3-generated-files.hmap -I/Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/MapKit3-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/MapKit3-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/MapKit3-project-headers.hmap -F/Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit3_Prefix-drnxtyhjtumvdqfhomxvotgbbwkm/MapKit3_Prefix.pch -c /Users/patrickrussell/Downloads/MapKit3/Classes/MainView.m -o /Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/Objects-normal/i386/MainView.o0#
+
+CCompileC build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/Objects-normal/i386/MainViewController.o /Users/patrickrussell/Downloads/MapKit3/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314812373.089216
+e314812373.327668
+r1
+xCompileC
+xbuild/MapKit3.build/Debug-iphonesimulator/MapKit3.build/Objects-normal/i386/MainViewController.o
+x/Users/patrickrussell/Downloads/MapKit3/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/patrickrussell/Downloads/MapKit3/Classes/MainViewController.m314812373#314812373#0(0"0(0#0#68"/Users/patrickrussell/Downloads/MapKit3/Classes/MainViewController.m2462876304#1961"    cd /Users/patrickrussell/Downloads/MapKit3    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/MapKit3-generated-files.hmap -I/Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/MapKit3-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/MapKit3-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/MapKit3-project-headers.hmap -F/Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit3_Prefix-drnxtyhjtumvdqfhomxvotgbbwkm/MapKit3_Prefix.pch -c /Users/patrickrussell/Downloads/MapKit3/Classes/MainViewController.m -o /Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/Objects-normal/i386/MainViewController.o0#
+
+CCompileC build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/Objects-normal/i386/MapKit3AppDelegate.o /Users/patrickrussell/Downloads/MapKit3/Classes/MapKit3AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314812344.026390
+e314812344.260387
+r1
+xCompileC
+xbuild/MapKit3.build/Debug-iphonesimulator/MapKit3.build/Objects-normal/i386/MapKit3AppDelegate.o
+x/Users/patrickrussell/Downloads/MapKit3/Classes/MapKit3AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/patrickrussell/Downloads/MapKit3/Classes/MapKit3AppDelegate.m314812344#314812344#0(0"0(0#0#68"/Users/patrickrussell/Downloads/MapKit3/Classes/MapKit3AppDelegate.m2462876304#1961"    cd /Users/patrickrussell/Downloads/MapKit3    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/MapKit3-generated-files.hmap -I/Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/MapKit3-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/MapKit3-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/MapKit3-project-headers.hmap -F/Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit3_Prefix-drnxtyhjtumvdqfhomxvotgbbwkm/MapKit3_Prefix.pch -c /Users/patrickrussell/Downloads/MapKit3/Classes/MapKit3AppDelegate.m -o /Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/Objects-normal/i386/MapKit3AppDelegate.o0#
+
+CCompileC build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/Objects-normal/i386/ParkPlaceMark.o /Users/patrickrussell/Downloads/MapKit3/ParkPlaceMark.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314812344.711762
+e314812344.820208
+r1
+xCompileC
+xbuild/MapKit3.build/Debug-iphonesimulator/MapKit3.build/Objects-normal/i386/ParkPlaceMark.o
+x/Users/patrickrussell/Downloads/MapKit3/ParkPlaceMark.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/patrickrussell/Downloads/MapKit3/ParkPlaceMark.m314812344#314812344#0(0"0(0#0#55"/Users/patrickrussell/Downloads/MapKit3/ParkPlaceMark.m2462876304#1943"    cd /Users/patrickrussell/Downloads/MapKit3    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/MapKit3-generated-files.hmap -I/Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/MapKit3-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/MapKit3-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/MapKit3-project-headers.hmap -F/Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit3_Prefix-drnxtyhjtumvdqfhomxvotgbbwkm/MapKit3_Prefix.pch -c /Users/patrickrussell/Downloads/MapKit3/ParkPlaceMark.m -o /Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/Objects-normal/i386/ParkPlaceMark.o0#
+
+CCompileC build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/Objects-normal/i386/main.o /Users/patrickrussell/Downloads/MapKit3/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314812343.799722
+e314812344.011924
+r1
+xCompileC
+xbuild/MapKit3.build/Debug-iphonesimulator/MapKit3.build/Objects-normal/i386/main.o
+x/Users/patrickrussell/Downloads/MapKit3/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/patrickrussell/Downloads/MapKit3/main.m314812343#314812344#0(0"0(0#0#46"/Users/patrickrussell/Downloads/MapKit3/main.m2462876304#1925"    cd /Users/patrickrussell/Downloads/MapKit3    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/MapKit3-generated-files.hmap -I/Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/MapKit3-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/MapKit3-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/MapKit3-project-headers.hmap -F/Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit3_Prefix-drnxtyhjtumvdqfhomxvotgbbwkm/MapKit3_Prefix.pch -c /Users/patrickrussell/Downloads/MapKit3/main.m -o /Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/patrickrussell/Downloads/MapKit3/FlipsideView.xib
+r0
+
+CCompileXIB /Users/patrickrussell/Downloads/MapKit3/MainView.xib
+r0
+
+CCompileXIB /Users/patrickrussell/Downloads/MapKit3/MainWindow.xib
+r0
+
+CGenerateDSYMFile /Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator/MapKit3.app.dSYM /Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator/MapKit3.app/MapKit3
+s314812374.009060
+e314812374.272474
+r1
+xGenerateDSYMFile
+x/Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator/MapKit3.app.dSYM
+x/Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator/MapKit3.app/MapKit3
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/MapKit3.app.dSYM build/Debug-iphonesimulator/MapKit3.app/MapKit3314812374#314812374#0(0"0(0#0#87"/Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator/MapKit3.app/MapKit32462876304#386"    cd /Users/patrickrussell/Downloads/MapKit3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator/MapKit3.app/MapKit3 -o /Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator/MapKit3.app.dSYM0#
+
+CLd /Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator/MapKit3.app/MapKit3 normal i386
+s314812373.327806
+e314812374.008906
+r1
+xLd
+x/Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator/MapKit3.app/MapKit3
+xnormal
+xi386
+lSLF07#2@92"Link /Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator/MapKit3.app/MapKit3314812373#314812374#0(0"0(0#0#0"2462876304#947"    cd /Users/patrickrussell/Downloads/MapKit3    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator -F/Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator -filelist /Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/Objects-normal/i386/MapKit3.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -framework CoreLocation -o /Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator/MapKit3.app/MapKit30#
+
+CProcessInfoPlistFile /Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator/MapKit3.app/Info.plist MapKit3-Info.plist
+r0
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit3_Prefix-drnxtyhjtumvdqfhomxvotgbbwkm/MapKit3_Prefix.pch.gch MapKit3_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s314812337.296745
+e314812343.798950
+r1
+xProcessPCH
+x/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit3_Prefix-drnxtyhjtumvdqfhomxvotgbbwkm/MapKit3_Prefix.pch.gch
+xMapKit3_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile MapKit3_Prefix.pch314812337#314812343#0(0"0(0#0#58"/Users/patrickrussell/Downloads/MapKit3/MapKit3_Prefix.pch2462876304#1816"    cd /Users/patrickrussell/Downloads/MapKit3    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/MapKit3-generated-files.hmap -I/Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/MapKit3-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/MapKit3-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/MapKit3-project-headers.hmap -F/Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MapKit3/build/MapKit3.build/Debug-iphonesimulator/MapKit3.build/DerivedSources -c /Users/patrickrussell/Downloads/MapKit3/MapKit3_Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit3_Prefix-drnxtyhjtumvdqfhomxvotgbbwkm/MapKit3_Prefix.pch.gch0#
+
+CTouch /Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator/MapKit3.app
+s314812374.272606
+e314812374.331922
+r1
+xTouch
+x/Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator/MapKit3.app
+lSLF07#2@85"Touch /Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator/MapKit3.app314812374#314812374#0(0"0(0#0#0"2462876304#280"    cd /Users/patrickrussell/Downloads/MapKit3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/patrickrussell/Downloads/MapKit3/build/Debug-iphonesimulator/MapKit3.app0#
+

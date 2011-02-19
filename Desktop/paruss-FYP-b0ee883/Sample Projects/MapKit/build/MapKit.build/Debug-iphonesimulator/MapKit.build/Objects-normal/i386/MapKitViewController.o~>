@@ -1,0 +1,98 @@
+/Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitViewController.m: In function '-[MapKitViewController locationManager:didUpdateToLocation:fromLocation:]':
+/Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitViewController.m:40: warning: incompatible Objective-C types initializing 'struct CLLocation *', expected 'struct CLLocationManager *'
+/Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitViewController.m:42: error: expected ';' before 'location'
+{standard input}:293:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000001$pb"
+{standard input}:293:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression
+{standard input}:287:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:287:symbol: "L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:280:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000001$pb"
+{standard input}:280:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression
+{standard input}:274:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:274:symbol: "L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:266:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L00000000001$pb"
+{standard input}:266:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression
+{standard input}:263:non-relocatable subtraction expression, "L_kCLLocationAccuracyBest$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:263:symbol: "L_kCLLocationAccuracyBest$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:257:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:257:symbol: "L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:249:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000001$pb"
+{standard input}:249:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+{standard input}:242:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:242:symbol: "L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:234:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000001$pb"
+{standard input}:234:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+{standard input}:227:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000001$pb"
+{standard input}:227:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression
+{standard input}:221:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+{standard input}:221:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+{standard input}:218:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L00000000001$pb"
+{standard input}:218:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression
+{standard input}:211:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000001$pb"
+{standard input}:211:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
+{standard input}:205:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:205:symbol: "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:197:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000001$pb"
+{standard input}:197:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
+{standard input}:191:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:191:symbol: "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:183:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000001$pb"
+{standard input}:183:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
+{standard input}:177:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:177:symbol: "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:169:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000001$pb"
+{standard input}:169:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+{standard input}:162:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:162:symbol: "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:154:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000001$pb"
+{standard input}:154:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+{standard input}:148:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:148:symbol: "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:140:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"
+{standard input}:140:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+{standard input}:134:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:134:symbol: "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:125:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
+{standard input}:125:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+{standard input}:119:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:119:symbol: "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:112:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000001$pb"
+{standard input}:112:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+{standard input}:96:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"
+{standard input}:96:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+{standard input}:88:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000001$pb"
+{standard input}:88:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+{standard input}:82:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000001$pb"
+{standard input}:82:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+{standard input}:75:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+{standard input}:75:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+{standard input}:72:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000001$pb"
+{standard input}:72:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression
+{standard input}:67:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:67:symbol: "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:60:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+{standard input}:60:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+{standard input}:56:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_1" minus "L00000000001$pb"
+{standard input}:56:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_1" can't be undefined in a subtraction expression
+{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_1
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10
+{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_3
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12
+{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_kCLLocationAccuracyBest$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15

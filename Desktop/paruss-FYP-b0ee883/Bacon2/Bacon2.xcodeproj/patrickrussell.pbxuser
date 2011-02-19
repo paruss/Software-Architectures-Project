@@ -1,0 +1,193 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* Bacon2AppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {544, 299}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 472}";
+		};
+	};
+	1D3623250D0F684500981E51 /* Bacon2AppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {810, 1248}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 349}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Bacon2 */ = {
+		activeExec = 0;
+		executables = (
+			FF8AE6F31263150B0042120C /* Bacon2 */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* Bacon2ViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {883, 524}}";
+			sepNavSelRange = "{252, 0}";
+			sepNavVisRange = "{0, 617}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* Bacon2ViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {883, 1521}}";
+			sepNavSelRange = "{1438, 0}";
+			sepNavVisRange = "{683, 1151}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FF8AE6F31263150B0042120C /* Bacon2 */;
+		activeSDKPreference = iphonesimulator3.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Bacon2 */;
+		codeSenseManager = FF8AE6FE1263152A0042120C /* Code sense */;
+		executables = (
+			FF8AE6F31263150B0042120C /* Bacon2 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					705,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 308521677;
+			PBXWorkspaceStateSaveDate = 308521677;
+		};
+		perUserProjectItems = {
+			FF8AE726126328F10042120C /* PBXTextBookmark */ = FF8AE726126328F10042120C /* PBXTextBookmark */;
+			FF8AE727126328F10042120C /* PBXTextBookmark */ = FF8AE727126328F10042120C /* PBXTextBookmark */;
+			FF8AE728126328F10042120C /* PBXTextBookmark */ = FF8AE728126328F10042120C /* PBXTextBookmark */;
+			FF8AE73212632C5F0042120C /* PBXTextBookmark */ = FF8AE73212632C5F0042120C /* PBXTextBookmark */;
+			FF8AE73512632D5A0042120C /* PBXTextBookmark */ = FF8AE73512632D5A0042120C /* PBXTextBookmark */;
+			FF9485C81263B9CB003B9A9E /* PBXTextBookmark */ = FF9485C81263B9CB003B9A9E /* PBXTextBookmark */;
+		};
+		sourceControlManager = FF8AE6FD1263152A0042120C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	FF8AE6F31263150B0042120C /* Bacon2 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Bacon2;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	FF8AE6FD1263152A0042120C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	FF8AE6FE1263152A0042120C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	FF8AE726126328F10042120C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* Bacon2AppDelegate.h */;
+		name = "Bacon2AppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 472;
+		vrLoc = 0;
+	};
+	FF8AE727126328F10042120C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Bacon2AppDelegate.m */;
+		name = "Bacon2AppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 349;
+		vrLoc = 0;
+	};
+	FF8AE728126328F10042120C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FF8AE729126328F10042120C /* UISwitch.h */;
+		name = "UISwitch.h: 20";
+		rLen = 42;
+		rLoc = 453;
+		rType = 0;
+		vrLen = 573;
+		vrLoc = 0;
+	};
+	FF8AE729126328F10042120C /* UISwitch.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UISwitch.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UISwitch.h;
+		sourceTree = "<absolute>";
+	};
+	FF8AE73212632C5F0042120C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* Bacon2ViewController.h */;
+		name = "Bacon2ViewController.h: 11";
+		rLen = 0;
+		rLoc = 252;
+		rType = 0;
+		vrLen = 617;
+		vrLoc = 0;
+	};
+	FF8AE73512632D5A0042120C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* Bacon2ViewController.m */;
+		name = "Bacon2ViewController.m: 57";
+		rLen = 0;
+		rLoc = 1438;
+		rType = 0;
+		vrLen = 1154;
+		vrLoc = 683;
+	};
+	FF9485C81263B9CB003B9A9E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* Bacon2ViewController.m */;
+		name = "Bacon2ViewController.m: 57";
+		rLen = 0;
+		rLoc = 1438;
+		rType = 0;
+		vrLen = 1151;
+		vrLoc = 683;
+	};
+}

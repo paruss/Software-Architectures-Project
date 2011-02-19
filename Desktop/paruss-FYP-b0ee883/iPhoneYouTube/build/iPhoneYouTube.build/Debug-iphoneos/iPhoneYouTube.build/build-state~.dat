@@ -1,0 +1,429 @@
+TiPhoneYouTube
+v7
+r0
+t308433465.595278
+cCheck dependencies
+cCpResource build/Debug-iphoneos/iPhoneYouTube.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app/Info.plist iPhoneYouTube-Info.plist
+cCompileXIB /Users/patrickrussell/Documents/FYP/iPhoneYouTube/MainWindow.xib
+cCompileXIB /Users/patrickrussell/Documents/FYP/iPhoneYouTube/iPhoneYouTubeViewController.xib
+cProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneYouTube_Prefix-fpmnadnllhwqufffslhrdkubatuq/iPhoneYouTube_Prefix.pch.gch iPhoneYouTube_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneYouTube_Prefix-hexsfuhnxobgxmafmimezjdmgjdj/iPhoneYouTube_Prefix.pch.gch iPhoneYouTube_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv6/main.o /Users/patrickrussell/Documents/FYP/iPhoneYouTube/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv6/iPhoneYouTubeAppDelegate.o /Users/patrickrussell/Documents/FYP/iPhoneYouTube/Classes/iPhoneYouTubeAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv6/iPhoneYouTubeViewController.o /Users/patrickrussell/Documents/FYP/iPhoneYouTube/Classes/iPhoneYouTubeViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv6/iPhoneYouTube normal armv6
+cCompileC build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv7/main.o /Users/patrickrussell/Documents/FYP/iPhoneYouTube/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv7/iPhoneYouTubeAppDelegate.o /Users/patrickrussell/Documents/FYP/iPhoneYouTube/Classes/iPhoneYouTubeAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv7/iPhoneYouTubeViewController.o /Users/patrickrussell/Documents/FYP/iPhoneYouTube/Classes/iPhoneYouTubeViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv7/iPhoneYouTube normal armv7
+cCreateUniversalBinary /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app/iPhoneYouTube normal "armv6 armv7"
+cGenerateDSYMFile /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app.dSYM /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app/iPhoneYouTube
+cProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app/embedded.mobileprovision
+cTouch /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/iPhoneYouTube.xcent
+cCodeSign /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk
+c000000004C6DE9E30000000000000110
+t1282271715
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+c000000004C578FA900000000000001A7
+t1280806825
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+c000000004C578FA900000000000001E5
+t1280806825
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A51050000000000345F00
+t1280987397
+s3432192
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A52B100000000003E1EF0
+t1280987825
+s4071152
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A527F0000000000001466
+t1280987775
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C62427000000000000009CD
+t1281507952
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C62430F0000000002EBC2B0
+t1281508111
+s49005232
+
+N/Users/patrickrussell/Documents/FYP/iPhoneYouTube/Classes/iPhoneYouTubeAppDelegate.h
+c000000004CB218E20000000000000209
+t1286740194
+s521
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Documents/FYP/iPhoneYouTube/Classes/iPhoneYouTubeAppDelegate.m
+c000000004CB218E20000000000000AAF
+t1286740194
+s2735
+i"iPhoneYouTubeAppDelegate.h"
+i"iPhoneYouTubeViewController.h"
+
+N/Users/patrickrussell/Documents/FYP/iPhoneYouTube/Classes/iPhoneYouTubeViewController.h
+c000000004CB218E20000000000000106
+t1286740194
+s262
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Documents/FYP/iPhoneYouTube/Classes/iPhoneYouTubeViewController.m
+c000000004CB218E200000000000005D7
+t1286740194
+s1495
+i"iPhoneYouTubeViewController.h"
+
+N/Users/patrickrussell/Documents/FYP/iPhoneYouTube/MainWindow.xib
+c000000004CB218E20000000000004E71
+t1286740194
+s20081
+
+N/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app
+t1286740665
+s374
+
+N/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app.dSYM
+t1286740664
+s102
+
+N/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app/Info.plist
+t1286740653
+s750
+
+N/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app/MainWindow.nib
+t1286740657
+s1693
+
+N/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app/PkgInfo
+t1286740653
+s8
+
+N/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app/ResourceRules.plist
+t1286740653
+s485
+
+N/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app/embedded.mobileprovision
+t1286740664
+s15853
+
+N/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app/iPhoneYouTube
+t1286740663
+s42008
+
+N/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app/iPhoneYouTubeViewController.nib
+t1286740657
+s2034
+
+N/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv6/iPhoneYouTube
+t1286740663
+s17432
+
+N/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv6/iPhoneYouTube.LinkFileList
+c000000004CB21AAD00000000000001CC
+t1286740653
+s460
+
+N/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv6/iPhoneYouTubeAppDelegate.o
+t1286740662
+s47688
+
+N/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv6/iPhoneYouTubeViewController.o
+t1286740662
+s34592
+
+N/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv6/main.o
+t1286740662
+s6468
+
+N/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv7/iPhoneYouTube
+t1286740663
+s17432
+
+N/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv7/iPhoneYouTube.LinkFileList
+c000000004CB21AAD00000000000001CC
+t1286740653
+s460
+
+N/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv7/iPhoneYouTubeAppDelegate.o
+t1286740663
+s47604
+
+N/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv7/iPhoneYouTubeViewController.o
+t1286740663
+s34568
+
+N/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv7/main.o
+t1286740663
+s6452
+
+N/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/iPhoneYouTube.xcent
+t1286740664
+s432
+
+N/Users/patrickrussell/Documents/FYP/iPhoneYouTube/iPhoneYouTubeViewController.xib
+c000000004CB21A9F000000000000420A
+t1286740639
+s16906
+
+N/Users/patrickrussell/Documents/FYP/iPhoneYouTube/iPhoneYouTube_Prefix.pch
+c000000004CB218E200000000000000C3
+t1286740194
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Documents/FYP/iPhoneYouTube/main.m
+c000000004CB218E20000000000000175
+t1286740194
+s373
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision
+c000000004CB063CE0000000000003DED
+t1286628302
+s15853
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneYouTube_Prefix-fpmnadnllhwqufffslhrdkubatuq/iPhoneYouTube_Prefix.pch.gch
+t1286740660
+s9831984
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneYouTube_Prefix-hexsfuhnxobgxmafmimezjdmgjdj/iPhoneYouTube_Prefix.pch.gch
+t1286740662
+s10294832
+
+NiPhoneYouTube-Info.plist
+c000000004CB218E2000000000000038D
+t1286740194
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308433453#308433453#0(0"0(0#1#0"2549534656#0"0#
+
+CCodeSign /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app
+s308433464.158179
+e308433465.595136
+r1
+xCodeSign
+x/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app
+lSLF07#2@47"CodeSign build/Debug-iphoneos/iPhoneYouTube.app308433464#308433465#0(0"0(0#0#88"/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app2549534656#725"    cd /Users/patrickrussell/Documents/FYP/iPhoneYouTube    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Patrick Russell (WD3RPMEYT5)" --resource-rules=/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app/ResourceRules.plist --entitlements /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/iPhoneYouTube.xcent /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app0#
+
+CCompileC build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv6/iPhoneYouTubeAppDelegate.o /Users/patrickrussell/Documents/FYP/iPhoneYouTube/Classes/iPhoneYouTubeAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s308433462.453504
+e308433462.559721
+r1
+xCompileC
+xbuild/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv6/iPhoneYouTubeAppDelegate.o
+x/Users/patrickrussell/Documents/FYP/iPhoneYouTube/Classes/iPhoneYouTubeAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/patrickrussell/Documents/FYP/iPhoneYouTube/Classes/iPhoneYouTubeAppDelegate.m308433462#308433462#0(0"0(0#0#84"/Users/patrickrussell/Documents/FYP/iPhoneYouTube/Classes/iPhoneYouTubeAppDelegate.m2549534656#2013"    cd /Users/patrickrussell/Documents/FYP/iPhoneYouTube    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/iPhoneYouTube-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/iPhoneYouTube-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/iPhoneYouTube-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/iPhoneYouTube-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/DerivedSources/armv6 -I/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneYouTube_Prefix-fpmnadnllhwqufffslhrdkubatuq/iPhoneYouTube_Prefix.pch -c /Users/patrickrussell/Documents/FYP/iPhoneYouTube/Classes/iPhoneYouTubeAppDelegate.m -o /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv6/iPhoneYouTubeAppDelegate.o0#
+
+CCompileC build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv6/iPhoneYouTubeViewController.o /Users/patrickrussell/Documents/FYP/iPhoneYouTube/Classes/iPhoneYouTubeViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s308433462.559892
+e308433462.645434
+r1
+xCompileC
+xbuild/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv6/iPhoneYouTubeViewController.o
+x/Users/patrickrussell/Documents/FYP/iPhoneYouTube/Classes/iPhoneYouTubeViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/patrickrussell/Documents/FYP/iPhoneYouTube/Classes/iPhoneYouTubeViewController.m308433462#308433462#0(0"0(0#0#87"/Users/patrickrussell/Documents/FYP/iPhoneYouTube/Classes/iPhoneYouTubeViewController.m2549534656#2019"    cd /Users/patrickrussell/Documents/FYP/iPhoneYouTube    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/iPhoneYouTube-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/iPhoneYouTube-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/iPhoneYouTube-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/iPhoneYouTube-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/DerivedSources/armv6 -I/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneYouTube_Prefix-fpmnadnllhwqufffslhrdkubatuq/iPhoneYouTube_Prefix.pch -c /Users/patrickrussell/Documents/FYP/iPhoneYouTube/Classes/iPhoneYouTubeViewController.m -o /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv6/iPhoneYouTubeViewController.o0#
+
+CCompileC build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv6/main.o /Users/patrickrussell/Documents/FYP/iPhoneYouTube/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s308433462.311743
+e308433462.453351
+r1
+xCompileC
+xbuild/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv6/main.o
+x/Users/patrickrussell/Documents/FYP/iPhoneYouTube/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/patrickrussell/Documents/FYP/iPhoneYouTube/main.m308433462#308433462#0(0"0(0#0#56"/Users/patrickrussell/Documents/FYP/iPhoneYouTube/main.m2549534656#1965"    cd /Users/patrickrussell/Documents/FYP/iPhoneYouTube    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/iPhoneYouTube-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/iPhoneYouTube-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/iPhoneYouTube-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/iPhoneYouTube-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/DerivedSources/armv6 -I/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneYouTube_Prefix-fpmnadnllhwqufffslhrdkubatuq/iPhoneYouTube_Prefix.pch -c /Users/patrickrussell/Documents/FYP/iPhoneYouTube/main.m -o /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv7/iPhoneYouTubeAppDelegate.o /Users/patrickrussell/Documents/FYP/iPhoneYouTube/Classes/iPhoneYouTubeAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s308433463.412588
+e308433463.540490
+r1
+xCompileC
+xbuild/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv7/iPhoneYouTubeAppDelegate.o
+x/Users/patrickrussell/Documents/FYP/iPhoneYouTube/Classes/iPhoneYouTubeAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/patrickrussell/Documents/FYP/iPhoneYouTube/Classes/iPhoneYouTubeAppDelegate.m308433463#308433463#0(0"0(0#0#84"/Users/patrickrussell/Documents/FYP/iPhoneYouTube/Classes/iPhoneYouTubeAppDelegate.m2549534656#2013"    cd /Users/patrickrussell/Documents/FYP/iPhoneYouTube    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/iPhoneYouTube-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/iPhoneYouTube-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/iPhoneYouTube-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/iPhoneYouTube-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/DerivedSources/armv7 -I/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneYouTube_Prefix-hexsfuhnxobgxmafmimezjdmgjdj/iPhoneYouTube_Prefix.pch -c /Users/patrickrussell/Documents/FYP/iPhoneYouTube/Classes/iPhoneYouTubeAppDelegate.m -o /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv7/iPhoneYouTubeAppDelegate.o0#
+
+CCompileC build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv7/iPhoneYouTubeViewController.o /Users/patrickrussell/Documents/FYP/iPhoneYouTube/Classes/iPhoneYouTubeViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s308433463.540652
+e308433463.623725
+r1
+xCompileC
+xbuild/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv7/iPhoneYouTubeViewController.o
+x/Users/patrickrussell/Documents/FYP/iPhoneYouTube/Classes/iPhoneYouTubeViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/patrickrussell/Documents/FYP/iPhoneYouTube/Classes/iPhoneYouTubeViewController.m308433463#308433463#0(0"0(0#0#87"/Users/patrickrussell/Documents/FYP/iPhoneYouTube/Classes/iPhoneYouTubeViewController.m2549534656#2019"    cd /Users/patrickrussell/Documents/FYP/iPhoneYouTube    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/iPhoneYouTube-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/iPhoneYouTube-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/iPhoneYouTube-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/iPhoneYouTube-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/DerivedSources/armv7 -I/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneYouTube_Prefix-hexsfuhnxobgxmafmimezjdmgjdj/iPhoneYouTube_Prefix.pch -c /Users/patrickrussell/Documents/FYP/iPhoneYouTube/Classes/iPhoneYouTubeViewController.m -o /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv7/iPhoneYouTubeViewController.o0#
+
+CCompileC build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv7/main.o /Users/patrickrussell/Documents/FYP/iPhoneYouTube/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s308433463.339176
+e308433463.412430
+r1
+xCompileC
+xbuild/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv7/main.o
+x/Users/patrickrussell/Documents/FYP/iPhoneYouTube/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/patrickrussell/Documents/FYP/iPhoneYouTube/main.m308433463#308433463#0(0"0(0#0#56"/Users/patrickrussell/Documents/FYP/iPhoneYouTube/main.m2549534656#1965"    cd /Users/patrickrussell/Documents/FYP/iPhoneYouTube    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/iPhoneYouTube-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/iPhoneYouTube-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/iPhoneYouTube-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/iPhoneYouTube-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/DerivedSources/armv7 -I/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneYouTube_Prefix-hexsfuhnxobgxmafmimezjdmgjdj/iPhoneYouTube_Prefix.pch -c /Users/patrickrussell/Documents/FYP/iPhoneYouTube/main.m -o /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/patrickrussell/Documents/FYP/iPhoneYouTube/MainWindow.xib
+s308433453.773553
+e308433458.047649
+r1
+xCompileXIB
+x/Users/patrickrussell/Documents/FYP/iPhoneYouTube/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib308433453#308433458#0(0"0(0#0#64"/Users/patrickrussell/Documents/FYP/iPhoneYouTube/MainWindow.xib4717520#581"    cd /Users/patrickrussell/Documents/FYP/iPhoneYouTube    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app/MainWindow.nib /Users/patrickrussell/Documents/FYP/iPhoneYouTube/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/patrickrussell/Documents/FYP/iPhoneYouTube/iPhoneYouTubeViewController.xib
+s308433453.774795
+e308433458.058661
+r1
+xCompileXIB
+x/Users/patrickrussell/Documents/FYP/iPhoneYouTube/iPhoneYouTubeViewController.xib
+lSLF07#2@42"CompileXIB iPhoneYouTubeViewController.xib308433453#308433458#0(0"0(0#0#81"/Users/patrickrussell/Documents/FYP/iPhoneYouTube/iPhoneYouTubeViewController.xib2549534656#615"    cd /Users/patrickrussell/Documents/FYP/iPhoneYouTube    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app/iPhoneYouTubeViewController.nib /Users/patrickrussell/Documents/FYP/iPhoneYouTube/iPhoneYouTubeViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCpResource build/Debug-iphoneos/iPhoneYouTube.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+s308433453.653443
+e308433453.773402
+r1
+xCpResource
+xbuild/Debug-iphoneos/iPhoneYouTube.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist308433453#308433453#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist2549534656#508"    cd /Users/patrickrussell/Documents/FYP/iPhoneYouTube    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app0#
+
+CCreateUniversalBinary /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app/iPhoneYouTube normal "armv6 armv7"
+s308433463.841180
+e308433463.949361
+r1
+xCreateUniversalBinary
+x/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app/iPhoneYouTube
+xnormal
+xarmv6 armv7
+lSLF07#2@95"CreateUniversalBinary build/Debug-iphoneos/iPhoneYouTube.app/iPhoneYouTube normal "armv6 armv7"308433463#308433463#0(0"0(0#0#61"/Users/patrickrussell/Documents/FYP/iPhoneYouTube/armv6 armv72549534656#610"    cd /Users/patrickrussell/Documents/FYP/iPhoneYouTube    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv6/iPhoneYouTube /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv7/iPhoneYouTube -output /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app/iPhoneYouTube0#
+
+CGenerateDSYMFile /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app.dSYM /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app/iPhoneYouTube
+s308433463.949509
+e308433464.082055
+r1
+xGenerateDSYMFile
+x/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app.dSYM
+x/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app/iPhoneYouTube
+lSLF07#2@113"GenerateDSYMFile build/Debug-iphoneos/iPhoneYouTube.app.dSYM build/Debug-iphoneos/iPhoneYouTube.app/iPhoneYouTube308433463#308433464#0(0"0(0#0#102"/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app/iPhoneYouTube2549534656#413"    cd /Users/patrickrussell/Documents/FYP/iPhoneYouTube    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app/iPhoneYouTube -o /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app.dSYM0#
+
+CLd /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv6/iPhoneYouTube normal armv6
+s308433462.645577
+e308433463.338975
+r1
+xLd
+x/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv6/iPhoneYouTube
+xnormal
+xarmv6
+lSLF07#2@150"Link /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv6/iPhoneYouTube308433462#308433463#0(0"0(0#0#0"2549534656#950"    cd /Users/patrickrussell/Documents/FYP/iPhoneYouTube    setenv IPHONEOS_DEPLOYMENT_TARGET 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -L/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos -F/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos -filelist /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv6/iPhoneYouTube.LinkFileList -dead_strip -miphoneos-version-min=4.1 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv6/iPhoneYouTube0#
+
+CLd /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv7/iPhoneYouTube normal armv7
+s308433463.623866
+e308433463.840944
+r1
+xLd
+x/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv7/iPhoneYouTube
+xnormal
+xarmv7
+lSLF07#2@150"Link /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv7/iPhoneYouTube308433463#308433463#0(0"0(0#0#0"2549534656#950"    cd /Users/patrickrussell/Documents/FYP/iPhoneYouTube    setenv IPHONEOS_DEPLOYMENT_TARGET 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -L/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos -F/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos -filelist /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv7/iPhoneYouTube.LinkFileList -dead_strip -miphoneos-version-min=4.1 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/Objects-normal/armv7/iPhoneYouTube0#
+
+CProcessInfoPlistFile /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app/Info.plist iPhoneYouTube-Info.plist
+s308433453.672551
+e308433453.716553
+r1
+xProcessInfoPlistFile
+x/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app/Info.plist
+xiPhoneYouTube-Info.plist
+lSLF07#2@32"Process iPhoneYouTube-Info.plist308433453#308433453#0(0"0(0#0#74"/Users/patrickrussell/Documents/FYP/iPhoneYouTube/iPhoneYouTube-Info.plist2549534656#630"    cd /Users/patrickrussell/Documents/FYP/iPhoneYouTube    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iPhoneYouTube-Info.plist -genpkginfo /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app/ResourceRules.plist -o /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app/Info.plist0#
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneYouTube_Prefix-fpmnadnllhwqufffslhrdkubatuq/iPhoneYouTube_Prefix.pch.gch iPhoneYouTube_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s308433458.058864
+e308433460.700241
+r1
+xProcessPCH
+x/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneYouTube_Prefix-fpmnadnllhwqufffslhrdkubatuq/iPhoneYouTube_Prefix.pch.gch
+xiPhoneYouTube_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile iPhoneYouTube_Prefix.pch308433458#308433460#0(0"0(0#0#74"/Users/patrickrussell/Documents/FYP/iPhoneYouTube/iPhoneYouTube_Prefix.pch2549534656#1846"    cd /Users/patrickrussell/Documents/FYP/iPhoneYouTube    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/iPhoneYouTube-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/iPhoneYouTube-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/iPhoneYouTube-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/iPhoneYouTube-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/DerivedSources/armv6 -I/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/DerivedSources -c /Users/patrickrussell/Documents/FYP/iPhoneYouTube/iPhoneYouTube_Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneYouTube_Prefix-fpmnadnllhwqufffslhrdkubatuq/iPhoneYouTube_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneYouTube_Prefix-hexsfuhnxobgxmafmimezjdmgjdj/iPhoneYouTube_Prefix.pch.gch iPhoneYouTube_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s308433460.700514
+e308433462.311522
+r1
+xProcessPCH
+x/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneYouTube_Prefix-hexsfuhnxobgxmafmimezjdmgjdj/iPhoneYouTube_Prefix.pch.gch
+xiPhoneYouTube_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile iPhoneYouTube_Prefix.pch308433460#308433462#0(0"0(0#0#74"/Users/patrickrussell/Documents/FYP/iPhoneYouTube/iPhoneYouTube_Prefix.pch2549534656#1846"    cd /Users/patrickrussell/Documents/FYP/iPhoneYouTube    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/iPhoneYouTube-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/iPhoneYouTube-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/iPhoneYouTube-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/iPhoneYouTube-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/DerivedSources/armv7 -I/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/DerivedSources -c /Users/patrickrussell/Documents/FYP/iPhoneYouTube/iPhoneYouTube_Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneYouTube_Prefix-hexsfuhnxobgxmafmimezjdmgjdj/iPhoneYouTube_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app/embedded.mobileprovision
+s308433464.082221
+e308433464.095346
+r1
+xProcessProductPackaging
+x/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision
+x/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app/embedded.mobileprovision
+lSLF07#2@207"ProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" build/Debug-iphoneos/iPhoneYouTube.app/embedded.mobileprovision308433464#308433464#0(0"0(0#0#113"/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app/embedded.mobileprovision2549534656#460"    cd /Users/patrickrussell/Documents/FYP/iPhoneYouTube    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" -o /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/iPhoneYouTube.xcent
+s308433464.145467
+e308433464.158024
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+x/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/iPhoneYouTube.xcent
+lSLF07#2@193"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/iPhoneYouTube.xcent308433464#308433464#0(0"0(0#0#130"/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/iPhoneYouTube.xcent2549534656#472"    cd /Users/patrickrussell/Documents/FYP/iPhoneYouTube    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/iPhoneYouTube.build/Debug-iphoneos/iPhoneYouTube.build/iPhoneYouTube.xcent0#
+
+CTouch /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app
+s308433464.095450
+e308433464.145320
+r1
+xTouch
+x/Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app
+lSLF07#2@94"Touch /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app308433464#308433464#0(0"0(0#0#0"2549534656#292"    cd /Users/patrickrussell/Documents/FYP/iPhoneYouTube    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/patrickrussell/Documents/FYP/iPhoneYouTube/build/Debug-iphoneos/iPhoneYouTube.app0#
+

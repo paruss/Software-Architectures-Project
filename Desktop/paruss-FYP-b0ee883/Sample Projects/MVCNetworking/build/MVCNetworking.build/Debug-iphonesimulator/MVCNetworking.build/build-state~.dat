@@ -1,0 +1,1157 @@
+TMVCNetworking
+v7
+r0
+t316191688.557815
+cCheck dependencies
+cProcessInfoPlistFile /Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app/Info.plist Info.plist
+cCompileXIB /Users/patrickrussell/Downloads/MVCNetworking/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/MVCNetworking.app/Settings.bundle Logging/Settings.bundle
+cCpResource build/Debug-iphonesimulator/MVCNetworking.app/Placeholder.png Images/Placeholder.png
+cCpResource build/Debug-iphonesimulator/MVCNetworking.app/Placeholder-Bad.png Images/Placeholder-Bad.png
+cCompileXIB "/Users/patrickrussell/Downloads/MVCNetworking/View Controllers/PhotoDetailViewController.xib"
+cCpResource build/Debug-iphonesimulator/MVCNetworking.app/Icon-72.png Images/Icon-72.png
+cCpResource build/Debug-iphonesimulator/MVCNetworking.app/Icon-Small-50.png Images/Icon-Small-50.png
+cCpResource build/Debug-iphonesimulator/MVCNetworking.app/Icon-Small.png Images/Icon-Small.png
+cCpResource build/Debug-iphonesimulator/MVCNetworking.app/Icon-Small@2x.png Images/Icon-Small@2x.png
+cCpResource build/Debug-iphonesimulator/MVCNetworking.app/Icon.png Images/Icon.png
+cCpResource build/Debug-iphonesimulator/MVCNetworking.app/Icon@2x.png Images/Icon@2x.png
+cCpResource build/Debug-iphonesimulator/MVCNetworking.app/iTunesArtwork Images/iTunesArtwork
+cCpResource build/Debug-iphonesimulator/MVCNetworking.app/Placeholder-Deferred.png Images/Placeholder-Deferred.png
+cDataModelCompile /Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app/Photos.mom /Users/patrickrussell/Downloads/MVCNetworking/Model/Photos.xcdatamodel
+cCompileC build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/main.o /Users/patrickrussell/Downloads/MVCNetworking/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/AppDelegate.o /Users/patrickrussell/Downloads/MVCNetworking/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/Photo.o /Users/patrickrussell/Downloads/MVCNetworking/Model/Photo.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/PhotoGallery.o /Users/patrickrussell/Downloads/MVCNetworking/Model/PhotoGallery.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/Thumbnail.o /Users/patrickrussell/Downloads/MVCNetworking/Model/Thumbnail.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/QHTTPOperation.o /Users/patrickrussell/Downloads/MVCNetworking/Networking/QHTTPOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/QRunLoopOperation.o /Users/patrickrussell/Downloads/MVCNetworking/Networking/QRunLoopOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/PhotoGalleryViewController.o "/Users/patrickrussell/Downloads/MVCNetworking/View Controllers/PhotoGalleryViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/GalleryParserOperation.o /Users/patrickrussell/Downloads/MVCNetworking/Networking/GalleryParserOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/NetworkManager.o /Users/patrickrussell/Downloads/MVCNetworking/Networking/NetworkManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/QLog.o /Users/patrickrussell/Downloads/MVCNetworking/Logging/QLog.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/QLogViewer.o /Users/patrickrussell/Downloads/MVCNetworking/Logging/QLogViewer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/PhotoCell.o "/Users/patrickrussell/Downloads/MVCNetworking/View Controllers/PhotoCell.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/PhotoDetailViewController.o "/Users/patrickrussell/Downloads/MVCNetworking/View Controllers/PhotoDetailViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/SetupViewController.o "/Users/patrickrussell/Downloads/MVCNetworking/View Controllers/SetupViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/RecursiveDeleteOperation.o /Users/patrickrussell/Downloads/MVCNetworking/Model/RecursiveDeleteOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/MakeThumbnailOperation.o /Users/patrickrussell/Downloads/MVCNetworking/Model/MakeThumbnailOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/PhotoGalleryContext.o /Users/patrickrussell/Downloads/MVCNetworking/Model/PhotoGalleryContext.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/QImageScrollView.o "/Users/patrickrussell/Downloads/MVCNetworking/View Controllers/QImageScrollView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/RetryingHTTPOperation.o /Users/patrickrussell/Downloads/MVCNetworking/Networking/RetryingHTTPOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/QReachabilityOperation.o /Users/patrickrussell/Downloads/MVCNetworking/Networking/QReachabilityOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app/MVCNetworking normal i386
+cGenerateDSYMFile /Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app.dSYM /Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app/MVCNetworking
+cTouch /Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004C5A4E0B00000000001D2EC0
+t1280986635
+s1912512
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004C5A4DED000000000000046B
+t1280986605
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h
+c000000004C5A4CD800000000000004FE
+t1280986328
+s1278
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MessageUI.h
+c000000004C5E1EEF00000000000000CD
+t1281236719
+s205
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004C5E1EFD0000000000091C50
+t1281236733
+s597072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SystemConfiguration.h
+c000000004C5A4CC90000000000001A58
+t1280986313
+s6744
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004C5A4CD400000000000678D0
+t1280986324
+s424144
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/fcntl.h
+c000000004C57909100000000000003EA
+t1280807057
+s1002
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libkern/OSAtomic.h
+c000000004C5790920000000000002519
+t1280807058
+s9497
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/mach/mach.h
+c000000004A73D4540000000000001057
+t1249104980
+s4183
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/stdarg.h
+c000000004C57909100000000000000EA
+t1280807057
+s234
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/sys/stat.h
+c000000004C5798EC0000000000004A1D
+t1280809196
+s18973
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/sys/sysctl.h
+c000000004C5798EC0000000000007974
+t1280809196
+s31092
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/sys/time.h
+c000000004C5798ED0000000000001E17
+t1280809197
+s7703
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/time.h
+c000000004C579092000000000000178E
+t1280807058
+s6030
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/unistd.h
+c000000004C579092000000000000563E
+t1280807058
+s22078
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/xlocale.h
+c000000004C5790920000000000000BF2
+t1280807058
+s3058
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/zlib.h
+c000000004C5A494E00000000000102A5
+t1280985422
+s66213
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/lib/libz.dylib
+c000000004C5A495000000000000123E0
+t1280985424
+s74720
+
+N/Users/patrickrussell/Downloads/MVCNetworking/AppDelegate.h
+c000000004CA5CA740000000000000DFB
+t1285933684
+s3579
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Downloads/MVCNetworking/AppDelegate.m
+c000000004CC152BC0000000000002BA9
+t1287738044
+s11177
+i"AppDelegate.h"
+i"PhotoGallery.h"
+i"PhotoGalleryViewController.h"
+i"SetupViewController.h"
+i"NetworkManager.h"
+i"Logging.h"
+
+N/Users/patrickrussell/Downloads/MVCNetworking/Images/Icon-72.png
+c000000004CA5CA740000000000000427
+t1285933684
+s1063
+
+N/Users/patrickrussell/Downloads/MVCNetworking/Images/Icon-Small-50.png
+c000000004CA5CA7400000000000003E0
+t1285933684
+s992
+
+N/Users/patrickrussell/Downloads/MVCNetworking/Images/Icon-Small.png
+c000000004CA5CA740000000000000396
+t1285933684
+s918
+
+N/Users/patrickrussell/Downloads/MVCNetworking/Images/Icon-Small@2x.png
+c000000004CA5CA7400000000000003F2
+t1285933684
+s1010
+
+N/Users/patrickrussell/Downloads/MVCNetworking/Images/Icon.png
+c000000004CA5CA7400000000000003EF
+t1285933684
+s1007
+
+N/Users/patrickrussell/Downloads/MVCNetworking/Images/Icon@2x.png
+c000000004CA5CA7400000000000004E4
+t1285933684
+s1252
+
+N/Users/patrickrussell/Downloads/MVCNetworking/Images/Placeholder-Bad.png
+c000000004CA5CA740000000000000900
+t1285933684
+s2304
+
+N/Users/patrickrussell/Downloads/MVCNetworking/Images/Placeholder-Deferred.png
+c000000004CA5CA740000000000000897
+t1285933684
+s2199
+
+N/Users/patrickrussell/Downloads/MVCNetworking/Images/Placeholder.png
+c000000004CA5CA74000000000000042D
+t1285933684
+s1069
+
+N/Users/patrickrussell/Downloads/MVCNetworking/Images/iTunesArtwork
+c000000004CA5CA740000000000001444
+t1285933684
+s5188
+
+N/Users/patrickrussell/Downloads/MVCNetworking/Logging/Logging.h
+c000000004CA5CA740000000000000C94
+t1285933684
+s3220
+i"QLog.h"
+
+N/Users/patrickrussell/Downloads/MVCNetworking/Logging/QLog.h
+c000000004CA5CA740000000000001B95
+t1285933684
+s7061
+i<Foundation/Foundation.h>
+
+N/Users/patrickrussell/Downloads/MVCNetworking/Logging/QLog.m
+c000000004CA5CA7400000000000050A8
+t1285933684
+s20648
+i"QLog.h"
+i<stdarg.h>
+i<fcntl.h>
+i<sys/stat.h>
+i<unistd.h>
+i<xlocale.h>
+i<time.h>
+i<sys/time.h>
+i<mach/mach.h>
+i<libkern/OSAtomic.h>
+
+N/Users/patrickrussell/Downloads/MVCNetworking/Logging/QLogViewer.h
+c000000004CA5CA740000000000000D74
+t1285933684
+s3444
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Downloads/MVCNetworking/Logging/QLogViewer.m
+c000000004CC152BC00000000000055D6
+t1287738044
+s21974
+i"QLogViewer.h"
+i"QLog.h"
+i<MessageUI/MessageUI.h>
+i"zlib.h"
+
+N/Users/patrickrussell/Downloads/MVCNetworking/Logging/Settings.bundle
+c000000004CC1DB0200000000000000EE
+t1287772930
+s238
+
+N/Users/patrickrussell/Downloads/MVCNetworking/MainWindow.xib
+c000000004CA5CA740000000000002B4E
+t1285933684
+s11086
+
+N/Users/patrickrussell/Downloads/MVCNetworking/Model/MakeThumbnailOperation.h
+c000000004CA5CA74000000000000105C
+t1285933684
+s4188
+i<Foundation/Foundation.h>
+i<CoreGraphics/CoreGraphics.h>
+
+N/Users/patrickrussell/Downloads/MVCNetworking/Model/MakeThumbnailOperation.m
+c000000004CA5CA740000000000001C9E
+t1285933684
+s7326
+i"MakeThumbnailOperation.h"
+
+N/Users/patrickrussell/Downloads/MVCNetworking/Model/Photo.h
+c000000004CA5CA740000000000001BE6
+t1285933684
+s7142
+i<CoreData/CoreData.h>
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Downloads/MVCNetworking/Model/Photo.m
+c000000004CC152BC000000000000838A
+t1287738044
+s33674
+i"Photo.h"
+i"Thumbnail.h"
+i"PhotoGalleryContext.h"
+i"MakeThumbnailOperation.h"
+i"NetworkManager.h"
+i"RetryingHTTPOperation.h"
+i"QHTTPOperation.h"
+i"Logging.h"
+
+N/Users/patrickrussell/Downloads/MVCNetworking/Model/PhotoGallery.h
+c000000004CA5CA740000000000001D78
+t1285933684
+s7544
+i<CoreData/CoreData.h>
+
+N/Users/patrickrussell/Downloads/MVCNetworking/Model/PhotoGallery.m
+c000000004CA5CA74000000000000AD33
+t1285933684
+s44339
+i"PhotoGallery.h"
+i"Photo.h"
+i"PhotoGalleryContext.h"
+i"NetworkManager.h"
+i"RecursiveDeleteOperation.h"
+i"RetryingHTTPOperation.h"
+i"GalleryParserOperation.h"
+i"Logging.h"
+
+N/Users/patrickrussell/Downloads/MVCNetworking/Model/PhotoGalleryContext.h
+c000000004CA5CA740000000000001169
+t1285933684
+s4457
+i<CoreData/CoreData.h>
+
+N/Users/patrickrussell/Downloads/MVCNetworking/Model/PhotoGalleryContext.m
+c000000004CA5CA740000000000001544
+t1285933684
+s5444
+i"PhotoGalleryContext.h"
+i"NetworkManager.h"
+
+N/Users/patrickrussell/Downloads/MVCNetworking/Model/Photos.xcdatamodel
+c000000004CC1DB020000000000000088
+t1287772930
+s136
+
+N/Users/patrickrussell/Downloads/MVCNetworking/Model/RecursiveDeleteOperation.h
+c000000004CA5CA740000000000000DC7
+t1285933684
+s3527
+i<Foundation/Foundation.h>
+
+N/Users/patrickrussell/Downloads/MVCNetworking/Model/RecursiveDeleteOperation.m
+c000000004CA5CA7400000000000010A3
+t1285933684
+s4259
+i"RecursiveDeleteOperation.h"
+
+N/Users/patrickrussell/Downloads/MVCNetworking/Model/Thumbnail.h
+c000000004CA5CA740000000000000E71
+t1285933684
+s3697
+i<CoreData/CoreData.h>
+
+N/Users/patrickrussell/Downloads/MVCNetworking/Model/Thumbnail.m
+c000000004CA5CA740000000000000C42
+t1285933684
+s3138
+i"Thumbnail.h"
+
+N/Users/patrickrussell/Downloads/MVCNetworking/Networking/GalleryParserOperation.h
+c000000004CA5CA740000000000001145
+t1285933684
+s4421
+i<Foundation/Foundation.h>
+
+N/Users/patrickrussell/Downloads/MVCNetworking/Networking/GalleryParserOperation.m
+c000000004CA5CA7400000000000038DB
+t1285933684
+s14555
+i"GalleryParserOperation.h"
+i"Logging.h"
+i<xlocale.h>
+
+N/Users/patrickrussell/Downloads/MVCNetworking/Networking/NetworkManager.h
+c000000004CC152BC0000000000001ECC
+t1287738044
+s7884
+i<Foundation/Foundation.h>
+
+N/Users/patrickrussell/Downloads/MVCNetworking/Networking/NetworkManager.m
+c000000004CC152BC0000000000005682
+t1287738044
+s22146
+i"NetworkManager.h"
+i"QHTTPOperation.h"
+i"Logging.h"
+
+N/Users/patrickrussell/Downloads/MVCNetworking/Networking/QHTTPOperation.h
+c000000004CA5CA740000000000002DFA
+t1285933684
+s11770
+i"QRunLoopOperation.h"
+
+N/Users/patrickrussell/Downloads/MVCNetworking/Networking/QHTTPOperation.m
+c000000004CA5CA74000000000000570E
+t1285933684
+s22286
+i"QHTTPOperation.h"
+
+N/Users/patrickrussell/Downloads/MVCNetworking/Networking/QReachabilityOperation.h
+c000000004CA5CA7400000000000010CE
+t1285933684
+s4302
+i"QRunLoopOperation.h"
+i<SystemConfiguration/SystemConfiguration.h>
+
+N/Users/patrickrussell/Downloads/MVCNetworking/Networking/QReachabilityOperation.m
+c000000004CA5CA740000000000001A6F
+t1285933684
+s6767
+i"QReachabilityOperation.h"
+
+N/Users/patrickrussell/Downloads/MVCNetworking/Networking/QRunLoopOperation.h
+c000000004CA5CA740000000000001632
+t1285933684
+s5682
+i<Foundation/Foundation.h>
+
+N/Users/patrickrussell/Downloads/MVCNetworking/Networking/QRunLoopOperation.m
+c000000004CA5CA7400000000000036FB
+t1285933684
+s14075
+i"QRunLoopOperation.h"
+
+N/Users/patrickrussell/Downloads/MVCNetworking/Networking/RetryingHTTPOperation.h
+c000000004CA5CA740000000000001ECD
+t1285933684
+s7885
+i"QRunLoopOperation.h"
+
+N/Users/patrickrussell/Downloads/MVCNetworking/Networking/RetryingHTTPOperation.m
+c000000004CA5CA7400000000000062C8
+t1285933684
+s25288
+i"RetryingHTTPOperation.h"
+i"NetworkManager.h"
+i"Logging.h"
+i"QHTTPOperation.h"
+i"QReachabilityOperation.h"
+
+N/Users/patrickrussell/Downloads/MVCNetworking/View Controllers/PhotoCell.h
+c000000004CA5CA740000000000000DE2
+t1285933684
+s3554
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Downloads/MVCNetworking/View Controllers/PhotoCell.m
+c000000004CC152BC0000000000001C39
+t1287738044
+s7225
+i"PhotoCell.h"
+i"Photo.h"
+
+N/Users/patrickrussell/Downloads/MVCNetworking/View Controllers/PhotoDetailViewController.h
+c000000004CA5CA740000000000000ECF
+t1285933684
+s3791
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Downloads/MVCNetworking/View Controllers/PhotoDetailViewController.m
+c000000004CC152BC00000000000026C3
+t1287738044
+s9923
+i"PhotoDetailViewController.h"
+i"QImageScrollView.h"
+i"PhotoGallery.h"
+i"Photo.h"
+i"Logging.h"
+
+N/Users/patrickrussell/Downloads/MVCNetworking/View Controllers/PhotoDetailViewController.xib
+c000000004CA5CA7400000000000047B7
+t1285933684
+s18359
+
+N/Users/patrickrussell/Downloads/MVCNetworking/View Controllers/PhotoGalleryViewController.h
+c000000004CA5CA740000000000000FE2
+t1285933684
+s4066
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/patrickrussell/Downloads/MVCNetworking/View Controllers/PhotoGalleryViewController.m
+c000000004CC152BC0000000000005A99
+t1287738044
+s23193
+i"PhotoGalleryViewController.h"
+i"PhotoCell.h"
+i"PhotoDetailViewController.h"
+i"PhotoGallery.h"
+i"Photo.h"
+i"QLogViewer.h"
+i"QLog.h"
+
+N/Users/patrickrussell/Downloads/MVCNetworking/View Controllers/QImageScrollView.h
+c000000004CA5CA740000000000000FED
+t1285933684
+s4077
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Downloads/MVCNetworking/View Controllers/QImageScrollView.m
+c000000004CA5CA740000000000002B81
+t1285933684
+s11137
+i"QImageScrollView.h"
+i"Logging.h"
+i<sys/sysctl.h>
+
+N/Users/patrickrussell/Downloads/MVCNetworking/View Controllers/SetupViewController.h
+c000000004CA5CA7400000000000010C7
+t1285933684
+s4295
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Downloads/MVCNetworking/View Controllers/SetupViewController.m
+c000000004CC152BC000000000000606B
+t1287738044
+s24683
+i"SetupViewController.h"
+i"NetworkManager.h"
+
+N/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app
+t1294498888
+s646
+
+N/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app.dSYM
+t1294498888
+s102
+
+N/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app/Icon-72.png
+t1294498873
+s1063
+
+N/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app/Icon-Small-50.png
+t1294498873
+s992
+
+N/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app/Icon-Small.png
+t1294498873
+s918
+
+N/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app/Icon-Small@2x.png
+t1294498873
+s1010
+
+N/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app/Icon.png
+t1294498873
+s1007
+
+N/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app/Icon@2x.png
+t1294498873
+s1252
+
+N/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app/Info.plist
+t1294498854
+s744
+
+N/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app/MVCNetworking
+t1294498888
+s364820
+
+N/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app/MainWindow.nib
+t1294498872
+s2193
+
+N/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app/PhotoDetailViewController.nib
+t1294498873
+s2489
+
+N/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app/Photos.mom
+t1294498875
+s2732
+
+N/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app/PkgInfo
+t1294498854
+s8
+
+N/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app/Placeholder-Bad.png
+t1294498854
+s2304
+
+N/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app/Placeholder-Deferred.png
+t1294498873
+s2199
+
+N/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app/Placeholder.png
+t1294498854
+s1069
+
+N/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app/Settings.bundle
+t1294498854
+s238
+
+N/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app/iTunesArtwork
+t1294498873
+s5188
+
+N/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/AppDelegate.o
+t1294498878
+s67320
+
+N/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/GalleryParserOperation.o
+t1294498881
+s38896
+
+N/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/MVCNetworking.LinkFileList
+c000000004D287C260000000000000C82
+t1294498854
+s3202
+
+N/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/MakeThumbnailOperation.o
+t1294498885
+s15992
+
+N/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/NetworkManager.o
+t1294498881
+s44532
+
+N/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/Photo.o
+t1294498879
+s78876
+
+N/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/PhotoCell.o
+t1294498883
+s42504
+
+N/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/PhotoDetailViewController.o
+t1294498884
+s55828
+
+N/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/PhotoGallery.o
+t1294498879
+s108380
+
+N/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/PhotoGalleryContext.o
+t1294498885
+s13312
+
+N/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/PhotoGalleryViewController.o
+t1294498881
+s97636
+
+N/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/QHTTPOperation.o
+t1294498880
+s73792
+
+N/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/QImageScrollView.o
+t1294498886
+s45492
+
+N/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/QLog.o
+t1294498882
+s41596
+
+N/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/QLogViewer.o
+t1294498883
+s84788
+
+N/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/QReachabilityOperation.o
+t1294498887
+s19048
+
+N/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/QRunLoopOperation.o
+t1294498880
+s26604
+
+N/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/RecursiveDeleteOperation.o
+t1294498884
+s10188
+
+N/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/RetryingHTTPOperation.o
+t1294498887
+s69188
+
+N/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/SetupViewController.o
+t1294498884
+s87128
+
+N/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/Thumbnail.o
+t1294498879
+s1352
+
+N/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/main.o
+t1294498878
+s3260
+
+N/Users/patrickrussell/Downloads/MVCNetworking/main.m
+c000000004CA5CA740000000000000D00
+t1285933684
+s3328
+i<UIKit/UIKit.h>
+
+NInfo.plist
+c000000004CA5CA740000000000000447
+t1285933684
+s1095
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies316191653#316191654#0(0"0(0#1#0"2501739152#0"0#
+
+CCompileC build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/AppDelegate.o /Users/patrickrussell/Downloads/MVCNetworking/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s316191675.209687
+e316191678.241662
+r1
+xCompileC
+xbuild/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/AppDelegate.o
+x/Users/patrickrussell/Downloads/MVCNetworking/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@67"Compile /Users/patrickrussell/Downloads/MVCNetworking/AppDelegate.m316191675#316191678#0(0"0(0#0#59"/Users/patrickrussell/Downloads/MVCNetworking/AppDelegate.m2501739152#2155"    cd /Users/patrickrussell/Downloads/MVCNetworking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30103 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-generated-files.hmap -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/DerivedSources -c /Users/patrickrussell/Downloads/MVCNetworking/AppDelegate.m -o /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/GalleryParserOperation.o /Users/patrickrussell/Downloads/MVCNetworking/Networking/GalleryParserOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s316191681.125598
+e316191681.493293
+r1
+xCompileC
+xbuild/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/GalleryParserOperation.o
+x/Users/patrickrussell/Downloads/MVCNetworking/Networking/GalleryParserOperation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@89"Compile /Users/patrickrussell/Downloads/MVCNetworking/Networking/GalleryParserOperation.m316191681#316191681#0(0"0(0#0#81"/Users/patrickrussell/Downloads/MVCNetworking/Networking/GalleryParserOperation.m2501739152#2188"    cd /Users/patrickrussell/Downloads/MVCNetworking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30103 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-generated-files.hmap -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/DerivedSources -c /Users/patrickrussell/Downloads/MVCNetworking/Networking/GalleryParserOperation.m -o /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/GalleryParserOperation.o0#
+
+CCompileC build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/MakeThumbnailOperation.o /Users/patrickrussell/Downloads/MVCNetworking/Model/MakeThumbnailOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s316191685.006666
+e316191685.318492
+r1
+xCompileC
+xbuild/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/MakeThumbnailOperation.o
+x/Users/patrickrussell/Downloads/MVCNetworking/Model/MakeThumbnailOperation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@84"Compile /Users/patrickrussell/Downloads/MVCNetworking/Model/MakeThumbnailOperation.m316191685#316191685#0(0"0(0#0#76"/Users/patrickrussell/Downloads/MVCNetworking/Model/MakeThumbnailOperation.m2501739152#2183"    cd /Users/patrickrussell/Downloads/MVCNetworking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30103 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-generated-files.hmap -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/DerivedSources -c /Users/patrickrussell/Downloads/MVCNetworking/Model/MakeThumbnailOperation.m -o /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/MakeThumbnailOperation.o0#
+
+CCompileC build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/NetworkManager.o /Users/patrickrussell/Downloads/MVCNetworking/Networking/NetworkManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s316191681.493620
+e316191681.890667
+r1
+xCompileC
+xbuild/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/NetworkManager.o
+x/Users/patrickrussell/Downloads/MVCNetworking/Networking/NetworkManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@81"Compile /Users/patrickrussell/Downloads/MVCNetworking/Networking/NetworkManager.m316191681#316191681#0(0"0(0#0#73"/Users/patrickrussell/Downloads/MVCNetworking/Networking/NetworkManager.m2501739152#2172"    cd /Users/patrickrussell/Downloads/MVCNetworking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30103 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-generated-files.hmap -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/DerivedSources -c /Users/patrickrussell/Downloads/MVCNetworking/Networking/NetworkManager.m -o /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/NetworkManager.o0#
+
+CCompileC build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/Photo.o /Users/patrickrussell/Downloads/MVCNetworking/Model/Photo.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s316191678.166753
+e316191679.381984
+r1
+xCompileC
+xbuild/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/Photo.o
+x/Users/patrickrussell/Downloads/MVCNetworking/Model/Photo.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@67"Compile /Users/patrickrussell/Downloads/MVCNetworking/Model/Photo.m316191678#316191679#0(0"0(0#0#59"/Users/patrickrussell/Downloads/MVCNetworking/Model/Photo.m2501739152#2149"    cd /Users/patrickrussell/Downloads/MVCNetworking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30103 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-generated-files.hmap -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/DerivedSources -c /Users/patrickrussell/Downloads/MVCNetworking/Model/Photo.m -o /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/Photo.o0#
+
+CCompileC build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/PhotoCell.o "/Users/patrickrussell/Downloads/MVCNetworking/View Controllers/PhotoCell.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s316191683.311588
+e316191683.828767
+r1
+xCompileC
+xbuild/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/PhotoCell.o
+x/Users/patrickrussell/Downloads/MVCNetworking/View Controllers/PhotoCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@82"Compile /Users/patrickrussell/Downloads/MVCNetworking/View Controllers/PhotoCell.m316191683#316191683#0(0"0(0#0#74"/Users/patrickrussell/Downloads/MVCNetworking/View Controllers/PhotoCell.m2501739152#2170"    cd /Users/patrickrussell/Downloads/MVCNetworking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30103 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-generated-files.hmap -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/DerivedSources -c "/Users/patrickrussell/Downloads/MVCNetworking/View Controllers/PhotoCell.m" -o /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/PhotoCell.o0#
+
+CCompileC build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/PhotoDetailViewController.o "/Users/patrickrussell/Downloads/MVCNetworking/View Controllers/PhotoDetailViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s316191683.828930
+e316191684.216309
+r1
+xCompileC
+xbuild/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/PhotoDetailViewController.o
+x/Users/patrickrussell/Downloads/MVCNetworking/View Controllers/PhotoDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@98"Compile /Users/patrickrussell/Downloads/MVCNetworking/View Controllers/PhotoDetailViewController.m316191683#316191684#0(0"0(0#0#90"/Users/patrickrussell/Downloads/MVCNetworking/View Controllers/PhotoDetailViewController.m2501739152#2202"    cd /Users/patrickrussell/Downloads/MVCNetworking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30103 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-generated-files.hmap -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/DerivedSources -c "/Users/patrickrussell/Downloads/MVCNetworking/View Controllers/PhotoDetailViewController.m" -o /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/PhotoDetailViewController.o0#
+
+CCompileC build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/PhotoGallery.o /Users/patrickrussell/Downloads/MVCNetworking/Model/PhotoGallery.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s316191678.241822
+e316191679.779643
+r1
+xCompileC
+xbuild/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/PhotoGallery.o
+x/Users/patrickrussell/Downloads/MVCNetworking/Model/PhotoGallery.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@74"Compile /Users/patrickrussell/Downloads/MVCNetworking/Model/PhotoGallery.m316191678#316191679#0(0"0(0#0#66"/Users/patrickrussell/Downloads/MVCNetworking/Model/PhotoGallery.m2501739152#2163"    cd /Users/patrickrussell/Downloads/MVCNetworking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30103 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-generated-files.hmap -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/DerivedSources -c /Users/patrickrussell/Downloads/MVCNetworking/Model/PhotoGallery.m -o /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/PhotoGallery.o0#
+
+CCompileC build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/PhotoGalleryContext.o /Users/patrickrussell/Downloads/MVCNetworking/Model/PhotoGalleryContext.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s316191685.318647
+e316191685.598020
+r1
+xCompileC
+xbuild/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/PhotoGalleryContext.o
+x/Users/patrickrussell/Downloads/MVCNetworking/Model/PhotoGalleryContext.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@81"Compile /Users/patrickrussell/Downloads/MVCNetworking/Model/PhotoGalleryContext.m316191685#316191685#0(0"0(0#0#73"/Users/patrickrussell/Downloads/MVCNetworking/Model/PhotoGalleryContext.m2501739152#2177"    cd /Users/patrickrussell/Downloads/MVCNetworking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30103 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-generated-files.hmap -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/DerivedSources -c /Users/patrickrussell/Downloads/MVCNetworking/Model/PhotoGalleryContext.m -o /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/PhotoGalleryContext.o0#
+
+CCompileC build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/PhotoGalleryViewController.o "/Users/patrickrussell/Downloads/MVCNetworking/View Controllers/PhotoGalleryViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s316191680.501816
+e316191681.125443
+r1
+xCompileC
+xbuild/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/PhotoGalleryViewController.o
+x/Users/patrickrussell/Downloads/MVCNetworking/View Controllers/PhotoGalleryViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@99"Compile /Users/patrickrussell/Downloads/MVCNetworking/View Controllers/PhotoGalleryViewController.m316191680#316191681#0(0"0(0#0#91"/Users/patrickrussell/Downloads/MVCNetworking/View Controllers/PhotoGalleryViewController.m2501739152#2204"    cd /Users/patrickrussell/Downloads/MVCNetworking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30103 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-generated-files.hmap -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/DerivedSources -c "/Users/patrickrussell/Downloads/MVCNetworking/View Controllers/PhotoGalleryViewController.m" -o /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/PhotoGalleryViewController.o0#
+
+CCompileC build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/QHTTPOperation.o /Users/patrickrussell/Downloads/MVCNetworking/Networking/QHTTPOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s316191679.779790
+e316191680.171963
+r1
+xCompileC
+xbuild/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/QHTTPOperation.o
+x/Users/patrickrussell/Downloads/MVCNetworking/Networking/QHTTPOperation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@81"Compile /Users/patrickrussell/Downloads/MVCNetworking/Networking/QHTTPOperation.m316191679#316191680#0(0"0(0#0#73"/Users/patrickrussell/Downloads/MVCNetworking/Networking/QHTTPOperation.m2501739152#2172"    cd /Users/patrickrussell/Downloads/MVCNetworking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30103 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-generated-files.hmap -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/DerivedSources -c /Users/patrickrussell/Downloads/MVCNetworking/Networking/QHTTPOperation.m -o /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/QHTTPOperation.o0#
+
+CCompileC build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/QImageScrollView.o "/Users/patrickrussell/Downloads/MVCNetworking/View Controllers/QImageScrollView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s316191685.598181
+e316191686.656007
+r1
+xCompileC
+xbuild/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/QImageScrollView.o
+x/Users/patrickrussell/Downloads/MVCNetworking/View Controllers/QImageScrollView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@89"Compile /Users/patrickrussell/Downloads/MVCNetworking/View Controllers/QImageScrollView.m316191685#316191686#0(0"0(0#0#81"/Users/patrickrussell/Downloads/MVCNetworking/View Controllers/QImageScrollView.m2501739152#2184"    cd /Users/patrickrussell/Downloads/MVCNetworking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30103 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-generated-files.hmap -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/DerivedSources -c "/Users/patrickrussell/Downloads/MVCNetworking/View Controllers/QImageScrollView.m" -o /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/QImageScrollView.o0#
+
+CCompileC build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/QLog.o /Users/patrickrussell/Downloads/MVCNetworking/Logging/QLog.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s316191681.890818
+e316191682.707270
+r1
+xCompileC
+xbuild/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/QLog.o
+x/Users/patrickrussell/Downloads/MVCNetworking/Logging/QLog.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@68"Compile /Users/patrickrussell/Downloads/MVCNetworking/Logging/QLog.m316191681#316191682#0(0"0(0#0#60"/Users/patrickrussell/Downloads/MVCNetworking/Logging/QLog.m2501739152#2149"    cd /Users/patrickrussell/Downloads/MVCNetworking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30103 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-generated-files.hmap -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/DerivedSources -c /Users/patrickrussell/Downloads/MVCNetworking/Logging/QLog.m -o /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/QLog.o0#
+
+CCompileC build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/QLogViewer.o /Users/patrickrussell/Downloads/MVCNetworking/Logging/QLogViewer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s316191682.707428
+e316191683.310699
+r1
+xCompileC
+xbuild/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/QLogViewer.o
+x/Users/patrickrussell/Downloads/MVCNetworking/Logging/QLogViewer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@74"Compile /Users/patrickrussell/Downloads/MVCNetworking/Logging/QLogViewer.m316191682#316191683#0(0"0(0#0#66"/Users/patrickrussell/Downloads/MVCNetworking/Logging/QLogViewer.m2501739152#2161"    cd /Users/patrickrussell/Downloads/MVCNetworking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30103 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-generated-files.hmap -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/DerivedSources -c /Users/patrickrussell/Downloads/MVCNetworking/Logging/QLogViewer.m -o /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/QLogViewer.o0#
+
+CCompileC build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/QReachabilityOperation.o /Users/patrickrussell/Downloads/MVCNetworking/Networking/QReachabilityOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s316191687.205085
+e316191687.552293
+r1
+xCompileC
+xbuild/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/QReachabilityOperation.o
+x/Users/patrickrussell/Downloads/MVCNetworking/Networking/QReachabilityOperation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@89"Compile /Users/patrickrussell/Downloads/MVCNetworking/Networking/QReachabilityOperation.m316191687#316191687#0(0"0(0#0#81"/Users/patrickrussell/Downloads/MVCNetworking/Networking/QReachabilityOperation.m2501739152#2188"    cd /Users/patrickrussell/Downloads/MVCNetworking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30103 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-generated-files.hmap -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/DerivedSources -c /Users/patrickrussell/Downloads/MVCNetworking/Networking/QReachabilityOperation.m -o /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/QReachabilityOperation.o0#
+
+CCompileC build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/QRunLoopOperation.o /Users/patrickrussell/Downloads/MVCNetworking/Networking/QRunLoopOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s316191680.172144
+e316191680.501645
+r1
+xCompileC
+xbuild/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/QRunLoopOperation.o
+x/Users/patrickrussell/Downloads/MVCNetworking/Networking/QRunLoopOperation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@84"Compile /Users/patrickrussell/Downloads/MVCNetworking/Networking/QRunLoopOperation.m316191680#316191680#0(0"0(0#0#76"/Users/patrickrussell/Downloads/MVCNetworking/Networking/QRunLoopOperation.m2501739152#2178"    cd /Users/patrickrussell/Downloads/MVCNetworking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30103 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-generated-files.hmap -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/DerivedSources -c /Users/patrickrussell/Downloads/MVCNetworking/Networking/QRunLoopOperation.m -o /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/QRunLoopOperation.o0#
+
+CCompileC build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/RecursiveDeleteOperation.o /Users/patrickrussell/Downloads/MVCNetworking/Model/RecursiveDeleteOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s316191684.727557
+e316191685.005848
+r1
+xCompileC
+xbuild/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/RecursiveDeleteOperation.o
+x/Users/patrickrussell/Downloads/MVCNetworking/Model/RecursiveDeleteOperation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@86"Compile /Users/patrickrussell/Downloads/MVCNetworking/Model/RecursiveDeleteOperation.m316191684#316191685#0(0"0(0#0#78"/Users/patrickrussell/Downloads/MVCNetworking/Model/RecursiveDeleteOperation.m2501739152#2187"    cd /Users/patrickrussell/Downloads/MVCNetworking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30103 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-generated-files.hmap -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/DerivedSources -c /Users/patrickrussell/Downloads/MVCNetworking/Model/RecursiveDeleteOperation.m -o /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/RecursiveDeleteOperation.o0#
+
+CCompileC build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/RetryingHTTPOperation.o /Users/patrickrussell/Downloads/MVCNetworking/Networking/RetryingHTTPOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s316191686.656223
+e316191687.204867
+r1
+xCompileC
+xbuild/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/RetryingHTTPOperation.o
+x/Users/patrickrussell/Downloads/MVCNetworking/Networking/RetryingHTTPOperation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@88"Compile /Users/patrickrussell/Downloads/MVCNetworking/Networking/RetryingHTTPOperation.m316191686#316191687#0(0"0(0#0#80"/Users/patrickrussell/Downloads/MVCNetworking/Networking/RetryingHTTPOperation.m2501739152#2186"    cd /Users/patrickrussell/Downloads/MVCNetworking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30103 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-generated-files.hmap -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/DerivedSources -c /Users/patrickrussell/Downloads/MVCNetworking/Networking/RetryingHTTPOperation.m -o /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/RetryingHTTPOperation.o0#
+
+CCompileC build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/SetupViewController.o "/Users/patrickrussell/Downloads/MVCNetworking/View Controllers/SetupViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s316191684.216479
+e316191684.727403
+r1
+xCompileC
+xbuild/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/SetupViewController.o
+x/Users/patrickrussell/Downloads/MVCNetworking/View Controllers/SetupViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@92"Compile /Users/patrickrussell/Downloads/MVCNetworking/View Controllers/SetupViewController.m316191684#316191684#0(0"0(0#0#84"/Users/patrickrussell/Downloads/MVCNetworking/View Controllers/SetupViewController.m2501739152#2190"    cd /Users/patrickrussell/Downloads/MVCNetworking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30103 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-generated-files.hmap -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/DerivedSources -c "/Users/patrickrussell/Downloads/MVCNetworking/View Controllers/SetupViewController.m" -o /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/SetupViewController.o0#
+
+CCompileC build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/Thumbnail.o /Users/patrickrussell/Downloads/MVCNetworking/Model/Thumbnail.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s316191679.382136
+e316191679.746863
+r1
+xCompileC
+xbuild/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/Thumbnail.o
+x/Users/patrickrussell/Downloads/MVCNetworking/Model/Thumbnail.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@71"Compile /Users/patrickrussell/Downloads/MVCNetworking/Model/Thumbnail.m316191679#316191679#0(0"0(0#0#63"/Users/patrickrussell/Downloads/MVCNetworking/Model/Thumbnail.m2501739152#2157"    cd /Users/patrickrussell/Downloads/MVCNetworking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30103 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-generated-files.hmap -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/DerivedSources -c /Users/patrickrussell/Downloads/MVCNetworking/Model/Thumbnail.m -o /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/Thumbnail.o0#
+
+CCompileC build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/main.o /Users/patrickrussell/Downloads/MVCNetworking/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s316191673.955905
+e316191678.166513
+r1
+xCompileC
+xbuild/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/main.o
+x/Users/patrickrussell/Downloads/MVCNetworking/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@60"Compile /Users/patrickrussell/Downloads/MVCNetworking/main.m316191673#316191678#0(0"0(0#0#52"/Users/patrickrussell/Downloads/MVCNetworking/main.m2501739152#2141"    cd /Users/patrickrussell/Downloads/MVCNetworking    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30103 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-generated-files.hmap -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/MVCNetworking-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/DerivedSources -c /Users/patrickrussell/Downloads/MVCNetworking/main.m -o /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/main.o0#
+
+CCompileXIB "/Users/patrickrussell/Downloads/MVCNetworking/View Controllers/PhotoDetailViewController.xib"
+s316191654.616886
+e316191673.953509
+r1
+xCompileXIB
+x/Users/patrickrussell/Downloads/MVCNetworking/View Controllers/PhotoDetailViewController.xib
+lSLF07#2@59"CompileXIB "View Controllers/PhotoDetailViewController.xib"316191654#316191673#0(0"0(0#0#92"/Users/patrickrussell/Downloads/MVCNetworking/View Controllers/PhotoDetailViewController.xib2501739152#648"    cd /Users/patrickrussell/Downloads/MVCNetworking    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app/PhotoDetailViewController.nib "/Users/patrickrussell/Downloads/MVCNetworking/View Controllers/PhotoDetailViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/patrickrussell/Downloads/MVCNetworking/MainWindow.xib
+s316191654.578626
+e316191673.178119
+r1
+xCompileXIB
+x/Users/patrickrussell/Downloads/MVCNetworking/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib316191654#316191673#0(0"0(0#0#60"/Users/patrickrussell/Downloads/MVCNetworking/MainWindow.xib2501739152#599"    cd /Users/patrickrussell/Downloads/MVCNetworking    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app/MainWindow.nib /Users/patrickrussell/Downloads/MVCNetworking/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCpResource build/Debug-iphonesimulator/MVCNetworking.app/Icon-72.png Images/Icon-72.png
+s316191673.178373
+e316191673.632109
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MVCNetworking.app/Icon-72.png
+xImages/Icon-72.png
+lSLF07#2@23"Copy Images/Icon-72.png316191673#316191673#0(0"0(0#0#64"/Users/patrickrussell/Downloads/MVCNetworking/Images/Icon-72.png2501739152#510"    cd /Users/patrickrussell/Downloads/MVCNetworking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/patrickrussell/Downloads/MVCNetworking/Images/Icon-72.png /Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app0#
+
+CCpResource build/Debug-iphonesimulator/MVCNetworking.app/Icon-Small-50.png Images/Icon-Small-50.png
+s316191673.421656
+e316191673.632319
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MVCNetworking.app/Icon-Small-50.png
+xImages/Icon-Small-50.png
+lSLF07#2@29"Copy Images/Icon-Small-50.png316191673#316191673#0(0"0(0#0#70"/Users/patrickrussell/Downloads/MVCNetworking/Images/Icon-Small-50.png2501739152#516"    cd /Users/patrickrussell/Downloads/MVCNetworking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/patrickrussell/Downloads/MVCNetworking/Images/Icon-Small-50.png /Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app0#
+
+CCpResource build/Debug-iphonesimulator/MVCNetworking.app/Icon-Small.png Images/Icon-Small.png
+s316191673.423010
+e316191673.705678
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MVCNetworking.app/Icon-Small.png
+xImages/Icon-Small.png
+lSLF07#2@26"Copy Images/Icon-Small.png316191673#316191673#0(0"0(0#0#67"/Users/patrickrussell/Downloads/MVCNetworking/Images/Icon-Small.png2501739152#513"    cd /Users/patrickrussell/Downloads/MVCNetworking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/patrickrussell/Downloads/MVCNetworking/Images/Icon-Small.png /Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app0#
+
+CCpResource build/Debug-iphonesimulator/MVCNetworking.app/Icon-Small@2x.png Images/Icon-Small@2x.png
+s316191673.425213
+e316191673.707170
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MVCNetworking.app/Icon-Small@2x.png
+xImages/Icon-Small@2x.png
+lSLF07#2@29"Copy Images/Icon-Small@2x.png316191673#316191673#0(0"0(0#0#70"/Users/patrickrussell/Downloads/MVCNetworking/Images/Icon-Small@2x.png2501739152#516"    cd /Users/patrickrussell/Downloads/MVCNetworking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/patrickrussell/Downloads/MVCNetworking/Images/Icon-Small@2x.png /Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app0#
+
+CCpResource build/Debug-iphonesimulator/MVCNetworking.app/Icon.png Images/Icon.png
+s316191673.526738
+e316191673.692104
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MVCNetworking.app/Icon.png
+xImages/Icon.png
+lSLF07#2@20"Copy Images/Icon.png316191673#316191673#0(0"0(0#0#61"/Users/patrickrussell/Downloads/MVCNetworking/Images/Icon.png2501739152#507"    cd /Users/patrickrussell/Downloads/MVCNetworking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/patrickrussell/Downloads/MVCNetworking/Images/Icon.png /Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app0#
+
+CCpResource build/Debug-iphonesimulator/MVCNetworking.app/Icon@2x.png Images/Icon@2x.png
+s316191673.528157
+e316191673.705354
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MVCNetworking.app/Icon@2x.png
+xImages/Icon@2x.png
+lSLF07#2@23"Copy Images/Icon@2x.png316191673#316191673#0(0"0(0#0#64"/Users/patrickrussell/Downloads/MVCNetworking/Images/Icon@2x.png2501739152#510"    cd /Users/patrickrussell/Downloads/MVCNetworking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/patrickrussell/Downloads/MVCNetworking/Images/Icon@2x.png /Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app0#
+
+CCpResource build/Debug-iphonesimulator/MVCNetworking.app/Placeholder-Bad.png Images/Placeholder-Bad.png
+s316191654.609977
+e316191654.897331
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MVCNetworking.app/Placeholder-Bad.png
+xImages/Placeholder-Bad.png
+lSLF07#2@31"Copy Images/Placeholder-Bad.png316191654#316191654#0(0"0(0#0#72"/Users/patrickrussell/Downloads/MVCNetworking/Images/Placeholder-Bad.png2501739152#518"    cd /Users/patrickrussell/Downloads/MVCNetworking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/patrickrussell/Downloads/MVCNetworking/Images/Placeholder-Bad.png /Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app0#
+
+CCpResource build/Debug-iphonesimulator/MVCNetworking.app/Placeholder-Deferred.png Images/Placeholder-Deferred.png
+s316191673.530755
+e316191673.691785
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MVCNetworking.app/Placeholder-Deferred.png
+xImages/Placeholder-Deferred.png
+lSLF07#2@36"Copy Images/Placeholder-Deferred.png316191673#316191673#0(0"0(0#0#77"/Users/patrickrussell/Downloads/MVCNetworking/Images/Placeholder-Deferred.png2501739152#523"    cd /Users/patrickrussell/Downloads/MVCNetworking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/patrickrussell/Downloads/MVCNetworking/Images/Placeholder-Deferred.png /Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app0#
+
+CCpResource build/Debug-iphonesimulator/MVCNetworking.app/Placeholder.png Images/Placeholder.png
+s316191654.606117
+e316191654.897119
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MVCNetworking.app/Placeholder.png
+xImages/Placeholder.png
+lSLF07#2@27"Copy Images/Placeholder.png316191654#316191654#0(0"0(0#0#68"/Users/patrickrussell/Downloads/MVCNetworking/Images/Placeholder.png2501739152#514"    cd /Users/patrickrussell/Downloads/MVCNetworking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/patrickrussell/Downloads/MVCNetworking/Images/Placeholder.png /Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app0#
+
+CCpResource build/Debug-iphonesimulator/MVCNetworking.app/Settings.bundle Logging/Settings.bundle
+s316191654.603114
+e316191654.954400
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MVCNetworking.app/Settings.bundle
+xLogging/Settings.bundle
+lSLF07#2@28"Copy Logging/Settings.bundle316191654#316191654#0(0"0(0#0#69"/Users/patrickrussell/Downloads/MVCNetworking/Logging/Settings.bundle2501739152#515"    cd /Users/patrickrussell/Downloads/MVCNetworking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/patrickrussell/Downloads/MVCNetworking/Logging/Settings.bundle /Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app0#
+
+CCpResource build/Debug-iphonesimulator/MVCNetworking.app/iTunesArtwork Images/iTunesArtwork
+s316191673.529544
+e316191673.691552
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MVCNetworking.app/iTunesArtwork
+xImages/iTunesArtwork
+lSLF07#2@25"Copy Images/iTunesArtwork316191673#316191673#0(0"0(0#0#66"/Users/patrickrussell/Downloads/MVCNetworking/Images/iTunesArtwork2501739152#512"    cd /Users/patrickrussell/Downloads/MVCNetworking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/patrickrussell/Downloads/MVCNetworking/Images/iTunesArtwork /Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app0#
+
+CDataModelCompile /Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app/Photos.mom /Users/patrickrussell/Downloads/MVCNetworking/Model/Photos.xcdatamodel
+s316191673.953758
+e316191675.209243
+r1
+xDataModelCompile
+x/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app/Photos.mom
+x/Users/patrickrussell/Downloads/MVCNetworking/Model/Photos.xcdatamodel
+lSLF07#2@78"Compile /Users/patrickrussell/Downloads/MVCNetworking/Model/Photos.xcdatamodel316191673#316191675#0(0"0(0#0#70"/Users/patrickrussell/Downloads/MVCNetworking/Model/Photos.xcdatamodel2501739152#415"    cd /Users/patrickrussell/Downloads/MVCNetworking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 /Users/patrickrussell/Downloads/MVCNetworking/Model/Photos.xcdatamodel /Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app/Photos.mom0#
+
+CGenerateDSYMFile /Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app.dSYM /Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app/MVCNetworking
+s316191688.133513
+e316191688.457783
+r1
+xGenerateDSYMFile
+x/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app.dSYM
+x/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app/MVCNetworking
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/MVCNetworking.app.dSYM build/Debug-iphonesimulator/MVCNetworking.app/MVCNetworking316191688#316191688#0(0"0(0#0#105"/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app/MVCNetworking2501739152#422"    cd /Users/patrickrussell/Downloads/MVCNetworking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app/MVCNetworking -o /Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app.dSYM0#
+
+CLd /Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app/MVCNetworking normal i386
+s316191687.552432
+e316191688.133354
+r1
+xLd
+x/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app/MVCNetworking
+xnormal
+xi386
+lSLF07#2@110"Link /Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app/MVCNetworking316191687#316191688#0(0"0(0#0#0"2501739152#1039"    cd /Users/patrickrussell/Downloads/MVCNetworking    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator -F/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator -filelist /Users/patrickrussell/Downloads/MVCNetworking/build/MVCNetworking.build/Debug-iphonesimulator/MVCNetworking.build/Objects-normal/i386/MVCNetworking.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework UIKit -framework MessageUI -framework CoreData -framework Foundation -framework CoreGraphics -framework SystemConfiguration -lz -o /Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app/MVCNetworking0#
+
+CProcessInfoPlistFile /Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app/Info.plist Info.plist
+s316191654.468767
+e316191654.578464
+r1
+xProcessInfoPlistFile
+x/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist316191654#316191654#0(0"0(0#0#56"/Users/patrickrussell/Downloads/MVCNetworking/Info.plist4717520#504"    cd /Users/patrickrussell/Downloads/MVCNetworking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app/Info.plist0#
+
+CTouch /Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app
+s316191688.457981
+e316191688.557727
+r1
+xTouch
+x/Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app
+lSLF07#2@97"Touch /Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app316191688#316191688#0(0"0(0#0#0"2501739152#298"    cd /Users/patrickrussell/Downloads/MVCNetworking    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/patrickrussell/Downloads/MVCNetworking/build/Debug-iphonesimulator/MVCNetworking.app0#
+

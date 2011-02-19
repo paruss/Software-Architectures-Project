@@ -1,0 +1,633 @@
+TMapKit
+v7
+r0
+t314636436.731487
+cCheck dependencies
+cCpResource build/Debug-iphoneos/MapKit.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos/MapKit.app/Info.plist MapKit-Info.plist
+cCompileXIB /Users/patrickrussell/Documents/FYP/MapKit/MainWindow.xib
+cCompileXIB /Users/patrickrussell/Documents/FYP/MapKit/MapKitViewController.xib
+cProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit_Prefix-bccqdvfnkvgadqclgvliksibkggq/MapKit_Prefix.pch.gch MapKit_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit_Prefix-ewgiqgexgxfjitgzaoegepivkacm/MapKit_Prefix.pch.gch MapKit_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapKit.build/Debug-iphoneos/MapKit.build/Objects-normal/armv6/main.o /Users/patrickrussell/Documents/FYP/MapKit/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapKit.build/Debug-iphoneos/MapKit.build/Objects-normal/armv6/MapKitAppDelegate.o /Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapKit.build/Debug-iphoneos/MapKit.build/Objects-normal/armv6/MapKitViewController.o /Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapKit.build/Debug-iphoneos/MapKit.build/Objects-normal/armv7/main.o /Users/patrickrussell/Documents/FYP/MapKit/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapKit.build/Debug-iphoneos/MapKit.build/Objects-normal/armv7/MapKitAppDelegate.o /Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapKit.build/Debug-iphoneos/MapKit.build/Objects-normal/armv7/MapKitViewController.o /Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" /Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos/MapKit.app/embedded.mobileprovision
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist /Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/MapKit.xcent
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk
+c000000004C6DE9E30000000000000110
+t1282271715
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+c000000004C578FA900000000000001A7
+t1280806825
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+c000000004C578FA900000000000001E5
+t1280806825
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004C5A51EA000000000039EF90
+t1280987626
+s3796880
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioServices.h
+c000000004C5A51980000000000010AAD
+t1280987544
+s68269
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A51050000000000345F00
+t1280987397
+s3432192
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004C6C2FE600000000000C79C0
+t1282158566
+s817600
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004C6C2FDF00000000000001D0
+t1282158559
+s464
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A52B100000000003E1EF0
+t1280987825
+s4071152
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A527F0000000000001466
+t1280987775
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/MapKit.framework/Headers/MKAnnotation.h
+c000000004C6C31EB000000000000027E
+t1282159083
+s638
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/MapKit.framework/Headers/MKMapView.h
+c000000004C6C31EB00000000000023B9
+t1282159083
+s9145
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C6C31EB00000000000002FE
+t1282159083
+s766
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C6C320B00000000002801E0
+t1282159115
+s2621920
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C62427000000000000009CD
+t1281507952
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C62430F0000000002EBC2B0
+t1281508111
+s49005232
+
+N/Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitAppDelegate.h
+c000000004D10BA5D00000000000001DF
+t1292941917
+s479
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitAppDelegate.m
+c000000004D10BA5D0000000000000A8C
+t1292941917
+s2700
+i"MapKitAppDelegate.h"
+i"MapKitViewController.h"
+
+N/Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitViewController.h
+c000000004D10BD4E00000000000002AC
+t1292942670
+s684
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i<MapKit/MKAnnotation.h>
+i<CoreLocation/CoreLocation.h>
+i<MapKit/MKMapView.h>
+i<AudioToolbox/AudioServices.h>
+
+N/Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitViewController.m
+c000000004D10C1080000000000000887
+t1292943624
+s2183
+i"MapKitViewController.h"
+
+N/Users/patrickrussell/Documents/FYP/MapKit/MainWindow.xib
+c000000004D10BA5D0000000000004E1D
+t1292941917
+s19997
+
+N/Users/patrickrussell/Documents/FYP/MapKit/MapKitViewController.xib
+c000000004D10BA5D0000000000001A41
+t1292941917
+s6721
+
+N/Users/patrickrussell/Documents/FYP/MapKit/MapKit_Prefix.pch
+c000000004D10BA5D00000000000000B5
+t1292941917
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos/MapKit.app
+t2
+s0
+
+N/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos/MapKit.app.dSYM
+t2
+s0
+
+N/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos/MapKit.app/Info.plist
+t1292943625
+s722
+
+N/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos/MapKit.app/MainWindow.nib
+t1292943628
+s1679
+
+N/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos/MapKit.app/MapKit
+t2
+s0
+
+N/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos/MapKit.app/MapKitViewController.nib
+t1292943628
+s1269
+
+N/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos/MapKit.app/PkgInfo
+t1292943625
+s8
+
+N/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos/MapKit.app/ResourceRules.plist
+t1292943625
+s485
+
+N/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos/MapKit.app/embedded.mobileprovision
+t1292943636
+s15853
+
+N/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/MapKit.xcent
+t1292943636
+s418
+
+N/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/Objects-normal/armv6/MapKit
+t2
+s0
+
+N/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/Objects-normal/armv6/MapKit.LinkFileList
+c000000004D10C109000000000000017F
+t1292943625
+s383
+
+N/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/Objects-normal/armv6/MapKitAppDelegate.o
+t1292943635
+s48644
+
+N/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/Objects-normal/armv6/MapKitViewController.o
+t2
+s0
+
+N/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/Objects-normal/armv6/main.o
+t1292943635
+s6456
+
+N/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/Objects-normal/armv7/MapKit
+t2
+s0
+
+N/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/Objects-normal/armv7/MapKit.LinkFileList
+c000000004D10C109000000000000017F
+t1292943625
+s383
+
+N/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/Objects-normal/armv7/MapKitAppDelegate.o
+t1292943636
+s48564
+
+N/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/Objects-normal/armv7/MapKitViewController.o
+t2
+s0
+
+N/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/Objects-normal/armv7/main.o
+t1292943636
+s6440
+
+N/Users/patrickrussell/Documents/FYP/MapKit/main.m
+c000000004D10BA5D000000000000016E
+t1292941917
+s366
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision
+c000000004CB063CE0000000000003DED
+t1286628302
+s15853
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit_Prefix-bccqdvfnkvgadqclgvliksibkggq/MapKit_Prefix.pch.gch
+t1292943633
+s9831984
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit_Prefix-ewgiqgexgxfjitgzaoegepivkacm/MapKit_Prefix.pch.gch
+t1292943635
+s10294832
+
+NMapKit-Info.plist
+c000000004D10BA5D000000000000038D
+t1292941917
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies314636425#314636425#0(0"0(0#1#0"2462876304#0"0#
+
+CCodeSign /Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos/MapKit.app
+r0
+
+CCompileC build/MapKit.build/Debug-iphoneos/MapKit.build/Objects-normal/armv6/MapKitAppDelegate.o /Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s314636435.733098
+e314636435.980565
+r1
+xCompileC
+xbuild/MapKit.build/Debug-iphoneos/MapKit.build/Objects-normal/armv6/MapKitAppDelegate.o
+x/Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitAppDelegate.m314636435#314636435#0(0"0(0#0#70"/Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitAppDelegate.m2462876304#1782"    cd /Users/patrickrussell/Documents/FYP/MapKit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/MapKit-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/MapKit-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/MapKit-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/MapKit-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/DerivedSources/armv6 -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit_Prefix-bccqdvfnkvgadqclgvliksibkggq/MapKit_Prefix.pch -c /Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitAppDelegate.m -o /Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/Objects-normal/armv6/MapKitAppDelegate.o0#
+
+CCompileC build/MapKit.build/Debug-iphoneos/MapKit.build/Objects-normal/armv6/MapKitViewController.o /Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s314636435.980794
+e314636436.097863
+r0
+xCompileC
+xbuild/MapKit.build/Debug-iphoneos/MapKit.build/Objects-normal/armv6/MapKitViewController.o
+x/Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitViewController.m: In function '-[MapKitViewController locationManager:didUpdateToLocation:fromLocation:]':
+o/Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitViewController.m:40: warning: incompatible Objective-C types initializing 'struct CLLocation *', expected 'struct CLLocationManager *'
+o/Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitViewController.m:42: error: expected ';' before 'location'
+o{standard input}:439:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L37"
+o{standard input}:439:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression
+o{standard input}:438:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr" minus "L36"
+o{standard input}:438:symbol: "L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:437:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L35"
+o{standard input}:437:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression
+o{standard input}:436:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr" minus "L34"
+o{standard input}:436:symbol: "L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:435:non-relocatable subtraction expression, "L_kCLLocationAccuracyBest$non_lazy_ptr" minus "L33"
+o{standard input}:435:symbol: "L_kCLLocationAccuracyBest$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:434:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L32"
+o{standard input}:434:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression
+o{standard input}:433:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr" minus "L31"
+o{standard input}:433:symbol: "L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:432:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L30"
+o{standard input}:432:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:431:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr" minus "L29"
+o{standard input}:431:symbol: "L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:430:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L28"
+o{standard input}:430:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:429:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L27"
+o{standard input}:429:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression
+o{standard input}:428:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L26"
+o{standard input}:428:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:427:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L25"
+o{standard input}:427:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression
+o{standard input}:426:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L24"
+o{standard input}:426:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
+o{standard input}:425:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" minus "L23"
+o{standard input}:425:symbol: "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:424:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L22"
+o{standard input}:424:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
+o{standard input}:423:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" minus "L21"
+o{standard input}:423:symbol: "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:422:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L20"
+o{standard input}:422:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
+o{standard input}:421:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" minus "L19"
+o{standard input}:421:symbol: "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:420:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L18"
+o{standard input}:420:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:419:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" minus "L17"
+o{standard input}:419:symbol: "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:418:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L16"
+o{standard input}:418:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+o{standard input}:417:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" minus "L15"
+o{standard input}:417:symbol: "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:416:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L14"
+o{standard input}:416:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:415:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" minus "L13"
+o{standard input}:415:symbol: "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:414:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" minus "L12"
+o{standard input}:414:symbol: "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:413:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L11"
+o{standard input}:413:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:412:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L10"
+o{standard input}:412:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+o{standard input}:411:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L9"
+o{standard input}:411:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:410:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L8"
+o{standard input}:410:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+o{standard input}:409:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L7"
+o{standard input}:409:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:408:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L6"
+o{standard input}:408:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:407:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L5"
+o{standard input}:407:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression
+o{standard input}:406:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" minus "L4"
+o{standard input}:406:symbol: "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:405:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L3"
+o{standard input}:405:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:404:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_1" minus "L2"
+o{standard input}:404:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_1" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_objc_msgSendSuper2$stub
+o{standard input}:unknown:Undefined local symbol L_objc_msgSend$stub
+o{standard input}:unknown:Undefined local symbol L_objc_msgSend_stret$stub
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13
+o{standard input}:unknown:Undefined local symbol L_kCLLocationAccuracyBest$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15
+lSLF07#2@81"Compile /Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitViewController.m314636435#314636436#0(10898"/Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitViewController.m: In function '-[MapKitViewController locationManager:didUpdateToLocation:fromLocation:]':/Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitViewController.m:40: warning: incompatible Objective-C types initializing 'struct CLLocation *', expected 'struct CLLocationManager *'/Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitViewController.m:42: error: expected ';' before 'location'{standard input}:439:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L37"{standard input}:439:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression{standard input}:438:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr" minus "L36"{standard input}:438:symbol: "L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:437:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L35"{standard input}:437:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression{standard input}:436:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr" minus "L34"{standard input}:436:symbol: "L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:435:non-relocatable subtraction expression, "L_kCLLocationAccuracyBest$non_lazy_ptr" minus "L33"{standard input}:435:symbol: "L_kCLLocationAccuracyBest$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:434:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L32"{standard input}:434:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression{standard input}:433:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr" minus "L31"{standard input}:433:symbol: "L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:432:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L30"{standard input}:432:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:431:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr" minus "L29"{standard input}:431:symbol: "L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:430:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L28"{standard input}:430:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:429:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L27"{standard input}:429:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression{standard input}:428:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L26"{standard input}:428:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:427:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L25"{standard input}:427:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression{standard input}:426:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L24"{standard input}:426:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression{standard input}:425:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" minus "L23"{standard input}:425:symbol: "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:424:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L22"{standard input}:424:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression{standard input}:423:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" minus "L21"{standard input}:423:symbol: "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:422:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L20"{standard input}:422:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression{standard input}:421:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" minus "L19"{standard input}:421:symbol: "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:420:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L18"{standard input}:420:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:419:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" minus "L17"{standard input}:419:symbol: "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:418:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L16"{standard input}:418:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:417:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" minus "L15"{standard input}:417:symbol: "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:416:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L14"{standard input}:416:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:415:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" minus "L13"{standard input}:415:symbol: "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:414:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" minus "L12"{standard input}:414:symbol: "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:413:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L11"{standard input}:413:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:412:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L10"{standard input}:412:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression{standard input}:411:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L9"{standard input}:411:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:410:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L8"{standard input}:410:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression{standard input}:409:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L7"{standard input}:409:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:408:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L6"{standard input}:408:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:407:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L5"{standard input}:407:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression{standard input}:406:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" minus "L4"{standard input}:406:symbol: "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:405:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L3"{standard input}:405:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:404:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_1" minus "L2"{standard input}:404:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_1" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_objc_msgSendSuper2$stub{standard input}:unknown:Undefined local symbol L_objc_msgSend$stub{standard input}:unknown:Undefined local symbol L_objc_msgSend_stret$stub{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13{standard input}:unknown:Undefined local symbol L_kCLLocationAccuracyBest$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_152(22@104"Incompatible Objective-C types initializing 'struct CLLocation *', expected 'struct CLLocationManager *'314636436#164#192#0(6@73"/Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitViewController.m314636424#40#0#40#0#61"incompatible Objective-C types initializing '*', expected '*'0(4@30"Expected ';' before 'location'314636436#356#116#0(6@73"/Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitViewController.m314636424#42#0#42#0#19"expected * before *0(0#0#73"/Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitViewController.m2462876304#1788"    cd /Users/patrickrussell/Documents/FYP/MapKit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/MapKit-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/MapKit-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/MapKit-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/MapKit-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/DerivedSources/armv6 -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit_Prefix-bccqdvfnkvgadqclgvliksibkggq/MapKit_Prefix.pch -c /Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitViewController.m -o /Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/Objects-normal/armv6/MapKitViewController.o1#
+
+CCompileC build/MapKit.build/Debug-iphoneos/MapKit.build/Objects-normal/armv6/main.o /Users/patrickrussell/Documents/FYP/MapKit/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s314636435.250642
+e314636435.732947
+r1
+xCompileC
+xbuild/MapKit.build/Debug-iphoneos/MapKit.build/Objects-normal/armv6/main.o
+x/Users/patrickrussell/Documents/FYP/MapKit/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/patrickrussell/Documents/FYP/MapKit/main.m314636435#314636435#0(0"0(0#0#49"/Users/patrickrussell/Documents/FYP/MapKit/main.m2462876304#1748"    cd /Users/patrickrussell/Documents/FYP/MapKit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/MapKit-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/MapKit-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/MapKit-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/MapKit-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/DerivedSources/armv6 -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit_Prefix-bccqdvfnkvgadqclgvliksibkggq/MapKit_Prefix.pch -c /Users/patrickrussell/Documents/FYP/MapKit/main.m -o /Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/MapKit.build/Debug-iphoneos/MapKit.build/Objects-normal/armv7/MapKitAppDelegate.o /Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s314636436.188329
+e314636436.350784
+r1
+xCompileC
+xbuild/MapKit.build/Debug-iphoneos/MapKit.build/Objects-normal/armv7/MapKitAppDelegate.o
+x/Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitAppDelegate.m314636436#314636436#0(0"0(0#0#70"/Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitAppDelegate.m2462876304#1782"    cd /Users/patrickrussell/Documents/FYP/MapKit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/MapKit-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/MapKit-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/MapKit-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/MapKit-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/DerivedSources/armv7 -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit_Prefix-ewgiqgexgxfjitgzaoegepivkacm/MapKit_Prefix.pch -c /Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitAppDelegate.m -o /Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/Objects-normal/armv7/MapKitAppDelegate.o0#
+
+CCompileC build/MapKit.build/Debug-iphoneos/MapKit.build/Objects-normal/armv7/MapKitViewController.o /Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s314636436.350931
+e314636436.448506
+r0
+xCompileC
+xbuild/MapKit.build/Debug-iphoneos/MapKit.build/Objects-normal/armv7/MapKitViewController.o
+x/Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitViewController.m: In function '-[MapKitViewController locationManager:didUpdateToLocation:fromLocation:]':
+o/Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitViewController.m:40: warning: incompatible Objective-C types initializing 'struct CLLocation *', expected 'struct CLLocationManager *'
+o/Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitViewController.m:42: error: expected ';' before 'location'
+o{standard input}:412:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L37"
+o{standard input}:412:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression
+o{standard input}:411:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr" minus "L36"
+o{standard input}:411:symbol: "L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:410:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L35"
+o{standard input}:410:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression
+o{standard input}:409:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr" minus "L34"
+o{standard input}:409:symbol: "L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:408:non-relocatable subtraction expression, "L_kCLLocationAccuracyBest$non_lazy_ptr" minus "L33"
+o{standard input}:408:symbol: "L_kCLLocationAccuracyBest$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:407:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L32"
+o{standard input}:407:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression
+o{standard input}:406:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr" minus "L31"
+o{standard input}:406:symbol: "L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:405:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L30"
+o{standard input}:405:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:404:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr" minus "L29"
+o{standard input}:404:symbol: "L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:403:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L28"
+o{standard input}:403:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:402:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L27"
+o{standard input}:402:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression
+o{standard input}:401:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L26"
+o{standard input}:401:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:400:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L25"
+o{standard input}:400:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression
+o{standard input}:399:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L24"
+o{standard input}:399:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
+o{standard input}:398:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" minus "L23"
+o{standard input}:398:symbol: "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:397:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L22"
+o{standard input}:397:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
+o{standard input}:396:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" minus "L21"
+o{standard input}:396:symbol: "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:395:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L20"
+o{standard input}:395:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
+o{standard input}:394:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" minus "L19"
+o{standard input}:394:symbol: "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:393:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L18"
+o{standard input}:393:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:392:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" minus "L17"
+o{standard input}:392:symbol: "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:391:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L16"
+o{standard input}:391:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+o{standard input}:390:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" minus "L15"
+o{standard input}:390:symbol: "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:389:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L14"
+o{standard input}:389:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:388:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" minus "L13"
+o{standard input}:388:symbol: "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:387:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" minus "L12"
+o{standard input}:387:symbol: "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:386:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L11"
+o{standard input}:386:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:385:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L10"
+o{standard input}:385:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+o{standard input}:384:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L9"
+o{standard input}:384:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:383:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L8"
+o{standard input}:383:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+o{standard input}:382:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L7"
+o{standard input}:382:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:381:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L6"
+o{standard input}:381:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:380:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L5"
+o{standard input}:380:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression
+o{standard input}:379:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" minus "L4"
+o{standard input}:379:symbol: "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:378:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L3"
+o{standard input}:378:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:377:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_1" minus "L2"
+o{standard input}:377:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_1" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_objc_msgSendSuper2$stub
+o{standard input}:unknown:Undefined local symbol L_objc_msgSend$stub
+o{standard input}:unknown:Undefined local symbol L_objc_msgSend_stret$stub
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13
+o{standard input}:unknown:Undefined local symbol L_kCLLocationAccuracyBest$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15
+lSLF07#2@81"Compile /Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitViewController.m314636436#314636436#0(10898"/Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitViewController.m: In function '-[MapKitViewController locationManager:didUpdateToLocation:fromLocation:]':/Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitViewController.m:40: warning: incompatible Objective-C types initializing 'struct CLLocation *', expected 'struct CLLocationManager *'/Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitViewController.m:42: error: expected ';' before 'location'{standard input}:412:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L37"{standard input}:412:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression{standard input}:411:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr" minus "L36"{standard input}:411:symbol: "L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:410:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L35"{standard input}:410:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression{standard input}:409:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr" minus "L34"{standard input}:409:symbol: "L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:408:non-relocatable subtraction expression, "L_kCLLocationAccuracyBest$non_lazy_ptr" minus "L33"{standard input}:408:symbol: "L_kCLLocationAccuracyBest$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:407:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L32"{standard input}:407:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression{standard input}:406:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr" minus "L31"{standard input}:406:symbol: "L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:405:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L30"{standard input}:405:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:404:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr" minus "L29"{standard input}:404:symbol: "L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:403:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L28"{standard input}:403:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:402:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L27"{standard input}:402:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression{standard input}:401:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L26"{standard input}:401:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:400:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L25"{standard input}:400:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression{standard input}:399:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L24"{standard input}:399:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression{standard input}:398:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" minus "L23"{standard input}:398:symbol: "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:397:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L22"{standard input}:397:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression{standard input}:396:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" minus "L21"{standard input}:396:symbol: "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:395:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L20"{standard input}:395:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression{standard input}:394:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" minus "L19"{standard input}:394:symbol: "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:393:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L18"{standard input}:393:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:392:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" minus "L17"{standard input}:392:symbol: "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:391:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L16"{standard input}:391:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:390:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" minus "L15"{standard input}:390:symbol: "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:389:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L14"{standard input}:389:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:388:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" minus "L13"{standard input}:388:symbol: "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:387:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" minus "L12"{standard input}:387:symbol: "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:386:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L11"{standard input}:386:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:385:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L10"{standard input}:385:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression{standard input}:384:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L9"{standard input}:384:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:383:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L8"{standard input}:383:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression{standard input}:382:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L7"{standard input}:382:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:381:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L6"{standard input}:381:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:380:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L5"{standard input}:380:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression{standard input}:379:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" minus "L4"{standard input}:379:symbol: "L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:378:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L3"{standard input}:378:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:377:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_1" minus "L2"{standard input}:377:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_1" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_objc_msgSendSuper2$stub{standard input}:unknown:Undefined local symbol L_objc_msgSend$stub{standard input}:unknown:Undefined local symbol L_objc_msgSend_stret$stub{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_MapKitViewController.mapView$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_MapKitViewController.locationManager$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13{standard input}:unknown:Undefined local symbol L_kCLLocationAccuracyBest$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_152(22@104"Incompatible Objective-C types initializing 'struct CLLocation *', expected 'struct CLLocationManager *'314636436#164#192#0(6@73"/Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitViewController.m314636424#40#0#40#0#61"incompatible Objective-C types initializing '*', expected '*'0(4@30"Expected ';' before 'location'314636436#356#116#0(6@73"/Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitViewController.m314636424#42#0#42#0#19"expected * before *0(0#0#73"/Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitViewController.m2462876304#1788"    cd /Users/patrickrussell/Documents/FYP/MapKit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/MapKit-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/MapKit-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/MapKit-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/MapKit-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/DerivedSources/armv7 -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit_Prefix-ewgiqgexgxfjitgzaoegepivkacm/MapKit_Prefix.pch -c /Users/patrickrussell/Documents/FYP/MapKit/Classes/MapKitViewController.m -o /Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/Objects-normal/armv7/MapKitViewController.o1#
+
+CCompileC build/MapKit.build/Debug-iphoneos/MapKit.build/Objects-normal/armv7/main.o /Users/patrickrussell/Documents/FYP/MapKit/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s314636436.098008
+e314636436.188165
+r1
+xCompileC
+xbuild/MapKit.build/Debug-iphoneos/MapKit.build/Objects-normal/armv7/main.o
+x/Users/patrickrussell/Documents/FYP/MapKit/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/patrickrussell/Documents/FYP/MapKit/main.m314636436#314636436#0(0"0(0#0#49"/Users/patrickrussell/Documents/FYP/MapKit/main.m2462876304#1748"    cd /Users/patrickrussell/Documents/FYP/MapKit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/MapKit-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/MapKit-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/MapKit-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/MapKit-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/DerivedSources/armv7 -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit_Prefix-ewgiqgexgxfjitgzaoegepivkacm/MapKit_Prefix.pch -c /Users/patrickrussell/Documents/FYP/MapKit/main.m -o /Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/patrickrussell/Documents/FYP/MapKit/MainWindow.xib
+s314636425.366102
+e314636428.308656
+r1
+xCompileXIB
+x/Users/patrickrussell/Documents/FYP/MapKit/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib314636425#314636428#0(0"0(0#0#57"/Users/patrickrussell/Documents/FYP/MapKit/MainWindow.xib2462876304#553"    cd /Users/patrickrussell/Documents/FYP/MapKit    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos/MapKit.app/MainWindow.nib /Users/patrickrussell/Documents/FYP/MapKit/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/patrickrussell/Documents/FYP/MapKit/MapKitViewController.xib
+s314636425.369790
+e314636428.189565
+r1
+xCompileXIB
+x/Users/patrickrussell/Documents/FYP/MapKit/MapKitViewController.xib
+lSLF07#2@35"CompileXIB MapKitViewController.xib314636425#314636428#0(0"0(0#0#67"/Users/patrickrussell/Documents/FYP/MapKit/MapKitViewController.xib2462876304#573"    cd /Users/patrickrussell/Documents/FYP/MapKit    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos/MapKit.app/MapKitViewController.nib /Users/patrickrussell/Documents/FYP/MapKit/MapKitViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCpResource build/Debug-iphoneos/MapKit.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+s314636425.134915
+e314636425.365975
+r1
+xCpResource
+xbuild/Debug-iphoneos/MapKit.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist314636425#314636425#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist2462876304#487"    cd /Users/patrickrussell/Documents/FYP/MapKit    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist /Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos/MapKit.app0#
+
+CCreateUniversalBinary /Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos/MapKit.app/MapKit normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile /Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos/MapKit.app.dSYM /Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos/MapKit.app/MapKit
+r0
+
+CLd /Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/Objects-normal/armv6/MapKit normal armv6
+r0
+
+CLd /Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/Objects-normal/armv7/MapKit normal armv7
+r0
+
+CProcessInfoPlistFile /Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos/MapKit.app/Info.plist MapKit-Info.plist
+s314636425.141091
+e314636425.259833
+r1
+xProcessInfoPlistFile
+x/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos/MapKit.app/Info.plist
+xMapKit-Info.plist
+lSLF07#2@25"Process MapKit-Info.plist314636425#314636425#0(0"0(0#0#60"/Users/patrickrussell/Documents/FYP/MapKit/MapKit-Info.plist2462876304#574"    cd /Users/patrickrussell/Documents/FYP/MapKit    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MapKit-Info.plist -genpkginfo /Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos/MapKit.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos/MapKit.app/ResourceRules.plist -o /Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos/MapKit.app/Info.plist0#
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit_Prefix-bccqdvfnkvgadqclgvliksibkggq/MapKit_Prefix.pch.gch MapKit_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s314636428.308856
+e314636434.417653
+r1
+xProcessPCH
+x/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit_Prefix-bccqdvfnkvgadqclgvliksibkggq/MapKit_Prefix.pch.gch
+xMapKit_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile MapKit_Prefix.pch314636428#314636434#0(0"0(0#0#60"/Users/patrickrussell/Documents/FYP/MapKit/MapKit_Prefix.pch2462876304#1643"    cd /Users/patrickrussell/Documents/FYP/MapKit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/MapKit-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/MapKit-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/MapKit-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/MapKit-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/DerivedSources/armv6 -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/DerivedSources -c /Users/patrickrussell/Documents/FYP/MapKit/MapKit_Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit_Prefix-bccqdvfnkvgadqclgvliksibkggq/MapKit_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit_Prefix-ewgiqgexgxfjitgzaoegepivkacm/MapKit_Prefix.pch.gch MapKit_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s314636428.310424
+e314636435.250485
+r1
+xProcessPCH
+x/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit_Prefix-ewgiqgexgxfjitgzaoegepivkacm/MapKit_Prefix.pch.gch
+xMapKit_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile MapKit_Prefix.pch314636428#314636435#0(0"0(0#0#60"/Users/patrickrussell/Documents/FYP/MapKit/MapKit_Prefix.pch2462876304#1643"    cd /Users/patrickrussell/Documents/FYP/MapKit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/MapKit-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/MapKit-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/MapKit-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/MapKit-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos -I/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos/include -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/DerivedSources/armv7 -I/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/DerivedSources -c /Users/patrickrussell/Documents/FYP/MapKit/MapKit_Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit_Prefix-ewgiqgexgxfjitgzaoegepivkacm/MapKit_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" /Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos/MapKit.app/embedded.mobileprovision
+s314636436.448668
+e314636436.532674
+r1
+xProcessProductPackaging
+x/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision
+x/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos/MapKit.app/embedded.mobileprovision
+lSLF07#2@200"ProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" build/Debug-iphoneos/MapKit.app/embedded.mobileprovision314636436#314636436#0(0"0(0#0#99"/Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos/MapKit.app/embedded.mobileprovision2462876304#439"    cd /Users/patrickrussell/Documents/FYP/MapKit    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" -o /Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos/MapKit.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist /Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/MapKit.xcent
+s314636436.532809
+e314636436.731387
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+x/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/MapKit.xcent
+lSLF07#2@172"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist build/MapKit.build/Debug-iphoneos/MapKit.build/MapKit.xcent314636436#314636436#0(0"0(0#0#102"/Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/MapKit.xcent2462876304#437"    cd /Users/patrickrussell/Documents/FYP/MapKit    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/patrickrussell/Documents/FYP/MapKit/build/MapKit.build/Debug-iphoneos/MapKit.build/MapKit.xcent0#
+
+CTouch /Users/patrickrussell/Documents/FYP/MapKit/build/Debug-iphoneos/MapKit.app
+r0
+

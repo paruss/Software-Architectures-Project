@@ -1,0 +1,1269 @@
+TPageControl
+v7
+r0
+t315851586.766565
+cCheck dependencies
+cCpResource build/Debug-iphoneos/PageControl.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Info.plist Info.plist
+cCompileXIB /Users/patrickrussell/Downloads/PageControl/en.lproj/MainWindow.xib
+cCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/large_five.png LargeImages/large_five.png
+cCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/large_four.png LargeImages/large_four.png
+cCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/large_one.png LargeImages/large_one.png
+cCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/large_six.png LargeImages/large_six.png
+cCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/large_three.png LargeImages/large_three.png
+cCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/large_two.png LargeImages/large_two.png
+cCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/small_five.png SmallImages/small_five.png
+cCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/small_four.png SmallImages/small_four.png
+cCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/small_one.png SmallImages/small_one.png
+cCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/small_six.png SmallImages/small_six.png
+cCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/small_three.png SmallImages/small_three.png
+cCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/small_two.png SmallImages/small_two.png
+cCopyPlistFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/en.lproj/content_iPad.plist en.lproj/content_iPad.plist
+cCompileXIB /Users/patrickrussell/Downloads/PageControl/en.lproj/DetailPopoverViewController.xib
+cCompileXIB /Users/patrickrussell/Downloads/PageControl/en.lproj/DetailViewController.xib
+cCompileXIB /Users/patrickrussell/Downloads/PageControl/en.lproj/PadContent.xib
+cCopyPlistFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/en.lproj/content_iPhone.plist en.lproj/content_iPhone.plist
+cCompileXIB /Users/patrickrussell/Downloads/PageControl/en.lproj/MyView.xib
+cCompileXIB /Users/patrickrussell/Downloads/PageControl/en.lproj/PhoneContent.xib
+cCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Default-Landscape.png Default-Landscape.png
+cCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Default-Portrait.png Default-Portrait.png
+cCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Default.png Default.png
+cCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Default.png images/Default.png
+cCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Icon-72.png images/Icon-72.png
+cCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Icon-Small-50.png images/Icon-Small-50.png
+cCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Icon-Small.png images/Icon-Small.png
+cCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Icon-Small@2x.png images/Icon-Small@2x.png
+cCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Icon.png images/Icon.png
+cCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Icon@2x.png images/Icon@2x.png
+cCpResource build/Debug-iphoneos/PageControl.app/iTunesArtwork images/iTunesArtwork
+cProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-euighwqlabhyufdwvislfeymbhoe/Prefix.pch.gch Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-flfcyyobkzpymscwtjmghpsiliyv/Prefix.pch.gch Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/main.o /Users/patrickrussell/Downloads/PageControl/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/AppDelegate.o /Users/patrickrussell/Downloads/PageControl/Classes/AppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/PhoneContentController.o /Users/patrickrussell/Downloads/PageControl/Classes/iPhone/PhoneContentController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/MyViewController.o /Users/patrickrussell/Downloads/PageControl/Classes/iPhone/MyViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/ContentController.o /Users/patrickrussell/Downloads/PageControl/Classes/ContentController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/DetailViewController.o /Users/patrickrussell/Downloads/PageControl/Classes/iPad/DetailViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/PadContentController.o /Users/patrickrussell/Downloads/PageControl/Classes/iPad/PadContentController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/Tile.o /Users/patrickrussell/Downloads/PageControl/Classes/iPad/Tile.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/DetailPopoverViewController.o /Users/patrickrussell/Downloads/PageControl/Classes/DetailPopoverViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/PageControl normal armv6
+cCompileC build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/main.o /Users/patrickrussell/Downloads/PageControl/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/AppDelegate.o /Users/patrickrussell/Downloads/PageControl/Classes/AppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/PhoneContentController.o /Users/patrickrussell/Downloads/PageControl/Classes/iPhone/PhoneContentController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/MyViewController.o /Users/patrickrussell/Downloads/PageControl/Classes/iPhone/MyViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/ContentController.o /Users/patrickrussell/Downloads/PageControl/Classes/ContentController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/DetailViewController.o /Users/patrickrussell/Downloads/PageControl/Classes/iPad/DetailViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/PadContentController.o /Users/patrickrussell/Downloads/PageControl/Classes/iPad/PadContentController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/Tile.o /Users/patrickrussell/Downloads/PageControl/Classes/iPad/Tile.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/DetailPopoverViewController.o /Users/patrickrussell/Downloads/PageControl/Classes/DetailPopoverViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/PageControl normal armv7
+cCreateUniversalBinary /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/PageControl normal "armv6 armv7"
+cGenerateDSYMFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app.dSYM /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/PageControl
+cProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/embedded.mobileprovision
+cTouch /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl.xcent
+cCodeSign /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk
+c000000004C5A53C10000000000000110
+t1280988097
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist
+c000000004C06E99F00000000000001A7
+t1275521439
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+c000000004C06E99F00000000000001E5
+t1275521439
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C005A1C00000000003B4B70
+t1275091484
+s3885936
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C005A45000000000036A640
+t1275091525
+s3581504
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C005A310000000000001355
+t1275091505
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C00642C000000000000098F
+t1275094060
+s2447
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0064A60000000002703220
+t1275094182
+s40907296
+
+N/Users/patrickrussell/Downloads/PageControl/Classes/AppDelegate.h
+c000000004CBCAA1B0000000000000B3D
+t1287432731
+s2877
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Downloads/PageControl/Classes/AppDelegate.m
+c000000004CBCAA1B0000000000000C61
+t1287432731
+s3169
+i"AppDelegate.h"
+i"ContentController.h"
+
+N/Users/patrickrussell/Downloads/PageControl/Classes/ContentController.h
+c000000004CBCAA1B0000000000000ACC
+t1287432731
+s2764
+i<Foundation/Foundation.h>
+
+N/Users/patrickrussell/Downloads/PageControl/Classes/ContentController.m
+c000000004CBCAA1B0000000000000B22
+t1287432731
+s2850
+i"ContentController.h"
+
+N/Users/patrickrussell/Downloads/PageControl/Classes/DetailPopoverViewController.h
+c000000004CBCAA1B0000000000000B4C
+t1287432731
+s2892
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Downloads/PageControl/Classes/DetailPopoverViewController.m
+c000000004CBCAA1B0000000000000CF0
+t1287432731
+s3312
+i"DetailPopoverViewController.h"
+
+N/Users/patrickrussell/Downloads/PageControl/Classes/iPad/DetailViewController.h
+c000000004CBCAA1B0000000000000D1F
+t1287432731
+s3359
+i<UIKit/UIKit.h>
+i"PadContentController.h"
+i"Tile.h"
+
+N/Users/patrickrussell/Downloads/PageControl/Classes/iPad/DetailViewController.m
+c000000004CBCAA1B0000000000001E62
+t1287432731
+s7778
+i"DetailViewController.h"
+i"DetailPopoverViewController.h"
+
+N/Users/patrickrussell/Downloads/PageControl/Classes/iPad/PadContentController.h
+c000000004CBCAA1B0000000000000B77
+t1287432731
+s2935
+i<Foundation/Foundation.h>
+i"ContentController.h"
+
+N/Users/patrickrussell/Downloads/PageControl/Classes/iPad/PadContentController.m
+c000000004CBCAA1B0000000000000CE4
+t1287432731
+s3300
+i"PadContentController.h"
+i"DetailViewController.h"
+i"AppDelegate.h"
+
+N/Users/patrickrussell/Downloads/PageControl/Classes/iPad/Tile.h
+c000000004CBCAA1B00000000000009C5
+t1287432731
+s2501
+
+N/Users/patrickrussell/Downloads/PageControl/Classes/iPad/Tile.m
+c000000004CBCAA1B0000000000000C43
+t1287432731
+s3139
+i"Tile.h"
+
+N/Users/patrickrussell/Downloads/PageControl/Classes/iPhone/MyViewController.h
+c000000004CBCAA1B0000000000000B94
+t1287432731
+s2964
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Downloads/PageControl/Classes/iPhone/MyViewController.m
+c000000004CBCAA1B0000000000000C77
+t1287432731
+s3191
+i"MyViewController.h"
+
+N/Users/patrickrussell/Downloads/PageControl/Classes/iPhone/PhoneContentController.h
+c000000004CBCAA1B0000000000000C5B
+t1287432731
+s3163
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i"ContentController.h"
+
+N/Users/patrickrussell/Downloads/PageControl/Classes/iPhone/PhoneContentController.m
+c000000004CBCAA1B0000000000001E43
+t1287432731
+s7747
+i"PhoneContentController.h"
+i"AppDelegate.h"
+i"MyViewController.h"
+
+N/Users/patrickrussell/Downloads/PageControl/Default-Landscape.png
+c000000004CB3823C00000000000043B3
+t1286832700
+s17331
+
+N/Users/patrickrussell/Downloads/PageControl/Default-Portrait.png
+c000000004CB4C5CB00000000000019BE
+t1286915531
+s6590
+
+N/Users/patrickrussell/Downloads/PageControl/Default.png
+c000000004CBC8781000000000000126B
+t1287423873
+s4715
+
+N/Users/patrickrussell/Downloads/PageControl/LargeImages/large_five.png
+c000000004C93D6BE0000000000003CF3
+t1284757182
+s15603
+
+N/Users/patrickrussell/Downloads/PageControl/LargeImages/large_four.png
+c000000004C93D6BE000000000000364A
+t1284757182
+s13898
+
+N/Users/patrickrussell/Downloads/PageControl/LargeImages/large_one.png
+c000000004C93D6BE0000000000002E95
+t1284757182
+s11925
+
+N/Users/patrickrussell/Downloads/PageControl/LargeImages/large_six.png
+c000000004C93D6BE0000000000004321
+t1284757182
+s17185
+
+N/Users/patrickrussell/Downloads/PageControl/LargeImages/large_three.png
+c000000004C93D6BE0000000000003FFB
+t1284757182
+s16379
+
+N/Users/patrickrussell/Downloads/PageControl/LargeImages/large_two.png
+c000000004C93D6BE0000000000003E24
+t1284757182
+s15908
+
+N/Users/patrickrussell/Downloads/PageControl/Prefix.pch
+c000000004CBCAA1B0000000000000A2B
+t1287432731
+s2603
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Downloads/PageControl/SmallImages/small_five.png
+c000000004C93D6BE00000000000012FB
+t1284757182
+s4859
+
+N/Users/patrickrussell/Downloads/PageControl/SmallImages/small_four.png
+c000000004C93D6BE000000000000103C
+t1284757182
+s4156
+
+N/Users/patrickrussell/Downloads/PageControl/SmallImages/small_one.png
+c000000004C93D6BE0000000000000DAE
+t1284757182
+s3502
+
+N/Users/patrickrussell/Downloads/PageControl/SmallImages/small_six.png
+c000000004C93D6BE00000000000014F8
+t1284757182
+s5368
+
+N/Users/patrickrussell/Downloads/PageControl/SmallImages/small_three.png
+c000000004C93D6BE0000000000001435
+t1284757182
+s5173
+
+N/Users/patrickrussell/Downloads/PageControl/SmallImages/small_two.png
+c000000004C93D6BE00000000000012D8
+t1284757182
+s4824
+
+N/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app
+t1294158786
+s1088
+
+N/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app.dSYM
+t1294158784
+s102
+
+N/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Default-Landscape.png
+t1294158774
+s5383
+
+N/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Default-Portrait.png
+t1294158775
+s4985
+
+N/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Default.png
+t1294158775
+s2145
+
+N/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Icon-72.png
+t1294158775
+s925
+
+N/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Icon-Small-50.png
+t1294158775
+s880
+
+N/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Icon-Small.png
+t1294158775
+s854
+
+N/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Icon-Small@2x.png
+t1294158775
+s893
+
+N/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Icon.png
+t1294158775
+s891
+
+N/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Icon@2x.png
+t1294158775
+s995
+
+N/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Info.plist
+t1294158760
+s1038
+
+N/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/PageControl
+t1294158784
+s100552
+
+N/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/PkgInfo
+t1294158760
+s8
+
+N/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/ResourceRules.plist
+t1294158760
+s485
+
+N/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/embedded.mobileprovision
+t1294158784
+s15853
+
+N/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/en.lproj/DetailPopoverViewController.nib
+t1294158769
+s3104
+
+N/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/en.lproj/DetailViewController.nib
+t1294158771
+s1696
+
+N/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/en.lproj/MainWindow.nib
+t1294158765
+s983
+
+N/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/en.lproj/MyView.nib
+t1294158773
+s2463
+
+N/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/en.lproj/PadContent.nib
+t1294158772
+s1671
+
+N/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/en.lproj/PhoneContent.nib
+t1294158774
+s2229
+
+N/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/en.lproj/content_iPad.plist
+t1294158766
+s1062
+
+N/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/en.lproj/content_iPhone.plist
+t1294158773
+s275
+
+N/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/iTunesArtwork
+t1294158775
+s5188
+
+N/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/large_five.png
+t1294158763
+s6034
+
+N/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/large_four.png
+t1294158763
+s6239
+
+N/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/large_one.png
+t1294158764
+s5353
+
+N/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/large_six.png
+t1294158765
+s6828
+
+N/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/large_three.png
+t1294158765
+s6268
+
+N/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/large_two.png
+t1294158765
+s5832
+
+N/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/small_five.png
+t1294158765
+s2299
+
+N/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/small_four.png
+t1294158765
+s2244
+
+N/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/small_one.png
+t1294158765
+s2001
+
+N/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/small_six.png
+t1294158766
+s2557
+
+N/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/small_three.png
+t1294158766
+s2422
+
+N/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/small_two.png
+t1294158766
+s2220
+
+N/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/AppDelegate.o
+t1294158782
+s21860
+
+N/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/ContentController.o
+t1294158782
+s10204
+
+N/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/DetailPopoverViewController.o
+t1294158782
+s42060
+
+N/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/DetailViewController.o
+t1294158782
+s57276
+
+N/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/MyViewController.o
+t1294158782
+s38752
+
+N/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/PadContentController.o
+t1294158782
+s37860
+
+N/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/PageControl
+t1294158783
+s47800
+
+N/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/PageControl.LinkFileList
+c000000004D234BA800000000000004F2
+t1294158760
+s1266
+
+N/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/PhoneContentController.o
+t1294158782
+s50900
+
+N/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/Tile.o
+t1294158782
+s11424
+
+N/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/main.o
+t1294158781
+s6456
+
+N/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/AppDelegate.o
+t1294158783
+s21788
+
+N/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/ContentController.o
+t1294158784
+s10172
+
+N/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/DetailPopoverViewController.o
+t1294158784
+s41964
+
+N/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/DetailViewController.o
+t1294158784
+s56732
+
+N/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/MyViewController.o
+t1294158783
+s38648
+
+N/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/PadContentController.o
+t1294158784
+s37796
+
+N/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/PageControl
+t1294158784
+s47304
+
+N/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/PageControl.LinkFileList
+c000000004D234BA800000000000004F2
+t1294158760
+s1266
+
+N/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/PhoneContentController.o
+t1294158783
+s49824
+
+N/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/Tile.o
+t1294158784
+s11080
+
+N/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/main.o
+t1294158783
+s6440
+
+N/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl.xcent
+t1294158784
+s428
+
+N/Users/patrickrussell/Downloads/PageControl/en.lproj/DetailPopoverViewController.xib
+c000000004CB4C5E60000000000005932
+t1286915558
+s22834
+
+N/Users/patrickrussell/Downloads/PageControl/en.lproj/DetailViewController.xib
+c000000004C93D66400000000000051E8
+t1284757092
+s20968
+
+N/Users/patrickrussell/Downloads/PageControl/en.lproj/MainWindow.xib
+c000000004C93D6640000000000003748
+t1284757092
+s14152
+
+N/Users/patrickrussell/Downloads/PageControl/en.lproj/MyView.xib
+c000000004C93D6640000000000005429
+t1284757092
+s21545
+
+N/Users/patrickrussell/Downloads/PageControl/en.lproj/PadContent.xib
+c000000004C93D66400000000000059A1
+t1284757092
+s22945
+
+N/Users/patrickrussell/Downloads/PageControl/en.lproj/PhoneContent.xib
+c000000004CB61A9A000000000000607C
+t1287002778
+s24700
+
+N/Users/patrickrussell/Downloads/PageControl/en.lproj/content_iPad.plist
+c000000004C93D66400000000000006D7
+t1284757092
+s1751
+
+N/Users/patrickrussell/Downloads/PageControl/en.lproj/content_iPhone.plist
+c000000004C93D66400000000000003D6
+t1284757092
+s982
+
+N/Users/patrickrussell/Downloads/PageControl/images/Default.png
+c000000004C1FC74D00000000000011E9
+t1277151053
+s4585
+
+N/Users/patrickrussell/Downloads/PageControl/images/Icon-72.png
+c000000004C1FC74D0000000000000427
+t1277151053
+s1063
+
+N/Users/patrickrussell/Downloads/PageControl/images/Icon-Small-50.png
+c000000004C1FC74D00000000000003E0
+t1277151053
+s992
+
+N/Users/patrickrussell/Downloads/PageControl/images/Icon-Small.png
+c000000004C1BF62A0000000000000396
+t1276900906
+s918
+
+N/Users/patrickrussell/Downloads/PageControl/images/Icon-Small@2x.png
+c000000004C1BF62A00000000000003F2
+t1276900906
+s1010
+
+N/Users/patrickrussell/Downloads/PageControl/images/Icon.png
+c000000004C1BF62A00000000000003EF
+t1276900906
+s1007
+
+N/Users/patrickrussell/Downloads/PageControl/images/Icon@2x.png
+c000000004C1BF62A00000000000004E4
+t1276900906
+s1252
+
+N/Users/patrickrussell/Downloads/PageControl/images/iTunesArtwork
+c000000004C223C590000000000001444
+t1277312089
+s5188
+
+N/Users/patrickrussell/Downloads/PageControl/main.m
+c000000004CBCAA1B0000000000000ADF
+t1287432731
+s2783
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision
+c000000004CB063CE0000000000003DED
+t1286628302
+s15853
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-euighwqlabhyufdwvislfeymbhoe/Prefix.pch.gch
+t1294158780
+s8962708
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-flfcyyobkzpymscwtjmghpsiliyv/Prefix.pch.gch
+t1294158781
+s9425556
+
+NInfo.plist
+c000000004CB3823C00000000000005F4
+t1286832700
+s1524
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315851560#315851560#0(0"0(0#1#0"2462876304#0"0#
+
+CCodeSign /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app
+s315851584.921559
+e315851586.766429
+r1
+xCodeSign
+x/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app
+lSLF07#2@45"CodeSign build/Debug-iphoneos/PageControl.app315851584#315851586#0(0"0(0#0#80"/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app2462876304#691"    cd /Users/patrickrussell/Downloads/PageControl    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Patrick Russell (WD3RPMEYT5)" --resource-rules=/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/ResourceRules.plist --entitlements /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl.xcent /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app0#
+
+CCompileC build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/AppDelegate.o /Users/patrickrussell/Downloads/PageControl/Classes/AppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315851581.946080
+e315851582.041281
+r1
+xCompileC
+xbuild/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/AppDelegate.o
+x/Users/patrickrussell/Downloads/PageControl/Classes/AppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/patrickrussell/Downloads/PageControl/Classes/AppDelegate.m315851581#315851582#0(0"0(0#0#65"/Users/patrickrussell/Downloads/PageControl/Classes/AppDelegate.m2462876304#1859"    cd /Users/patrickrussell/Downloads/PageControl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-generated-files.hmap -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-own-target-headers.hmap -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-project-headers.hmap -F/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-euighwqlabhyufdwvislfeymbhoe/Prefix.pch -c /Users/patrickrussell/Downloads/PageControl/Classes/AppDelegate.m -o /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/AppDelegate.o0#
+
+CCompileC build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/ContentController.o /Users/patrickrussell/Downloads/PageControl/Classes/ContentController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315851582.328020
+e315851582.405668
+r1
+xCompileC
+xbuild/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/ContentController.o
+x/Users/patrickrussell/Downloads/PageControl/Classes/ContentController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/patrickrussell/Downloads/PageControl/Classes/ContentController.m315851582#315851582#0(0"0(0#0#71"/Users/patrickrussell/Downloads/PageControl/Classes/ContentController.m2462876304#1871"    cd /Users/patrickrussell/Downloads/PageControl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-generated-files.hmap -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-own-target-headers.hmap -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-project-headers.hmap -F/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-euighwqlabhyufdwvislfeymbhoe/Prefix.pch -c /Users/patrickrussell/Downloads/PageControl/Classes/ContentController.m -o /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/ContentController.o0#
+
+CCompileC build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/DetailPopoverViewController.o /Users/patrickrussell/Downloads/PageControl/Classes/DetailPopoverViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315851582.756067
+e315851582.903835
+r1
+xCompileC
+xbuild/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/DetailPopoverViewController.o
+x/Users/patrickrussell/Downloads/PageControl/Classes/DetailPopoverViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/patrickrussell/Downloads/PageControl/Classes/DetailPopoverViewController.m315851582#315851582#0(0"0(0#0#81"/Users/patrickrussell/Downloads/PageControl/Classes/DetailPopoverViewController.m2462876304#1891"    cd /Users/patrickrussell/Downloads/PageControl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-generated-files.hmap -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-own-target-headers.hmap -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-project-headers.hmap -F/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-euighwqlabhyufdwvislfeymbhoe/Prefix.pch -c /Users/patrickrussell/Downloads/PageControl/Classes/DetailPopoverViewController.m -o /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/DetailPopoverViewController.o0#
+
+CCompileC build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/DetailViewController.o /Users/patrickrussell/Downloads/PageControl/Classes/iPad/DetailViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315851582.405830
+e315851582.551311
+r1
+xCompileC
+xbuild/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/DetailViewController.o
+x/Users/patrickrussell/Downloads/PageControl/Classes/iPad/DetailViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/patrickrussell/Downloads/PageControl/Classes/iPad/DetailViewController.m315851582#315851582#0(0"0(0#0#79"/Users/patrickrussell/Downloads/PageControl/Classes/iPad/DetailViewController.m2462876304#1882"    cd /Users/patrickrussell/Downloads/PageControl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-generated-files.hmap -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-own-target-headers.hmap -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-project-headers.hmap -F/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-euighwqlabhyufdwvislfeymbhoe/Prefix.pch -c /Users/patrickrussell/Downloads/PageControl/Classes/iPad/DetailViewController.m -o /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/DetailViewController.o0#
+
+CCompileC build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/MyViewController.o /Users/patrickrussell/Downloads/PageControl/Classes/iPhone/MyViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315851582.235617
+e315851582.327858
+r1
+xCompileC
+xbuild/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/MyViewController.o
+x/Users/patrickrussell/Downloads/PageControl/Classes/iPhone/MyViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/patrickrussell/Downloads/PageControl/Classes/iPhone/MyViewController.m315851582#315851582#0(0"0(0#0#77"/Users/patrickrussell/Downloads/PageControl/Classes/iPhone/MyViewController.m2462876304#1876"    cd /Users/patrickrussell/Downloads/PageControl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-generated-files.hmap -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-own-target-headers.hmap -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-project-headers.hmap -F/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-euighwqlabhyufdwvislfeymbhoe/Prefix.pch -c /Users/patrickrussell/Downloads/PageControl/Classes/iPhone/MyViewController.m -o /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/MyViewController.o0#
+
+CCompileC build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/PadContentController.o /Users/patrickrussell/Downloads/PageControl/Classes/iPad/PadContentController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315851582.551464
+e315851582.642568
+r1
+xCompileC
+xbuild/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/PadContentController.o
+x/Users/patrickrussell/Downloads/PageControl/Classes/iPad/PadContentController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/patrickrussell/Downloads/PageControl/Classes/iPad/PadContentController.m315851582#315851582#0(0"0(0#0#79"/Users/patrickrussell/Downloads/PageControl/Classes/iPad/PadContentController.m2462876304#1882"    cd /Users/patrickrussell/Downloads/PageControl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-generated-files.hmap -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-own-target-headers.hmap -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-project-headers.hmap -F/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-euighwqlabhyufdwvislfeymbhoe/Prefix.pch -c /Users/patrickrussell/Downloads/PageControl/Classes/iPad/PadContentController.m -o /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/PadContentController.o0#
+
+CCompileC build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/PhoneContentController.o /Users/patrickrussell/Downloads/PageControl/Classes/iPhone/PhoneContentController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315851582.041441
+e315851582.235457
+r1
+xCompileC
+xbuild/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/PhoneContentController.o
+x/Users/patrickrussell/Downloads/PageControl/Classes/iPhone/PhoneContentController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/patrickrussell/Downloads/PageControl/Classes/iPhone/PhoneContentController.m315851582#315851582#0(0"0(0#0#83"/Users/patrickrussell/Downloads/PageControl/Classes/iPhone/PhoneContentController.m2462876304#1888"    cd /Users/patrickrussell/Downloads/PageControl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-generated-files.hmap -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-own-target-headers.hmap -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-project-headers.hmap -F/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-euighwqlabhyufdwvislfeymbhoe/Prefix.pch -c /Users/patrickrussell/Downloads/PageControl/Classes/iPhone/PhoneContentController.m -o /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/PhoneContentController.o0#
+
+CCompileC build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/Tile.o /Users/patrickrussell/Downloads/PageControl/Classes/iPad/Tile.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315851582.642729
+e315851582.755862
+r1
+xCompileC
+xbuild/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/Tile.o
+x/Users/patrickrussell/Downloads/PageControl/Classes/iPad/Tile.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/patrickrussell/Downloads/PageControl/Classes/iPad/Tile.m315851582#315851582#0(0"0(0#0#63"/Users/patrickrussell/Downloads/PageControl/Classes/iPad/Tile.m2462876304#1850"    cd /Users/patrickrussell/Downloads/PageControl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-generated-files.hmap -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-own-target-headers.hmap -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-project-headers.hmap -F/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-euighwqlabhyufdwvislfeymbhoe/Prefix.pch -c /Users/patrickrussell/Downloads/PageControl/Classes/iPad/Tile.m -o /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/Tile.o0#
+
+CCompileC build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/main.o /Users/patrickrussell/Downloads/PageControl/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315851581.862423
+e315851581.945923
+r1
+xCompileC
+xbuild/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/main.o
+x/Users/patrickrussell/Downloads/PageControl/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/patrickrussell/Downloads/PageControl/main.m315851581#315851581#0(0"0(0#0#50"/Users/patrickrussell/Downloads/PageControl/main.m2462876304#1837"    cd /Users/patrickrussell/Downloads/PageControl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-generated-files.hmap -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-own-target-headers.hmap -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-project-headers.hmap -F/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-euighwqlabhyufdwvislfeymbhoe/Prefix.pch -c /Users/patrickrussell/Downloads/PageControl/main.m -o /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/AppDelegate.o /Users/patrickrussell/Downloads/PageControl/Classes/AppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315851583.583414
+e315851583.686139
+r1
+xCompileC
+xbuild/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/AppDelegate.o
+x/Users/patrickrussell/Downloads/PageControl/Classes/AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/patrickrussell/Downloads/PageControl/Classes/AppDelegate.m315851583#315851583#0(0"0(0#0#65"/Users/patrickrussell/Downloads/PageControl/Classes/AppDelegate.m2462876304#1859"    cd /Users/patrickrussell/Downloads/PageControl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-generated-files.hmap -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-own-target-headers.hmap -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-project-headers.hmap -F/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/DerivedSources/armv7 -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-flfcyyobkzpymscwtjmghpsiliyv/Prefix.pch -c /Users/patrickrussell/Downloads/PageControl/Classes/AppDelegate.m -o /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/AppDelegate.o0#
+
+CCompileC build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/ContentController.o /Users/patrickrussell/Downloads/PageControl/Classes/ContentController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315851583.930782
+e315851584.018321
+r1
+xCompileC
+xbuild/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/ContentController.o
+x/Users/patrickrussell/Downloads/PageControl/Classes/ContentController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/patrickrussell/Downloads/PageControl/Classes/ContentController.m315851583#315851584#0(0"0(0#0#71"/Users/patrickrussell/Downloads/PageControl/Classes/ContentController.m2462876304#1871"    cd /Users/patrickrussell/Downloads/PageControl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-generated-files.hmap -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-own-target-headers.hmap -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-project-headers.hmap -F/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/DerivedSources/armv7 -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-flfcyyobkzpymscwtjmghpsiliyv/Prefix.pch -c /Users/patrickrussell/Downloads/PageControl/Classes/ContentController.m -o /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/ContentController.o0#
+
+CCompileC build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/DetailPopoverViewController.o /Users/patrickrussell/Downloads/PageControl/Classes/DetailPopoverViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315851584.345517
+e315851584.440511
+r1
+xCompileC
+xbuild/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/DetailPopoverViewController.o
+x/Users/patrickrussell/Downloads/PageControl/Classes/DetailPopoverViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/patrickrussell/Downloads/PageControl/Classes/DetailPopoverViewController.m315851584#315851584#0(0"0(0#0#81"/Users/patrickrussell/Downloads/PageControl/Classes/DetailPopoverViewController.m2462876304#1891"    cd /Users/patrickrussell/Downloads/PageControl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-generated-files.hmap -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-own-target-headers.hmap -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-project-headers.hmap -F/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/DerivedSources/armv7 -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-flfcyyobkzpymscwtjmghpsiliyv/Prefix.pch -c /Users/patrickrussell/Downloads/PageControl/Classes/DetailPopoverViewController.m -o /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/DetailPopoverViewController.o0#
+
+CCompileC build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/DetailViewController.o /Users/patrickrussell/Downloads/PageControl/Classes/iPad/DetailViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315851584.018511
+e315851584.162055
+r1
+xCompileC
+xbuild/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/DetailViewController.o
+x/Users/patrickrussell/Downloads/PageControl/Classes/iPad/DetailViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/patrickrussell/Downloads/PageControl/Classes/iPad/DetailViewController.m315851584#315851584#0(0"0(0#0#79"/Users/patrickrussell/Downloads/PageControl/Classes/iPad/DetailViewController.m2462876304#1882"    cd /Users/patrickrussell/Downloads/PageControl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-generated-files.hmap -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-own-target-headers.hmap -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-project-headers.hmap -F/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/DerivedSources/armv7 -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-flfcyyobkzpymscwtjmghpsiliyv/Prefix.pch -c /Users/patrickrussell/Downloads/PageControl/Classes/iPad/DetailViewController.m -o /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/DetailViewController.o0#
+
+CCompileC build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/MyViewController.o /Users/patrickrussell/Downloads/PageControl/Classes/iPhone/MyViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315851583.834448
+e315851583.930618
+r1
+xCompileC
+xbuild/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/MyViewController.o
+x/Users/patrickrussell/Downloads/PageControl/Classes/iPhone/MyViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/patrickrussell/Downloads/PageControl/Classes/iPhone/MyViewController.m315851583#315851583#0(0"0(0#0#77"/Users/patrickrussell/Downloads/PageControl/Classes/iPhone/MyViewController.m2462876304#1876"    cd /Users/patrickrussell/Downloads/PageControl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-generated-files.hmap -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-own-target-headers.hmap -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-project-headers.hmap -F/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/DerivedSources/armv7 -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-flfcyyobkzpymscwtjmghpsiliyv/Prefix.pch -c /Users/patrickrussell/Downloads/PageControl/Classes/iPhone/MyViewController.m -o /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/MyViewController.o0#
+
+CCompileC build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/PadContentController.o /Users/patrickrussell/Downloads/PageControl/Classes/iPad/PadContentController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315851584.162331
+e315851584.253617
+r1
+xCompileC
+xbuild/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/PadContentController.o
+x/Users/patrickrussell/Downloads/PageControl/Classes/iPad/PadContentController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/patrickrussell/Downloads/PageControl/Classes/iPad/PadContentController.m315851584#315851584#0(0"0(0#0#79"/Users/patrickrussell/Downloads/PageControl/Classes/iPad/PadContentController.m2462876304#1882"    cd /Users/patrickrussell/Downloads/PageControl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-generated-files.hmap -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-own-target-headers.hmap -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-project-headers.hmap -F/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/DerivedSources/armv7 -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-flfcyyobkzpymscwtjmghpsiliyv/Prefix.pch -c /Users/patrickrussell/Downloads/PageControl/Classes/iPad/PadContentController.m -o /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/PadContentController.o0#
+
+CCompileC build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/PhoneContentController.o /Users/patrickrussell/Downloads/PageControl/Classes/iPhone/PhoneContentController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315851583.686304
+e315851583.834283
+r1
+xCompileC
+xbuild/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/PhoneContentController.o
+x/Users/patrickrussell/Downloads/PageControl/Classes/iPhone/PhoneContentController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/patrickrussell/Downloads/PageControl/Classes/iPhone/PhoneContentController.m315851583#315851583#0(0"0(0#0#83"/Users/patrickrussell/Downloads/PageControl/Classes/iPhone/PhoneContentController.m2462876304#1888"    cd /Users/patrickrussell/Downloads/PageControl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-generated-files.hmap -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-own-target-headers.hmap -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-project-headers.hmap -F/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/DerivedSources/armv7 -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-flfcyyobkzpymscwtjmghpsiliyv/Prefix.pch -c /Users/patrickrussell/Downloads/PageControl/Classes/iPhone/PhoneContentController.m -o /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/PhoneContentController.o0#
+
+CCompileC build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/Tile.o /Users/patrickrussell/Downloads/PageControl/Classes/iPad/Tile.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315851584.253777
+e315851584.345354
+r1
+xCompileC
+xbuild/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/Tile.o
+x/Users/patrickrussell/Downloads/PageControl/Classes/iPad/Tile.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/patrickrussell/Downloads/PageControl/Classes/iPad/Tile.m315851584#315851584#0(0"0(0#0#63"/Users/patrickrussell/Downloads/PageControl/Classes/iPad/Tile.m2462876304#1850"    cd /Users/patrickrussell/Downloads/PageControl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-generated-files.hmap -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-own-target-headers.hmap -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-project-headers.hmap -F/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/DerivedSources/armv7 -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-flfcyyobkzpymscwtjmghpsiliyv/Prefix.pch -c /Users/patrickrussell/Downloads/PageControl/Classes/iPad/Tile.m -o /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/Tile.o0#
+
+CCompileC build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/main.o /Users/patrickrussell/Downloads/PageControl/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315851583.507897
+e315851583.583255
+r1
+xCompileC
+xbuild/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/main.o
+x/Users/patrickrussell/Downloads/PageControl/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/patrickrussell/Downloads/PageControl/main.m315851583#315851583#0(0"0(0#0#50"/Users/patrickrussell/Downloads/PageControl/main.m2462876304#1837"    cd /Users/patrickrussell/Downloads/PageControl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-generated-files.hmap -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-own-target-headers.hmap -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-project-headers.hmap -F/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/DerivedSources/armv7 -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-flfcyyobkzpymscwtjmghpsiliyv/Prefix.pch -c /Users/patrickrussell/Downloads/PageControl/main.m -o /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/patrickrussell/Downloads/PageControl/en.lproj/DetailPopoverViewController.xib
+s315851566.199901
+e315851569.767060
+r1
+xCompileXIB
+x/Users/patrickrussell/Downloads/PageControl/en.lproj/DetailPopoverViewController.xib
+lSLF07#2@51"CompileXIB en.lproj/DetailPopoverViewController.xib315851566#315851569#0(0"0(0#0#84"/Users/patrickrussell/Downloads/PageControl/en.lproj/DetailPopoverViewController.xib2462876304#615"    cd /Users/patrickrussell/Downloads/PageControl    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/en.lproj/DetailPopoverViewController.nib /Users/patrickrussell/Downloads/PageControl/en.lproj/DetailPopoverViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk0#
+
+CCompileXIB /Users/patrickrussell/Downloads/PageControl/en.lproj/DetailViewController.xib
+s315851569.767271
+e315851571.891291
+r1
+xCompileXIB
+x/Users/patrickrussell/Downloads/PageControl/en.lproj/DetailViewController.xib
+lSLF07#2@44"CompileXIB en.lproj/DetailViewController.xib315851569#315851571#0(0"0(0#0#77"/Users/patrickrussell/Downloads/PageControl/en.lproj/DetailViewController.xib2462876304#601"    cd /Users/patrickrussell/Downloads/PageControl    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/en.lproj/DetailViewController.nib /Users/patrickrussell/Downloads/PageControl/en.lproj/DetailViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk0#
+
+CCompileXIB /Users/patrickrussell/Downloads/PageControl/en.lproj/MainWindow.xib
+s315851560.942472
+e315851565.469116
+r1
+xCompileXIB
+x/Users/patrickrussell/Downloads/PageControl/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib315851560#315851565#0(0"0(0#0#67"/Users/patrickrussell/Downloads/PageControl/en.lproj/MainWindow.xib2462876304#581"    cd /Users/patrickrussell/Downloads/PageControl    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/en.lproj/MainWindow.nib /Users/patrickrussell/Downloads/PageControl/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk0#
+
+CCompileXIB /Users/patrickrussell/Downloads/PageControl/en.lproj/MyView.xib
+s315851573.056702
+e315851573.800780
+r1
+xCompileXIB
+x/Users/patrickrussell/Downloads/PageControl/en.lproj/MyView.xib
+lSLF07#2@30"CompileXIB en.lproj/MyView.xib315851573#315851573#0(0"0(0#0#63"/Users/patrickrussell/Downloads/PageControl/en.lproj/MyView.xib2462876304#573"    cd /Users/patrickrussell/Downloads/PageControl    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/en.lproj/MyView.nib /Users/patrickrussell/Downloads/PageControl/en.lproj/MyView.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk0#
+
+CCompileXIB /Users/patrickrussell/Downloads/PageControl/en.lproj/PadContent.xib
+s315851571.891499
+e315851572.787750
+r1
+xCompileXIB
+x/Users/patrickrussell/Downloads/PageControl/en.lproj/PadContent.xib
+lSLF07#2@34"CompileXIB en.lproj/PadContent.xib315851571#315851572#0(0"0(0#0#67"/Users/patrickrussell/Downloads/PageControl/en.lproj/PadContent.xib2462876304#581"    cd /Users/patrickrussell/Downloads/PageControl    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/en.lproj/PadContent.nib /Users/patrickrussell/Downloads/PageControl/en.lproj/PadContent.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk0#
+
+CCompileXIB /Users/patrickrussell/Downloads/PageControl/en.lproj/PhoneContent.xib
+s315851573.801047
+e315851574.473186
+r1
+xCompileXIB
+x/Users/patrickrussell/Downloads/PageControl/en.lproj/PhoneContent.xib
+lSLF07#2@36"CompileXIB en.lproj/PhoneContent.xib315851573#315851574#0(0"0(0#0#69"/Users/patrickrussell/Downloads/PageControl/en.lproj/PhoneContent.xib2462876304#585"    cd /Users/patrickrussell/Downloads/PageControl    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/en.lproj/PhoneContent.nib /Users/patrickrussell/Downloads/PageControl/en.lproj/PhoneContent.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Default-Landscape.png Default-Landscape.png
+s315851574.473334
+e315851574.929835
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Default-Landscape.png
+xDefault-Landscape.png
+lSLF07#2@92"CopyPNGFile build/Debug-iphoneos/PageControl.app/Default-Landscape.png Default-Landscape.png315851574#315851574#0(0"0(0#0#65"/Users/patrickrussell/Downloads/PageControl/Default-Landscape.png2462876304#601"    cd /Users/patrickrussell/Downloads/PageControl    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/PageControl/Default-Landscape.png /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Default-Landscape.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Default-Portrait.png Default-Portrait.png
+s315851574.929983
+e315851575.177368
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Default-Portrait.png
+xDefault-Portrait.png
+lSLF07#2@90"CopyPNGFile build/Debug-iphoneos/PageControl.app/Default-Portrait.png Default-Portrait.png315851574#315851575#0(0"0(0#0#64"/Users/patrickrussell/Downloads/PageControl/Default-Portrait.png2462876304#599"    cd /Users/patrickrussell/Downloads/PageControl    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/PageControl/Default-Portrait.png /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Default-Portrait.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Default.png Default.png
+s315851575.177513
+e315851575.262278
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Default.png
+xDefault.png
+lSLF07#2@72"CopyPNGFile build/Debug-iphoneos/PageControl.app/Default.png Default.png315851575#315851575#0(0"0(0#0#55"/Users/patrickrussell/Downloads/PageControl/Default.png2462876304#581"    cd /Users/patrickrussell/Downloads/PageControl    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/PageControl/Default.png /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Default.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Default.png images/Default.png
+s315851575.262420
+e315851575.348631
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Default.png
+ximages/Default.png
+lSLF07#2@79"CopyPNGFile build/Debug-iphoneos/PageControl.app/Default.png images/Default.png315851575#315851575#0(0"0(0#0#62"/Users/patrickrussell/Downloads/PageControl/images/Default.png2462876304#588"    cd /Users/patrickrussell/Downloads/PageControl    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/PageControl/images/Default.png /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Default.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Icon-72.png images/Icon-72.png
+s315851575.348847
+e315851575.384908
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Icon-72.png
+ximages/Icon-72.png
+lSLF07#2@79"CopyPNGFile build/Debug-iphoneos/PageControl.app/Icon-72.png images/Icon-72.png315851575#315851575#0(0"0(0#0#62"/Users/patrickrussell/Downloads/PageControl/images/Icon-72.png2462876304#588"    cd /Users/patrickrussell/Downloads/PageControl    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/PageControl/images/Icon-72.png /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Icon-72.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Icon-Small-50.png images/Icon-Small-50.png
+s315851575.385048
+e315851575.422770
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Icon-Small-50.png
+ximages/Icon-Small-50.png
+lSLF07#2@91"CopyPNGFile build/Debug-iphoneos/PageControl.app/Icon-Small-50.png images/Icon-Small-50.png315851575#315851575#0(0"0(0#0#68"/Users/patrickrussell/Downloads/PageControl/images/Icon-Small-50.png2462876304#600"    cd /Users/patrickrussell/Downloads/PageControl    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/PageControl/images/Icon-Small-50.png /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Icon-Small-50.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Icon-Small.png images/Icon-Small.png
+s315851575.422926
+e315851575.457395
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Icon-Small.png
+ximages/Icon-Small.png
+lSLF07#2@85"CopyPNGFile build/Debug-iphoneos/PageControl.app/Icon-Small.png images/Icon-Small.png315851575#315851575#0(0"0(0#0#65"/Users/patrickrussell/Downloads/PageControl/images/Icon-Small.png2462876304#594"    cd /Users/patrickrussell/Downloads/PageControl    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/PageControl/images/Icon-Small.png /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Icon-Small.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Icon-Small@2x.png images/Icon-Small@2x.png
+s315851575.457550
+e315851575.493755
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Icon-Small@2x.png
+ximages/Icon-Small@2x.png
+lSLF07#2@91"CopyPNGFile build/Debug-iphoneos/PageControl.app/Icon-Small@2x.png images/Icon-Small@2x.png315851575#315851575#0(0"0(0#0#68"/Users/patrickrussell/Downloads/PageControl/images/Icon-Small@2x.png2462876304#600"    cd /Users/patrickrussell/Downloads/PageControl    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/PageControl/images/Icon-Small@2x.png /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Icon-Small@2x.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Icon.png images/Icon.png
+s315851575.493890
+e315851575.530365
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Icon.png
+ximages/Icon.png
+lSLF07#2@73"CopyPNGFile build/Debug-iphoneos/PageControl.app/Icon.png images/Icon.png315851575#315851575#0(0"0(0#0#59"/Users/patrickrussell/Downloads/PageControl/images/Icon.png2462876304#582"    cd /Users/patrickrussell/Downloads/PageControl    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/PageControl/images/Icon.png /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Icon.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Icon@2x.png images/Icon@2x.png
+s315851575.530514
+e315851575.568977
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Icon@2x.png
+ximages/Icon@2x.png
+lSLF07#2@79"CopyPNGFile build/Debug-iphoneos/PageControl.app/Icon@2x.png images/Icon@2x.png315851575#315851575#0(0"0(0#0#62"/Users/patrickrussell/Downloads/PageControl/images/Icon@2x.png2462876304#588"    cd /Users/patrickrussell/Downloads/PageControl    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/PageControl/images/Icon@2x.png /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Icon@2x.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/large_five.png LargeImages/large_five.png
+s315851560.943910
+e315851563.326688
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/large_five.png
+xLargeImages/large_five.png
+lSLF07#2@90"CopyPNGFile build/Debug-iphoneos/PageControl.app/large_five.png LargeImages/large_five.png315851560#315851563#0(0"0(0#0#70"/Users/patrickrussell/Downloads/PageControl/LargeImages/large_five.png2462876304#599"    cd /Users/patrickrussell/Downloads/PageControl    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/PageControl/LargeImages/large_five.png /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/large_five.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/large_four.png LargeImages/large_four.png
+s315851563.326902
+e315851563.996835
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/large_four.png
+xLargeImages/large_four.png
+lSLF07#2@90"CopyPNGFile build/Debug-iphoneos/PageControl.app/large_four.png LargeImages/large_four.png315851563#315851563#0(0"0(0#0#70"/Users/patrickrussell/Downloads/PageControl/LargeImages/large_four.png2462876304#599"    cd /Users/patrickrussell/Downloads/PageControl    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/PageControl/LargeImages/large_four.png /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/large_four.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/large_one.png LargeImages/large_one.png
+s315851563.996985
+e315851564.921336
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/large_one.png
+xLargeImages/large_one.png
+lSLF07#2@88"CopyPNGFile build/Debug-iphoneos/PageControl.app/large_one.png LargeImages/large_one.png315851563#315851564#0(0"0(0#0#69"/Users/patrickrussell/Downloads/PageControl/LargeImages/large_one.png2462876304#597"    cd /Users/patrickrussell/Downloads/PageControl    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/PageControl/LargeImages/large_one.png /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/large_one.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/large_six.png LargeImages/large_six.png
+s315851564.921536
+e315851565.454773
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/large_six.png
+xLargeImages/large_six.png
+lSLF07#2@88"CopyPNGFile build/Debug-iphoneos/PageControl.app/large_six.png LargeImages/large_six.png315851564#315851565#0(0"0(0#0#69"/Users/patrickrussell/Downloads/PageControl/LargeImages/large_six.png2462876304#597"    cd /Users/patrickrussell/Downloads/PageControl    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/PageControl/LargeImages/large_six.png /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/large_six.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/large_three.png LargeImages/large_three.png
+s315851565.454927
+e315851565.702423
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/large_three.png
+xLargeImages/large_three.png
+lSLF07#2@92"CopyPNGFile build/Debug-iphoneos/PageControl.app/large_three.png LargeImages/large_three.png315851565#315851565#0(0"0(0#0#71"/Users/patrickrussell/Downloads/PageControl/LargeImages/large_three.png2462876304#601"    cd /Users/patrickrussell/Downloads/PageControl    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/PageControl/LargeImages/large_three.png /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/large_three.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/large_two.png LargeImages/large_two.png
+s315851565.469313
+e315851565.723201
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/large_two.png
+xLargeImages/large_two.png
+lSLF07#2@88"CopyPNGFile build/Debug-iphoneos/PageControl.app/large_two.png LargeImages/large_two.png315851565#315851565#0(0"0(0#0#69"/Users/patrickrussell/Downloads/PageControl/LargeImages/large_two.png2462876304#597"    cd /Users/patrickrussell/Downloads/PageControl    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/PageControl/LargeImages/large_two.png /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/large_two.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/small_five.png SmallImages/small_five.png
+s315851565.702565
+e315851565.823281
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/small_five.png
+xSmallImages/small_five.png
+lSLF07#2@90"CopyPNGFile build/Debug-iphoneos/PageControl.app/small_five.png SmallImages/small_five.png315851565#315851565#0(0"0(0#0#70"/Users/patrickrussell/Downloads/PageControl/SmallImages/small_five.png2462876304#599"    cd /Users/patrickrussell/Downloads/PageControl    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/PageControl/SmallImages/small_five.png /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/small_five.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/small_four.png SmallImages/small_four.png
+s315851565.723347
+e315851565.915824
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/small_four.png
+xSmallImages/small_four.png
+lSLF07#2@90"CopyPNGFile build/Debug-iphoneos/PageControl.app/small_four.png SmallImages/small_four.png315851565#315851565#0(0"0(0#0#70"/Users/patrickrussell/Downloads/PageControl/SmallImages/small_four.png2462876304#599"    cd /Users/patrickrussell/Downloads/PageControl    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/PageControl/SmallImages/small_four.png /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/small_four.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/small_one.png SmallImages/small_one.png
+s315851565.823600
+e315851565.918235
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/small_one.png
+xSmallImages/small_one.png
+lSLF07#2@88"CopyPNGFile build/Debug-iphoneos/PageControl.app/small_one.png SmallImages/small_one.png315851565#315851565#0(0"0(0#0#69"/Users/patrickrussell/Downloads/PageControl/SmallImages/small_one.png2462876304#597"    cd /Users/patrickrussell/Downloads/PageControl    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/PageControl/SmallImages/small_one.png /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/small_one.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/small_six.png SmallImages/small_six.png
+s315851565.915970
+e315851566.061963
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/small_six.png
+xSmallImages/small_six.png
+lSLF07#2@88"CopyPNGFile build/Debug-iphoneos/PageControl.app/small_six.png SmallImages/small_six.png315851565#315851566#0(0"0(0#0#69"/Users/patrickrussell/Downloads/PageControl/SmallImages/small_six.png2462876304#597"    cd /Users/patrickrussell/Downloads/PageControl    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/PageControl/SmallImages/small_six.png /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/small_six.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/small_three.png SmallImages/small_three.png
+s315851565.918370
+e315851566.087655
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/small_three.png
+xSmallImages/small_three.png
+lSLF07#2@92"CopyPNGFile build/Debug-iphoneos/PageControl.app/small_three.png SmallImages/small_three.png315851565#315851566#0(0"0(0#0#71"/Users/patrickrussell/Downloads/PageControl/SmallImages/small_three.png2462876304#601"    cd /Users/patrickrussell/Downloads/PageControl    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/PageControl/SmallImages/small_three.png /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/small_three.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/small_two.png SmallImages/small_two.png
+s315851566.062248
+e315851566.199462
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/small_two.png
+xSmallImages/small_two.png
+lSLF07#2@88"CopyPNGFile build/Debug-iphoneos/PageControl.app/small_two.png SmallImages/small_two.png315851566#315851566#0(0"0(0#0#69"/Users/patrickrussell/Downloads/PageControl/SmallImages/small_two.png2462876304#597"    cd /Users/patrickrussell/Downloads/PageControl    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/PageControl/SmallImages/small_two.png /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/small_two.png0#
+
+CCopyPlistFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/en.lproj/content_iPad.plist en.lproj/content_iPad.plist
+s315851566.087808
+e315851566.503991
+r1
+xCopyPlistFile
+x/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/en.lproj/content_iPad.plist
+xen.lproj/content_iPad.plist
+lSLF07#2@32"Copy en.lproj/content_iPad.plist315851566#315851566#0(0"0(0#0#71"/Users/patrickrussell/Downloads/PageControl/en.lproj/content_iPad.plist2462876304#411"    cd /Users/patrickrussell/Downloads/PageControl    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 en.lproj/content_iPad.plist --outdir /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/en.lproj0#
+
+CCopyPlistFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/en.lproj/content_iPhone.plist en.lproj/content_iPhone.plist
+s315851572.787902
+e315851573.056556
+r1
+xCopyPlistFile
+x/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/en.lproj/content_iPhone.plist
+xen.lproj/content_iPhone.plist
+lSLF07#2@34"Copy en.lproj/content_iPhone.plist315851572#315851573#0(0"0(0#0#73"/Users/patrickrussell/Downloads/PageControl/en.lproj/content_iPhone.plist2462876304#413"    cd /Users/patrickrussell/Downloads/PageControl    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 en.lproj/content_iPhone.plist --outdir /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/en.lproj0#
+
+CCpResource build/Debug-iphoneos/PageControl.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+s315851560.809242
+e315851560.942345
+r1
+xCpResource
+xbuild/Debug-iphoneos/PageControl.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist315851560#315851560#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist2462876304#494"    cd /Users/patrickrussell/Downloads/PageControl    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app0#
+
+CCpResource build/Debug-iphoneos/PageControl.app/iTunesArtwork images/iTunesArtwork
+s315851575.569130
+e315851575.577691
+r1
+xCpResource
+xbuild/Debug-iphoneos/PageControl.app/iTunesArtwork
+ximages/iTunesArtwork
+lSLF07#2@25"Copy images/iTunesArtwork315851575#315851575#0(0"0(0#0#64"/Users/patrickrussell/Downloads/PageControl/images/iTunesArtwork2462876304#469"    cd /Users/patrickrussell/Downloads/PageControl    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/patrickrussell/Downloads/PageControl/images/iTunesArtwork /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app0#
+
+CCreateUniversalBinary /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/PageControl normal "armv6 armv7"
+s315851584.671633
+e315851584.693462
+r1
+xCreateUniversalBinary
+x/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/PageControl
+xnormal
+xarmv6 armv7
+lSLF07#2@91"CreateUniversalBinary build/Debug-iphoneos/PageControl.app/PageControl normal "armv6 armv7"315851584#315851584#0(0"0(0#0#55"/Users/patrickrussell/Downloads/PageControl/armv6 armv72462876304#570"    cd /Users/patrickrussell/Downloads/PageControl    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/PageControl /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/PageControl -output /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/PageControl0#
+
+CGenerateDSYMFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app.dSYM /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/PageControl
+s315851584.693604
+e315851584.850171
+r1
+xGenerateDSYMFile
+x/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app.dSYM
+x/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/PageControl
+lSLF07#2@107"GenerateDSYMFile build/Debug-iphoneos/PageControl.app.dSYM build/Debug-iphoneos/PageControl.app/PageControl315851584#315851584#0(0"0(0#0#92"/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/PageControl2462876304#389"    cd /Users/patrickrussell/Downloads/PageControl    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/PageControl -o /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app.dSYM0#
+
+CLd /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/PageControl normal armv6
+s315851582.903983
+e315851583.507658
+r1
+xLd
+x/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/PageControl
+xnormal
+xarmv6
+lSLF07#2@138"Link /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/PageControl315851582#315851583#0(0"0(0#0#0"2462876304#912"    cd /Users/patrickrussell/Downloads/PageControl    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -L/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos -F/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos -filelist /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/PageControl.LinkFileList -dead_strip -miphoneos-version-min=3.1.3 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv6/PageControl0#
+
+CLd /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/PageControl normal armv7
+s315851584.440659
+e315851584.671462
+r1
+xLd
+x/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/PageControl
+xnormal
+xarmv7
+lSLF07#2@138"Link /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/PageControl315851584#315851584#0(0"0(0#0#0"2462876304#912"    cd /Users/patrickrussell/Downloads/PageControl    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -L/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos -F/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos -filelist /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/PageControl.LinkFileList -dead_strip -miphoneos-version-min=3.1.3 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/Objects-normal/armv7/PageControl0#
+
+CProcessInfoPlistFile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Info.plist Info.plist
+s315851560.821356
+e315851560.884593
+r1
+xProcessInfoPlistFile
+x/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist315851560#315851560#0(0"0(0#0#54"/Users/patrickrussell/Downloads/PageControl/Info.plist2462876304#586"    cd /Users/patrickrussell/Downloads/PageControl    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/ResourceRules.plist -o /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/Info.plist0#
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-euighwqlabhyufdwvislfeymbhoe/Prefix.pch.gch Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315851575.577874
+e315851580.098141
+r1
+xProcessPCH
+x/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-euighwqlabhyufdwvislfeymbhoe/Prefix.pch.gch
+xPrefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@21"Precompile Prefix.pch315851575#315851580#0(0"0(0#0#54"/Users/patrickrussell/Downloads/PageControl/Prefix.pch2462876304#1714"    cd /Users/patrickrussell/Downloads/PageControl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-generated-files.hmap -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-own-target-headers.hmap -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-project-headers.hmap -F/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/DerivedSources -c /Users/patrickrussell/Downloads/PageControl/Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-euighwqlabhyufdwvislfeymbhoe/Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-flfcyyobkzpymscwtjmghpsiliyv/Prefix.pch.gch Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315851580.098403
+e315851581.862125
+r1
+xProcessPCH
+x/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-flfcyyobkzpymscwtjmghpsiliyv/Prefix.pch.gch
+xPrefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@21"Precompile Prefix.pch315851580#315851581#0(0"0(0#0#54"/Users/patrickrussell/Downloads/PageControl/Prefix.pch2462876304#1714"    cd /Users/patrickrussell/Downloads/PageControl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-generated-files.hmap -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-own-target-headers.hmap -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl-project-headers.hmap -F/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/DerivedSources/armv7 -I/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/DerivedSources -c /Users/patrickrussell/Downloads/PageControl/Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-flfcyyobkzpymscwtjmghpsiliyv/Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/embedded.mobileprovision
+s315851584.850329
+e315851584.882446
+r1
+xProcessProductPackaging
+x/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision
+x/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/embedded.mobileprovision
+lSLF07#2@205"ProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" build/Debug-iphoneos/PageControl.app/embedded.mobileprovision315851584#315851584#0(0"0(0#0#105"/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/embedded.mobileprovision2462876304#446"    cd /Users/patrickrussell/Downloads/PageControl    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" -o /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl.xcent
+s315851584.901811
+e315851584.921442
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist
+x/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl.xcent
+lSLF07#2@187"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl.xcent315851584#315851584#0(0"0(0#0#118"/Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl.xcent2462876304#454"    cd /Users/patrickrussell/Downloads/PageControl    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/patrickrussell/Downloads/PageControl/build/PageControl.build/Debug-iphoneos/PageControl.build/PageControl.xcent0#
+
+CTouch /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app
+s315851584.882776
+e315851584.901648
+r1
+xTouch
+x/Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app
+lSLF07#2@86"Touch /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app315851584#315851584#0(0"0(0#0#0"2462876304#278"    cd /Users/patrickrussell/Downloads/PageControl    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/patrickrussell/Downloads/PageControl/build/Debug-iphoneos/PageControl.app0#
+

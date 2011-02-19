@@ -1,0 +1,417 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* GeoTrashAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* GeoTrashAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765A40DF7441C002DB57D /* CoreGraphics.framework */; };
+		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+		28D7ACF80DDB3853001CB0EB /* GeoTrashViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D7ACF70DDB3853001CB0EB /* GeoTrashViewController.m */; };
+		F33DFC0E130807C900A33A2F /* Cache.sqlite in Resources */ = {isa = PBXBuildFile; fileRef = F33DFC0D130807C900A33A2F /* Cache.sqlite */; };
+		F33DFC92130813AF00A33A2F /* AnimalDatabase.sql in Resources */ = {isa = PBXBuildFile; fileRef = F33DFC91130813AF00A33A2F /* AnimalDatabase.sql */; };
+		F33DFCB01308169000A33A2F /* Cache1.sql in Resources */ = {isa = PBXBuildFile; fileRef = F33DFCAF1308169000A33A2F /* Cache1.sql */; };
+		FF06583112E361F80061367E /* AnnotationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FF06582F12E361F80061367E /* AnnotationViewController.m */; };
+		FF06583212E361F80061367E /* AnnotationViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = FF06583012E361F80061367E /* AnnotationViewController.xib */; };
+		FF21637C12E1CD6700305C74 /* Annotation.m in Sources */ = {isa = PBXBuildFile; fileRef = FF21637B12E1CD6700305C74 /* Annotation.m */; };
+		FF62F34412FF3FDB0022FEAF /* TrashPiece.m in Sources */ = {isa = PBXBuildFile; fileRef = FF62F34312FF3FDB0022FEAF /* TrashPiece.m */; };
+		FF6FD0D912C3A8AE00B69FA8 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FF6FD0D812C3A8AE00B69FA8 /* MapKit.framework */; };
+		FF6FD0FD12C3A8E500B69FA8 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FF6FD0FC12C3A8E500B69FA8 /* CoreLocation.framework */; };
+		FFA1D0B912E627BA007F7B8B /* libsqlite3.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = FFA1D0B812E627BA007F7B8B /* libsqlite3.0.dylib */; };
+		FFA1D0BE12E62B98007F7B8B /* Cacher.m in Sources */ = {isa = PBXBuildFile; fileRef = FFA1D0BD12E62B98007F7B8B /* Cacher.m */; };
+		FFA6EAC913045EAE007BD0C3 /* LocCache.sql in Resources */ = {isa = PBXBuildFile; fileRef = FFA6EAC813045EAE007BD0C3 /* LocCache.sql */; };
+		FFA7E71412CB620700BFBC7B /* GeoTrashViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = FFA7E71312CB620700BFBC7B /* GeoTrashViewController.xib */; };
+		FFA7E75512CB824F00BFBC7B /* Location.m in Sources */ = {isa = PBXBuildFile; fileRef = FFA7E75412CB824F00BFBC7B /* Location.m */; };
+		FFA7E96712CCFF3500BFBC7B /* ASIAuthenticationDialog.m in Sources */ = {isa = PBXBuildFile; fileRef = FFA7E95412CCFF3500BFBC7B /* ASIAuthenticationDialog.m */; };
+		FFA7E96812CCFF3500BFBC7B /* ASIDataCompressor.m in Sources */ = {isa = PBXBuildFile; fileRef = FFA7E95712CCFF3500BFBC7B /* ASIDataCompressor.m */; };
+		FFA7E96912CCFF3500BFBC7B /* ASIDataDecompressor.m in Sources */ = {isa = PBXBuildFile; fileRef = FFA7E95912CCFF3500BFBC7B /* ASIDataDecompressor.m */; };
+		FFA7E96A12CCFF3500BFBC7B /* ASIDownloadCache.m in Sources */ = {isa = PBXBuildFile; fileRef = FFA7E95B12CCFF3500BFBC7B /* ASIDownloadCache.m */; };
+		FFA7E96B12CCFF3500BFBC7B /* ASIFormDataRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = FFA7E95D12CCFF3500BFBC7B /* ASIFormDataRequest.m */; };
+		FFA7E96C12CCFF3500BFBC7B /* ASIHTTPRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = FFA7E95F12CCFF3500BFBC7B /* ASIHTTPRequest.m */; };
+		FFA7E96D12CCFF3500BFBC7B /* ASIInputStream.m in Sources */ = {isa = PBXBuildFile; fileRef = FFA7E96312CCFF3500BFBC7B /* ASIInputStream.m */; };
+		FFA7E96E12CCFF3500BFBC7B /* ASINetworkQueue.m in Sources */ = {isa = PBXBuildFile; fileRef = FFA7E96512CCFF3500BFBC7B /* ASINetworkQueue.m */; };
+		FFA7E98112CCFF6D00BFBC7B /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = FFA7E98012CCFF6D00BFBC7B /* Reachability.m */; };
+		FFA7E9A012CDF1E900BFBC7B /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FFA7E99F12CDF1E900BFBC7B /* CFNetwork.framework */; };
+		FFA7E9A212CDF1F500BFBC7B /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FFA7E9A112CDF1F500BFBC7B /* SystemConfiguration.framework */; };
+		FFA7E9A412CDF20200BFBC7B /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FFA7E9A312CDF20200BFBC7B /* MobileCoreServices.framework */; };
+		FFA7E9A612CDF21C00BFBC7B /* libz.1.2.3.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = FFA7E9A512CDF21C00BFBC7B /* libz.1.2.3.dylib */; };
+		FFF8F0A412D8ADD6005F0A1A /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FFF8F0A212D8ADD6005F0A1A /* MainViewController.m */; };
+		FFF8F0A512D8ADD6005F0A1A /* MainViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = FFF8F0A312D8ADD6005F0A1A /* MainViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* GeoTrashAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GeoTrashAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* GeoTrashAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GeoTrashAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* GeoTrash.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GeoTrash.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765A40DF7441C002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		28D7ACF60DDB3853001CB0EB /* GeoTrashViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GeoTrashViewController.h; sourceTree = "<group>"; };
+		28D7ACF70DDB3853001CB0EB /* GeoTrashViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GeoTrashViewController.m; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* GeoTrash_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GeoTrash_Prefix.pch; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* GeoTrash-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GeoTrash-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		F33DFC0D130807C900A33A2F /* Cache.sqlite */ = {isa = PBXFileReference; lastKnownFileType = file; path = Cache.sqlite; sourceTree = "<group>"; };
+		F33DFC91130813AF00A33A2F /* AnimalDatabase.sql */ = {isa = PBXFileReference; lastKnownFileType = file; path = AnimalDatabase.sql; sourceTree = "<group>"; };
+		F33DFCAF1308169000A33A2F /* Cache1.sql */ = {isa = PBXFileReference; lastKnownFileType = file; path = Cache1.sql; sourceTree = "<group>"; };
+		FF06582E12E361F70061367E /* AnnotationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AnnotationViewController.h; sourceTree = "<group>"; };
+		FF06582F12E361F80061367E /* AnnotationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AnnotationViewController.m; sourceTree = "<group>"; };
+		FF06583012E361F80061367E /* AnnotationViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = AnnotationViewController.xib; path = Classes/AnnotationViewController.xib; sourceTree = "<group>"; };
+		FF21637A12E1CD6700305C74 /* Annotation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Annotation.h; sourceTree = "<group>"; };
+		FF21637B12E1CD6700305C74 /* Annotation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Annotation.m; sourceTree = "<group>"; };
+		FF62F34212FF3FDB0022FEAF /* TrashPiece.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TrashPiece.h; sourceTree = "<group>"; };
+		FF62F34312FF3FDB0022FEAF /* TrashPiece.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TrashPiece.m; sourceTree = "<group>"; };
+		FF6FD0D812C3A8AE00B69FA8 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		FF6FD0FC12C3A8E500B69FA8 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		FFA1D0B812E627BA007F7B8B /* libsqlite3.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libsqlite3.0.dylib; path = usr/lib/libsqlite3.0.dylib; sourceTree = SDKROOT; };
+		FFA1D0BC12E62B98007F7B8B /* Cacher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Cacher.h; sourceTree = "<group>"; };
+		FFA1D0BD12E62B98007F7B8B /* Cacher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Cacher.m; sourceTree = "<group>"; };
+		FFA6EAC813045EAE007BD0C3 /* LocCache.sql */ = {isa = PBXFileReference; lastKnownFileType = file; path = LocCache.sql; sourceTree = "<group>"; };
+		FFA7E71312CB620700BFBC7B /* GeoTrashViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = GeoTrashViewController.xib; sourceTree = "<group>"; };
+		FFA7E75312CB824F00BFBC7B /* Location.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Location.h; sourceTree = "<group>"; };
+		FFA7E75412CB824F00BFBC7B /* Location.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Location.m; sourceTree = "<group>"; };
+		FFA7E95312CCFF3500BFBC7B /* ASIAuthenticationDialog.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASIAuthenticationDialog.h; sourceTree = "<group>"; };
+		FFA7E95412CCFF3500BFBC7B /* ASIAuthenticationDialog.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ASIAuthenticationDialog.m; sourceTree = "<group>"; };
+		FFA7E95512CCFF3500BFBC7B /* ASICacheDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASICacheDelegate.h; sourceTree = "<group>"; };
+		FFA7E95612CCFF3500BFBC7B /* ASIDataCompressor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASIDataCompressor.h; sourceTree = "<group>"; };
+		FFA7E95712CCFF3500BFBC7B /* ASIDataCompressor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ASIDataCompressor.m; sourceTree = "<group>"; };
+		FFA7E95812CCFF3500BFBC7B /* ASIDataDecompressor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASIDataDecompressor.h; sourceTree = "<group>"; };
+		FFA7E95912CCFF3500BFBC7B /* ASIDataDecompressor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ASIDataDecompressor.m; sourceTree = "<group>"; };
+		FFA7E95A12CCFF3500BFBC7B /* ASIDownloadCache.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASIDownloadCache.h; sourceTree = "<group>"; };
+		FFA7E95B12CCFF3500BFBC7B /* ASIDownloadCache.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ASIDownloadCache.m; sourceTree = "<group>"; };
+		FFA7E95C12CCFF3500BFBC7B /* ASIFormDataRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASIFormDataRequest.h; sourceTree = "<group>"; };
+		FFA7E95D12CCFF3500BFBC7B /* ASIFormDataRequest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ASIFormDataRequest.m; sourceTree = "<group>"; };
+		FFA7E95E12CCFF3500BFBC7B /* ASIHTTPRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASIHTTPRequest.h; sourceTree = "<group>"; };
+		FFA7E95F12CCFF3500BFBC7B /* ASIHTTPRequest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ASIHTTPRequest.m; sourceTree = "<group>"; };
+		FFA7E96012CCFF3500BFBC7B /* ASIHTTPRequestConfig.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASIHTTPRequestConfig.h; sourceTree = "<group>"; };
+		FFA7E96112CCFF3500BFBC7B /* ASIHTTPRequestDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASIHTTPRequestDelegate.h; sourceTree = "<group>"; };
+		FFA7E96212CCFF3500BFBC7B /* ASIInputStream.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASIInputStream.h; sourceTree = "<group>"; };
+		FFA7E96312CCFF3500BFBC7B /* ASIInputStream.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ASIInputStream.m; sourceTree = "<group>"; };
+		FFA7E96412CCFF3500BFBC7B /* ASINetworkQueue.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASINetworkQueue.h; sourceTree = "<group>"; };
+		FFA7E96512CCFF3500BFBC7B /* ASINetworkQueue.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ASINetworkQueue.m; sourceTree = "<group>"; };
+		FFA7E96612CCFF3500BFBC7B /* ASIProgressDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASIProgressDelegate.h; sourceTree = "<group>"; };
+		FFA7E97F12CCFF6D00BFBC7B /* Reachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Reachability.h; sourceTree = "<group>"; };
+		FFA7E98012CCFF6D00BFBC7B /* Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Reachability.m; sourceTree = "<group>"; };
+		FFA7E99F12CDF1E900BFBC7B /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
+		FFA7E9A112CDF1F500BFBC7B /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		FFA7E9A312CDF20200BFBC7B /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
+		FFA7E9A512CDF21C00BFBC7B /* libz.1.2.3.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.1.2.3.dylib; path = usr/lib/libz.1.2.3.dylib; sourceTree = SDKROOT; };
+		FFF8F0A112D8ADD6005F0A1A /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
+		FFF8F0A212D8ADD6005F0A1A /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
+		FFF8F0A312D8ADD6005F0A1A /* MainViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = MainViewController.xib; path = Classes/MainViewController.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */,
+				FF6FD0D912C3A8AE00B69FA8 /* MapKit.framework in Frameworks */,
+				FF6FD0FD12C3A8E500B69FA8 /* CoreLocation.framework in Frameworks */,
+				FFA7E9A012CDF1E900BFBC7B /* CFNetwork.framework in Frameworks */,
+				FFA7E9A212CDF1F500BFBC7B /* SystemConfiguration.framework in Frameworks */,
+				FFA7E9A412CDF20200BFBC7B /* MobileCoreServices.framework in Frameworks */,
+				FFA7E9A612CDF21C00BFBC7B /* libz.1.2.3.dylib in Frameworks */,
+				FFA1D0B912E627BA007F7B8B /* libsqlite3.0.dylib in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				FFA2949B130C2C0100FD0FE6 /* ASIHTTPRequest */,
+				FF62F34212FF3FDB0022FEAF /* TrashPiece.h */,
+				FF62F34312FF3FDB0022FEAF /* TrashPiece.m */,
+				FFA1D0BD12E62B98007F7B8B /* Cacher.m */,
+				FFA1D0BC12E62B98007F7B8B /* Cacher.h */,
+				28D7ACF70DDB3853001CB0EB /* GeoTrashViewController.m */,
+				28D7ACF60DDB3853001CB0EB /* GeoTrashViewController.h */,
+				1D3623240D0F684500981E51 /* GeoTrashAppDelegate.h */,
+				1D3623250D0F684500981E51 /* GeoTrashAppDelegate.m */,
+				FFA7E75312CB824F00BFBC7B /* Location.h */,
+				FFA7E75412CB824F00BFBC7B /* Location.m */,
+				FFF8F0A112D8ADD6005F0A1A /* MainViewController.h */,
+				FFF8F0A212D8ADD6005F0A1A /* MainViewController.m */,
+				FF21637A12E1CD6700305C74 /* Annotation.h */,
+				FF21637B12E1CD6700305C74 /* Annotation.m */,
+				FF06582E12E361F70061367E /* AnnotationViewController.h */,
+				FF06582F12E361F80061367E /* AnnotationViewController.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* GeoTrash.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* GeoTrash_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				F33DFCAF1308169000A33A2F /* Cache1.sql */,
+				F33DFC91130813AF00A33A2F /* AnimalDatabase.sql */,
+				F33DFC0D130807C900A33A2F /* Cache.sqlite */,
+				FFA6EAC813045EAE007BD0C3 /* LocCache.sql */,
+				FF06583012E361F80061367E /* AnnotationViewController.xib */,
+				FFF8F0A312D8ADD6005F0A1A /* MainViewController.xib */,
+				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
+				8D1107310486CEB800E47090 /* GeoTrash-Info.plist */,
+				FFA7E71312CB620700BFBC7B /* GeoTrashViewController.xib */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				FFA7E99F12CDF1E900BFBC7B /* CFNetwork.framework */,
+				FFA7E9A112CDF1F500BFBC7B /* SystemConfiguration.framework */,
+				FFA7E9A312CDF20200BFBC7B /* MobileCoreServices.framework */,
+				FFA7E9A512CDF21C00BFBC7B /* libz.1.2.3.dylib */,
+				FF6FD0D812C3A8AE00B69FA8 /* MapKit.framework */,
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765A40DF7441C002DB57D /* CoreGraphics.framework */,
+				FF6FD0FC12C3A8E500B69FA8 /* CoreLocation.framework */,
+				FFA1D0B812E627BA007F7B8B /* libsqlite3.0.dylib */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		FFA2949B130C2C0100FD0FE6 /* ASIHTTPRequest */ = {
+			isa = PBXGroup;
+			children = (
+				FFA7E97F12CCFF6D00BFBC7B /* Reachability.h */,
+				FFA7E98012CCFF6D00BFBC7B /* Reachability.m */,
+				FFA7E95312CCFF3500BFBC7B /* ASIAuthenticationDialog.h */,
+				FFA7E95412CCFF3500BFBC7B /* ASIAuthenticationDialog.m */,
+				FFA7E95512CCFF3500BFBC7B /* ASICacheDelegate.h */,
+				FFA7E95612CCFF3500BFBC7B /* ASIDataCompressor.h */,
+				FFA7E95712CCFF3500BFBC7B /* ASIDataCompressor.m */,
+				FFA7E95812CCFF3500BFBC7B /* ASIDataDecompressor.h */,
+				FFA7E95912CCFF3500BFBC7B /* ASIDataDecompressor.m */,
+				FFA7E95A12CCFF3500BFBC7B /* ASIDownloadCache.h */,
+				FFA7E95B12CCFF3500BFBC7B /* ASIDownloadCache.m */,
+				FFA7E95C12CCFF3500BFBC7B /* ASIFormDataRequest.h */,
+				FFA7E95D12CCFF3500BFBC7B /* ASIFormDataRequest.m */,
+				FFA7E95E12CCFF3500BFBC7B /* ASIHTTPRequest.h */,
+				FFA7E95F12CCFF3500BFBC7B /* ASIHTTPRequest.m */,
+				FFA7E96012CCFF3500BFBC7B /* ASIHTTPRequestConfig.h */,
+				FFA7E96112CCFF3500BFBC7B /* ASIHTTPRequestDelegate.h */,
+				FFA7E96212CCFF3500BFBC7B /* ASIInputStream.h */,
+				FFA7E96312CCFF3500BFBC7B /* ASIInputStream.m */,
+				FFA7E96412CCFF3500BFBC7B /* ASINetworkQueue.h */,
+				FFA7E96512CCFF3500BFBC7B /* ASINetworkQueue.m */,
+				FFA7E96612CCFF3500BFBC7B /* ASIProgressDelegate.h */,
+			);
+			name = ASIHTTPRequest;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* GeoTrash */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "GeoTrash" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = GeoTrash;
+			productName = GeoTrash;
+			productReference = 1D6058910D05DD3D006BFB54 /* GeoTrash.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "GeoTrash" */;
+			compatibilityVersion = "Xcode 3.1";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* GeoTrash */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
+				FFA7E71412CB620700BFBC7B /* GeoTrashViewController.xib in Resources */,
+				FFF8F0A512D8ADD6005F0A1A /* MainViewController.xib in Resources */,
+				FF06583212E361F80061367E /* AnnotationViewController.xib in Resources */,
+				FFA6EAC913045EAE007BD0C3 /* LocCache.sql in Resources */,
+				F33DFC0E130807C900A33A2F /* Cache.sqlite in Resources */,
+				F33DFC92130813AF00A33A2F /* AnimalDatabase.sql in Resources */,
+				F33DFCB01308169000A33A2F /* Cache1.sql in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* GeoTrashAppDelegate.m in Sources */,
+				28D7ACF80DDB3853001CB0EB /* GeoTrashViewController.m in Sources */,
+				FFA7E75512CB824F00BFBC7B /* Location.m in Sources */,
+				FFA7E96712CCFF3500BFBC7B /* ASIAuthenticationDialog.m in Sources */,
+				FFA7E96812CCFF3500BFBC7B /* ASIDataCompressor.m in Sources */,
+				FFA7E96912CCFF3500BFBC7B /* ASIDataDecompressor.m in Sources */,
+				FFA7E96A12CCFF3500BFBC7B /* ASIDownloadCache.m in Sources */,
+				FFA7E96B12CCFF3500BFBC7B /* ASIFormDataRequest.m in Sources */,
+				FFA7E96C12CCFF3500BFBC7B /* ASIHTTPRequest.m in Sources */,
+				FFA7E96D12CCFF3500BFBC7B /* ASIInputStream.m in Sources */,
+				FFA7E96E12CCFF3500BFBC7B /* ASINetworkQueue.m in Sources */,
+				FFA7E98112CCFF6D00BFBC7B /* Reachability.m in Sources */,
+				FFF8F0A412D8ADD6005F0A1A /* MainViewController.m in Sources */,
+				FF21637C12E1CD6700305C74 /* Annotation.m in Sources */,
+				FF06583112E361F80061367E /* AnnotationViewController.m in Sources */,
+				FFA1D0BE12E62B98007F7B8B /* Cacher.m in Sources */,
+				FF62F34412FF3FDB0022FEAF /* TrashPiece.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = GeoTrash_Prefix.pch;
+				INFOPLIST_FILE = "GeoTrash-Info.plist";
+				PRODUCT_NAME = GeoTrash;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = GeoTrash_Prefix.pch;
+				INFOPLIST_FILE = "GeoTrash-Info.plist";
+				PRODUCT_NAME = GeoTrash;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				SDKROOT = iphoneos4.2;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				SDKROOT = iphoneos4.1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "GeoTrash" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "GeoTrash" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

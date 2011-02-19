@@ -1,0 +1,164 @@
+TCurAddress
+v7
+r1
+cCheck dependencies
+
+N/Users/patrickrussell/Downloads/CurrentAddress/build/Debug/CurAddress.app
+t2
+s0
+
+N/Users/patrickrussell/Downloads/CurrentAddress/build/Debug/CurAddress.app/Contents/Info.plist
+t2
+s0
+
+N/Users/patrickrussell/Downloads/CurrentAddress/build/Debug/CurAddress.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/patrickrussell/Downloads/CurrentAddress/build/Debug/CurAddress.app/Contents/Resources/Default.png
+t2
+s0
+
+N/Users/patrickrussell/Downloads/CurrentAddress/build/Debug/CurAddress.app/Contents/Resources/Icon-72.png
+t2
+s0
+
+N/Users/patrickrussell/Downloads/CurrentAddress/build/Debug/CurAddress.app/Contents/Resources/Icon-Small-50.png
+t2
+s0
+
+N/Users/patrickrussell/Downloads/CurrentAddress/build/Debug/CurAddress.app/Contents/Resources/Icon-Small.png
+t2
+s0
+
+N/Users/patrickrussell/Downloads/CurrentAddress/build/Debug/CurAddress.app/Contents/Resources/Icon-Small@2x.png
+t2
+s0
+
+N/Users/patrickrussell/Downloads/CurrentAddress/build/Debug/CurAddress.app/Contents/Resources/Icon.png
+t2
+s0
+
+N/Users/patrickrussell/Downloads/CurrentAddress/build/Debug/CurAddress.app/Contents/Resources/Icon@2x.png
+t2
+s0
+
+N/Users/patrickrussell/Downloads/CurrentAddress/build/Debug/CurAddress.app/Contents/Resources/en.lproj/MainWindow.nib
+t2
+s0
+
+N/Users/patrickrussell/Downloads/CurrentAddress/build/Debug/CurAddress.app/Contents/Resources/en.lproj/MapViewController.nib
+t2
+s0
+
+N/Users/patrickrussell/Downloads/CurrentAddress/build/Debug/CurAddress.app/Contents/Resources/en.lproj/PlacemarkViewController.nib
+t2
+s0
+
+N/Users/patrickrussell/Downloads/CurrentAddress/build/Debug/CurAddress.app/Contents/Resources/iTunesArtwork
+t2
+s0
+
+N/Users/patrickrussell/Downloads/CurrentAddress/en.lproj/MainWindow.xib
+c000000004B3285230000000000004DA3
+t1261602083
+s19875
+
+N/Users/patrickrussell/Downloads/CurrentAddress/en.lproj/MapViewController.xib
+c000000004B3285230000000000005815
+t1261602083
+s22549
+
+N/Users/patrickrussell/Downloads/CurrentAddress/en.lproj/PlacemarkViewController.xib
+c000000004B32852300000000000055E5
+t1261602083
+s21989
+
+N/Users/patrickrussell/Downloads/CurrentAddress/images/Default.png
+c000000004C1BF8980000000000011BB1
+t1276901528
+s72625
+
+N/Users/patrickrussell/Downloads/CurrentAddress/images/Icon-72.png
+c000000004C1FC5AA0000000000000427
+t1277150634
+s1063
+
+N/Users/patrickrussell/Downloads/CurrentAddress/images/Icon-Small-50.png
+c000000004C1FC5AA00000000000003E0
+t1277150634
+s992
+
+N/Users/patrickrussell/Downloads/CurrentAddress/images/Icon-Small.png
+c000000004C1BF8980000000000000396
+t1276901528
+s918
+
+N/Users/patrickrussell/Downloads/CurrentAddress/images/Icon-Small@2x.png
+c000000004C1BF89800000000000003F2
+t1276901528
+s1010
+
+N/Users/patrickrussell/Downloads/CurrentAddress/images/Icon.png
+c000000004C1BF89800000000000003EF
+t1276901528
+s1007
+
+N/Users/patrickrussell/Downloads/CurrentAddress/images/Icon@2x.png
+c000000004C1BF89800000000000004E4
+t1276901528
+s1252
+
+N/Users/patrickrussell/Downloads/CurrentAddress/images/iTunesArtwork
+c000000004C22462A0000000000001444
+t1277314602
+s5188
+
+NCurrentAddress-Info.plist
+c000000004CF577FD0000000000000454
+t1291155453
+s1108
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies314454801#314454801#0(63"[BEROR]error: There is no SDK with the name or path 'iphoneos'1(4@55"error: There is no SDK with the name or path 'iphoneos'314454801#4294967295#0#0(1@0"0(0#1#0"2462876304#0"0#
+
+CCompileXIB /Users/patrickrussell/Downloads/CurrentAddress/en.lproj/MainWindow.xib
+r0
+
+CCompileXIB /Users/patrickrussell/Downloads/CurrentAddress/en.lproj/MapViewController.xib
+r0
+
+CCompileXIB /Users/patrickrussell/Downloads/CurrentAddress/en.lproj/PlacemarkViewController.xib
+r0
+
+CCpResource build/Debug/CurAddress.app/Contents/Resources/Default.png images/Default.png
+r0
+
+CCpResource build/Debug/CurAddress.app/Contents/Resources/Icon-72.png images/Icon-72.png
+r0
+
+CCpResource build/Debug/CurAddress.app/Contents/Resources/Icon-Small-50.png images/Icon-Small-50.png
+r0
+
+CCpResource build/Debug/CurAddress.app/Contents/Resources/Icon-Small.png images/Icon-Small.png
+r0
+
+CCpResource build/Debug/CurAddress.app/Contents/Resources/Icon-Small@2x.png images/Icon-Small@2x.png
+r0
+
+CCpResource build/Debug/CurAddress.app/Contents/Resources/Icon.png images/Icon.png
+r0
+
+CCpResource build/Debug/CurAddress.app/Contents/Resources/Icon@2x.png images/Icon@2x.png
+r0
+
+CCpResource build/Debug/CurAddress.app/Contents/Resources/iTunesArtwork images/iTunesArtwork
+r0
+
+CProcessInfoPlistFile /Users/patrickrussell/Downloads/CurrentAddress/build/Debug/CurAddress.app/Contents/Info.plist CurrentAddress-Info.plist
+r0
+
+CTouch /Users/patrickrussell/Downloads/CurrentAddress/build/Debug/CurAddress.app
+r0
+

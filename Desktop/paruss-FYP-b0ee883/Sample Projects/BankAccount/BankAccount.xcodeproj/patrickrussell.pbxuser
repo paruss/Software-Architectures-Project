@@ -1,0 +1,164 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* BankAccountAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1079}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1310}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* BankAccount */ = {
+		activeExec = 0;
+		executables = (
+			FF8F5CA1126272F200052B3D /* BankAccount */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* BankAccountViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {802, 501}}";
+			sepNavSelRange = "{485, 33}";
+			sepNavVisRange = "{0, 608}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* BankAccountViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {802, 650}}";
+			sepNavSelRange = "{517, 0}";
+			sepNavVisRange = "{0, 1000}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FF8F5CA1126272F200052B3D /* BankAccount */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* BankAccount */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* BankAccount */,
+		);
+		codeSenseManager = FF8F5CB2126272FD00052B3D /* Code sense */;
+		executables = (
+			FF8F5CA1126272F200052B3D /* BankAccount */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					624,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 308441842;
+			PBXWorkspaceStateSaveDate = 308441842;
+		};
+		perUserProjectItems = {
+			FF8F5CD7126313FB00052B3D /* PBXBookmark */ = FF8F5CD7126313FB00052B3D /* PBXBookmark */;
+			FF8F5CD8126313FB00052B3D /* PBXTextBookmark */ = FF8F5CD8126313FB00052B3D /* PBXTextBookmark */;
+			FF8F5CD9126313FB00052B3D /* PBXTextBookmark */ = FF8F5CD9126313FB00052B3D /* PBXTextBookmark */;
+			FF8F5CDA126313FB00052B3D /* PBXTextBookmark */ = FF8F5CDA126313FB00052B3D /* PBXTextBookmark */;
+			FF8F5CDB126313FB00052B3D /* PBXTextBookmark */ = FF8F5CDB126313FB00052B3D /* PBXTextBookmark */;
+		};
+		sourceControlManager = FF8F5CB1126272FD00052B3D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	FF8F5CA1126272F200052B3D /* BankAccount */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = BankAccount;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	FF8F5CB1126272FD00052B3D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	FF8F5CB2126272FD00052B3D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	FF8F5CD7126313FB00052B3D /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = FF8F5CB3126273DD00052B3D /* a1pic20582.png */;
+	};
+	FF8F5CD8126313FB00052B3D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* BankAccountAppDelegate.m */;
+		name = "BankAccountAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1310;
+		vrLoc = 0;
+	};
+	FF8F5CD9126313FB00052B3D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* BankAccountViewController.h */;
+		name = "BankAccountViewController.h: 21";
+		rLen = 33;
+		rLoc = 485;
+		rType = 0;
+		vrLen = 608;
+		vrLoc = 0;
+	};
+	FF8F5CDA126313FB00052B3D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* BankAccountViewController.m */;
+		name = "BankAccountViewController.m: 19";
+		rLen = 0;
+		rLoc = 665;
+		rType = 0;
+		vrLen = 845;
+		vrLoc = 0;
+	};
+	FF8F5CDB126313FB00052B3D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* BankAccountViewController.m */;
+		name = "BankAccountViewController.m: 21";
+		rLen = 0;
+		rLoc = 517;
+		rType = 0;
+		vrLen = 1000;
+		vrLoc = 0;
+	};
+}

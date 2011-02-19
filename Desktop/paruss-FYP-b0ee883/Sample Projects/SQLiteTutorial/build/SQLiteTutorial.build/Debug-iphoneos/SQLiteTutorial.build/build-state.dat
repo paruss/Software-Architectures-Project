@@ -1,0 +1,448 @@
+TSQLiteTutorial
+v7
+r0
+t317068597.653905
+cCheck dependencies
+cCpResource build/Debug-iphoneos/SQLiteTutorial.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app/Info.plist Info.plist
+cCompileXIB /Users/patrickrussell/Downloads/SQLiteTutorial/MainWindow.xib
+cCompileXIB /Users/patrickrussell/Downloads/SQLiteTutorial/RootViewController.xib
+cCompileXIB /Users/patrickrussell/Downloads/SQLiteTutorial/AnimalViewController.xib
+cCpResource build/Debug-iphoneos/SQLiteTutorial.app/AnimalDatabase.sql AnimalDatabase.sql
+cProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SQLiteTutorial_Prefix-dmmezunqyivwmtbygnztikrhkvir/SQLiteTutorial_Prefix.pch.gch SQLiteTutorial_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/Objects-normal/armv6/main.o /Users/patrickrussell/Downloads/SQLiteTutorial/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/Objects-normal/armv6/SQLiteTutorialAppDelegate.o /Users/patrickrussell/Downloads/SQLiteTutorial/Classes/SQLiteTutorialAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/Objects-normal/armv6/RootViewController.o /Users/patrickrussell/Downloads/SQLiteTutorial/Classes/RootViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/Objects-normal/armv6/Animal.o /Users/patrickrussell/Downloads/SQLiteTutorial/Classes/Animal.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/Objects-normal/armv6/AnimalViewController.o /Users/patrickrussell/Downloads/SQLiteTutorial/Classes/AnimalViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app/SQLiteTutorial normal armv6
+cGenerateDSYMFile /Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app.dSYM /Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app/SQLiteTutorial
+cProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/B5B5B91C-0678-47A9-8750-6532D30E6A04.mobileprovision" /Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app/embedded.mobileprovision
+cTouch /Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist /Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/SQLiteTutorial.xcent
+cCodeSign /Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk
+c000000004C6DE9E30000000000000110
+t1282271715
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+c000000004C578FA900000000000001A7
+t1280806825
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+c000000004C578FA900000000000001E5
+t1280806825
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A51050000000000345F00
+t1280987397
+s3432192
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A52B100000000003E1EF0
+t1280987825
+s4071152
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A527F0000000000001466
+t1280987775
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C62427000000000000009CD
+t1281507952
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C62430F0000000002EBC2B0
+t1281508111
+s49005232
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/sqlite3.h
+c000000004C5A49F6000000000004252F
+t1280985590
+s271663
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/lib/libsqlite3.0.dylib
+c000000004C5A4A0500000000000B9DE0
+t1280985605
+s761312
+
+N/Users/patrickrussell/Downloads/SQLiteTutorial/AnimalDatabase.sql
+c0000000048D5D5EC0000000000000800
+t1221973484
+s2048
+
+N/Users/patrickrussell/Downloads/SQLiteTutorial/AnimalViewController.xib
+c0000000048E176140000000000002423
+t1222735380
+s9251
+
+N/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/Animal.h
+c0000000048E175320000000000000162
+t1222735154
+s354
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/Animal.m
+c0000000048E1753600000000000000F3
+t1222735158
+s243
+i"Animal.h"
+
+N/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/AnimalViewController.h
+c0000000048E1757F0000000000000128
+t1222735231
+s296
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/AnimalViewController.m
+c0000000048E176820000000000000490
+t1222735490
+s1168
+i"AnimalViewController.h"
+
+N/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/RootViewController.h
+c0000000048E1762500000000000000DD
+t1222735397
+s221
+i<UIKit/UIKit.h>
+i"AnimalViewController.h"
+
+N/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/RootViewController.m
+c0000000048E1765900000000000011EC
+t1222735449
+s4588
+i"RootViewController.h"
+i"SQLiteTutorialAppDelegate.h"
+i"Animal.h"
+
+N/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/SQLiteTutorialAppDelegate.h
+c0000000048E17545000000000000022C
+t1222735173
+s556
+i<UIKit/UIKit.h>
+i<sqlite3.h>
+
+N/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/SQLiteTutorialAppDelegate.m
+c0000000048E175540000000000000E5E
+t1222735188
+s3678
+i"SQLiteTutorialAppDelegate.h"
+i"RootViewController.h"
+i"Animal.h"
+
+N/Users/patrickrussell/Downloads/SQLiteTutorial/MainWindow.xib
+c0000000048E174460000000000002A34
+t1222734918
+s10804
+
+N/Users/patrickrussell/Downloads/SQLiteTutorial/RootViewController.xib
+c0000000048E174460000000000001D7C
+t1222734918
+s7548
+
+N/Users/patrickrussell/Downloads/SQLiteTutorial/SQLiteTutorial_Prefix.pch
+c0000000048E1744600000000000000C5
+t1222734918
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app
+t1295375797
+s442
+
+N/Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app.dSYM
+t1295375793
+s102
+
+N/Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app/AnimalDatabase.sql
+t1295375782
+s2048
+
+N/Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app/AnimalViewController.nib
+t1295375785
+s2971
+
+N/Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app/Info.plist
+t1295375772
+s753
+
+N/Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app/MainWindow.nib
+t1295375782
+s2432
+
+N/Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app/PkgInfo
+t1295375772
+s8
+
+N/Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app/ResourceRules.plist
+t1295375772
+s485
+
+N/Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app/RootViewController.nib
+t1295375782
+s1632
+
+N/Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app/SQLiteTutorial
+t1295375793
+s27336
+
+N/Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app/embedded.mobileprovision
+t1295375793
+s7182
+
+N/Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/Objects-normal/armv6/Animal.o
+t1295375792
+s9708
+
+N/Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/Objects-normal/armv6/AnimalViewController.o
+t1295375792
+s37896
+
+N/Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/Objects-normal/armv6/RootViewController.o
+t1295375792
+s51680
+
+N/Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/Objects-normal/armv6/SQLiteTutorial.LinkFileList
+c000000004D35DD9C00000000000002E7
+t1295375772
+s743
+
+N/Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/Objects-normal/armv6/SQLiteTutorialAppDelegate.o
+t1295375792
+s51920
+
+N/Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/Objects-normal/armv6/main.o
+t1295375792
+s6464
+
+N/Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/SQLiteTutorial.xcent
+t1295375794
+s442
+
+N/Users/patrickrussell/Downloads/SQLiteTutorial/main.m
+c0000000048E1768E0000000000000169
+t1222735502
+s361
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/B5B5B91C-0678-47A9-8750-6532D30E6A04.mobileprovision
+c000000004D3301150000000000001C0E
+t1295188245
+s7182
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SQLiteTutorial_Prefix-dmmezunqyivwmtbygnztikrhkvir/SQLiteTutorial_Prefix.pch.gch
+t1295375791
+s9831984
+
+NInfo.plist
+c000000004D35DD9B0000000000000385
+t1295375771
+s901
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies317068571#317068572#0(0"0(0#1#0"2501739152#0"0#
+
+CCodeSign /Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app
+s317068594.247668
+e317068597.653752
+r1
+xCodeSign
+x/Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app
+lSLF07#2@48"CodeSign build/Debug-iphoneos/SQLiteTutorial.app317068594#317068597#0(0"0(0#0#86"/Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app2501739152#718"    cd /Users/patrickrussell/Downloads/SQLiteTutorial    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Patrick Russell (WD3RPMEYT5)" --resource-rules=/Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app/ResourceRules.plist --entitlements /Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/SQLiteTutorial.xcent /Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app0#
+
+CCompileC build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/Objects-normal/armv6/Animal.o /Users/patrickrussell/Downloads/SQLiteTutorial/Classes/Animal.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s317068592.761652
+e317068592.851925
+r1
+xCompileC
+xbuild/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/Objects-normal/armv6/Animal.o
+x/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/Animal.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/patrickrussell/Downloads/SQLiteTutorial/Classes/Animal.m317068592#317068592#0(0"0(0#0#63"/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/Animal.m2501739152#1964"    cd /Users/patrickrussell/Downloads/SQLiteTutorial    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/SQLiteTutorial-generated-files.hmap -I/Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/SQLiteTutorial-own-target-headers.hmap -I/Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/SQLiteTutorial-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/SQLiteTutorial-project-headers.hmap -F/Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SQLiteTutorial_Prefix-dmmezunqyivwmtbygnztikrhkvir/SQLiteTutorial_Prefix.pch -c /Users/patrickrussell/Downloads/SQLiteTutorial/Classes/Animal.m -o /Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/Objects-normal/armv6/Animal.o0#
+
+CCompileC build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/Objects-normal/armv6/AnimalViewController.o /Users/patrickrussell/Downloads/SQLiteTutorial/Classes/AnimalViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s317068592.852079
+e317068592.941133
+r1
+xCompileC
+xbuild/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/Objects-normal/armv6/AnimalViewController.o
+x/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/AnimalViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/patrickrussell/Downloads/SQLiteTutorial/Classes/AnimalViewController.m317068592#317068592#0(0"0(0#0#77"/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/AnimalViewController.m2501739152#1992"    cd /Users/patrickrussell/Downloads/SQLiteTutorial    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/SQLiteTutorial-generated-files.hmap -I/Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/SQLiteTutorial-own-target-headers.hmap -I/Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/SQLiteTutorial-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/SQLiteTutorial-project-headers.hmap -F/Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SQLiteTutorial_Prefix-dmmezunqyivwmtbygnztikrhkvir/SQLiteTutorial_Prefix.pch -c /Users/patrickrussell/Downloads/SQLiteTutorial/Classes/AnimalViewController.m -o /Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/Objects-normal/armv6/AnimalViewController.o0#
+
+CCompileC build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/Objects-normal/armv6/RootViewController.o /Users/patrickrussell/Downloads/SQLiteTutorial/Classes/RootViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s317068592.560964
+e317068592.761496
+r1
+xCompileC
+xbuild/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/Objects-normal/armv6/RootViewController.o
+x/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/RootViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':
+o/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/RootViewController.m:32: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)
+o/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/RootViewController.m: In function '-[RootViewController tableView:didSelectRowAtIndexPath:]':
+o/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/RootViewController.m:55: warning: no '-initWithData:cache:' method found
+o/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/RootViewController.m:55: warning: (Messages without a matching method signature
+o/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/RootViewController.m:55: warning: will be assumed to return 'id' and accept
+o/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/RootViewController.m:55: warning: '...' as arguments.)
+lSLF07#2@83"Compile /Users/patrickrussell/Downloads/SQLiteTutorial/Classes/RootViewController.m317068592#317068592#0(1070"/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/RootViewController.m:32: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/RootViewController.m: In function '-[RootViewController tableView:didSelectRowAtIndexPath:]':/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/RootViewController.m:55: warning: no '-initWithData:cache:' method found/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/RootViewController.m:55: warning: (Messages without a matching method signature/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/RootViewController.m:55: warning: will be assumed to return 'id' and accept/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/RootViewController.m:55: warning: '...' as arguments.)3(22@180"'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)317068592#147#270#0(6@75"/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/RootViewController.m244428249#32#0#32#0#33"'*' is deprecated (declared at *)0(22@38"No '-initWithData:cache:' method found317068592#566#128#0(6@75"/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/RootViewController.m244428249#55#0#55#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)317068592#694#135#0(6@75"/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/RootViewController.m244428249#55#0#55#0#0"0(0#0#75"/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/RootViewController.m2501739152#1988"    cd /Users/patrickrussell/Downloads/SQLiteTutorial    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/SQLiteTutorial-generated-files.hmap -I/Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/SQLiteTutorial-own-target-headers.hmap -I/Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/SQLiteTutorial-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/SQLiteTutorial-project-headers.hmap -F/Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SQLiteTutorial_Prefix-dmmezunqyivwmtbygnztikrhkvir/SQLiteTutorial_Prefix.pch -c /Users/patrickrussell/Downloads/SQLiteTutorial/Classes/RootViewController.m -o /Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/Objects-normal/armv6/RootViewController.o0#
+
+CCompileC build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/Objects-normal/armv6/SQLiteTutorialAppDelegate.o /Users/patrickrussell/Downloads/SQLiteTutorial/Classes/SQLiteTutorialAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s317068592.336362
+e317068592.560806
+r1
+xCompileC
+xbuild/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/Objects-normal/armv6/SQLiteTutorialAppDelegate.o
+x/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/SQLiteTutorialAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/SQLiteTutorialAppDelegate.m: In function '-[SQLiteTutorialAppDelegate applicationDidFinishLaunching:]':
+o/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/SQLiteTutorialAppDelegate.m:21: warning: 'SQLiteTutorialAppDelegate' may not respond to '-checkAndCreateDatabase'
+o/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/SQLiteTutorialAppDelegate.m:21: warning: (Messages without a matching method signature
+o/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/SQLiteTutorialAppDelegate.m:21: warning: will be assumed to return 'id' and accept
+o/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/SQLiteTutorialAppDelegate.m:21: warning: '...' as arguments.)
+o/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/SQLiteTutorialAppDelegate.m:24: warning: 'SQLiteTutorialAppDelegate' may not respond to '-readAnimalsFromDatabase'
+lSLF07#2@90"Compile /Users/patrickrussell/Downloads/SQLiteTutorial/Classes/SQLiteTutorialAppDelegate.m317068592#317068592#0(895"/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/SQLiteTutorialAppDelegate.m: In function '-[SQLiteTutorialAppDelegate applicationDidFinishLaunching:]':/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/SQLiteTutorialAppDelegate.m:21: warning: 'SQLiteTutorialAppDelegate' may not respond to '-checkAndCreateDatabase'/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/SQLiteTutorialAppDelegate.m:21: warning: (Messages without a matching method signature/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/SQLiteTutorialAppDelegate.m:21: warning: will be assumed to return 'id' and accept/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/SQLiteTutorialAppDelegate.m:21: warning: '...' as arguments.)/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/SQLiteTutorialAppDelegate.m:24: warning: 'SQLiteTutorialAppDelegate' may not respond to '-readAnimalsFromDatabase'3(22@72"'SQLiteTutorialAppDelegate' may not respond to '-checkAndCreateDatabase'317068592#159#169#0(6@82"/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/SQLiteTutorialAppDelegate.m244427988#21#0#21#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)317068592#328#142#0(6@82"/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/SQLiteTutorialAppDelegate.m244427988#21#0#21#0#0"0(22@73"'SQLiteTutorialAppDelegate' may not respond to '-readAnimalsFromDatabase'317068592#725#170#0(6@82"/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/SQLiteTutorialAppDelegate.m244427988#24#0#24#0#26"'*' may not respond to '*'0(0#0#82"/Users/patrickrussell/Downloads/SQLiteTutorial/Classes/SQLiteTutorialAppDelegate.m2501739152#2002"    cd /Users/patrickrussell/Downloads/SQLiteTutorial    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/SQLiteTutorial-generated-files.hmap -I/Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/SQLiteTutorial-own-target-headers.hmap -I/Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/SQLiteTutorial-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/SQLiteTutorial-project-headers.hmap -F/Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SQLiteTutorial_Prefix-dmmezunqyivwmtbygnztikrhkvir/SQLiteTutorial_Prefix.pch -c /Users/patrickrussell/Downloads/SQLiteTutorial/Classes/SQLiteTutorialAppDelegate.m -o /Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/Objects-normal/armv6/SQLiteTutorialAppDelegate.o0#
+
+CCompileC build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/Objects-normal/armv6/main.o /Users/patrickrussell/Downloads/SQLiteTutorial/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s317068592.111020
+e317068592.336205
+r1
+xCompileC
+xbuild/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/Objects-normal/armv6/main.o
+x/Users/patrickrussell/Downloads/SQLiteTutorial/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/patrickrussell/Downloads/SQLiteTutorial/main.m317068592#317068592#0(0"0(0#0#53"/Users/patrickrussell/Downloads/SQLiteTutorial/main.m2501739152#1952"    cd /Users/patrickrussell/Downloads/SQLiteTutorial    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/SQLiteTutorial-generated-files.hmap -I/Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/SQLiteTutorial-own-target-headers.hmap -I/Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/SQLiteTutorial-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/SQLiteTutorial-project-headers.hmap -F/Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SQLiteTutorial_Prefix-dmmezunqyivwmtbygnztikrhkvir/SQLiteTutorial_Prefix.pch -c /Users/patrickrussell/Downloads/SQLiteTutorial/main.m -o /Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/Objects-normal/armv6/main.o0#
+
+CCompileXIB /Users/patrickrussell/Downloads/SQLiteTutorial/AnimalViewController.xib
+s317068582.506548
+e317068585.706254
+r1
+xCompileXIB
+x/Users/patrickrussell/Downloads/SQLiteTutorial/AnimalViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@35"CompileXIB AnimalViewController.xib317068582#317068585#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#71"/Users/patrickrussell/Downloads/SQLiteTutorial/AnimalViewController.xib2501739152#593"    cd /Users/patrickrussell/Downloads/SQLiteTutorial    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app/AnimalViewController.nib /Users/patrickrussell/Downloads/SQLiteTutorial/AnimalViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/patrickrussell/Downloads/SQLiteTutorial/MainWindow.xib
+s317068572.493213
+e317068582.505597
+r1
+xCompileXIB
+x/Users/patrickrussell/Downloads/SQLiteTutorial/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib317068572#317068582#0(0"0(0#0#61"/Users/patrickrussell/Downloads/SQLiteTutorial/MainWindow.xib2501739152#573"    cd /Users/patrickrussell/Downloads/SQLiteTutorial    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app/MainWindow.nib /Users/patrickrussell/Downloads/SQLiteTutorial/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/patrickrussell/Downloads/SQLiteTutorial/RootViewController.xib
+s317068572.494467
+e317068582.512343
+r1
+xCompileXIB
+x/Users/patrickrussell/Downloads/SQLiteTutorial/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib317068572#317068582#0(0"0(0#0#69"/Users/patrickrussell/Downloads/SQLiteTutorial/RootViewController.xib2501739152#589"    cd /Users/patrickrussell/Downloads/SQLiteTutorial    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app/RootViewController.nib /Users/patrickrussell/Downloads/SQLiteTutorial/RootViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCpResource build/Debug-iphoneos/SQLiteTutorial.app/AnimalDatabase.sql AnimalDatabase.sql
+s317068582.512477
+e317068582.520364
+r1
+xCpResource
+xbuild/Debug-iphoneos/SQLiteTutorial.app/AnimalDatabase.sql
+xAnimalDatabase.sql
+lSLF07#2@23"Copy AnimalDatabase.sql317068582#317068582#0(0"0(0#0#65"/Users/patrickrussell/Downloads/SQLiteTutorial/AnimalDatabase.sql2501739152#479"    cd /Users/patrickrussell/Downloads/SQLiteTutorial    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/patrickrussell/Downloads/SQLiteTutorial/AnimalDatabase.sql /Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app0#
+
+CCpResource build/Debug-iphoneos/SQLiteTutorial.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+s317068572.350388
+e317068572.493091
+r1
+xCpResource
+xbuild/Debug-iphoneos/SQLiteTutorial.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist317068572#317068572#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist2501739152#503"    cd /Users/patrickrussell/Downloads/SQLiteTutorial    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist /Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app0#
+
+CGenerateDSYMFile /Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app.dSYM /Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app/SQLiteTutorial
+s317068593.569744
+e317068593.742904
+r1
+xGenerateDSYMFile
+x/Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app.dSYM
+x/Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app/SQLiteTutorial
+lSLF07#2@116"GenerateDSYMFile build/Debug-iphoneos/SQLiteTutorial.app.dSYM build/Debug-iphoneos/SQLiteTutorial.app/SQLiteTutorial317068593#317068593#0(0"0(0#0#101"/Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app/SQLiteTutorial2501739152#407"    cd /Users/patrickrussell/Downloads/SQLiteTutorial    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app/SQLiteTutorial -o /Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app.dSYM0#
+
+CLd /Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app/SQLiteTutorial normal armv6
+s317068592.941503
+e317068593.569596
+r1
+xLd
+x/Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app/SQLiteTutorial
+xnormal
+xarmv6
+lSLF07#2@106"Link /Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app/SQLiteTutorial317068592#317068593#0(0"0(0#0#0"2501739152#909"    cd /Users/patrickrussell/Downloads/SQLiteTutorial    setenv IPHONEOS_DEPLOYMENT_TARGET 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -L/Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos -F/Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos -filelist /Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/Objects-normal/armv6/SQLiteTutorial.LinkFileList -dead_strip -miphoneos-version-min=4.1 -framework Foundation -framework UIKit -framework CoreGraphics -lsqlite3.0 -o /Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app/SQLiteTutorial0#
+
+CProcessInfoPlistFile /Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app/Info.plist Info.plist
+s317068572.366371
+e317068572.442274
+r1
+xProcessInfoPlistFile
+x/Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist317068572#317068572#0(0"0(0#0#57"/Users/patrickrussell/Downloads/SQLiteTutorial/Info.plist2501739152#607"    cd /Users/patrickrussell/Downloads/SQLiteTutorial    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app/ResourceRules.plist -o /Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app/Info.plist0#
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SQLiteTutorial_Prefix-dmmezunqyivwmtbygnztikrhkvir/SQLiteTutorial_Prefix.pch.gch SQLiteTutorial_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s317068585.706637
+e317068592.110803
+r1
+xProcessPCH
+x/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SQLiteTutorial_Prefix-dmmezunqyivwmtbygnztikrhkvir/SQLiteTutorial_Prefix.pch.gch
+xSQLiteTutorial_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile SQLiteTutorial_Prefix.pch317068585#317068592#0(0"0(0#0#72"/Users/patrickrussell/Downloads/SQLiteTutorial/SQLiteTutorial_Prefix.pch2501739152#1835"    cd /Users/patrickrussell/Downloads/SQLiteTutorial    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/SQLiteTutorial-generated-files.hmap -I/Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/SQLiteTutorial-own-target-headers.hmap -I/Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/SQLiteTutorial-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/SQLiteTutorial-project-headers.hmap -F/Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/DerivedSources -c /Users/patrickrussell/Downloads/SQLiteTutorial/SQLiteTutorial_Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SQLiteTutorial_Prefix-dmmezunqyivwmtbygnztikrhkvir/SQLiteTutorial_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/B5B5B91C-0678-47A9-8750-6532D30E6A04.mobileprovision" /Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app/embedded.mobileprovision
+s317068593.743134
+e317068593.854509
+r1
+xProcessProductPackaging
+x/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/B5B5B91C-0678-47A9-8750-6532D30E6A04.mobileprovision
+x/Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app/embedded.mobileprovision
+lSLF07#2@208"ProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/B5B5B91C-0678-47A9-8750-6532D30E6A04.mobileprovision" build/Debug-iphoneos/SQLiteTutorial.app/embedded.mobileprovision317068593#317068593#0(0"0(0#0#111"/Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app/embedded.mobileprovision2501739152#455"    cd /Users/patrickrussell/Downloads/SQLiteTutorial    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/B5B5B91C-0678-47A9-8750-6532D30E6A04.mobileprovision" -o /Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist /Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/SQLiteTutorial.xcent
+s317068594.197009
+e317068594.247558
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+x/Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/SQLiteTutorial.xcent
+lSLF07#2@196"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/SQLiteTutorial.xcent317068594#317068594#0(0"0(0#0#130"/Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/SQLiteTutorial.xcent2501739152#469"    cd /Users/patrickrussell/Downloads/SQLiteTutorial    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/patrickrussell/Downloads/SQLiteTutorial/build/SQLiteTutorial.build/Debug-iphoneos/SQLiteTutorial.build/SQLiteTutorial.xcent0#
+
+CTouch /Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app
+s317068593.854659
+e317068594.196827
+r1
+xTouch
+x/Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app
+lSLF07#2@92"Touch /Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app317068593#317068594#0(0"0(0#0#0"2501739152#287"    cd /Users/patrickrussell/Downloads/SQLiteTutorial    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug-iphoneos/SQLiteTutorial.app0#
+

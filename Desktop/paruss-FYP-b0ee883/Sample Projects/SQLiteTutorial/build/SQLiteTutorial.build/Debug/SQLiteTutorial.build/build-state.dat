@@ -1,0 +1,75 @@
+TSQLiteTutorial
+v7
+r1
+
+N/Users/patrickrussell/Downloads/SQLiteTutorial/AnimalDatabase.sql
+c0000000048D5D5EC0000000000000800
+t1221973484
+s2048
+
+N/Users/patrickrussell/Downloads/SQLiteTutorial/AnimalViewController.xib
+c0000000048E176140000000000002423
+t1222735380
+s9251
+
+N/Users/patrickrussell/Downloads/SQLiteTutorial/MainWindow.xib
+c0000000048E174460000000000002A34
+t1222734918
+s10804
+
+N/Users/patrickrussell/Downloads/SQLiteTutorial/RootViewController.xib
+c0000000048E174460000000000001D7C
+t1222734918
+s7548
+
+N/Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug/SQLiteTutorial.app
+t2
+s0
+
+N/Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug/SQLiteTutorial.app/Contents/Info.plist
+t2
+s0
+
+N/Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug/SQLiteTutorial.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug/SQLiteTutorial.app/Contents/Resources/AnimalDatabase.sql
+t2
+s0
+
+N/Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug/SQLiteTutorial.app/Contents/Resources/AnimalViewController.nib
+t2
+s0
+
+N/Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug/SQLiteTutorial.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug/SQLiteTutorial.app/Contents/Resources/RootViewController.nib
+t2
+s0
+
+NInfo.plist
+c0000000048E174460000000000000381
+t1222734918
+s897
+
+CCompileXIB /Users/patrickrussell/Downloads/SQLiteTutorial/AnimalViewController.xib
+r0
+
+CCompileXIB /Users/patrickrussell/Downloads/SQLiteTutorial/MainWindow.xib
+r0
+
+CCompileXIB /Users/patrickrussell/Downloads/SQLiteTutorial/RootViewController.xib
+r0
+
+CCpResource build/Debug/SQLiteTutorial.app/Contents/Resources/AnimalDatabase.sql AnimalDatabase.sql
+r0
+
+CProcessInfoPlistFile /Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug/SQLiteTutorial.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Users/patrickrussell/Downloads/SQLiteTutorial/build/Debug/SQLiteTutorial.app
+r0
+

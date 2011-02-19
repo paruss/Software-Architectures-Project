@@ -1,0 +1,7 @@
+/Users/patrickrussell/Documents/FYP/PaTest/XYPoint.m:12: error: no declaration of property 'x' found in the interface
+/Users/patrickrussell/Documents/FYP/PaTest/XYPoint.m:12: error: no declaration of property 'y' found in the interface
+/Users/patrickrussell/Documents/FYP/PaTest/XYPoint.m: In function '-[XYPoint setXY::]':
+/Users/patrickrussell/Documents/FYP/PaTest/XYPoint.m:14: error: 'x' undeclared (first use in this function)
+/Users/patrickrussell/Documents/FYP/PaTest/XYPoint.m:14: error: (Each undeclared identifier is reported only once
+/Users/patrickrussell/Documents/FYP/PaTest/XYPoint.m:14: error: for each function it appears in.)
+/Users/patrickrussell/Documents/FYP/PaTest/XYPoint.m:15: error: 'y' undeclared (first use in this function)

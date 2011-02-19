@@ -1,0 +1,339 @@
+TPaTest
+v7
+r0
+t308432139.768488
+cCheck dependencies
+cProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PaTest_Prefix-ebmwojmvvrrgeuaojztsjzxbwgbk/PaTest_Prefix.pch.gch PaTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/PaTest.o /Users/patrickrussell/Documents/FYP/PaTest/PaTest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/Person.o /Users/patrickrussell/Documents/FYP/PaTest/Person.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/Rectangle.o /Users/patrickrussell/Documents/FYP/PaTest/Rectangle.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/Square.o /Users/patrickrussell/Documents/FYP/PaTest/Square.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/XYPoint.o /Users/patrickrussell/Documents/FYP/PaTest/XYPoint.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/Mom.o /Users/patrickrussell/Documents/FYP/PaTest/Mom.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/Patrick.o /Users/patrickrussell/Documents/FYP/PaTest/Patrick.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/Numz.o /Users/patrickrussell/Documents/FYP/PaTest/Numz.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/Charz.o /Users/patrickrussell/Documents/FYP/PaTest/Charz.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/patrickrussell/Documents/FYP/PaTest/build/Debug/PaTest normal i386
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C5342BA00000000000000EE
+t1280524986
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C46BD4600000000000013E6
+t1279704390
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BC1384E0000000000B37440
+t1270954062
+s11760704
+
+N/Users/patrickrussell/Documents/FYP/PaTest/Charz.h
+c000000004CB1B1A30000000000000115
+t1286713763
+s277
+i<Foundation/Foundation.h>
+
+N/Users/patrickrussell/Documents/FYP/PaTest/Charz.m
+c000000004CB1B1E10000000000000142
+t1286713825
+s322
+i"Charz.h"
+
+N/Users/patrickrussell/Documents/FYP/PaTest/Mom.h
+c000000004CB1ACC700000000000000EC
+t1286712519
+s236
+i<Foundation/Foundation.h>
+
+N/Users/patrickrussell/Documents/FYP/PaTest/Mom.m
+c000000004CB1ACC700000000000000D1
+t1286712519
+s209
+i"Mom.h"
+
+N/Users/patrickrussell/Documents/FYP/PaTest/Numz.h
+c000000004CB1B1A30000000000000136
+t1286713763
+s310
+i<Foundation/Foundation.h>
+
+N/Users/patrickrussell/Documents/FYP/PaTest/Numz.m
+c000000004CB1B1A30000000000000156
+t1286713763
+s342
+i"Numz.h"
+
+N/Users/patrickrussell/Documents/FYP/PaTest/PaTest.m
+c000000004CB2157A0000000000000274
+t1286739322
+s628
+i<Foundation/Foundation.h>
+
+N/Users/patrickrussell/Documents/FYP/PaTest/PaTest_Prefix.pch
+c000000004CA90136000000000000009A
+t1286144310
+s154
+i<Foundation/Foundation.h>
+
+N/Users/patrickrussell/Documents/FYP/PaTest/Patrick.h
+c000000004CB1AE6100000000000000F4
+t1286712929
+s244
+i"Mom.h"
+
+N/Users/patrickrussell/Documents/FYP/PaTest/Patrick.m
+c000000004CB1AE610000000000000148
+t1286712929
+s328
+i"Patrick.h"
+
+N/Users/patrickrussell/Documents/FYP/PaTest/Person.h
+c000000004CA90961000000000000013A
+t1286146401
+s314
+i<Foundation/Foundation.h>
+
+N/Users/patrickrussell/Documents/FYP/PaTest/Person.m
+c000000004CA90961000000000000018C
+t1286146401
+s396
+i"Person.h"
+
+N/Users/patrickrussell/Documents/FYP/PaTest/Rectangle.h
+c000000004CAB19B400000000000001BE
+t1286281652
+s446
+i<Foundation/Foundation.h>
+
+N/Users/patrickrussell/Documents/FYP/PaTest/Rectangle.m
+c000000004CAB19B400000000000001E0
+t1286281652
+s480
+i"Rectangle.h"
+
+N/Users/patrickrussell/Documents/FYP/PaTest/Square.h
+c000000004CAB12500000000000000107
+t1286279760
+s263
+i<Cocoa/Cocoa.h>
+i"Rectangle.h"
+
+N/Users/patrickrussell/Documents/FYP/PaTest/Square.m
+c000000004CAB126C0000000000000114
+t1286279788
+s276
+i"Square.h"
+
+N/Users/patrickrussell/Documents/FYP/PaTest/XYPoint.h
+c000000004CAB19B40000000000000123
+t1286281652
+s291
+i<Foundation/Foundation.h>
+
+N/Users/patrickrussell/Documents/FYP/PaTest/XYPoint.m
+c000000004CAB19B40000000000000110
+t1286281652
+s272
+i"XYPoint.h"
+
+N/Users/patrickrussell/Documents/FYP/PaTest/build/Debug/PaTest
+t1286739323
+s22484
+
+N/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/Charz.o
+t1286713826
+s6480
+
+N/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/Mom.o
+t1286712523
+s5528
+
+N/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/Numz.o
+t1286713763
+s6488
+
+N/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/PaTest.LinkFileList
+c000000004CB1B1A300000000000003DD
+t1286713763
+s989
+
+N/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/PaTest.o
+t1286739323
+s7196
+
+N/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/Patrick.o
+t1286712929
+s6212
+
+N/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/Person.o
+t1286146401
+s7748
+
+N/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/Rectangle.o
+t1286281653
+s8356
+
+N/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/Square.o
+t1286281653
+s6076
+
+N/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/XYPoint.o
+t1286281653
+s6976
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PaTest_Prefix-ebmwojmvvrrgeuaojztsjzxbwgbk/PaTest_Prefix.pch.gch
+t1286145018
+s29728620
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308432139#308432139#0(0"0(0#1#0"2549534656#0"0#
+
+CCompileC build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/Charz.o /Users/patrickrussell/Documents/FYP/PaTest/Charz.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308406626.026690
+e308406626.599866
+r1
+xCompileC
+xbuild/PaTest.build/Debug/PaTest.build/Objects-normal/i386/Charz.o
+x/Users/patrickrussell/Documents/FYP/PaTest/Charz.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/patrickrussell/Documents/FYP/PaTest/Charz.m308406626#308406626#0(0"0(0#0#50"/Users/patrickrussell/Documents/FYP/PaTest/Charz.m2549534656#1470"    cd /Users/patrickrussell/Documents/FYP/PaTest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/PaTest/build/Debug -I/Users/patrickrussell/Documents/FYP/PaTest/build/Debug/include -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/DerivedSources/i386 -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PaTest_Prefix-ebmwojmvvrrgeuaojztsjzxbwgbk/PaTest_Prefix.pch -c /Users/patrickrussell/Documents/FYP/PaTest/Charz.m -o /Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/Charz.o0#
+
+CCompileC build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/Mom.o /Users/patrickrussell/Documents/FYP/PaTest/Mom.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308405323.486559
+e308405323.710622
+r1
+xCompileC
+xbuild/PaTest.build/Debug/PaTest.build/Objects-normal/i386/Mom.o
+x/Users/patrickrussell/Documents/FYP/PaTest/Mom.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/patrickrussell/Documents/FYP/PaTest/Mom.m308405323#308405324#0(0"0(0#0#48"/Users/patrickrussell/Documents/FYP/PaTest/Mom.m4717520#1466"    cd /Users/patrickrussell/Documents/FYP/PaTest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/PaTest/build/Debug -I/Users/patrickrussell/Documents/FYP/PaTest/build/Debug/include -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/DerivedSources/i386 -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PaTest_Prefix-ebmwojmvvrrgeuaojztsjzxbwgbk/PaTest_Prefix.pch -c /Users/patrickrussell/Documents/FYP/PaTest/Mom.m -o /Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/Mom.o0#
+
+CCompileC build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/Numz.o /Users/patrickrussell/Documents/FYP/PaTest/Numz.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308406563.787958
+e308406564.004377
+r1
+xCompileC
+xbuild/PaTest.build/Debug/PaTest.build/Objects-normal/i386/Numz.o
+x/Users/patrickrussell/Documents/FYP/PaTest/Numz.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/patrickrussell/Documents/FYP/PaTest/Numz.m308406563#308406564#0(0"0(0#0#49"/Users/patrickrussell/Documents/FYP/PaTest/Numz.m2549534656#1468"    cd /Users/patrickrussell/Documents/FYP/PaTest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/PaTest/build/Debug -I/Users/patrickrussell/Documents/FYP/PaTest/build/Debug/include -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/DerivedSources/i386 -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PaTest_Prefix-ebmwojmvvrrgeuaojztsjzxbwgbk/PaTest_Prefix.pch -c /Users/patrickrussell/Documents/FYP/PaTest/Numz.m -o /Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/Numz.o0#
+
+CCompileC build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/PaTest.o /Users/patrickrussell/Documents/FYP/PaTest/PaTest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308432123.282271
+e308432123.726405
+r1
+xCompileC
+xbuild/PaTest.build/Debug/PaTest.build/Objects-normal/i386/PaTest.o
+x/Users/patrickrussell/Documents/FYP/PaTest/PaTest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/patrickrussell/Documents/FYP/PaTest/PaTest.m308432123#308432123#0(0"0(0#0#51"/Users/patrickrussell/Documents/FYP/PaTest/PaTest.m2549534656#1472"    cd /Users/patrickrussell/Documents/FYP/PaTest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/PaTest/build/Debug -I/Users/patrickrussell/Documents/FYP/PaTest/build/Debug/include -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/DerivedSources/i386 -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PaTest_Prefix-ebmwojmvvrrgeuaojztsjzxbwgbk/PaTest_Prefix.pch -c /Users/patrickrussell/Documents/FYP/PaTest/PaTest.m -o /Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/PaTest.o0#
+
+CCompileC build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/Patrick.o /Users/patrickrussell/Documents/FYP/PaTest/Patrick.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308405729.536087
+e308405729.701927
+r1
+xCompileC
+xbuild/PaTest.build/Debug/PaTest.build/Objects-normal/i386/Patrick.o
+x/Users/patrickrussell/Documents/FYP/PaTest/Patrick.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/patrickrussell/Documents/FYP/PaTest/Patrick.m308405729#308405729#0(0"0(0#0#52"/Users/patrickrussell/Documents/FYP/PaTest/Patrick.m2549534656#1474"    cd /Users/patrickrussell/Documents/FYP/PaTest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/PaTest/build/Debug -I/Users/patrickrussell/Documents/FYP/PaTest/build/Debug/include -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/DerivedSources/i386 -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PaTest_Prefix-ebmwojmvvrrgeuaojztsjzxbwgbk/PaTest_Prefix.pch -c /Users/patrickrussell/Documents/FYP/PaTest/Patrick.m -o /Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/Patrick.o0#
+
+CCompileC build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/Person.o /Users/patrickrussell/Documents/FYP/PaTest/Person.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307839201.498253
+e307839201.649241
+r1
+xCompileC
+xbuild/PaTest.build/Debug/PaTest.build/Objects-normal/i386/Person.o
+x/Users/patrickrussell/Documents/FYP/PaTest/Person.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/patrickrussell/Documents/FYP/PaTest/Person.m307839201#307839201#0(0"0(0#0#51"/Users/patrickrussell/Documents/FYP/PaTest/Person.m2549534656#1472"    cd /Users/patrickrussell/Documents/FYP/PaTest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/PaTest/build/Debug -I/Users/patrickrussell/Documents/FYP/PaTest/build/Debug/include -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/DerivedSources/i386 -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PaTest_Prefix-ebmwojmvvrrgeuaojztsjzxbwgbk/PaTest_Prefix.pch -c /Users/patrickrussell/Documents/FYP/PaTest/Person.m -o /Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/Person.o0#
+
+CCompileC build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/Rectangle.o /Users/patrickrussell/Documents/FYP/PaTest/Rectangle.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307974453.078418
+e307974453.250723
+r1
+xCompileC
+xbuild/PaTest.build/Debug/PaTest.build/Objects-normal/i386/Rectangle.o
+x/Users/patrickrussell/Documents/FYP/PaTest/Rectangle.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/patrickrussell/Documents/FYP/PaTest/Rectangle.m307974453#307974453#0(0"0(0#0#54"/Users/patrickrussell/Documents/FYP/PaTest/Rectangle.m2549534656#1478"    cd /Users/patrickrussell/Documents/FYP/PaTest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/PaTest/build/Debug -I/Users/patrickrussell/Documents/FYP/PaTest/build/Debug/include -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/DerivedSources/i386 -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PaTest_Prefix-ebmwojmvvrrgeuaojztsjzxbwgbk/PaTest_Prefix.pch -c /Users/patrickrussell/Documents/FYP/PaTest/Rectangle.m -o /Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/Rectangle.o0#
+
+CCompileC build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/Square.o /Users/patrickrussell/Documents/FYP/PaTest/Square.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307974453.250877
+e307974453.731255
+r1
+xCompileC
+xbuild/PaTest.build/Debug/PaTest.build/Objects-normal/i386/Square.o
+x/Users/patrickrussell/Documents/FYP/PaTest/Square.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/patrickrussell/Documents/FYP/PaTest/Square.m307974453#307974453#0(0"0(0#0#51"/Users/patrickrussell/Documents/FYP/PaTest/Square.m2549534656#1472"    cd /Users/patrickrussell/Documents/FYP/PaTest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/PaTest/build/Debug -I/Users/patrickrussell/Documents/FYP/PaTest/build/Debug/include -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/DerivedSources/i386 -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PaTest_Prefix-ebmwojmvvrrgeuaojztsjzxbwgbk/PaTest_Prefix.pch -c /Users/patrickrussell/Documents/FYP/PaTest/Square.m -o /Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/Square.o0#
+
+CCompileC build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/XYPoint.o /Users/patrickrussell/Documents/FYP/PaTest/XYPoint.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307974453.731402
+e307974453.877725
+r1
+xCompileC
+xbuild/PaTest.build/Debug/PaTest.build/Objects-normal/i386/XYPoint.o
+x/Users/patrickrussell/Documents/FYP/PaTest/XYPoint.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/patrickrussell/Documents/FYP/PaTest/XYPoint.m307974453#307974453#0(0"0(0#0#52"/Users/patrickrussell/Documents/FYP/PaTest/XYPoint.m2549534656#1474"    cd /Users/patrickrussell/Documents/FYP/PaTest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/PaTest/build/Debug -I/Users/patrickrussell/Documents/FYP/PaTest/build/Debug/include -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/DerivedSources/i386 -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PaTest_Prefix-ebmwojmvvrrgeuaojztsjzxbwgbk/PaTest_Prefix.pch -c /Users/patrickrussell/Documents/FYP/PaTest/XYPoint.m -o /Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/XYPoint.o0#
+
+CLd /Users/patrickrussell/Documents/FYP/PaTest/build/Debug/PaTest normal i386
+s308432123.726565
+e308432123.842531
+r1
+xLd
+x/Users/patrickrussell/Documents/FYP/PaTest/build/Debug/PaTest
+xnormal
+xi386
+lSLF07#2@66"Link /Users/patrickrussell/Documents/FYP/PaTest/build/Debug/PaTest308432123#308432123#0(0"0(0#0#0"2549534656#532"    cd /Users/patrickrussell/Documents/FYP/PaTest    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/patrickrussell/Documents/FYP/PaTest/build/Debug -F/Users/patrickrussell/Documents/FYP/PaTest/build/Debug -filelist /Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/PaTest.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/patrickrussell/Documents/FYP/PaTest/build/Debug/PaTest0#
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PaTest_Prefix-ebmwojmvvrrgeuaojztsjzxbwgbk/PaTest_Prefix.pch.gch PaTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s307837814.415683
+e307837818.432844
+r1
+xProcessPCH
+x/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PaTest_Prefix-ebmwojmvvrrgeuaojztsjzxbwgbk/PaTest_Prefix.pch.gch
+xPaTest_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile PaTest_Prefix.pch307837814#307837818#0(0"0(0#0#60"/Users/patrickrussell/Documents/FYP/PaTest/PaTest_Prefix.pch2549534656#1373"    cd /Users/patrickrussell/Documents/FYP/PaTest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/PaTest/build/Debug -I/Users/patrickrussell/Documents/FYP/PaTest/build/Debug/include -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/DerivedSources/i386 -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/DerivedSources -c /Users/patrickrussell/Documents/FYP/PaTest/PaTest_Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PaTest_Prefix-ebmwojmvvrrgeuaojztsjzxbwgbk/PaTest_Prefix.pch.gch0#
+

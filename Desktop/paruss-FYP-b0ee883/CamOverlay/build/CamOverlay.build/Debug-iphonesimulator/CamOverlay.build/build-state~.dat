@@ -1,0 +1,337 @@
+TCamOverlay
+v7
+r0
+t308582915.540165
+cCheck dependencies
+cProcessInfoPlistFile /Users/patrickrussell/Documents/FYP/CamOverlay/build/Debug-iphonesimulator/CamOverlay.app/Info.plist CamOverlay-Info.plist
+cCompileXIB /Users/patrickrussell/Documents/FYP/CamOverlay/MainWindow.xib
+cCompileXIB /Users/patrickrussell/Documents/FYP/CamOverlay/Classes/CamView.xib
+cCompileXIB /Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Title.xib
+cProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CamOverlay_Prefix-eomviwpfqhzchgamnobkguttbbby/CamOverlay_Prefix.pch.gch CamOverlay_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/Objects-normal/i386/main.o /Users/patrickrussell/Documents/FYP/CamOverlay/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/Objects-normal/i386/CamOverlayAppDelegate.o /Users/patrickrussell/Documents/FYP/CamOverlay/Classes/CamOverlayAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/Objects-normal/i386/Swap.o /Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/Objects-normal/i386/CamView.o /Users/patrickrussell/Documents/FYP/CamOverlay/Classes/CamView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/Objects-normal/i386/Title.o /Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Title.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/patrickrussell/Documents/FYP/CamOverlay/CamOverlay_Prefix.pch
+c000000004CB36AA000000000000000BD
+t1286826656
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/CamOverlayAppDelegate.h
+c000000004CB36AA00000000000000156
+t1286826656
+s342
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/CamOverlayAppDelegate.m
+c000000004CB36AA000000000000009DB
+t1286826656
+s2523
+i"CamOverlayAppDelegate.h"
+
+N/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/CamView.h
+c000000004CB36B4000000000000000DB
+t1286826816
+s219
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/CamView.m
+c000000004CB36B400000000000000602
+t1286826816
+s1538
+i"CamView.h"
+
+N/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/CamView.xib
+c000000004CB36B290000000000001643
+t1286826793
+s5699
+
+N/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.h
+c000000004CB462680000000000000196
+t1286890088
+s406
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m
+c000000004CB46268000000000000051C
+t1286890088
+s1308
+i"Swap.h"
+i"CamView.h"
+i"Title.h"
+
+N/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Title.h
+c000000004CB45F8D00000000000000D9
+t1286889357
+s217
+i<Foundation/Foundation.h>
+
+N/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Title.m
+c000000004CB45F8D00000000000000BE
+t1286889357
+s190
+i"Title.h"
+
+N/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Title.xib
+c000000004CB39A1D0000000000001643
+t1286838813
+s5699
+
+N/Users/patrickrussell/Documents/FYP/CamOverlay/MainWindow.xib
+c000000004CB36AA00000000000002117
+t1286826656
+s8471
+
+N/Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/Objects-normal/i386/CamOverlay.LinkFileList
+c000000004CB4626900000000000002BD
+t1286890089
+s701
+
+N/Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/Objects-normal/i386/CamOverlayAppDelegate.o
+t1286890115
+s46356
+
+N/Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/Objects-normal/i386/CamView.o
+t1286890115
+s34376
+
+N/Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/Objects-normal/i386/Swap.o
+t2
+s0
+
+N/Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/Objects-normal/i386/Title.o
+t1286890115
+s5036
+
+N/Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/Objects-normal/i386/main.o
+t1286890114
+s6320
+
+N/Users/patrickrussell/Documents/FYP/CamOverlay/build/Debug-iphonesimulator/CamOverlay.app
+t2
+s0
+
+N/Users/patrickrussell/Documents/FYP/CamOverlay/build/Debug-iphonesimulator/CamOverlay.app.dSYM
+t2
+s0
+
+N/Users/patrickrussell/Documents/FYP/CamOverlay/build/Debug-iphonesimulator/CamOverlay.app/CamOverlay
+t2
+s0
+
+N/Users/patrickrussell/Documents/FYP/CamOverlay/build/Debug-iphonesimulator/CamOverlay.app/CamView.nib
+t1286890106
+s1029
+
+N/Users/patrickrussell/Documents/FYP/CamOverlay/build/Debug-iphonesimulator/CamOverlay.app/Info.plist
+t1286890089
+s603
+
+N/Users/patrickrussell/Documents/FYP/CamOverlay/build/Debug-iphonesimulator/CamOverlay.app/MainWindow.nib
+t1286890106
+s1534
+
+N/Users/patrickrussell/Documents/FYP/CamOverlay/build/Debug-iphonesimulator/CamOverlay.app/PkgInfo
+t1286890089
+s8
+
+N/Users/patrickrussell/Documents/FYP/CamOverlay/build/Debug-iphonesimulator/CamOverlay.app/Title.nib
+t1286890109
+s1029
+
+N/Users/patrickrussell/Documents/FYP/CamOverlay/main.m
+c000000004CB36AA00000000000000172
+t1286826656
+s370
+i<UIKit/UIKit.h>
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CamOverlay_Prefix-eomviwpfqhzchgamnobkguttbbby/CamOverlay_Prefix.pch.gch
+t1286890114
+s10204720
+
+NCamOverlay-Info.plist
+c000000004CB36AA0000000000000038D
+t1286826656
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308582889#308582889#0(0"0(0#1#0"4231240#0"0#
+
+CCompileC build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/Objects-normal/i386/CamOverlayAppDelegate.o /Users/patrickrussell/Documents/FYP/CamOverlay/Classes/CamOverlayAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308582914.937450
+e308582915.055829
+r1
+xCompileC
+xbuild/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/Objects-normal/i386/CamOverlayAppDelegate.o
+x/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/CamOverlayAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/patrickrussell/Documents/FYP/CamOverlay/Classes/CamOverlayAppDelegate.m308582914#308582915#0(0"0(0#0#78"/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/CamOverlayAppDelegate.m2549534656#2104"    cd /Users/patrickrussell/Documents/FYP/CamOverlay    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/CamOverlay-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/CamOverlay-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/CamOverlay-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/CamOverlay-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/CamOverlay/build/Debug-iphonesimulator -I/Users/patrickrussell/Documents/FYP/CamOverlay/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/DerivedSources/i386 -I/Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CamOverlay_Prefix-eomviwpfqhzchgamnobkguttbbby/CamOverlay_Prefix.pch -c /Users/patrickrussell/Documents/FYP/CamOverlay/Classes/CamOverlayAppDelegate.m -o /Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/Objects-normal/i386/CamOverlayAppDelegate.o0#
+
+CCompileC build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/Objects-normal/i386/CamView.o /Users/patrickrussell/Documents/FYP/CamOverlay/Classes/CamView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308582915.325392
+e308582915.420483
+r1
+xCompileC
+xbuild/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/Objects-normal/i386/CamView.o
+x/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/CamView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/patrickrussell/Documents/FYP/CamOverlay/Classes/CamView.m308582915#308582915#0(0"0(0#0#64"/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/CamView.m4231240#2076"    cd /Users/patrickrussell/Documents/FYP/CamOverlay    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/CamOverlay-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/CamOverlay-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/CamOverlay-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/CamOverlay-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/CamOverlay/build/Debug-iphonesimulator -I/Users/patrickrussell/Documents/FYP/CamOverlay/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/DerivedSources/i386 -I/Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CamOverlay_Prefix-eomviwpfqhzchgamnobkguttbbby/CamOverlay_Prefix.pch -c /Users/patrickrussell/Documents/FYP/CamOverlay/Classes/CamView.m -o /Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/Objects-normal/i386/CamView.o0#
+
+CCompileC build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/Objects-normal/i386/Swap.o /Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308582915.055980
+e308582915.325256
+r0
+xCompileC
+xbuild/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/Objects-normal/i386/Swap.o
+x/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m:9:
+o/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.h:26: warning: property 'title' 'copy' attribute does not match super class 'UIViewController' property
+o/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.h:26: warning: property 'title' type does not match super class 'UIViewController' property type
+o/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m:16: error: no declaration of property 'Title' found in the interface
+o/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m: In function '-[Swap viewDidLoad]':
+o/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m:20: error: request for member 'Title' in something not a structure or union
+o/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m:20: warning: local declaration of 'title' hides instance variable
+o/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m:22: warning: local declaration of 'title' hides instance variable
+o/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m:22: error: request for member 'view' in something not a structure or union
+o/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m:23: warning: local declaration of 'title' hides instance variable
+o/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m: In function '-[Swap pressMe:]':
+o/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m:28: error: request for member 'subview' in something not a structure or union
+o/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m:29: error: request for member 'pressMe' in something not a structure or union
+o/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m:34: error: request for member 'view' in something not a structure or union
+o/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m: At top level:
+o/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m:38: error: expected identifier or '(' before '}' token
+o/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m:40: error: expected identifier or '(' before '}' token
+o/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m: In function '-[Swap didReceiveMemoryWarning]':
+o/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m:44: error: request for member 'view' in something not a structure or union
+o/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m:46: error: expected expression before 'else'
+o/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m: At top level:
+o/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m:69: warning: property 'title' requires method '-title' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m:69: warning: property 'title' requires the method 'setTitle:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@69"Compile /Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m308582915#308582915#0(2945"In file included from /Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m:9:/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.h:26: warning: property 'title' 'copy' attribute does not match super class 'UIViewController' property/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.h:26: warning: property 'title' type does not match super class 'UIViewController' property type/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m:16: error: no declaration of property 'Title' found in the interface/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m: In function '-[Swap viewDidLoad]':/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m:20: error: request for member 'Title' in something not a structure or union/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m:20: warning: local declaration of 'title' hides instance variable/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m:22: warning: local declaration of 'title' hides instance variable/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m:22: error: request for member 'view' in something not a structure or union/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m:23: warning: local declaration of 'title' hides instance variable/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m: In function '-[Swap pressMe:]':/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m:28: error: request for member 'subview' in something not a structure or union/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m:29: error: request for member 'pressMe' in something not a structure or union/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m:34: error: request for member 'view' in something not a structure or union/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m: At top level:/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m:38: error: expected identifier or '(' before '}' token/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m:40: error: expected identifier or '(' before '}' token/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m: In function '-[Swap didReceiveMemoryWarning]':/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m:44: error: request for member 'view' in something not a structure or union/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m:46: error: expected expression before 'else'/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m: At top level:/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m:69: warning: property 'title' requires method '-title' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m:69: warning: property 'title' requires the method 'setTitle:' to be defined - use @synthesize, @dynamic or provide a method implementation19(22@88"Property 'title' 'copy' attribute does not match super class 'UIViewController' property308582915#87#164#2(7@83"In file included from /Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m308582915#4294967295#0#0(6@61"/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m308582888#9#0#9#0#0"0(13@153"Property 'title' 'copy' attribute does not match super class 'UIViewController' property in /Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.h308582915#4294967295#0#0(6@61"/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.h308582888#26#0#26#0#0"0(6@61"/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.h308582888#26#0#26#0#0"0(22@81"Property 'title' type does not match super class 'UIViewController' property type308582915#251#157#2(7@83"In file included from /Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m308582915#4294967295#0#0(6@61"/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m308582888#9#0#9#0#0"0(13@146"Property 'title' type does not match super class 'UIViewController' property type in /Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.h308582915#4294967295#0#0(6@61"/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.h308582888#26#0#26#0#0"0(6@61"/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.h308582888#26#0#26#0#0"0(4@57"No declaration of property 'Title' found in the interface308582915#408#131#0(6@61"/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m308582888#16#0#16#0#0"0(4@64"Request for member 'Title' in something not a structure or union308582915#637#138#0(6@61"/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m308582888#20#0#20#0#0"0(22@52"Local declaration of 'title' hides instance variable308582915#775#128#0(6@61"/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m308582888#20#0#20#0#0"0(22@52"Local declaration of 'title' hides instance variable308582915#903#128#0(6@61"/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m308582888#22#0#22#0#0"0(4@63"Request for member 'view' in something not a structure or union308582915#1031#137#0(6@61"/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m308582888#22#0#22#0#0"0(22@52"Local declaration of 'title' hides instance variable308582915#1168#128#0(6@61"/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m308582888#23#0#23#0#0"0(4@66"Request for member 'subview' in something not a structure or union308582915#1391#140#0(6@61"/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m308582888#28#0#28#0#0"0(4@66"Request for member 'pressMe' in something not a structure or union308582915#1531#140#0(6@61"/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m308582888#29#0#29#0#0"0(4@63"Request for member 'view' in something not a structure or union308582915#1671#137#0(6@61"/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m308582888#34#0#34#0#0"0(23@13"At top level:308582915#1808#77#0(6@61"/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m308582888#0#0#0#0#0"0(4@43"Expected identifier or '(' before '}' token308582915#1885#117#0(6@61"/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m308582888#38#0#38#0#19"expected * before *0(4@43"Expected identifier or '(' before '}' token308582915#2002#117#0(6@61"/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m308582888#40#0#40#0#19"expected * before *0(4@63"Request for member 'view' in something not a structure or union308582915#2229#137#0(6@61"/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m308582888#44#0#44#0#0"0(4@33"Expected expression before 'else'308582915#2366#107#0(6@61"/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m308582888#46#0#46#0#19"expected * before *0(23@13"At top level:308582915#2473#77#0(6@61"/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m308582888#0#0#0#0#0"0(22@118"Property 'title' requires method '-title' to be defined - use @synthesize, @dynamic or provide a method implementation308582915#2550#194#0(6@61"/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m308582888#69#0#69#0#0"0(22@125"Property 'title' requires the method 'setTitle:' to be defined - use @synthesize, @dynamic or provide a method implementation308582915#2744#201#0(6@61"/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m308582888#69#0#69#0#0"0(0#0#61"/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m2549534656#2070"    cd /Users/patrickrussell/Documents/FYP/CamOverlay    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/CamOverlay-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/CamOverlay-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/CamOverlay-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/CamOverlay-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/CamOverlay/build/Debug-iphonesimulator -I/Users/patrickrussell/Documents/FYP/CamOverlay/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/DerivedSources/i386 -I/Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CamOverlay_Prefix-eomviwpfqhzchgamnobkguttbbby/CamOverlay_Prefix.pch -c /Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Swap.m -o /Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/Objects-normal/i386/Swap.o1#
+
+CCompileC build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/Objects-normal/i386/Title.o /Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Title.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308582915.420637
+e308582915.540045
+r1
+xCompileC
+xbuild/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/Objects-normal/i386/Title.o
+x/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Title.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Title.m308582915#308582915#0(0"0(0#0#62"/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Title.m4231240#2072"    cd /Users/patrickrussell/Documents/FYP/CamOverlay    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/CamOverlay-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/CamOverlay-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/CamOverlay-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/CamOverlay-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/CamOverlay/build/Debug-iphonesimulator -I/Users/patrickrussell/Documents/FYP/CamOverlay/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/DerivedSources/i386 -I/Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CamOverlay_Prefix-eomviwpfqhzchgamnobkguttbbby/CamOverlay_Prefix.pch -c /Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Title.m -o /Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/Objects-normal/i386/Title.o0#
+
+CCompileC build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/Objects-normal/i386/main.o /Users/patrickrussell/Documents/FYP/CamOverlay/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308582914.777314
+e308582914.937300
+r1
+xCompileC
+xbuild/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/Objects-normal/i386/main.o
+x/Users/patrickrussell/Documents/FYP/CamOverlay/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/patrickrussell/Documents/FYP/CamOverlay/main.m308582914#308582914#0(0"0(0#0#53"/Users/patrickrussell/Documents/FYP/CamOverlay/main.m2549534656#2062"    cd /Users/patrickrussell/Documents/FYP/CamOverlay    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/CamOverlay-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/CamOverlay-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/CamOverlay-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/CamOverlay-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/CamOverlay/build/Debug-iphonesimulator -I/Users/patrickrussell/Documents/FYP/CamOverlay/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/DerivedSources/i386 -I/Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CamOverlay_Prefix-eomviwpfqhzchgamnobkguttbbby/CamOverlay_Prefix.pch -c /Users/patrickrussell/Documents/FYP/CamOverlay/main.m -o /Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/patrickrussell/Documents/FYP/CamOverlay/Classes/CamView.xib
+s308582889.681228
+e308582907.314768
+r1
+xCompileXIB
+x/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/CamView.xib
+lSLF07#2@30"CompileXIB Classes/CamView.xib308582889#308582907#0(0"0(0#0#66"/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/CamView.xib2549534656#599"    cd /Users/patrickrussell/Documents/FYP/CamOverlay    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Documents/FYP/CamOverlay/build/Debug-iphonesimulator/CamOverlay.app/CamView.nib /Users/patrickrussell/Documents/FYP/CamOverlay/Classes/CamView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Title.xib
+s308582907.315160
+e308582909.734968
+r1
+xCompileXIB
+x/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Title.xib
+lSLF07#2@28"CompileXIB Classes/Title.xib308582907#308582909#0(0"0(0#0#64"/Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Title.xib2549534656#595"    cd /Users/patrickrussell/Documents/FYP/CamOverlay    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Documents/FYP/CamOverlay/build/Debug-iphonesimulator/CamOverlay.app/Title.nib /Users/patrickrussell/Documents/FYP/CamOverlay/Classes/Title.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/patrickrussell/Documents/FYP/CamOverlay/MainWindow.xib
+s308582889.626923
+e308582907.765164
+r1
+xCompileXIB
+x/Users/patrickrussell/Documents/FYP/CamOverlay/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib308582889#308582907#0(0"0(0#0#61"/Users/patrickrussell/Documents/FYP/CamOverlay/MainWindow.xib4717520#597"    cd /Users/patrickrussell/Documents/FYP/CamOverlay    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Documents/FYP/CamOverlay/build/Debug-iphonesimulator/CamOverlay.app/MainWindow.nib /Users/patrickrussell/Documents/FYP/CamOverlay/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CGenerateDSYMFile /Users/patrickrussell/Documents/FYP/CamOverlay/build/Debug-iphonesimulator/CamOverlay.app.dSYM /Users/patrickrussell/Documents/FYP/CamOverlay/build/Debug-iphonesimulator/CamOverlay.app/CamOverlay
+r0
+
+CLd /Users/patrickrussell/Documents/FYP/CamOverlay/build/Debug-iphonesimulator/CamOverlay.app/CamOverlay normal i386
+r0
+
+CProcessInfoPlistFile /Users/patrickrussell/Documents/FYP/CamOverlay/build/Debug-iphonesimulator/CamOverlay.app/Info.plist CamOverlay-Info.plist
+s308582889.504648
+e308582889.626739
+r1
+xProcessInfoPlistFile
+x/Users/patrickrussell/Documents/FYP/CamOverlay/build/Debug-iphonesimulator/CamOverlay.app/Info.plist
+xCamOverlay-Info.plist
+lSLF07#2@29"Process CamOverlay-Info.plist308582889#308582889#0(0"0(0#0#68"/Users/patrickrussell/Documents/FYP/CamOverlay/CamOverlay-Info.plist4231240#512"    cd /Users/patrickrussell/Documents/FYP/CamOverlay    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CamOverlay-Info.plist -genpkginfo /Users/patrickrussell/Documents/FYP/CamOverlay/build/Debug-iphonesimulator/CamOverlay.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/patrickrussell/Documents/FYP/CamOverlay/build/Debug-iphonesimulator/CamOverlay.app/Info.plist0#
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CamOverlay_Prefix-eomviwpfqhzchgamnobkguttbbby/CamOverlay_Prefix.pch.gch CamOverlay_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308582909.755182
+e308582914.776998
+r1
+xProcessPCH
+x/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CamOverlay_Prefix-eomviwpfqhzchgamnobkguttbbby/CamOverlay_Prefix.pch.gch
+xCamOverlay_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile CamOverlay_Prefix.pch308582909#308582914#0(0"0(0#0#68"/Users/patrickrussell/Documents/FYP/CamOverlay/CamOverlay_Prefix.pch2549534656#1943"    cd /Users/patrickrussell/Documents/FYP/CamOverlay    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/CamOverlay-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/CamOverlay-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/CamOverlay-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/CamOverlay-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/CamOverlay/build/Debug-iphonesimulator -I/Users/patrickrussell/Documents/FYP/CamOverlay/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/DerivedSources/i386 -I/Users/patrickrussell/Documents/FYP/CamOverlay/build/CamOverlay.build/Debug-iphonesimulator/CamOverlay.build/DerivedSources -c /Users/patrickrussell/Documents/FYP/CamOverlay/CamOverlay_Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CamOverlay_Prefix-eomviwpfqhzchgamnobkguttbbby/CamOverlay_Prefix.pch.gch0#
+
+CTouch /Users/patrickrussell/Documents/FYP/CamOverlay/build/Debug-iphonesimulator/CamOverlay.app
+r0
+

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>ReadMe.txt</key>
+		<data>
+		5ZYrH8zsnnZDkEhJDJ9p83LXv6Y=
+		</data>
+		<key>embedded.mobileprovision</key>
+		<data>
+		/E+yP4sOU5P0S52j09IvAQOqqdA=
+		</data>
+		<key>en.lproj/MainWindow.nib</key>
+		<data>
+		AW0WdoV/94/1EXbyHvnfqdm/uAc=
+		</data>
+		<key>en.lproj/ToolbarSearchViewController.nib</key>
+		<data>
+		i/sDoxdC88z+Cm5b6Y82vmdaYJ0=
+		</data>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>.*</key>
+		<true/>
+		<key>Info.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>ResourceRules.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>100</real>
+		</dict>
+	</dict>
+</dict>
+</plist>

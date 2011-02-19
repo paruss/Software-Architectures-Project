@@ -1,0 +1,232 @@
+\documentclass{article}
+
+\usepackage[pdftex]{graphicx}
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+
+\setlength{\parindent}{0pt}
+\pdfpagewidth 8.5in
+\pdfpageheight 11in
+
+\begin{document}
+
+\begin{titlepage}
+
+\begin{center}
+
+% Upper part of the page
+   
+\textsc{\LARGE University of Limerick}\\[1.5cm]
+
+\textsc{\Large Final year project}\\[0.5cm]
+
+\textsc{\Large Interim Report}\\[0.5cm]
+
+% Title
+\HRule \\[0.4cm]
+{ \huge \bfseries Litter Tracking Smartphone Appliction}\\[0.4cm]
+
+\HRule \\[1.5cm]
+
+% Author and supervisor
+\begin{minipage}{0.4\textwidth}
+\begin{flushleft} \large
+\emph{Author:}\\
+\textsc{Patrick Russell - 0734004}
+\end{flushleft}
+\end{minipage}
+\begin{minipage}{0.4\textwidth}
+\begin{flushright} \large
+\emph{Supervisor:} \\
+Mr.~Micheal \textsc{Coughlan}
+\end{flushright}
+\end{minipage}
+
+\vfill
+
+% Bottom of the page
+{\large \today}
+
+\end{center}
+
+\end{titlepage}
+\newpage
+
+% Table of contents
+
+\tableofcontents
+\newpage
+
+% Summary Section
+
+\label{sec:Summary}
+\section{Project Summary}
+\paragraph{}
+\label{par:S Paragraph}
+
+Limerick city has been identified as a "litter blackspot" by the Limerick post newspaper after it was ranked bottom of the IBAL litter league.
+It costs the Limerick city council €3 million per year to keep the city clean. It is obvious here that there is a problem and that problem is not with the city council its with peoples mentality towards litter.  
+
+\paragraph{}
+\label{par:First Paragraph}
+
+This project is an iPhone application which utilise geocaching in order to reduce and raise awareness of littering. The application works by the user taking a picture of the litter and uploading it to a remote server. Once this photo is uploaded the location of where the photo was taken is also uploaded to the server. The advantage of this is that areas where litter was located will be represented on a map for councils and cleaning authorities to provide necessary services to try and curb littering in that area. 
+
+\paragraph{}
+\label{par:Second Paragraph}
+
+The project is divided into two key areas which are the iPhone application and the web services implementation. The application which is on the iOS platform will handle the location of the litter and the website will represent the information from the application in a different way.
+The project also incorporates a website which can be viewed by application users to see their accounts and view a map of all litter. This site will also provide details of areas of high litter concentration. This data may be used by councils and litter authorities to determine areas which my need extra bins etc.
+
+\paragraph{}
+\label{par:Third Paragraph}
+
+The device chosen for development was iOS for the iPhone. The development environment chosen was Xcode as it is required for iOS development. The language chosen was objective C which is also a requirement for iOS. 
+The UI design was done using interface builder which is a part of Xcode and is designed for designing interfaces for iOS devices.
+The project will also need to have a remote database to store photos and GPS locations. For this PHP and MySQL are used to store this data. Using the google maps API on a website to poll this database for data the location of rubbish can be placed on a map for viewing on a computer and on the mobile device.
+The website will also need to have the function to view and manage photos and account information for this some HTML and Javascript will be required. 
+
+\newpage
+
+% End of Summary 
+
+% Introduction
+
+\label{sec:Subsection}
+
+\section{Introduction}
+
+% General Information
+
+\subsection{General Information}
+
+This project is an application for a smart phone targeted at reducing litter and promoting cleanliness. This application will work by a user locating a piece of litter, taking a picture of it. The location of the user when the picture is taken will correspond to the location of this particular piece of litter. This data must be stored in a remote database and can be viewed by other users.
+
+\paragraph{}
+\label{par:Second Paragraph}
+
+
+There are many smart phone devices on the market which provide the necessary features but the one which was chosen was the iPhone 3GS.
+It is also important that the device has a development environment for home developers as the lack of a development environment with relevant repositories for assistance would make development a great deal more difficult.
+Once a photo is taken and the user selects to upload it the photo and the GPS location must be sent to a remote server where the data will be stored in a database.
+
+\paragraph{}
+\label{par:Second Paragraph}
+
+A database will need to be implemented to store user login data, photos with their geographical location and possibly some other information which would be necessary. I propose to do this by creating an SQL database which the device can connect to to pull and push data as necessary.
+
+\paragraph{}
+\label{par:website}
+
+
+\begin{itemize}
+\item Repeat stuff above
+\item Mention the technologies, language exactly what will be done etc.
+\end{itemize}
+
+%Motivation Factors
+
+\subsection{Motivation Factors}
+
+\paragraph{}
+\label{par:2par}
+
+Littering has been identified as a key area of cost for local authorities. 
+One way to promote a litter cleaning mentality and litter awareness would be a smartphone application. The application would be fun in the way that people would see it as a game trying to seek litter and identifying it to earn points.
+
+\paragraph{}
+\label{par:2par}
+
+A website for users to view other users litter locations would be another factor for people to want to use this application and also have a leaderboard to show users who have spotted the most litter.
+The data could also be used to identify key areas of litter which would help the council identify an area where more bins could be placed or signs could be placed to try and curb littering.
+
+\paragraph{}
+\label{par:2par}
+There are many different smartphone devices on the market most of which you can develop for using an IDE which the the OS creator provides. Some of these such OS's are Android, iOS and windows mobile. 
+
+\begin{itemize}
+\item why i chose the platform
+\item why i chose the language
+\item why I chose the IDE
+\item Why location
+\item Why litter locating
+\end{itemize}
+
+%Objectives Of Proposed Work
+
+\subsection{Objectives of Proposed Work}
+\begin{itemize}
+\item keep area clean
+\item discover possibilities of geo caching
+\item future prospects?
+\end{itemize}
+
+%Structure of Report
+
+\subsection{Structure of Report}
+
+\newpage
+\label{sec:Motivation}
+
+%Research
+
+\section{Research}
+\paragraph{}
+\label{par:First Paragraph}
+
+Smartphone's have become much more widespread and popular amongst modern society. This can be attributed to the progress technology has made in making very powerful devices which fit in our pocket. Smartphone use is constantly on the up at the moment so this is a market which is still growing. 
+Geocaching is something which is done in quite a few applications on the application market for applications such as "Find my car" which is an application which stores the location of your car if you are in a place where your car is in a difficult place to find. Another application is google latitude which is an application which your friends can use to locate you based on the position of your phone. The application can also be used to track previous movements.
+
+%Geo Caching
+
+\subsection{Geo Caching}
+
+%Platforms
+
+\subsection{Platforms}
+
+%Software and Language
+
+\subsection{Software and Language}
+
+%Web Services
+
+\subsection{Web Services}
+sqllite
+
+% Prototypes
+
+\subsection{Prototypes}
+\begin{itemize}
+\item sample applications done
+\item some screenshots of the application and code snippets etc.
+\end{itemize}
+\newpage
+
+%Description Of Current Progress
+
+\label{sec:Objectives}
+\section{Description of Current Progress}
+
+%Application Progress
+
+\subsection{Application Progress}
+\begin{itemize}
+\item Code
+\item Mockups 
+\item Gui Mockups
+\end{itemize}
+
+%Web services progress
+
+\subsection{Web Services Progress}
+database schemas etc.
+\newpage
+
+\label{sec:Objectives}
+
+% Project plan
+
+\section{Project Plan}
+can get most of from project management.
+
+\end{document}

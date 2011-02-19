@@ -1,0 +1,142 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* BuckysButtons */ = {
+		activeExec = 0;
+		executables = (
+			FF8F5C4F1262541400052B3D /* BuckysButtons */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* BuckysButtonsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {778, 524}}";
+			sepNavSelRange = "{195, 0}";
+			sepNavVisRange = "{0, 207}";
+			sepNavWindowFrame = "{{1, 4}, {1151, 838}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* BuckysButtonsViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {778, 559}}";
+			sepNavSelRange = "{519, 0}";
+			sepNavVisRange = "{3, 915}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FF8F5C4F1262541400052B3D /* BuckysButtons */;
+		activeSDKPreference = iphonesimulator4.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* BuckysButtons */;
+		codeSenseManager = FF8F5C5A1262543200052B3D /* Code sense */;
+		executables = (
+			FF8F5C4F1262541400052B3D /* BuckysButtons */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					600,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 308433940;
+			PBXWorkspaceStateSaveDate = 308433940;
+		};
+		perUserProjectItems = {
+			FF8F5C66126258AA00052B3D /* PBXTextBookmark */ = FF8F5C66126258AA00052B3D /* PBXTextBookmark */;
+			FF8F5C821262594E00052B3D /* PBXTextBookmark */ = FF8F5C821262594E00052B3D /* PBXTextBookmark */;
+			FF8F5CAB126272F900052B3D /* PBXTextBookmark */ = FF8F5CAB126272F900052B3D /* PBXTextBookmark */;
+		};
+		sourceControlManager = FF8F5C591262543200052B3D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	FF8F5C4F1262541400052B3D /* BuckysButtons */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = BuckysButtons;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	FF8F5C591262543200052B3D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	FF8F5C5A1262543200052B3D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	FF8F5C66126258AA00052B3D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* BuckysButtonsViewController.h */;
+		name = "BuckysButtonsViewController.h: 8";
+		rLen = 0;
+		rLoc = 195;
+		rType = 0;
+		vrLen = 207;
+		vrLoc = 0;
+	};
+	FF8F5C821262594E00052B3D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* BuckysButtonsViewController.m */;
+		name = "BuckysButtonsViewController.m: 18";
+		rLen = 0;
+		rLoc = 519;
+		rType = 0;
+		vrLen = 910;
+		vrLoc = 3;
+	};
+	FF8F5CAB126272F900052B3D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* BuckysButtonsViewController.m */;
+		name = "BuckysButtonsViewController.m: 18";
+		rLen = 0;
+		rLoc = 519;
+		rType = 0;
+		vrLen = 915;
+		vrLoc = 3;
+	};
+}

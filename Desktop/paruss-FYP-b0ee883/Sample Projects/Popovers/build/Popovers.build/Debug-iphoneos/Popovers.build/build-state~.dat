@@ -1,0 +1,668 @@
+TPopovers
+v7
+r0
+t315844347.342894
+cCheck dependencies
+cCpResource build/Debug-iphoneos/Popovers.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/Info.plist Popovers-Info.plist
+cCopyPNGFile /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/Icon-72.png Images/Icon-72.png
+cCopyPNGFile /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/Icon-Small-50.png Images/Icon-Small-50.png
+cCopyPNGFile /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/Icon-Small.png Images/Icon-Small.png
+cCpResource build/Debug-iphoneos/Popovers.app/iTunesArtwork Images/iTunesArtwork
+cCopyPNGFile /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/Default-Landscape.png Images/Default-Landscape.png
+cCopyPNGFile /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/Default.png Images/Default.png
+cCpResource build/Debug-iphoneos/Popovers.app/ReadMe.txt ReadMe.txt
+cCompileXIB /Users/patrickrussell/Downloads/Popovers/en.lproj/DetailView.xib
+cCompileXIB /Users/patrickrussell/Downloads/Popovers/en.lproj/MainWindow.xib
+cProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Popovers_Prefix-hcctmvtrikqryiflzdgsdmimduhl/Popovers_Prefix.pch.gch Popovers_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Popovers_Prefix-efjhpfuiokxdqoaedsetyrxlebnj/Popovers_Prefix.pch.gch Popovers_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv6/main.o /Users/patrickrussell/Downloads/Popovers/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv6/PopoversAppDelegate.o /Users/patrickrussell/Downloads/Popovers/Classes/PopoversAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv6/RootViewController.o /Users/patrickrussell/Downloads/Popovers/Classes/RootViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv6/DetailViewController.o /Users/patrickrussell/Downloads/Popovers/Classes/DetailViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv6/PopoverContentViewController.o /Users/patrickrussell/Downloads/Popovers/Classes/PopoverContentViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv6/Popovers normal armv6
+cCompileC build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv7/main.o /Users/patrickrussell/Downloads/Popovers/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv7/PopoversAppDelegate.o /Users/patrickrussell/Downloads/Popovers/Classes/PopoversAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv7/RootViewController.o /Users/patrickrussell/Downloads/Popovers/Classes/RootViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv7/DetailViewController.o /Users/patrickrussell/Downloads/Popovers/Classes/DetailViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv7/PopoverContentViewController.o /Users/patrickrussell/Downloads/Popovers/Classes/PopoverContentViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv7/Popovers normal armv7
+cCreateUniversalBinary /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/Popovers normal "armv6 armv7"
+cGenerateDSYMFile /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app.dSYM /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/Popovers
+cProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/embedded.mobileprovision
+cTouch /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers.xcent
+cCodeSign /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk
+c000000004C6DE9E30000000000000110
+t1282271715
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+c000000004C578FA900000000000001A7
+t1280806825
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+c000000004C578FA900000000000001E5
+t1280806825
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A51050000000000345F00
+t1280987397
+s3432192
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A52B100000000003E1EF0
+t1280987825
+s4071152
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A527F0000000000001466
+t1280987775
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C62427000000000000009CD
+t1281507952
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C62430F0000000002EBC2B0
+t1281508111
+s49005232
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/Availability.h
+c000000004C57A57A0000000000001A5C
+t1280812410
+s6748
+
+N/Users/patrickrussell/Downloads/Popovers/Classes/DetailViewController.h
+c000000004CBF6ED10000000000001107
+t1287614161
+s4359
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Downloads/Popovers/Classes/DetailViewController.m
+c000000004CBF6ED10000000000002732
+t1287614161
+s10034
+i"DetailViewController.h"
+i"RootViewController.h"
+i"PopoverContentViewController.h"
+
+N/Users/patrickrussell/Downloads/Popovers/Classes/PopoverContentViewController.h
+c000000004CBF6ED10000000000000A7C
+t1287614161
+s2684
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Downloads/Popovers/Classes/PopoverContentViewController.m
+c000000004CBF6ED10000000000000F10
+t1287614161
+s3856
+i"PopoverContentViewController.h"
+
+N/Users/patrickrussell/Downloads/Popovers/Classes/PopoversAppDelegate.h
+c000000004CBF6ED10000000000000C46
+t1287614161
+s3142
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Downloads/Popovers/Classes/PopoversAppDelegate.m
+c000000004CBF6ED10000000000000DA4
+t1287614161
+s3492
+i"PopoversAppDelegate.h"
+i"RootViewController.h"
+i"DetailViewController.h"
+
+N/Users/patrickrussell/Downloads/Popovers/Classes/RootViewController.h
+c000000004CBF6ED10000000000000AFD
+t1287614161
+s2813
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Downloads/Popovers/Classes/RootViewController.m
+c000000004CBF6ED100000000000011DB
+t1287614161
+s4571
+i"RootViewController.h"
+i"DetailViewController.h"
+
+N/Users/patrickrussell/Downloads/Popovers/Images/Default-Landscape.png
+c000000004CB39A210000000000004194
+t1286838817
+s16788
+
+N/Users/patrickrussell/Downloads/Popovers/Images/Default.png
+c000000004CB39A2100000000000040B5
+t1286838817
+s16565
+
+N/Users/patrickrussell/Downloads/Popovers/Images/Icon-72.png
+c000000004CB39A210000000000000427
+t1286838817
+s1063
+
+N/Users/patrickrussell/Downloads/Popovers/Images/Icon-Small-50.png
+c000000004CB39A2100000000000003E0
+t1286838817
+s992
+
+N/Users/patrickrussell/Downloads/Popovers/Images/Icon-Small.png
+c000000004CB39A210000000000000396
+t1286838817
+s918
+
+N/Users/patrickrussell/Downloads/Popovers/Images/iTunesArtwork
+c000000004CB39A210000000000001444
+t1286838817
+s5188
+
+N/Users/patrickrussell/Downloads/Popovers/Popovers_Prefix.pch
+c000000004CB39A210000000000000142
+t1286838817
+s322
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Downloads/Popovers/ReadMe.txt
+c000000004CB614DA000000000000077E
+t1287001306
+s1918
+
+N/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app
+t1294151547
+s578
+
+N/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app.dSYM
+t1294151546
+s102
+
+N/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/Default-Landscape.png
+t1294151536
+s10951
+
+N/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/Default.png
+t1294151536
+s9326
+
+N/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/Icon-72.png
+t1294151536
+s925
+
+N/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/Icon-Small-50.png
+t1294151536
+s880
+
+N/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/Icon-Small.png
+t1294151536
+s854
+
+N/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/Info.plist
+t1294151536
+s1025
+
+N/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/PkgInfo
+t1294151536
+s8
+
+N/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/Popovers
+t1294151546
+s77788
+
+N/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/ReadMe.txt
+t1294151536
+s1918
+
+N/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/ResourceRules.plist
+t1294151536
+s485
+
+N/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/embedded.mobileprovision
+t1294151546
+s15853
+
+N/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/en.lproj/DetailView.nib
+t1294151538
+s2592
+
+N/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/en.lproj/MainWindow.nib
+t1294151538
+s1935
+
+N/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/iTunesArtwork
+t1294151536
+s5188
+
+N/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv6/DetailViewController.o
+t1294151544
+s63776
+
+N/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv6/PopoverContentViewController.o
+t1294151544
+s38168
+
+N/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv6/Popovers
+t1294151545
+s36828
+
+N/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv6/Popovers.LinkFileList
+c000000004D232F70000000000000029D
+t1294151536
+s669
+
+N/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv6/PopoversAppDelegate.o
+t1294151543
+s49640
+
+N/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv6/RootViewController.o
+t1294151543
+s41932
+
+N/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv6/main.o
+t1294151543
+s6452
+
+N/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv7/DetailViewController.o
+t1294151546
+s63188
+
+N/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv7/PopoverContentViewController.o
+t1294151546
+s38040
+
+N/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv7/Popovers
+t1294151546
+s36828
+
+N/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv7/Popovers.LinkFileList
+c000000004D232F70000000000000029D
+t1294151536
+s669
+
+N/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv7/PopoversAppDelegate.o
+t1294151545
+s49528
+
+N/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv7/RootViewController.o
+t1294151545
+s41804
+
+N/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv7/main.o
+t1294151545
+s6436
+
+N/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers.xcent
+t1294151546
+s432
+
+N/Users/patrickrussell/Downloads/Popovers/en.lproj/DetailView.xib
+c000000004CB39A210000000000008C8E
+t1286838817
+s35982
+
+N/Users/patrickrussell/Downloads/Popovers/en.lproj/MainWindow.xib
+c000000004CB39A2100000000000069CC
+t1286838817
+s27084
+
+N/Users/patrickrussell/Downloads/Popovers/main.m
+c000000004CBF6ED10000000000000AAB
+t1287614161
+s2731
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision
+c000000004CB063CE0000000000003DED
+t1286628302
+s15853
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Popovers_Prefix-efjhpfuiokxdqoaedsetyrxlebnj/Popovers_Prefix.pch.gch
+t1294151543
+s10315312
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Popovers_Prefix-hcctmvtrikqryiflzdgsdmimduhl/Popovers_Prefix.pch.gch
+t1294151540
+s9848368
+
+NPopovers-Info.plist
+c000000004CB39A210000000000000517
+t1286838817
+s1303
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315844336#315844336#0(0"0(0#1#0"2462876304#0"0#
+
+CCodeSign /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app
+s315844346.547687
+e315844347.342751
+r1
+xCodeSign
+x/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app
+lSLF07#2@42"CodeSign build/Debug-iphoneos/Popovers.app315844346#315844347#0(0"0(0#0#74"/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app2462876304#664"    cd /Users/patrickrussell/Downloads/Popovers    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Patrick Russell (WD3RPMEYT5)" --resource-rules=/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/ResourceRules.plist --entitlements /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers.xcent /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app0#
+
+CCompileC build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv6/DetailViewController.o /Users/patrickrussell/Downloads/Popovers/Classes/DetailViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315844343.993568
+e315844344.182012
+r1
+xCompileC
+xbuild/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv6/DetailViewController.o
+x/Users/patrickrussell/Downloads/Popovers/Classes/DetailViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/patrickrussell/Downloads/Popovers/Classes/DetailViewController.m315844343#315844344#0(0"0(0#0#71"/Users/patrickrussell/Downloads/Popovers/Classes/DetailViewController.m2462876304#1806"    cd /Users/patrickrussell/Downloads/Popovers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-generated-files.hmap -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-own-target-headers.hmap -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-project-headers.hmap -F/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Popovers_Prefix-hcctmvtrikqryiflzdgsdmimduhl/Popovers_Prefix.pch -c /Users/patrickrussell/Downloads/Popovers/Classes/DetailViewController.m -o /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv6/DetailViewController.o0#
+
+CCompileC build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv6/PopoverContentViewController.o /Users/patrickrussell/Downloads/Popovers/Classes/PopoverContentViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315844344.182174
+e315844344.344728
+r1
+xCompileC
+xbuild/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv6/PopoverContentViewController.o
+x/Users/patrickrussell/Downloads/Popovers/Classes/PopoverContentViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/patrickrussell/Downloads/Popovers/Classes/PopoverContentViewController.m315844344#315844344#0(0"0(0#0#79"/Users/patrickrussell/Downloads/Popovers/Classes/PopoverContentViewController.m2462876304#1822"    cd /Users/patrickrussell/Downloads/Popovers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-generated-files.hmap -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-own-target-headers.hmap -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-project-headers.hmap -F/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Popovers_Prefix-hcctmvtrikqryiflzdgsdmimduhl/Popovers_Prefix.pch -c /Users/patrickrussell/Downloads/Popovers/Classes/PopoverContentViewController.m -o /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv6/PopoverContentViewController.o0#
+
+CCompileC build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv6/PopoversAppDelegate.o /Users/patrickrussell/Downloads/Popovers/Classes/PopoversAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315844343.781858
+e315844343.892375
+r1
+xCompileC
+xbuild/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv6/PopoversAppDelegate.o
+x/Users/patrickrussell/Downloads/Popovers/Classes/PopoversAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/patrickrussell/Downloads/Popovers/Classes/PopoversAppDelegate.m315844343#315844343#0(0"0(0#0#70"/Users/patrickrussell/Downloads/Popovers/Classes/PopoversAppDelegate.m2462876304#1804"    cd /Users/patrickrussell/Downloads/Popovers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-generated-files.hmap -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-own-target-headers.hmap -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-project-headers.hmap -F/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Popovers_Prefix-hcctmvtrikqryiflzdgsdmimduhl/Popovers_Prefix.pch -c /Users/patrickrussell/Downloads/Popovers/Classes/PopoversAppDelegate.m -o /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv6/PopoversAppDelegate.o0#
+
+CCompileC build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv6/RootViewController.o /Users/patrickrussell/Downloads/Popovers/Classes/RootViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315844343.892531
+e315844343.993405
+r1
+xCompileC
+xbuild/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv6/RootViewController.o
+x/Users/patrickrussell/Downloads/Popovers/Classes/RootViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/patrickrussell/Downloads/Popovers/Classes/RootViewController.m315844343#315844343#0(0"0(0#0#69"/Users/patrickrussell/Downloads/Popovers/Classes/RootViewController.m2462876304#1802"    cd /Users/patrickrussell/Downloads/Popovers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-generated-files.hmap -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-own-target-headers.hmap -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-project-headers.hmap -F/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Popovers_Prefix-hcctmvtrikqryiflzdgsdmimduhl/Popovers_Prefix.pch -c /Users/patrickrussell/Downloads/Popovers/Classes/RootViewController.m -o /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv6/RootViewController.o0#
+
+CCompileC build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv6/main.o /Users/patrickrussell/Downloads/Popovers/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315844343.703738
+e315844343.781702
+r1
+xCompileC
+xbuild/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv6/main.o
+x/Users/patrickrussell/Downloads/Popovers/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/patrickrussell/Downloads/Popovers/main.m315844343#315844343#0(0"0(0#0#47"/Users/patrickrussell/Downloads/Popovers/main.m2462876304#1766"    cd /Users/patrickrussell/Downloads/Popovers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-generated-files.hmap -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-own-target-headers.hmap -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-project-headers.hmap -F/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Popovers_Prefix-hcctmvtrikqryiflzdgsdmimduhl/Popovers_Prefix.pch -c /Users/patrickrussell/Downloads/Popovers/main.m -o /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv7/DetailViewController.o /Users/patrickrussell/Downloads/Popovers/Classes/DetailViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315844345.828180
+e315844346.009713
+r1
+xCompileC
+xbuild/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv7/DetailViewController.o
+x/Users/patrickrussell/Downloads/Popovers/Classes/DetailViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/patrickrussell/Downloads/Popovers/Classes/DetailViewController.m315844345#315844346#0(0"0(0#0#71"/Users/patrickrussell/Downloads/Popovers/Classes/DetailViewController.m2462876304#1806"    cd /Users/patrickrussell/Downloads/Popovers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-generated-files.hmap -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-own-target-headers.hmap -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-project-headers.hmap -F/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/DerivedSources/armv7 -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Popovers_Prefix-efjhpfuiokxdqoaedsetyrxlebnj/Popovers_Prefix.pch -c /Users/patrickrussell/Downloads/Popovers/Classes/DetailViewController.m -o /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv7/DetailViewController.o0#
+
+CCompileC build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv7/PopoverContentViewController.o /Users/patrickrussell/Downloads/Popovers/Classes/PopoverContentViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315844346.009875
+e315844346.107676
+r1
+xCompileC
+xbuild/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv7/PopoverContentViewController.o
+x/Users/patrickrussell/Downloads/Popovers/Classes/PopoverContentViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/patrickrussell/Downloads/Popovers/Classes/PopoverContentViewController.m315844346#315844346#0(0"0(0#0#79"/Users/patrickrussell/Downloads/Popovers/Classes/PopoverContentViewController.m2462876304#1822"    cd /Users/patrickrussell/Downloads/Popovers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-generated-files.hmap -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-own-target-headers.hmap -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-project-headers.hmap -F/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/DerivedSources/armv7 -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Popovers_Prefix-efjhpfuiokxdqoaedsetyrxlebnj/Popovers_Prefix.pch -c /Users/patrickrussell/Downloads/Popovers/Classes/PopoverContentViewController.m -o /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv7/PopoverContentViewController.o0#
+
+CCompileC build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv7/PopoversAppDelegate.o /Users/patrickrussell/Downloads/Popovers/Classes/PopoversAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315844345.614901
+e315844345.723240
+r1
+xCompileC
+xbuild/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv7/PopoversAppDelegate.o
+x/Users/patrickrussell/Downloads/Popovers/Classes/PopoversAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/patrickrussell/Downloads/Popovers/Classes/PopoversAppDelegate.m315844345#315844345#0(0"0(0#0#70"/Users/patrickrussell/Downloads/Popovers/Classes/PopoversAppDelegate.m2462876304#1804"    cd /Users/patrickrussell/Downloads/Popovers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-generated-files.hmap -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-own-target-headers.hmap -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-project-headers.hmap -F/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/DerivedSources/armv7 -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Popovers_Prefix-efjhpfuiokxdqoaedsetyrxlebnj/Popovers_Prefix.pch -c /Users/patrickrussell/Downloads/Popovers/Classes/PopoversAppDelegate.m -o /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv7/PopoversAppDelegate.o0#
+
+CCompileC build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv7/RootViewController.o /Users/patrickrussell/Downloads/Popovers/Classes/RootViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315844345.723400
+e315844345.828019
+r1
+xCompileC
+xbuild/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv7/RootViewController.o
+x/Users/patrickrussell/Downloads/Popovers/Classes/RootViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/patrickrussell/Downloads/Popovers/Classes/RootViewController.m315844345#315844345#0(0"0(0#0#69"/Users/patrickrussell/Downloads/Popovers/Classes/RootViewController.m2462876304#1802"    cd /Users/patrickrussell/Downloads/Popovers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-generated-files.hmap -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-own-target-headers.hmap -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-project-headers.hmap -F/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/DerivedSources/armv7 -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Popovers_Prefix-efjhpfuiokxdqoaedsetyrxlebnj/Popovers_Prefix.pch -c /Users/patrickrussell/Downloads/Popovers/Classes/RootViewController.m -o /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv7/RootViewController.o0#
+
+CCompileC build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv7/main.o /Users/patrickrussell/Downloads/Popovers/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315844345.273776
+e315844345.614745
+r1
+xCompileC
+xbuild/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv7/main.o
+x/Users/patrickrussell/Downloads/Popovers/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/patrickrussell/Downloads/Popovers/main.m315844345#315844345#0(0"0(0#0#47"/Users/patrickrussell/Downloads/Popovers/main.m2462876304#1766"    cd /Users/patrickrussell/Downloads/Popovers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-generated-files.hmap -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-own-target-headers.hmap -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-project-headers.hmap -F/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/DerivedSources/armv7 -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Popovers_Prefix-efjhpfuiokxdqoaedsetyrxlebnj/Popovers_Prefix.pch -c /Users/patrickrussell/Downloads/Popovers/main.m -o /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/patrickrussell/Downloads/Popovers/en.lproj/DetailView.xib
+s315844336.876363
+e315844339.090504
+r1
+xCompileXIB
+x/Users/patrickrussell/Downloads/Popovers/en.lproj/DetailView.xib
+lSLF07#2@34"CompileXIB en.lproj/DetailView.xib315844336#315844339#0(0"0(0#0#64"/Users/patrickrussell/Downloads/Popovers/en.lproj/DetailView.xib2462876304#567"    cd /Users/patrickrussell/Downloads/Popovers    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/en.lproj/DetailView.nib /Users/patrickrussell/Downloads/Popovers/en.lproj/DetailView.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/patrickrussell/Downloads/Popovers/en.lproj/MainWindow.xib
+s315844336.920080
+e315844338.971072
+r1
+xCompileXIB
+x/Users/patrickrussell/Downloads/Popovers/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib315844336#315844338#0(0"0(0#0#64"/Users/patrickrussell/Downloads/Popovers/en.lproj/MainWindow.xib2462876304#567"    cd /Users/patrickrussell/Downloads/Popovers    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/en.lproj/MainWindow.nib /Users/patrickrussell/Downloads/Popovers/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/Default-Landscape.png Images/Default-Landscape.png
+s315844336.502292
+e315844336.919899
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/Default-Landscape.png
+xImages/Default-Landscape.png
+lSLF07#2@96"CopyPNGFile build/Debug-iphoneos/Popovers.app/Default-Landscape.png Images/Default-Landscape.png315844336#315844336#0(0"0(0#0#69"/Users/patrickrussell/Downloads/Popovers/Images/Default-Landscape.png2462876304#596"    cd /Users/patrickrussell/Downloads/Popovers    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/Popovers/Images/Default-Landscape.png /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/Default-Landscape.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/Default.png Images/Default.png
+s315844336.508826
+e315844336.874458
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/Default.png
+xImages/Default.png
+lSLF07#2@76"CopyPNGFile build/Debug-iphoneos/Popovers.app/Default.png Images/Default.png315844336#315844336#0(0"0(0#0#59"/Users/patrickrussell/Downloads/Popovers/Images/Default.png2462876304#576"    cd /Users/patrickrussell/Downloads/Popovers    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/Popovers/Images/Default.png /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/Default.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/Icon-72.png Images/Icon-72.png
+s315844336.318811
+e315844336.467608
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/Icon-72.png
+xImages/Icon-72.png
+lSLF07#2@76"CopyPNGFile build/Debug-iphoneos/Popovers.app/Icon-72.png Images/Icon-72.png315844336#315844336#0(0"0(0#0#59"/Users/patrickrussell/Downloads/Popovers/Images/Icon-72.png2462876304#576"    cd /Users/patrickrussell/Downloads/Popovers    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/Popovers/Images/Icon-72.png /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/Icon-72.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/Icon-Small-50.png Images/Icon-Small-50.png
+s315844336.319995
+e315844336.455452
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/Icon-Small-50.png
+xImages/Icon-Small-50.png
+lSLF07#2@88"CopyPNGFile build/Debug-iphoneos/Popovers.app/Icon-Small-50.png Images/Icon-Small-50.png315844336#315844336#0(0"0(0#0#65"/Users/patrickrussell/Downloads/Popovers/Images/Icon-Small-50.png2462876304#588"    cd /Users/patrickrussell/Downloads/Popovers    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/Popovers/Images/Icon-Small-50.png /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/Icon-Small-50.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/Icon-Small.png Images/Icon-Small.png
+s315844336.455599
+e315844336.508694
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/Icon-Small.png
+xImages/Icon-Small.png
+lSLF07#2@82"CopyPNGFile build/Debug-iphoneos/Popovers.app/Icon-Small.png Images/Icon-Small.png315844336#315844336#0(0"0(0#0#62"/Users/patrickrussell/Downloads/Popovers/Images/Icon-Small.png2462876304#582"    cd /Users/patrickrussell/Downloads/Popovers    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/Popovers/Images/Icon-Small.png /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/Icon-Small.png0#
+
+CCpResource build/Debug-iphoneos/Popovers.app/ReadMe.txt ReadMe.txt
+s315844336.874593
+e315844336.903835
+r1
+xCpResource
+xbuild/Debug-iphoneos/Popovers.app/ReadMe.txt
+xReadMe.txt
+lSLF07#2@15"Copy ReadMe.txt315844336#315844336#0(0"0(0#0#51"/Users/patrickrussell/Downloads/Popovers/ReadMe.txt2462876304#447"    cd /Users/patrickrussell/Downloads/Popovers    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/patrickrussell/Downloads/Popovers/ReadMe.txt /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app0#
+
+CCpResource build/Debug-iphoneos/Popovers.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+s315844336.295806
+e315844336.317970
+r1
+xCpResource
+xbuild/Debug-iphoneos/Popovers.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist315844336#315844336#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist2462876304#485"    cd /Users/patrickrussell/Downloads/Popovers    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app0#
+
+CCpResource build/Debug-iphoneos/Popovers.app/iTunesArtwork Images/iTunesArtwork
+s315844336.467775
+e315844336.508492
+r1
+xCpResource
+xbuild/Debug-iphoneos/Popovers.app/iTunesArtwork
+xImages/iTunesArtwork
+lSLF07#2@25"Copy Images/iTunesArtwork315844336#315844336#0(0"0(0#0#61"/Users/patrickrussell/Downloads/Popovers/Images/iTunesArtwork2462876304#457"    cd /Users/patrickrussell/Downloads/Popovers    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/patrickrussell/Downloads/Popovers/Images/iTunesArtwork /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app0#
+
+CCreateUniversalBinary /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/Popovers normal "armv6 armv7"
+s315844346.384153
+e315844346.405883
+r1
+xCreateUniversalBinary
+x/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/Popovers
+xnormal
+xarmv6 armv7
+lSLF07#2@85"CreateUniversalBinary build/Debug-iphoneos/Popovers.app/Popovers normal "armv6 armv7"315844346#315844346#0(0"0(0#0#52"/Users/patrickrussell/Downloads/Popovers/armv6 armv72462876304#534"    cd /Users/patrickrussell/Downloads/Popovers    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv6/Popovers /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv7/Popovers -output /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/Popovers0#
+
+CGenerateDSYMFile /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app.dSYM /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/Popovers
+s315844346.406034
+e315844346.507049
+r1
+xGenerateDSYMFile
+x/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app.dSYM
+x/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/Popovers
+lSLF07#2@98"GenerateDSYMFile build/Debug-iphoneos/Popovers.app.dSYM build/Debug-iphoneos/Popovers.app/Popovers315844346#315844346#0(0"0(0#0#83"/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/Popovers2462876304#371"    cd /Users/patrickrussell/Downloads/Popovers    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/Popovers -o /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app.dSYM0#
+
+CLd /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv6/Popovers normal armv6
+s315844344.344873
+e315844345.273536
+r1
+xLd
+x/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv6/Popovers
+xnormal
+xarmv6
+lSLF07#2@126"Link /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv6/Popovers315844344#315844345#0(0"0(0#0#0"2462876304#875"    cd /Users/patrickrussell/Downloads/Popovers    setenv IPHONEOS_DEPLOYMENT_TARGET 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -L/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos -F/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos -filelist /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv6/Popovers.LinkFileList -dead_strip -miphoneos-version-min=3.2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv6/Popovers0#
+
+CLd /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv7/Popovers normal armv7
+s315844346.107822
+e315844346.383975
+r1
+xLd
+x/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv7/Popovers
+xnormal
+xarmv7
+lSLF07#2@126"Link /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv7/Popovers315844346#315844346#0(0"0(0#0#0"2462876304#875"    cd /Users/patrickrussell/Downloads/Popovers    setenv IPHONEOS_DEPLOYMENT_TARGET 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -L/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos -F/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos -filelist /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv7/Popovers.LinkFileList -dead_strip -miphoneos-version-min=3.2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Objects-normal/armv7/Popovers0#
+
+CProcessInfoPlistFile /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/Info.plist Popovers-Info.plist
+s315844336.297475
+e315844336.318686
+r1
+xProcessInfoPlistFile
+x/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/Info.plist
+xPopovers-Info.plist
+lSLF07#2@27"Process Popovers-Info.plist315844336#315844336#0(0"0(0#0#60"/Users/patrickrussell/Downloads/Popovers/Popovers-Info.plist2462876304#574"    cd /Users/patrickrussell/Downloads/Popovers    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Popovers-Info.plist -genpkginfo /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/ResourceRules.plist -o /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/Info.plist0#
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Popovers_Prefix-efjhpfuiokxdqoaedsetyrxlebnj/Popovers_Prefix.pch.gch Popovers_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315844341.125585
+e315844343.703465
+r1
+xProcessPCH
+x/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Popovers_Prefix-efjhpfuiokxdqoaedsetyrxlebnj/Popovers_Prefix.pch.gch
+xPopovers_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Popovers_Prefix.pch315844341#315844343#0(0"0(0#0#60"/Users/patrickrussell/Downloads/Popovers/Popovers_Prefix.pch2462876304#1661"    cd /Users/patrickrussell/Downloads/Popovers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-generated-files.hmap -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-own-target-headers.hmap -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-project-headers.hmap -F/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/DerivedSources/armv7 -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/DerivedSources -c /Users/patrickrussell/Downloads/Popovers/Popovers_Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Popovers_Prefix-efjhpfuiokxdqoaedsetyrxlebnj/Popovers_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Popovers_Prefix-hcctmvtrikqryiflzdgsdmimduhl/Popovers_Prefix.pch.gch Popovers_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315844339.090689
+e315844341.125327
+r1
+xProcessPCH
+x/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Popovers_Prefix-hcctmvtrikqryiflzdgsdmimduhl/Popovers_Prefix.pch.gch
+xPopovers_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Popovers_Prefix.pch315844339#315844341#0(0"0(0#0#60"/Users/patrickrussell/Downloads/Popovers/Popovers_Prefix.pch2462876304#1661"    cd /Users/patrickrussell/Downloads/Popovers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-generated-files.hmap -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-own-target-headers.hmap -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers-project-headers.hmap -F/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/DerivedSources -c /Users/patrickrussell/Downloads/Popovers/Popovers_Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Popovers_Prefix-hcctmvtrikqryiflzdgsdmimduhl/Popovers_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/embedded.mobileprovision
+s315844346.507211
+e315844346.524804
+r1
+xProcessProductPackaging
+x/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision
+x/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/embedded.mobileprovision
+lSLF07#2@202"ProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" build/Debug-iphoneos/Popovers.app/embedded.mobileprovision315844346#315844346#0(0"0(0#0#99"/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/embedded.mobileprovision2462876304#437"    cd /Users/patrickrussell/Downloads/Popovers    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" -o /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers.xcent
+s315844346.532562
+e315844346.547568
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+x/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers.xcent
+lSLF07#2@178"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers.xcent315844346#315844346#0(0"0(0#0#106"/Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers.xcent2462876304#439"    cd /Users/patrickrussell/Downloads/Popovers    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/patrickrussell/Downloads/Popovers/build/Popovers.build/Debug-iphoneos/Popovers.build/Popovers.xcent0#
+
+CTouch /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app
+s315844346.524924
+e315844346.532396
+r1
+xTouch
+x/Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app
+lSLF07#2@80"Touch /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app315844346#315844346#0(0"0(0#0#0"2462876304#269"    cd /Users/patrickrussell/Downloads/Popovers    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/patrickrussell/Downloads/Popovers/build/Debug-iphoneos/Popovers.app0#
+

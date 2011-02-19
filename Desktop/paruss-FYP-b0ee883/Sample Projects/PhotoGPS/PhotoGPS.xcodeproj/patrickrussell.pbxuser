@@ -1,0 +1,370 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* PhotoGPSAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {935, 398}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 489}";
+		};
+	};
+	1D3623250D0F684500981E51 /* PhotoGPSAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1157}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 775}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* PhotoGPS */ = {
+		activeExec = 0;
+		executables = (
+			FFC04B9212BE7A690053C531 /* PhotoGPS */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* PhotoGPSViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1286, 546}}";
+			sepNavSelRange = "{576, 27}";
+			sepNavVisRange = "{155, 953}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* PhotoGPSViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {935, 2421}}";
+			sepNavSelRange = "{2171, 0}";
+			sepNavVisRange = "{1909, 1034}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FFC04B9212BE7A690053C531 /* PhotoGPS */;
+		activeSDKPreference = iphoneos4.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* PhotoGPS */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* PhotoGPS */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = FFC04B9712BE7A9D0053C531 /* Code sense */;
+		executables = (
+			FFC04B9212BE7A690053C531 /* PhotoGPS */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					757,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 315490207;
+			PBXWorkspaceStateSaveDate = 315490207;
+		};
+		perUserProjectItems = {
+			FFA7E9CB12CDFF3E00BFBC7B /* PBXTextBookmark */ = FFA7E9CB12CDFF3E00BFBC7B /* PBXTextBookmark */;
+			FFA7E9CD12CDFF3E00BFBC7B /* PBXTextBookmark */ = FFA7E9CD12CDFF3E00BFBC7B /* PBXTextBookmark */;
+			FFA7E9CF12CDFF3E00BFBC7B /* PBXTextBookmark */ = FFA7E9CF12CDFF3E00BFBC7B /* PBXTextBookmark */;
+			FFA7E9D312CDFF3E00BFBC7B /* PBXTextBookmark */ = FFA7E9D312CDFF3E00BFBC7B /* PBXTextBookmark */;
+			FFA7EAD412D0DE4200BFBC7B /* PBXTextBookmark */ = FFA7EAD412D0DE4200BFBC7B /* PBXTextBookmark */;
+			FFA7EAD612D0DE4200BFBC7B /* PBXTextBookmark */ = FFA7EAD612D0DE4200BFBC7B /* PBXTextBookmark */;
+			FFA7EAD712D0DE4200BFBC7B /* PBXTextBookmark */ = FFA7EAD712D0DE4200BFBC7B /* PBXTextBookmark */;
+			FFA7EAD912D0DE4200BFBC7B /* PBXTextBookmark */ = FFA7EAD912D0DE4200BFBC7B /* PBXTextBookmark */;
+			FFA7EADA12D0DE4200BFBC7B /* PBXTextBookmark */ = FFA7EADA12D0DE4200BFBC7B /* PBXTextBookmark */;
+			FFA7EADB12D0DE4200BFBC7B /* PBXTextBookmark */ = FFA7EADB12D0DE4200BFBC7B /* PBXTextBookmark */;
+			FFA7EADC12D0DE4200BFBC7B /* PBXTextBookmark */ = FFA7EADC12D0DE4200BFBC7B /* PBXTextBookmark */;
+			FFA7EADD12D0DE4200BFBC7B /* PBXTextBookmark */ = FFA7EADD12D0DE4200BFBC7B /* PBXTextBookmark */;
+			FFA7EADF12D0DE4200BFBC7B /* PBXTextBookmark */ = FFA7EADF12D0DE4200BFBC7B /* PBXTextBookmark */;
+		};
+		sourceControlManager = FFC04B9612BE7A9D0053C531 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {935, 422}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 366}";
+		};
+	};
+	6BAE1E0F126FDC74006526C1 /* CoreLocationController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {935, 420}}";
+			sepNavSelRange = "{415, 0}";
+			sepNavVisRange = "{0, 793}";
+		};
+	};
+	6BAE1E10126FDC74006526C1 /* CoreLocationController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1531, 481}}";
+			sepNavSelRange = "{869, 14}";
+			sepNavVisRange = "{263, 638}";
+		};
+	};
+	FFA7E6E112CB5AD700BFBC7B /* PhotoGPSViewController.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = PhotoGPSViewController.m;
+		path = /Users/patrickrussell/FYP/PhotoGPS/Classes/PhotoGPSViewController.m;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {935, 2356}}";
+			sepNavSelRange = "{1347, 11}";
+			sepNavVisRange = "{916, 742}";
+		};
+	};
+	FFA7E9CB12CDFF3E00BFBC7B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 366;
+		vrLoc = 0;
+	};
+	FFA7E9CD12CDFF3E00BFBC7B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FFA7E9CE12CDFF3E00BFBC7B /* CLLocationManager.h */;
+		name = "CLLocationManager.h: 138";
+		rLen = 52;
+		rLoc = 4178;
+		rType = 0;
+		vrLen = 1248;
+		vrLoc = 3546;
+	};
+	FFA7E9CE12CDFF3E00BFBC7B /* CLLocationManager.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CLLocationManager.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CLLocationManager.h;
+		sourceTree = "<absolute>";
+	};
+	FFA7E9CF12CDFF3E00BFBC7B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FFA7E9D012CDFF3E00BFBC7B /* CFBase.h */;
+		name = "CFBase.h: 321";
+		rLen = 22;
+		rLoc = 11733;
+		rType = 0;
+		vrLen = 710;
+		vrLoc = 11245;
+	};
+	FFA7E9D012CDFF3E00BFBC7B /* CFBase.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CFBase.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFBase.h;
+		sourceTree = "<absolute>";
+	};
+	FFA7E9D312CDFF3E00BFBC7B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* PhotoGPSAppDelegate.h */;
+		name = "PhotoGPSAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 489;
+		vrLoc = 0;
+	};
+	FFA7EAD412D0DE4200BFBC7B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FFA7EAD512D0DE4200BFBC7B /* CLLocationManager.h */;
+		name = "CLLocationManager.h: 138";
+		rLen = 53;
+		rLoc = 4178;
+		rType = 0;
+		vrLen = 659;
+		vrLoc = 45;
+	};
+	FFA7EAD512D0DE4200BFBC7B /* CLLocationManager.h */ = {
+		isa = PBXFileReference;
+		name = CLLocationManager.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CLLocationManager.h;
+		sourceTree = "<absolute>";
+	};
+	FFA7EAD612D0DE4200BFBC7B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* PhotoGPSAppDelegate.m */;
+		name = "PhotoGPSAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 775;
+		vrLoc = 0;
+	};
+	FFA7EAD712D0DE4200BFBC7B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FFA7EAD812D0DE4200BFBC7B /* UIViewController.h */;
+		name = "UIViewController.h: 116";
+		rLen = 201;
+		rLoc = 4669;
+		rType = 0;
+		vrLen = 3437;
+		vrLoc = 3640;
+	};
+	FFA7EAD812D0DE4200BFBC7B /* UIViewController.h */ = {
+		isa = PBXFileReference;
+		name = UIViewController.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h;
+		sourceTree = "<absolute>";
+	};
+	FFA7EAD912D0DE4200BFBC7B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* PhotoGPSViewController.h */;
+		name = "PhotoGPSViewController.h: 20";
+		rLen = 27;
+		rLoc = 576;
+		rType = 0;
+		vrLen = 953;
+		vrLoc = 155;
+	};
+	FFA7EADA12D0DE4200BFBC7B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6BAE1E10126FDC74006526C1 /* CoreLocationController.m */;
+		name = "CoreLocationController.m: 25";
+		rLen = 0;
+		rLoc = 510;
+		rType = 0;
+		vrLen = 1128;
+		vrLoc = 193;
+	};
+	FFA7EADB12D0DE4200BFBC7B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6BAE1E0F126FDC74006526C1 /* CoreLocationController.h */;
+		name = "CoreLocationController.h: 18";
+		rLen = 0;
+		rLoc = 415;
+		rType = 0;
+		vrLen = 793;
+		vrLoc = 0;
+	};
+	FFA7EADC12D0DE4200BFBC7B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FFA7E6E112CB5AD700BFBC7B /* PhotoGPSViewController.m */;
+		name = "PhotoGPSViewController.m: 49";
+		rLen = 11;
+		rLoc = 1347;
+		rType = 0;
+		vrLen = 742;
+		vrLoc = 916;
+	};
+	FFA7EADD12D0DE4200BFBC7B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FFA7EADE12D0DE4200BFBC7B /* CLLocation.h */;
+		rLen = 1;
+		rLoc = 228;
+		rType = 1;
+	};
+	FFA7EADE12D0DE4200BFBC7B /* CLLocation.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CLLocation.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CLLocation.h;
+		sourceTree = "<absolute>";
+	};
+	FFA7EADF12D0DE4200BFBC7B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FFA7EAE012D0DE4200BFBC7B /* CLLocation.h */;
+		name = "CLLocation.h: 229";
+		rLen = 27;
+		rLoc = 5965;
+		rType = 0;
+		vrLen = 788;
+		vrLoc = 2998;
+	};
+	FFA7EAE012D0DE4200BFBC7B /* CLLocation.h */ = {
+		isa = PBXFileReference;
+		name = CLLocation.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CLLocation.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1097, 3159}}";
+			sepNavSelRange = "{5965, 27}";
+			sepNavVisRange = "{2998, 788}";
+		};
+	};
+	FFC04B9212BE7A690053C531 /* PhotoGPS */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = PhotoGPS;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	FFC04B9612BE7A9D0053C531 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	FFC04B9712BE7A9D0053C531 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

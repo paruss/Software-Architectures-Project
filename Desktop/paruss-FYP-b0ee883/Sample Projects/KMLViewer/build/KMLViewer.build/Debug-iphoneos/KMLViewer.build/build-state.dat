@@ -1,0 +1,646 @@
+TKMLViewer
+v7
+r0
+t315851766.275339
+cCheck dependencies
+cCpResource build/Debug-iphoneos/KMLViewer.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/Info.plist KMLViewer-Info.plist
+cCpResource build/Debug-iphoneos/KMLViewer.app/route.kml route.kml
+cCompileXIB /Users/patrickrussell/Downloads/KMLViewer/en.lproj/KMLViewerViewController.xib
+cCompileXIB /Users/patrickrussell/Downloads/KMLViewer/en.lproj/MainWindow.xib
+cCopyPNGFile /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/Icon-72.png images/Icon-72.png
+cCopyPNGFile /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/Icon-Small-50.png images/Icon-Small-50.png
+cCopyPNGFile /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/Icon-Small.png images/Icon-Small.png
+cCopyPNGFile /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/Icon-Small@2x.png images/Icon-Small@2x.png
+cCopyPNGFile /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/Icon.png images/Icon.png
+cCopyPNGFile /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/Icon@2x.png images/Icon@2x.png
+cCpResource build/Debug-iphoneos/KMLViewer.app/iTunesArtwork images/iTunesArtwork
+cProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/KMLViewer_Prefix-adkcybjrcmnvclegfqflnfcgbluc/KMLViewer_Prefix.pch.gch KMLViewer_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/KMLViewer_Prefix-ecsisbyhktrddsczlboultrvmlvt/KMLViewer_Prefix.pch.gch KMLViewer_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv6/main.o /Users/patrickrussell/Downloads/KMLViewer/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv6/KMLViewerAppDelegate.o /Users/patrickrussell/Downloads/KMLViewer/Classes/KMLViewerAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv6/KMLViewerViewController.o /Users/patrickrussell/Downloads/KMLViewer/Classes/KMLViewerViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv6/KMLParser.o /Users/patrickrussell/Downloads/KMLViewer/Classes/KMLParser.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv6/KMLViewer normal armv6
+cCompileC build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv7/main.o /Users/patrickrussell/Downloads/KMLViewer/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv7/KMLViewerAppDelegate.o /Users/patrickrussell/Downloads/KMLViewer/Classes/KMLViewerAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv7/KMLViewerViewController.o /Users/patrickrussell/Downloads/KMLViewer/Classes/KMLViewerViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv7/KMLParser.o /Users/patrickrussell/Downloads/KMLViewer/Classes/KMLParser.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv7/KMLViewer normal armv7
+cCreateUniversalBinary /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/KMLViewer normal "armv6 armv7"
+cGenerateDSYMFile /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app.dSYM /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/KMLViewer
+cProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/embedded.mobileprovision
+cTouch /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer.xcent
+cCodeSign /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk
+c000000004C6DE9E30000000000000110
+t1282271715
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+c000000004C578FA900000000000001A7
+t1280806825
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+c000000004C578FA900000000000001E5
+t1280806825
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A51050000000000345F00
+t1280987397
+s3432192
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004C6C2FE600000000000C79C0
+t1282158566
+s817600
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A52B100000000003E1EF0
+t1280987825
+s4071152
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A527F0000000000001466
+t1280987775
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C6C31EB00000000000002FE
+t1282159083
+s766
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C6C320B00000000002801E0
+t1282159115
+s2621920
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C62427000000000000009CD
+t1281507952
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C62430F0000000002EBC2B0
+t1281508111
+s49005232
+
+N/Users/patrickrussell/Downloads/KMLViewer/Classes/KMLParser.h
+c000000004C7470B10000000000000C83
+t1282699441
+s3203
+i<MapKit/MapKit.h>
+
+N/Users/patrickrussell/Downloads/KMLViewer/Classes/KMLParser.m
+c000000004C7470B10000000000006A2A
+t1282699441
+s27178
+i"KMLParser.h"
+
+N/Users/patrickrussell/Downloads/KMLViewer/Classes/KMLViewerAppDelegate.h
+c000000004C7470B10000000000000B37
+t1282699441
+s2871
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Downloads/KMLViewer/Classes/KMLViewerAppDelegate.m
+c000000004C7470B10000000000000CA0
+t1282699441
+s3232
+i"KMLViewerAppDelegate.h"
+i"KMLViewerViewController.h"
+
+N/Users/patrickrussell/Downloads/KMLViewer/Classes/KMLViewerViewController.h
+c000000004C7470B10000000000000AEB
+t1282699441
+s2795
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i"KMLParser.h"
+
+N/Users/patrickrussell/Downloads/KMLViewer/Classes/KMLViewerViewController.m
+c000000004C7470B100000000000011EF
+t1282699441
+s4591
+i"KMLViewerViewController.h"
+
+N/Users/patrickrussell/Downloads/KMLViewer/KMLViewer_Prefix.pch
+c000000004BFEE35B00000000000000BB
+t1274995547
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app
+t1294158966
+s612
+
+N/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app.dSYM
+t1294158965
+s102
+
+N/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/Icon-72.png
+t1294158949
+s925
+
+N/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/Icon-Small-50.png
+t1294158949
+s880
+
+N/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/Icon-Small.png
+t1294158949
+s854
+
+N/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/Icon-Small@2x.png
+t1294158949
+s893
+
+N/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/Icon.png
+t1294158950
+s891
+
+N/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/Icon@2x.png
+t1294158950
+s995
+
+N/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/Info.plist
+t1294158945
+s867
+
+N/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/KMLViewer
+t1294158965
+s126860
+
+N/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/PkgInfo
+t1294158945
+s8
+
+N/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/ResourceRules.plist
+t1294158945
+s485
+
+N/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/embedded.mobileprovision
+t1294158965
+s15853
+
+N/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/en.lproj/KMLViewerViewController.nib
+t1294158949
+s1935
+
+N/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/en.lproj/MainWindow.nib
+t1294158948
+s1685
+
+N/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/iTunesArtwork
+t1294158950
+s5188
+
+N/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/route.kml
+t1294158945
+s21992
+
+N/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer.xcent
+t1294158965
+s424
+
+N/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv6/KMLParser.o
+t1294158963
+s111396
+
+N/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv6/KMLViewer
+t1294158964
+s61488
+
+N/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv6/KMLViewer.LinkFileList
+c000000004D234C610000000000000214
+t1294158945
+s532
+
+N/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv6/KMLViewerAppDelegate.o
+t1294158963
+s46404
+
+N/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv6/KMLViewerViewController.o
+t1294158963
+s42960
+
+N/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv6/main.o
+t1294158963
+s6452
+
+N/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv7/KMLParser.o
+t1294158964
+s110012
+
+N/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv7/KMLViewer
+t1294158965
+s57228
+
+N/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv7/KMLViewer.LinkFileList
+c000000004D234C610000000000000214
+t1294158945
+s532
+
+N/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv7/KMLViewerAppDelegate.o
+t1294158964
+s46340
+
+N/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv7/KMLViewerViewController.o
+t1294158964
+s42620
+
+N/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv7/main.o
+t1294158964
+s6436
+
+N/Users/patrickrussell/Downloads/KMLViewer/en.lproj/KMLViewerViewController.xib
+c000000004C46089E0000000000004389
+t1279658142
+s17289
+
+N/Users/patrickrussell/Downloads/KMLViewer/en.lproj/MainWindow.xib
+c000000004C46089E0000000000004E41
+t1279658142
+s20033
+
+N/Users/patrickrussell/Downloads/KMLViewer/images/Icon-72.png
+c000000004C4609AB0000000000000427
+t1279658411
+s1063
+
+N/Users/patrickrussell/Downloads/KMLViewer/images/Icon-Small-50.png
+c000000004C4609AB00000000000003E0
+t1279658411
+s992
+
+N/Users/patrickrussell/Downloads/KMLViewer/images/Icon-Small.png
+c000000004C4609AB0000000000000396
+t1279658411
+s918
+
+N/Users/patrickrussell/Downloads/KMLViewer/images/Icon-Small@2x.png
+c000000004C4609AB00000000000003F2
+t1279658411
+s1010
+
+N/Users/patrickrussell/Downloads/KMLViewer/images/Icon.png
+c000000004C4609AB00000000000003EF
+t1279658411
+s1007
+
+N/Users/patrickrussell/Downloads/KMLViewer/images/Icon@2x.png
+c000000004C4609AB00000000000004E4
+t1279658411
+s1252
+
+N/Users/patrickrussell/Downloads/KMLViewer/images/iTunesArtwork
+c000000004C4609AB0000000000001444
+t1279658411
+s5188
+
+N/Users/patrickrussell/Downloads/KMLViewer/main.m
+c000000004C7470B10000000000000A74
+t1282699441
+s2676
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Downloads/KMLViewer/route.kml
+c000000004BFEE35B00000000000055E8
+t1274995547
+s21992
+
+N/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision
+c000000004CB063CE0000000000003DED
+t1286628302
+s15853
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/KMLViewer_Prefix-adkcybjrcmnvclegfqflnfcgbluc/KMLViewer_Prefix.pch.gch
+t1294158956
+s9831984
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/KMLViewer_Prefix-ecsisbyhktrddsczlboultrvmlvt/KMLViewer_Prefix.pch.gch
+t1294158961
+s10294832
+
+NKMLViewer-Info.plist
+c000000004C4609AB000000000000049C
+t1279658411
+s1180
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315851745#315851745#0(0"0(0#1#0"2462876304#0"0#
+
+CCodeSign /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app
+s315851765.484092
+e315851766.275017
+r1
+xCodeSign
+x/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app
+lSLF07#2@43"CodeSign build/Debug-iphoneos/KMLViewer.app315851765#315851766#0(0"0(0#0#76"/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app2462876304#673"    cd /Users/patrickrussell/Downloads/KMLViewer    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Patrick Russell (WD3RPMEYT5)" --resource-rules=/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/ResourceRules.plist --entitlements /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer.xcent /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app0#
+
+CCompileC build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv6/KMLParser.o /Users/patrickrussell/Downloads/KMLViewer/Classes/KMLParser.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315851763.543150
+e315851764.024764
+r1
+xCompileC
+xbuild/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv6/KMLParser.o
+x/Users/patrickrussell/Downloads/KMLViewer/Classes/KMLParser.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/patrickrussell/Downloads/KMLViewer/Classes/KMLParser.m315851763#315851764#0(0"0(0#0#61"/Users/patrickrussell/Downloads/KMLViewer/Classes/KMLParser.m2462876304#1815"    cd /Users/patrickrussell/Downloads/KMLViewer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer-generated-files.hmap -I/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer-own-target-headers.hmap -I/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer-project-headers.hmap -F/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/KMLViewer_Prefix-adkcybjrcmnvclegfqflnfcgbluc/KMLViewer_Prefix.pch -c /Users/patrickrussell/Downloads/KMLViewer/Classes/KMLParser.m -o /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv6/KMLParser.o0#
+
+CCompileC build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv6/KMLViewerAppDelegate.o /Users/patrickrussell/Downloads/KMLViewer/Classes/KMLViewerAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315851763.207322
+e315851763.335585
+r1
+xCompileC
+xbuild/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv6/KMLViewerAppDelegate.o
+x/Users/patrickrussell/Downloads/KMLViewer/Classes/KMLViewerAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/patrickrussell/Downloads/KMLViewer/Classes/KMLViewerAppDelegate.m315851763#315851763#0(0"0(0#0#72"/Users/patrickrussell/Downloads/KMLViewer/Classes/KMLViewerAppDelegate.m2462876304#1837"    cd /Users/patrickrussell/Downloads/KMLViewer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer-generated-files.hmap -I/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer-own-target-headers.hmap -I/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer-project-headers.hmap -F/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/KMLViewer_Prefix-adkcybjrcmnvclegfqflnfcgbluc/KMLViewer_Prefix.pch -c /Users/patrickrussell/Downloads/KMLViewer/Classes/KMLViewerAppDelegate.m -o /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv6/KMLViewerAppDelegate.o0#
+
+CCompileC build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv6/KMLViewerViewController.o /Users/patrickrussell/Downloads/KMLViewer/Classes/KMLViewerViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315851763.335769
+e315851763.542997
+r1
+xCompileC
+xbuild/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv6/KMLViewerViewController.o
+x/Users/patrickrussell/Downloads/KMLViewer/Classes/KMLViewerViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/patrickrussell/Downloads/KMLViewer/Classes/KMLViewerViewController.m315851763#315851763#0(0"0(0#0#75"/Users/patrickrussell/Downloads/KMLViewer/Classes/KMLViewerViewController.m2462876304#1843"    cd /Users/patrickrussell/Downloads/KMLViewer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer-generated-files.hmap -I/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer-own-target-headers.hmap -I/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer-project-headers.hmap -F/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/KMLViewer_Prefix-adkcybjrcmnvclegfqflnfcgbluc/KMLViewer_Prefix.pch -c /Users/patrickrussell/Downloads/KMLViewer/Classes/KMLViewerViewController.m -o /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv6/KMLViewerViewController.o0#
+
+CCompileC build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv6/main.o /Users/patrickrussell/Downloads/KMLViewer/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315851762.099962
+e315851763.207162
+r1
+xCompileC
+xbuild/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv6/main.o
+x/Users/patrickrussell/Downloads/KMLViewer/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/patrickrussell/Downloads/KMLViewer/main.m315851762#315851763#0(0"0(0#0#48"/Users/patrickrussell/Downloads/KMLViewer/main.m2462876304#1797"    cd /Users/patrickrussell/Downloads/KMLViewer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer-generated-files.hmap -I/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer-own-target-headers.hmap -I/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer-project-headers.hmap -F/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/KMLViewer_Prefix-adkcybjrcmnvclegfqflnfcgbluc/KMLViewer_Prefix.pch -c /Users/patrickrussell/Downloads/KMLViewer/main.m -o /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv7/KMLParser.o /Users/patrickrussell/Downloads/KMLViewer/Classes/KMLParser.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315851764.580582
+e315851764.943096
+r1
+xCompileC
+xbuild/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv7/KMLParser.o
+x/Users/patrickrussell/Downloads/KMLViewer/Classes/KMLParser.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/patrickrussell/Downloads/KMLViewer/Classes/KMLParser.m315851764#315851764#0(0"0(0#0#61"/Users/patrickrussell/Downloads/KMLViewer/Classes/KMLParser.m2462876304#1815"    cd /Users/patrickrussell/Downloads/KMLViewer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer-generated-files.hmap -I/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer-own-target-headers.hmap -I/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer-project-headers.hmap -F/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/DerivedSources/armv7 -I/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/KMLViewer_Prefix-ecsisbyhktrddsczlboultrvmlvt/KMLViewer_Prefix.pch -c /Users/patrickrussell/Downloads/KMLViewer/Classes/KMLParser.m -o /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv7/KMLParser.o0#
+
+CCompileC build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv7/KMLViewerAppDelegate.o /Users/patrickrussell/Downloads/KMLViewer/Classes/KMLViewerAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315851764.275283
+e315851764.394891
+r1
+xCompileC
+xbuild/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv7/KMLViewerAppDelegate.o
+x/Users/patrickrussell/Downloads/KMLViewer/Classes/KMLViewerAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/patrickrussell/Downloads/KMLViewer/Classes/KMLViewerAppDelegate.m315851764#315851764#0(0"0(0#0#72"/Users/patrickrussell/Downloads/KMLViewer/Classes/KMLViewerAppDelegate.m2462876304#1837"    cd /Users/patrickrussell/Downloads/KMLViewer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer-generated-files.hmap -I/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer-own-target-headers.hmap -I/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer-project-headers.hmap -F/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/DerivedSources/armv7 -I/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/KMLViewer_Prefix-ecsisbyhktrddsczlboultrvmlvt/KMLViewer_Prefix.pch -c /Users/patrickrussell/Downloads/KMLViewer/Classes/KMLViewerAppDelegate.m -o /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv7/KMLViewerAppDelegate.o0#
+
+CCompileC build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv7/KMLViewerViewController.o /Users/patrickrussell/Downloads/KMLViewer/Classes/KMLViewerViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315851764.395058
+e315851764.580425
+r1
+xCompileC
+xbuild/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv7/KMLViewerViewController.o
+x/Users/patrickrussell/Downloads/KMLViewer/Classes/KMLViewerViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/patrickrussell/Downloads/KMLViewer/Classes/KMLViewerViewController.m315851764#315851764#0(0"0(0#0#75"/Users/patrickrussell/Downloads/KMLViewer/Classes/KMLViewerViewController.m2462876304#1843"    cd /Users/patrickrussell/Downloads/KMLViewer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer-generated-files.hmap -I/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer-own-target-headers.hmap -I/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer-project-headers.hmap -F/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/DerivedSources/armv7 -I/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/KMLViewer_Prefix-ecsisbyhktrddsczlboultrvmlvt/KMLViewer_Prefix.pch -c /Users/patrickrussell/Downloads/KMLViewer/Classes/KMLViewerViewController.m -o /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv7/KMLViewerViewController.o0#
+
+CCompileC build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv7/main.o /Users/patrickrussell/Downloads/KMLViewer/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315851764.198557
+e315851764.275082
+r1
+xCompileC
+xbuild/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv7/main.o
+x/Users/patrickrussell/Downloads/KMLViewer/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/patrickrussell/Downloads/KMLViewer/main.m315851764#315851764#0(0"0(0#0#48"/Users/patrickrussell/Downloads/KMLViewer/main.m2462876304#1797"    cd /Users/patrickrussell/Downloads/KMLViewer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer-generated-files.hmap -I/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer-own-target-headers.hmap -I/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer-project-headers.hmap -F/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/DerivedSources/armv7 -I/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/KMLViewer_Prefix-ecsisbyhktrddsczlboultrvmlvt/KMLViewer_Prefix.pch -c /Users/patrickrussell/Downloads/KMLViewer/main.m -o /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/patrickrussell/Downloads/KMLViewer/en.lproj/KMLViewerViewController.xib
+s315851745.464488
+e315851749.933290
+r1
+xCompileXIB
+x/Users/patrickrussell/Downloads/KMLViewer/en.lproj/KMLViewerViewController.xib
+lSLF07#2@47"CompileXIB en.lproj/KMLViewerViewController.xib315851745#315851749#0(0"0(0#0#78"/Users/patrickrussell/Downloads/KMLViewer/en.lproj/KMLViewerViewController.xib2462876304#597"    cd /Users/patrickrussell/Downloads/KMLViewer    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/en.lproj/KMLViewerViewController.nib /Users/patrickrussell/Downloads/KMLViewer/en.lproj/KMLViewerViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/patrickrussell/Downloads/KMLViewer/en.lproj/MainWindow.xib
+s315851745.539178
+e315851749.536597
+r1
+xCompileXIB
+x/Users/patrickrussell/Downloads/KMLViewer/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib315851745#315851749#0(0"0(0#0#65"/Users/patrickrussell/Downloads/KMLViewer/en.lproj/MainWindow.xib2462876304#571"    cd /Users/patrickrussell/Downloads/KMLViewer    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/en.lproj/MainWindow.nib /Users/patrickrussell/Downloads/KMLViewer/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/Icon-72.png images/Icon-72.png
+s315851749.536826
+e315851749.883509
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/Icon-72.png
+ximages/Icon-72.png
+lSLF07#2@77"CopyPNGFile build/Debug-iphoneos/KMLViewer.app/Icon-72.png images/Icon-72.png315851749#315851749#0(0"0(0#0#60"/Users/patrickrussell/Downloads/KMLViewer/images/Icon-72.png2462876304#580"    cd /Users/patrickrussell/Downloads/KMLViewer    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/KMLViewer/images/Icon-72.png /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/Icon-72.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/Icon-Small-50.png images/Icon-Small-50.png
+s315851749.883645
+e315851749.939022
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/Icon-Small-50.png
+ximages/Icon-Small-50.png
+lSLF07#2@89"CopyPNGFile build/Debug-iphoneos/KMLViewer.app/Icon-Small-50.png images/Icon-Small-50.png315851749#315851749#0(0"0(0#0#66"/Users/patrickrussell/Downloads/KMLViewer/images/Icon-Small-50.png2462876304#592"    cd /Users/patrickrussell/Downloads/KMLViewer    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/KMLViewer/images/Icon-Small-50.png /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/Icon-Small-50.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/Icon-Small.png images/Icon-Small.png
+s315851749.933442
+e315851749.973575
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/Icon-Small.png
+ximages/Icon-Small.png
+lSLF07#2@83"CopyPNGFile build/Debug-iphoneos/KMLViewer.app/Icon-Small.png images/Icon-Small.png315851749#315851749#0(0"0(0#0#63"/Users/patrickrussell/Downloads/KMLViewer/images/Icon-Small.png2462876304#586"    cd /Users/patrickrussell/Downloads/KMLViewer    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/KMLViewer/images/Icon-Small.png /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/Icon-Small.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/Icon-Small@2x.png images/Icon-Small@2x.png
+s315851749.939404
+e315851749.982423
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/Icon-Small@2x.png
+ximages/Icon-Small@2x.png
+lSLF07#2@89"CopyPNGFile build/Debug-iphoneos/KMLViewer.app/Icon-Small@2x.png images/Icon-Small@2x.png315851749#315851749#0(0"0(0#0#66"/Users/patrickrussell/Downloads/KMLViewer/images/Icon-Small@2x.png2462876304#592"    cd /Users/patrickrussell/Downloads/KMLViewer    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/KMLViewer/images/Icon-Small@2x.png /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/Icon-Small@2x.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/Icon.png images/Icon.png
+s315851749.973713
+e315851750.034768
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/Icon.png
+ximages/Icon.png
+lSLF07#2@71"CopyPNGFile build/Debug-iphoneos/KMLViewer.app/Icon.png images/Icon.png315851749#315851750#0(0"0(0#0#57"/Users/patrickrussell/Downloads/KMLViewer/images/Icon.png2462876304#574"    cd /Users/patrickrussell/Downloads/KMLViewer    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/KMLViewer/images/Icon.png /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/Icon.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/Icon@2x.png images/Icon@2x.png
+s315851749.982556
+e315851750.036493
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/Icon@2x.png
+ximages/Icon@2x.png
+lSLF07#2@77"CopyPNGFile build/Debug-iphoneos/KMLViewer.app/Icon@2x.png images/Icon@2x.png315851749#315851750#0(0"0(0#0#60"/Users/patrickrussell/Downloads/KMLViewer/images/Icon@2x.png2462876304#580"    cd /Users/patrickrussell/Downloads/KMLViewer    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/KMLViewer/images/Icon@2x.png /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/Icon@2x.png0#
+
+CCpResource build/Debug-iphoneos/KMLViewer.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+s315851745.373838
+e315851745.463003
+r1
+xCpResource
+xbuild/Debug-iphoneos/KMLViewer.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist315851745#315851745#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist2462876304#488"    cd /Users/patrickrussell/Downloads/KMLViewer    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app0#
+
+CCpResource build/Debug-iphoneos/KMLViewer.app/iTunesArtwork images/iTunesArtwork
+s315851750.035099
+e315851750.077420
+r1
+xCpResource
+xbuild/Debug-iphoneos/KMLViewer.app/iTunesArtwork
+ximages/iTunesArtwork
+lSLF07#2@25"Copy images/iTunesArtwork315851750#315851750#0(0"0(0#0#62"/Users/patrickrussell/Downloads/KMLViewer/images/iTunesArtwork2462876304#461"    cd /Users/patrickrussell/Downloads/KMLViewer    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/patrickrussell/Downloads/KMLViewer/images/iTunesArtwork /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app0#
+
+CCpResource build/Debug-iphoneos/KMLViewer.app/route.kml route.kml
+s315851745.463130
+e315851745.539038
+r1
+xCpResource
+xbuild/Debug-iphoneos/KMLViewer.app/route.kml
+xroute.kml
+lSLF07#2@14"Copy route.kml315851745#315851745#0(0"0(0#0#51"/Users/patrickrussell/Downloads/KMLViewer/route.kml2462876304#450"    cd /Users/patrickrussell/Downloads/KMLViewer    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/patrickrussell/Downloads/KMLViewer/route.kml /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app0#
+
+CCreateUniversalBinary /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/KMLViewer normal "armv6 armv7"
+s315851765.062646
+e315851765.070526
+r1
+xCreateUniversalBinary
+x/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/KMLViewer
+xnormal
+xarmv6 armv7
+lSLF07#2@87"CreateUniversalBinary build/Debug-iphoneos/KMLViewer.app/KMLViewer normal "armv6 armv7"315851765#315851765#0(0"0(0#0#53"/Users/patrickrussell/Downloads/KMLViewer/armv6 armv72462876304#546"    cd /Users/patrickrussell/Downloads/KMLViewer    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv6/KMLViewer /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv7/KMLViewer -output /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/KMLViewer0#
+
+CGenerateDSYMFile /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app.dSYM /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/KMLViewer
+s315851765.070666
+e315851765.443461
+r1
+xGenerateDSYMFile
+x/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app.dSYM
+x/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/KMLViewer
+lSLF07#2@101"GenerateDSYMFile build/Debug-iphoneos/KMLViewer.app.dSYM build/Debug-iphoneos/KMLViewer.app/KMLViewer315851765#315851765#0(0"0(0#0#86"/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/KMLViewer2462876304#377"    cd /Users/patrickrussell/Downloads/KMLViewer    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/KMLViewer -o /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app.dSYM0#
+
+CLd /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv6/KMLViewer normal armv6
+s315851764.025000
+e315851764.198390
+r1
+xLd
+x/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv6/KMLViewer
+xnormal
+xarmv6
+lSLF07#2@130"Link /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv6/KMLViewer315851764#315851764#0(0"0(0#0#0"2462876304#928"    cd /Users/patrickrussell/Downloads/KMLViewer    setenv IPHONEOS_DEPLOYMENT_TARGET 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -L/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos -F/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos -filelist /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv6/KMLViewer.LinkFileList -dead_strip -miphoneos-version-min=4.1 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -framework CoreLocation -o /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv6/KMLViewer0#
+
+CLd /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv7/KMLViewer normal armv7
+s315851764.943239
+e315851765.062488
+r1
+xLd
+x/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv7/KMLViewer
+xnormal
+xarmv7
+lSLF07#2@130"Link /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv7/KMLViewer315851764#315851765#0(0"0(0#0#0"2462876304#928"    cd /Users/patrickrussell/Downloads/KMLViewer    setenv IPHONEOS_DEPLOYMENT_TARGET 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -L/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos -F/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos -filelist /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv7/KMLViewer.LinkFileList -dead_strip -miphoneos-version-min=4.1 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -framework CoreLocation -o /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/Objects-normal/armv7/KMLViewer0#
+
+CProcessInfoPlistFile /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/Info.plist KMLViewer-Info.plist
+s315851745.395201
+e315851745.432945
+r1
+xProcessInfoPlistFile
+x/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/Info.plist
+xKMLViewer-Info.plist
+lSLF07#2@28"Process KMLViewer-Info.plist315851745#315851745#0(0"0(0#0#62"/Users/patrickrussell/Downloads/KMLViewer/KMLViewer-Info.plist2462876304#582"    cd /Users/patrickrussell/Downloads/KMLViewer    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility KMLViewer-Info.plist -genpkginfo /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/ResourceRules.plist -o /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/Info.plist0#
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/KMLViewer_Prefix-adkcybjrcmnvclegfqflnfcgbluc/KMLViewer_Prefix.pch.gch KMLViewer_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315851750.077593
+e315851760.227684
+r1
+xProcessPCH
+x/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/KMLViewer_Prefix-adkcybjrcmnvclegfqflnfcgbluc/KMLViewer_Prefix.pch.gch
+xKMLViewer_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile KMLViewer_Prefix.pch315851750#315851760#0(0"0(0#0#62"/Users/patrickrussell/Downloads/KMLViewer/KMLViewer_Prefix.pch2462876304#1690"    cd /Users/patrickrussell/Downloads/KMLViewer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer-generated-files.hmap -I/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer-own-target-headers.hmap -I/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer-project-headers.hmap -F/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/DerivedSources -c /Users/patrickrussell/Downloads/KMLViewer/KMLViewer_Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/KMLViewer_Prefix-adkcybjrcmnvclegfqflnfcgbluc/KMLViewer_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/KMLViewer_Prefix-ecsisbyhktrddsczlboultrvmlvt/KMLViewer_Prefix.pch.gch KMLViewer_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315851760.227913
+e315851762.099728
+r1
+xProcessPCH
+x/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/KMLViewer_Prefix-ecsisbyhktrddsczlboultrvmlvt/KMLViewer_Prefix.pch.gch
+xKMLViewer_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile KMLViewer_Prefix.pch315851760#315851762#0(0"0(0#0#62"/Users/patrickrussell/Downloads/KMLViewer/KMLViewer_Prefix.pch2462876304#1690"    cd /Users/patrickrussell/Downloads/KMLViewer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer-generated-files.hmap -I/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer-own-target-headers.hmap -I/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer-project-headers.hmap -F/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/DerivedSources/armv7 -I/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/DerivedSources -c /Users/patrickrussell/Downloads/KMLViewer/KMLViewer_Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/KMLViewer_Prefix-ecsisbyhktrddsczlboultrvmlvt/KMLViewer_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/embedded.mobileprovision
+s315851765.443628
+e315851765.460720
+r1
+xProcessProductPackaging
+x/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision
+x/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/embedded.mobileprovision
+lSLF07#2@203"ProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" build/Debug-iphoneos/KMLViewer.app/embedded.mobileprovision315851765#315851765#0(0"0(0#0#101"/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/embedded.mobileprovision2462876304#440"    cd /Users/patrickrussell/Downloads/KMLViewer    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" -o /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer.xcent
+s315851765.466670
+e315851765.483978
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+x/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer.xcent
+lSLF07#2@181"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer.xcent315851765#315851765#0(0"0(0#0#110"/Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer.xcent2462876304#444"    cd /Users/patrickrussell/Downloads/KMLViewer    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/patrickrussell/Downloads/KMLViewer/build/KMLViewer.build/Debug-iphoneos/KMLViewer.build/KMLViewer.xcent0#
+
+CTouch /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app
+s315851765.460829
+e315851765.466507
+r1
+xTouch
+x/Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app
+lSLF07#2@82"Touch /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app315851765#315851765#0(0"0(0#0#0"2462876304#272"    cd /Users/patrickrussell/Downloads/KMLViewer    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/patrickrussell/Downloads/KMLViewer/build/Debug-iphoneos/KMLViewer.app0#
+

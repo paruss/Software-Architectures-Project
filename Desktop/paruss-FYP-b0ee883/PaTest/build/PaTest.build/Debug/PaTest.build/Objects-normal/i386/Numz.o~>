@@ -1,0 +1,11 @@
+/Users/patrickrussell/Documents/FYP/PaTest/Numz.m: In function '-[Numz setNumbers::]':
+/Users/patrickrussell/Documents/FYP/PaTest/Numz.m:15: error: 'num1' undeclared (first use in this function)
+/Users/patrickrussell/Documents/FYP/PaTest/Numz.m:15: error: (Each undeclared identifier is reported only once
+/Users/patrickrussell/Documents/FYP/PaTest/Numz.m:15: error: for each function it appears in.)
+/Users/patrickrussell/Documents/FYP/PaTest/Numz.m:16: error: 'num2' undeclared (first use in this function)
+/Users/patrickrussell/Documents/FYP/PaTest/Numz.m: In function '-[Numz add]':
+/Users/patrickrussell/Documents/FYP/PaTest/Numz.m:19: error: 'answer' undeclared (first use in this function)
+/Users/patrickrussell/Documents/FYP/PaTest/Numz.m:19: error: 'num1' undeclared (first use in this function)
+/Users/patrickrussell/Documents/FYP/PaTest/Numz.m:19: error: 'num2' undeclared (first use in this function)
+/Users/patrickrussell/Documents/FYP/PaTest/Numz.m: In function '-[Numz print]':
+/Users/patrickrussell/Documents/FYP/PaTest/Numz.m:23: error: 'answer' undeclared (first use in this function)

@@ -1,0 +1,130 @@
+TPaTest
+v7
+r0
+t307837818.778210
+cCheck dependencies
+cProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PaTest_Prefix-ebmwojmvvrrgeuaojztsjzxbwgbk/PaTest_Prefix.pch.gch PaTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/PaTest.o /Users/patrickrussell/Documents/FYP/PaTest/PaTest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/Person.o /Users/patrickrussell/Documents/FYP/PaTest/Person.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C5342BA00000000000000EE
+t1280524986
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C46BD4600000000000013E6
+t1279704390
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BC1384E0000000000B37440
+t1270954062
+s11760704
+
+N/Users/patrickrussell/Documents/FYP/PaTest/PaTest.m
+c000000004CA903F60000000000000131
+t1286145014
+s305
+i<Foundation/Foundation.h>
+i"Person.h"
+
+N/Users/patrickrussell/Documents/FYP/PaTest/PaTest_Prefix.pch
+c000000004CA90136000000000000009A
+t1286144310
+s154
+i<Foundation/Foundation.h>
+
+N/Users/patrickrussell/Documents/FYP/PaTest/Person.h
+c000000004CA903F6000000000000012E
+t1286145014
+s302
+i<Foundation/Foundation.h>
+
+N/Users/patrickrussell/Documents/FYP/PaTest/Person.m
+c000000004CA903F60000000000000156
+t1286145014
+s342
+i"Person.h"
+
+N/Users/patrickrussell/Documents/FYP/PaTest/build/Debug/PaTest
+t2
+s0
+
+N/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/PaTest.LinkFileList
+c000000004CA903F600000000000000DC
+t1286145014
+s220
+
+N/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/PaTest.o
+t2
+s0
+
+N/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/Person.o
+t2
+s0
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PaTest_Prefix-ebmwojmvvrrgeuaojztsjzxbwgbk/PaTest_Prefix.pch.gch
+t1286145018
+s29728620
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies307837814#307837814#0(0"0(0#1#0"2549534656#0"0#
+
+CCompileC build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/PaTest.o /Users/patrickrussell/Documents/FYP/PaTest/PaTest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307837818.433064
+e307837818.638933
+r0
+xCompileC
+xbuild/PaTest.build/Debug/PaTest.build/Objects-normal/i386/PaTest.o
+x/Users/patrickrussell/Documents/FYP/PaTest/PaTest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/patrickrussell/Documents/FYP/PaTest/PaTest.m: In function 'main':
+o/Users/patrickrussell/Documents/FYP/PaTest/PaTest.m:10: warning: passing argument 1 of 'setWeight:' makes pointer from integer without a cast
+o/Users/patrickrussell/Documents/FYP/PaTest/PaTest.m:12: error: expected ':' before ';' token
+o/Users/patrickrussell/Documents/FYP/PaTest/PaTest.m:16: confused by earlier errors, bailing out
+lSLF07#2@59"Compile /Users/patrickrussell/Documents/FYP/PaTest/PaTest.m307837818#307837818#0(404"/Users/patrickrussell/Documents/FYP/PaTest/PaTest.m: In function 'main':/Users/patrickrussell/Documents/FYP/PaTest/PaTest.m:10: warning: passing argument 1 of 'setWeight:' makes pointer from integer without a cast/Users/patrickrussell/Documents/FYP/PaTest/PaTest.m:12: error: expected ':' before ';' token/Users/patrickrussell/Documents/FYP/PaTest/PaTest.m:16: confused by earlier errors, bailing out3(22@76"Passing argument 1 of 'setWeight:' makes pointer from integer without a cast307837818#73#142#0(6@51"/Users/patrickrussell/Documents/FYP/PaTest/PaTest.m307837814#10#0#10#0#0"0(4@29"Expected ':' before ';' token307837818#215#93#0(6@51"/Users/patrickrussell/Documents/FYP/PaTest/PaTest.m307837814#12#0#12#0#19"expected * before *0(4@39"Confused by earlier errors, bailing out307837818#308#96#0(6@51"/Users/patrickrussell/Documents/FYP/PaTest/PaTest.m307837814#16#0#16#0#39"confused by earlier errors, bailing out0(0#0#51"/Users/patrickrussell/Documents/FYP/PaTest/PaTest.m2549534656#1472"    cd /Users/patrickrussell/Documents/FYP/PaTest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/PaTest/build/Debug -I/Users/patrickrussell/Documents/FYP/PaTest/build/Debug/include -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/DerivedSources/i386 -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PaTest_Prefix-ebmwojmvvrrgeuaojztsjzxbwgbk/PaTest_Prefix.pch -c /Users/patrickrussell/Documents/FYP/PaTest/PaTest.m -o /Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/PaTest.o1#
+
+CCompileC build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/Person.o /Users/patrickrussell/Documents/FYP/PaTest/Person.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307837818.639085
+e307837818.778107
+r0
+xCompileC
+xbuild/PaTest.build/Debug/PaTest.build/Objects-normal/i386/Person.o
+x/Users/patrickrussell/Documents/FYP/PaTest/Person.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/patrickrussell/Documents/FYP/PaTest/Person.m:18: error: expected ':' before '=' token
+o/Users/patrickrussell/Documents/FYP/PaTest/Person.m:21: error: expected ':' before '=' token
+o/Users/patrickrussell/Documents/FYP/PaTest/Person.m:23: warning: incomplete implementation of class 'Person'
+o/Users/patrickrussell/Documents/FYP/PaTest/Person.m:23: warning: method definition for '-setWeight:' not found
+o/Users/patrickrussell/Documents/FYP/PaTest/Person.m:23: warning: method definition for '-setAge:' not found
+lSLF07#2@59"Compile /Users/patrickrussell/Documents/FYP/PaTest/Person.m307837818#307837818#0(514"/Users/patrickrussell/Documents/FYP/PaTest/Person.m:18: error: expected ':' before '=' token/Users/patrickrussell/Documents/FYP/PaTest/Person.m:21: error: expected ':' before '=' token/Users/patrickrussell/Documents/FYP/PaTest/Person.m:23: warning: incomplete implementation of class 'Person'/Users/patrickrussell/Documents/FYP/PaTest/Person.m:23: warning: method definition for '-setWeight:' not found/Users/patrickrussell/Documents/FYP/PaTest/Person.m:23: warning: method definition for '-setAge:' not found5(4@29"Expected ':' before '=' token307837818#0#93#0(6@51"/Users/patrickrussell/Documents/FYP/PaTest/Person.m307837814#18#0#18#0#19"expected * before *0(4@29"Expected ':' before '=' token307837818#93#93#0(6@51"/Users/patrickrussell/Documents/FYP/PaTest/Person.m307837814#21#0#21#0#19"expected * before *0(22@43"Incomplete implementation of class 'Person'307837818#186#109#0(6@51"/Users/patrickrussell/Documents/FYP/PaTest/Person.m307837814#23#0#23#0#38"incomplete implementation of class '*'0(22@45"Method definition for '-setWeight:' not found307837818#295#111#0(6@51"/Users/patrickrussell/Documents/FYP/PaTest/Person.m307837814#23#0#23#0#35"method definition for '*' not found0(22@42"Method definition for '-setAge:' not found307837818#406#108#0(6@51"/Users/patrickrussell/Documents/FYP/PaTest/Person.m307837814#23#0#23#0#35"method definition for '*' not found0(0#0#51"/Users/patrickrussell/Documents/FYP/PaTest/Person.m2549534656#1472"    cd /Users/patrickrussell/Documents/FYP/PaTest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/PaTest/build/Debug -I/Users/patrickrussell/Documents/FYP/PaTest/build/Debug/include -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/DerivedSources/i386 -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PaTest_Prefix-ebmwojmvvrrgeuaojztsjzxbwgbk/PaTest_Prefix.pch -c /Users/patrickrussell/Documents/FYP/PaTest/Person.m -o /Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/Objects-normal/i386/Person.o1#
+
+CLd /Users/patrickrussell/Documents/FYP/PaTest/build/Debug/PaTest normal i386
+r0
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PaTest_Prefix-ebmwojmvvrrgeuaojztsjzxbwgbk/PaTest_Prefix.pch.gch PaTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s307837814.415683
+e307837818.432844
+r1
+xProcessPCH
+x/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PaTest_Prefix-ebmwojmvvrrgeuaojztsjzxbwgbk/PaTest_Prefix.pch.gch
+xPaTest_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile PaTest_Prefix.pch307837814#307837818#0(0"0(0#0#60"/Users/patrickrussell/Documents/FYP/PaTest/PaTest_Prefix.pch2549534656#1373"    cd /Users/patrickrussell/Documents/FYP/PaTest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/PaTest-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/PaTest/build/Debug -I/Users/patrickrussell/Documents/FYP/PaTest/build/Debug/include -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/DerivedSources/i386 -I/Users/patrickrussell/Documents/FYP/PaTest/build/PaTest.build/Debug/PaTest.build/DerivedSources -c /Users/patrickrussell/Documents/FYP/PaTest/PaTest_Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PaTest_Prefix-ebmwojmvvrrgeuaojztsjzxbwgbk/PaTest_Prefix.pch.gch0#
+

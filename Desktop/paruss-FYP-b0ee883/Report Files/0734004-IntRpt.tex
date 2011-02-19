@@ -1,0 +1,337 @@
+\documentclass[12pt]{article} 
+
+\usepackage[pdftex]{graphicx}
+\usepackage{setspace}
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+\onehalfspacing
+\pdfpagewidth 9in
+\setlength{\topmargin}{1in}
+\setlength{\headheight}{0in}
+\setlength{\headsep}{0in}
+\setlength{\textheight}{7.7in}
+\setlength{\textwidth}{6.5in}
+\setlength{\oddsidemargin}{0.5in}
+\setlength{\evensidemargin}{0in}
+
+\begin{document}
+
+\begin{titlepage}
+
+\begin{center}
+
+% Upper part of the page
+   
+\textsc{\LARGE University of Limerick}\\[1.5cm]
+
+\textsc{\Large Final year project}\\[0.5cm]
+
+\textsc{\Large Interim Report}\\[0.5cm]
+
+% Title
+\HRule \\[0.4cm]
+{ \huge \bfseries GeoTrash}\\[0.4cm]
+{ \small \bfseries Litter Tracking Smartphone Application}\\[0.4cm]
+
+\HRule \\[1.5cm]
+
+% Author and supervisor
+\begin{minipage}{0.4\textwidth}
+\begin{flushleft} \large
+\emph{Author:}\\
+\textsc{Patrick Russell - 0734004}
+\end{flushleft}
+\end{minipage}
+\begin{minipage}{0.4\textwidth}
+\begin{flushright} \large
+\emph{Supervisor:} \\
+Mr.~Michael \textsc{Coughlan}
+\end{flushright}
+\end{minipage}
+
+\vfill
+
+% Bottom of the page
+{\large \today}
+
+\end{center}
+
+\end{titlepage}
+\newpage
+
+% Table of contents
+
+\tableofcontents
+\newpage
+
+% Summary Section
+
+\label{sec:Summary}
+\section{Project Summary}
+\paragraph{}
+\label{par:S Paragraph}
+
+Limerick city has been identified as a "litter blackspot" by the Limerick post newspaper after it was ranked bottom of the IBAL litter league.
+It costs the Limerick city council €3 million per year to keep the city clean. 
+
+\paragraph{}
+\label{par:First Paragraph}
+
+This project is a geocaching iPhone application targeted at trying to reduce litter. The application works by the user taking a picture of the litter.
+This photo can then be uploaded to a remote server along with the location of the device at the time of taking the photo. This data can then be used by other users to identify litter blackspots and help councils perform cleanups in the area.
+
+\paragraph{}
+\label{par:Second Paragraph}
+
+The project is divided into two key areas which are the iPhone application and the web services implementation. The application which is on the iOS platform will allow users to capture images and locations of litter to be shared with other users. The application will allow users to browse nearby litter on a map.
+The project also incorporates a Website which will represent the images and locations of litter on a map.
+\paragraph{}
+\label{par:Third Paragraph}
+
+The device chosen for development was iOS for the iPhone. The development environment chosen was Xcode as it is required for iOS development. The language chosen was objective C which is also a requirement for iOS. 
+The UI design was done using interface builder which is a part of Xcode and is designed for designing interfaces for iOS devices.
+The project also needed to have a remote database to store photos and GPS locations. For this a MySQL web server is required along with web services to allow the device to input and retrieve data from this database. The Google maps API is used on the Website to represent the data in the database on a map for users on a computer to view.
+The Website will also need to have the function to view and manage photos and account information.
+
+\newpage
+
+% End of Summary 
+
+% Introduction
+
+\label{sec:Subsection}
+
+\section{Introduction}
+
+% General Information
+
+\subsection{General Information}
+
+This project is an application for a smart phone targeted at reducing litter and promoting cleanliness. This application will work by a user locating a piece of litter taking a picture of it. The location of the device when the picture is taken will correspond to the location of this particular piece of litter. This data must be stored in a remote database and can be viewed by other users.
+
+\paragraph{}
+\label{par:Second Paragraph}
+
+
+There are many smart phone devices on the market which provide the necessary features for this project but the one which was chosen was the iPhone 3GS.
+As the iPhone is a well established device in the smartphone market as well as having hundreds of thousands of applications in the application store there is no shortage of documentation and help available on the Internet.
+It is a requirement that the application be written in Objective C as this is the language which is used to develop for iOS. Objective C is a branch of the C programming language so it bears some resemblance to languages such as C or C++ however it differs in quite alot of areas. This is a small factor as some time had to be spent to learn this language before beginning. There is also a development environment for Mac OS and iPhone applications and this is Xcode. The environment also incorporates a UI editor and a simulator to test applications.
+
+\paragraph{}
+\label{par:Second Paragraph}
+
+A database will need to be implemented to store user login data, photos with their geographical location and possibly some other information which would be necessary. I propose to do this by creating an SQL database which the device can connect to to pull and push data as necessary.
+
+\paragraph{}
+\label{par:Website}
+
+The data collected using the application can also be represented on a Website for the users to as with the application view photos and add and remove them using the same login as for the smartphone application.  Using the location details it will be possible to represent the areas which have high concentration of litter using this Website to highlight key areas so that authorities can take necessary action to reduce the litter.
+
+
+%Motivation Factors
+
+
+\subsection{Motivation Factors}
+
+Smartphones have become much more widespread and popular amongst modern society. This can be attributed to the progress technology has made in making very powerful devices which fit in our pocket. Smartphone use is constantly on the up at the moment so this is a market which is still growing. 
+
+\paragraph{}
+\label{par:2par}
+
+Littering has been identified a major area of cost for local authorities. The Limerick city council spend €3 million a year in keeping the city clean and one way of curbing this cost would be to promote litter awareness.
+One way to promote a litter cleaning mentality and litter awareness would be a smartphone application. The application would be a fun way for people to do something to help keep the country clean. It would also be suggested in the application that people would pick up rubbish and put it in a nearby bin, this would further reduce litter.
+
+\paragraph{}
+\label{par:2par}
+There are many different smartphone devices on the market most of which you can develop for using an IDE which the the OS creator provides. Some of these such OS's are Android, iOS and Windows mobile. 
+The device chosen for development and testing was the iPhone 3GS. The reason it was chosen is because it has all the necessary sensors and functionality for the project. The sensors required for capturing a photo and for GPS location are a camera and a GPS sensor. The iPhone also uses a technology called assisted GPS which utilises cell towers to triangulate location when a position is not available from the GPS sensor. It is also required that the smartphone is able to communicate with a remote server through a 3G or EDGE connection as the majority of the application activity will be out of range  of an access point. The iPhone has all the relevant cellular data communications hardware required to make this project work.
+
+\paragraph{}
+\label{par:2par}
+The language which is used for developing application for the iPhone is Objective C. This language is a branch from the C language and bears some similarities to C however there are quite a few differences to languages I had experience with. Because of this the language had to be learned before development starts.
+Xcode is the development environment chosen as it has some important features such as a simulator to test applications and an interface builder to design the interface. There are other development environments out there but none that can be used for iPhone development so Xcode was the IDE of choice.
+
+\paragraph{}
+\label{par:2par}
+
+The application will work by communicating with a remote server which will hold photos, log in data, geographical locations as well as various other data which may be required.  There are various types of database which can be created such as oracle and MySQL. MySQL was chosen as it is an open source option and it provides everything necessary for storing the relevant data.
+
+\paragraph{}
+\label{par:2par}
+
+There will also be some integration to be done to allow  the application to communicate with the remote server and upload and download data. Security will also be an issue here to make sure that only users can change their own data. A web services such as SOAP or REST will need to be implemented to handle this.
+
+
+%Objectives Of Proposed Work
+
+\subsection{Objectives of Proposed Work}
+
+The objective of the project as a whole is to illustrate the importance of reducing litter by introducing a fun way for people to reduce littering.
+This project also achieves this as it would help the councils identify areas where they might need extra rubbish bins or place signs to reduce littering. This project also achieves this by promoting a good mentality towards reducing litter.
+
+\paragraph{}
+\label{par:2par}
+
+The key objective of this project however is not a social one it is to gain an understanding of the technologies and the work involved in creating a project of this magnitude. The project will give an insight into the vast area of smartphone development which is becoming more and more important in the software world. A great deal of these applications are becoming more and more web integrated having some functionality dependent on data from a remote server. This project is highly coupled with data on a remote server as the whole concept involves uploading and downloading location data and images.
+The Website aspect of the project is a good way to show that the same data can be accessed and presented in different ways.
+
+
+\newpage
+\label{sec:Motivation}
+
+%Research
+
+\section{Research}
+
+%Geo Caching
+
+\subsection{Geo Caching}
+
+Geocaching as described by techtarget.com: "Geocaching, also referred to as GPS stash hunting, is a recreational activity in which someone "buries" something for others to try to find using a Global Positioning System ( GPS ) receiver."
+The iPhone application store or "app store" contains hundreds of thousands of applications so it was not hard to locate one which provides similar functionality to this project.
+There are many geocaching applications available currently available for smartphones.
+One of these applications is simply called Geocaching. This is a global treasure hunting game where participants hide and seek physical containers called geocashes and they share their adventures online.
+After observing this application some inspiration was taken from it. First of all the UI was quite good and the layout is something which will be taken into account when it comes to designing the UI. The functionality of this application also provided an insight. Geocaching allows you to place an object on the map in the application and the position of this object is uploaded to their remote server. This is very similar to what needs to be done for this project. The project also has a map where you can view nearby geocaches this functionality would be a useful addition to the project.
+
+
+
+%Platforms http://whatis.techtarget.com/definition/0,,sid9_gci1131231,00.html
+
+\subsection{iPhone Development}
+There are many development tutorials on the Internet which provide sample code for projects which contain some of the functionality which is required for this project. One of these sample applications is one which takes control of the camera on the phone. The application shows a view which is the live feed from the camera. This application utilises the UIImagePickerController class from the iPhone SDK library. With this class you can decide how you want the camera view to appear and choose whether you want controls for taking photos by specifying it in the code. The UIImagePickerController class is defiantly going to be an important part of the project.
+
+\paragraph{}
+\label{par:First Paragraph}
+
+Another important factor in developing the application is obtaining a geographical location. Obtaining the location is done using the Core Location Framework. This framework provides access to all of the iPhones location systems. These include integrated GPS, Wifi-based location positioning and tower triangulation. 
+A sample application was located which will simply display the latitude and longitude on the screen. When obtaining a location there are a number of query parameters which need to be considered  one which will need to be taken into consideration is the desired accuracy parameter. The reason accuracy will need to be specified is to conserve battery and to avoid unnecessary updates by having only a level of accuracy which is required.
+
+\paragraph{}
+\label{par:First Paragraph}
+
+Another important consideration for the application is the persistence of data, it needs to be decided whether a certain amount of state be saved when the application is closed. Data such as user log in data will need to be saved. This data is usually stored in a location which is designated for saving user data. This memory is referred to by calling the NSUserDefaults class where you can store data of different data types.
+
+
+
+%Software and Language http://mobileorchard.com/hello-there-a-corelocation-tutorial/
+
+\subsection{User Interface}
+The user interface is an important design element in the project. As observed from using Xcode to develop some sample applications a tool is available for user interface design. This is known as the interface builder which is a part of the Xcode development environment. With this application you can create and edit views. A view is in simplest terms is what is displayed on a screen at a given moment during the execution of an application, an application can have one or multiple views. The iPhone utilises the cocoa touch API. iOS technologies can be seen as a set of layers, Cocoa touch is seen as the highest level and the Core OS and Mac OS X kernel at the bottom. The advantage of this layer is that it makes the implementation of applications easier because the developer is not concerned with things such as how to recognise if a button was pressed.  A view can contain things such as buttons, text or a scroll bar. These items can be added to a view by simply dragging them from the cocoa touch library and placing them where required on the view. Each of these items placed on the view will have a name associated with it. Taking a button object for example by referencing the name of the button in a class you can allow it to trigger events in the application using the IBAction method which allows you to refer to objects created within the interface builder. 
+
+\newpage
+%Web Services
+
+\subsection{Web Services}
+
+There are various ways in which the data can be sent and received from the remote server.  To handle the passing of data between phone and database a web service such as SOAP or REST would need to be implemented. The iPhone SDK incorporates the CFNetwork framework this framework makes it possible to communicate across network sockets using either UDP or TCP. TCP sockets will be used for this project as it is important data is not lost in transmission.  The CFNetwork framework also provides support for HTTP and FTP which makes the utilisation of web services possible.
+
+\paragraph{}
+\label{par:First Paragraph}
+
+With web services there also comes the issue of storing the data. The method decided upon is using a MySQL server. The reason for this is that it integrates well with web services but more importantly the database can be accessed by other media such as a Website which is an important factor for this project.
+
+\paragraph{}
+\label{par:First Paragraph}
+
+With web services there comes the problem of how to store the data locally. Should the application do a certain amount of caching of data from the server and if so how much? 
+One way of storing this data locally would be to use a sqlite database on the phone. When a search is done for nearby trash is done for example the location of these areas will need to be cached in order to cut down on requests from the remote server to allow the application to work quicker and save on data traffic.
+
+\subsection{Maps}
+
+A map is also a requirement for the application as it is important for the user to be able to browse the map to search for litter.
+Maps can be added to a view in the application similar to above using the Mapkit framework. A map can be added to a view which displays the current location to a specified range. The user can also pinch and drag to move the current position in vision on the map. There is also the issue of adding a marker to the map to display where there is an item of litter. The Mapkit framework also provides the function of adding what are called pins, they are simply markers on the map. It is also possible to put code behind one of these pins. This can be used when a user selects a pin a page can load showing the image of the piece of litter and some other basic information.
+There are various test applications on developer.apple.com/iphone which incorporate Mapkit. The application consists of a basic map view which shows the current location. It will also place markers on the screen relative to previous visited locations.
+
+\paragraph{}
+\label{par:First Paragraph}
+
+For the Website  it will also be required that the same data is represented on a map on a Webpage. For this Google maps API can be used. This is a free service which allows the embedding of maps on a Webpage which can have data overlaid on top. It is possible to retrieve the locations of the litter from the database and overlay it onto a map.
+
+% Prototypes
+
+%\subsection{Prototypes}
+%A number of test 
+%\end{itemize}
+\newpage
+
+%Description Of Current Progress
+
+\label{sec:Objectives}
+\section{Description of Current Progress}
+
+
+The current progress with the project has been centered mostly around the application development itself. This is the core part of the project and the other areas such as the database and the Website are dependent on information created by the application.
+
+\paragraph{}
+\label{par:First Paragraph}
+
+There are various test applications which were located on apple's developer Website (developer.apple.com) which show the implementation of some basic functionality and this was quite an important tool for learning how to implement certain functionality.
+Using the lessons learned from running these applications and reading the code to understand how the program works various prototype programs were generated. 
+
+
+\paragraph{}
+\label{par:First Paragraph}
+
+One of these applications simply shows a full screen showing the live output of the camera. This application utilises the UIImagePickerControler class. Currently the application does nothing more, there is the possibility to capture an image by showing controls on the screen for the camera and that will be the next step in camera part of the application.
+
+\paragraph{}
+\label{par:First Paragraph}
+
+With relation to the location and sending it to a server a prototype application has  been developed which will obtain the current GPS position and attempt to send that to a server via a PHP file. This application utilises the iPhones capability to use HTTP requests. The implementation of this will vary slightly as time goes on as currently the application does not use web services but it is a good proof of concept that a HTTP request can be sent. A database is yet to be created so the PHP file was designated to just acknowledge that data has been received.
+
+\paragraph{}
+\label{par:First Paragraph}
+
+The user interface part of the projects design has begun, a view is currently in development which is simply a home screen with currently just one button to launch a camera. Once pressed the camera view will be loaded. Most of the UI design currently is done on paper with inspiration taken from other applications with good UI design.
+Key importance in the project at this stage is centered around the functionality of the application as opposed the appearance of the project so minimal UI features have currently been implemented.
+
+\paragraph{}
+\label{par:First Paragraph}
+
+Most of the progress so far has been simply working out what needs to be done and how. It seems that not a great deal of tangible material has been produced yet but that is due to the nature of the project. It has been the case that sometimes the approach was wrong in attempting a certain part of the project and code had to be thrown out as a result.
+At this stage a good understanding of the programming language and the tools has been achieved and it is sure that the development progress will speed up a great deal as time goes on as a level of comfort is established.
+
+\newpage
+
+\label{sec:Objectives}
+
+% Project plan
+
+\section{Project Plan}
+
+The foundations have been well established for this project however there is a great deal of work to be done in getting things to start working. Currently there is a problem with the fact that all the current application development is a series of separate applications which are not tied together. The next step will be to start integrating all the functionality into one application.
+
+\paragraph{}
+\label{par:First Paragraph}
+
+Once most of the key functionality of the project has been implemented the web services part of the project can begin. A database needs to be implemented to store the data required. A web service must also be implemented to allow the application access this data. Once a database has been established development of the Website can begin, this should be a quite easy part of the project as it basically provides a shell for the information provided by the implementation of the other parts of the project.
+
+\paragraph{}
+\label{par:First Paragraph}
+
+\begin{itemize}
+\item \textbf {December}
+
+During the remaining weeks in December some more functionality will be introduced such as the adding a map to the application. An attempt will be made to add points to the map and store them in a local database.
+
+\item \textbf {January}
+
+This is a key month in terms of the project. Due to unexpected time constraints introduced by modules from last semester the project is currently behind schedule. A great deal of effort will be made during this month off to complete the majority of the work in the project. This includes completing the majority of the application development. This month the integration of the different components will begin by outlining a clear coding structure of the application. 
+Full development of this core application will begin once that has been completed. The application should have almost all of the functionality mentioned with a start made on the web services by the end of January.
+\newpage
+\item \textbf {February}
+
+The web services will be fully implemented this week along with the database. 
+
+\item \textbf {March}
+
+This month integration will begin between the application and the web services and database. Website development will begin.
+
+\item \textbf {April}
+
+During this phase all of the project should be completed and testing and tieing up loose ends should be of main concern.
+
+\end{itemize}
+
+
+
+\end{document}

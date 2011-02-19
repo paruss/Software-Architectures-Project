@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>EventDetailViewController.nib</key>
+		<data>
+		7ujXUGyzc7tNx3KmTwv3n3grZvk=
+		</data>
+		<key>Locations.momd/Locations 2.mom</key>
+		<data>
+		gv6IrgYeBD28zzyGH6IW5YOaiZs=
+		</data>
+		<key>Locations.momd/Locations.mom</key>
+		<data>
+		69i8bxaIONNSCcbg0nrUtT9miCQ=
+		</data>
+		<key>MainWindow.nib</key>
+		<data>
+		cAkPPqp9o2gCHzVi2k3kc2u8vIo=
+		</data>
+		<key>PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>ReadMe.txt</key>
+		<data>
+		L4C3v6ikB06h8A9kMAo65NQkIs0=
+		</data>
+		<key>embedded.mobileprovision</key>
+		<data>
+		/E+yP4sOU5P0S52j09IvAQOqqdA=
+		</data>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>.*</key>
+		<true/>
+		<key>Info.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>ResourceRules.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>100</real>
+		</dict>
+	</dict>
+</dict>
+</plist>

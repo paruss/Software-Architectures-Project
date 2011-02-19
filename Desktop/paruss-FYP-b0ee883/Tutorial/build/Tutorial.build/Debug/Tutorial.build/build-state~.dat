@@ -1,0 +1,93 @@
+TTutorial
+v7
+r0
+t307799790.976440
+cCheck dependencies
+cProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tutorial_Prefix-dcevhctclwpcnzckmbrivgazkqoq/Tutorial_Prefix.pch.gch Tutorial_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Tutorial.build/Debug/Tutorial.build/Objects-normal/i386/Tutorial.o /Users/patrickrussell/Documents/FYP/Tutorial/Tutorial.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/patrickrussell/Documents/FYP/Tutorial/build/Debug/Tutorial normal i386
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C5342BA00000000000000EE
+t1280524986
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C46BD4600000000000013E6
+t1279704390
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BC1384E0000000000B37440
+t1270954062
+s11760704
+
+N/Users/patrickrussell/Documents/FYP/Tutorial/Tutorial.m
+c000000004CA86F1900000000000000EA
+t1286106905
+s234
+i<Foundation/Foundation.h>
+
+N/Users/patrickrussell/Documents/FYP/Tutorial/Tutorial_Prefix.pch
+c000000004CA86F19000000000000009E
+t1286106905
+s158
+i<Foundation/Foundation.h>
+
+N/Users/patrickrussell/Documents/FYP/Tutorial/build/Debug/Tutorial
+t1286106990
+s13192
+
+N/Users/patrickrussell/Documents/FYP/Tutorial/build/Tutorial.build/Debug/Tutorial.build/Objects-normal/i386/Tutorial.LinkFileList
+c000000004CA86F690000000000000076
+t1286106985
+s118
+
+N/Users/patrickrussell/Documents/FYP/Tutorial/build/Tutorial.build/Debug/Tutorial.build/Objects-normal/i386/Tutorial.o
+t1286106990
+s5940
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tutorial_Prefix-dcevhctclwpcnzckmbrivgazkqoq/Tutorial_Prefix.pch.gch
+t1286106989
+s29728620
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies307799785#307799785#0(0"0(0#1#0"4231240#0"0#
+
+CCompileC build/Tutorial.build/Debug/Tutorial.build/Objects-normal/i386/Tutorial.o /Users/patrickrussell/Documents/FYP/Tutorial/Tutorial.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307799789.860336
+e307799790.265451
+r1
+xCompileC
+xbuild/Tutorial.build/Debug/Tutorial.build/Objects-normal/i386/Tutorial.o
+x/Users/patrickrussell/Documents/FYP/Tutorial/Tutorial.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/patrickrussell/Documents/FYP/Tutorial/Tutorial.m307799789#307799790#0(0"0(0#0#55"/Users/patrickrussell/Documents/FYP/Tutorial/Tutorial.m4231240#1538"    cd /Users/patrickrussell/Documents/FYP/Tutorial    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/patrickrussell/Documents/FYP/Tutorial/build/Tutorial.build/Debug/Tutorial.build/Tutorial-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/Tutorial/build/Tutorial.build/Debug/Tutorial.build/Tutorial-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/Tutorial/build/Tutorial.build/Debug/Tutorial.build/Tutorial-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/Tutorial/build/Tutorial.build/Debug/Tutorial.build/Tutorial-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/Tutorial/build/Debug -I/Users/patrickrussell/Documents/FYP/Tutorial/build/Debug/include -I/Users/patrickrussell/Documents/FYP/Tutorial/build/Tutorial.build/Debug/Tutorial.build/DerivedSources/i386 -I/Users/patrickrussell/Documents/FYP/Tutorial/build/Tutorial.build/Debug/Tutorial.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tutorial_Prefix-dcevhctclwpcnzckmbrivgazkqoq/Tutorial_Prefix.pch -c /Users/patrickrussell/Documents/FYP/Tutorial/Tutorial.m -o /Users/patrickrussell/Documents/FYP/Tutorial/build/Tutorial.build/Debug/Tutorial.build/Objects-normal/i386/Tutorial.o0#
+
+CLd /Users/patrickrussell/Documents/FYP/Tutorial/build/Debug/Tutorial normal i386
+s307799790.265600
+e307799790.976340
+r1
+xLd
+x/Users/patrickrussell/Documents/FYP/Tutorial/build/Debug/Tutorial
+xnormal
+xi386
+lSLF07#2@70"Link /Users/patrickrussell/Documents/FYP/Tutorial/build/Debug/Tutorial307799790#307799790#0(0"0(0#0#0"4717520#550"    cd /Users/patrickrussell/Documents/FYP/Tutorial    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/patrickrussell/Documents/FYP/Tutorial/build/Debug -F/Users/patrickrussell/Documents/FYP/Tutorial/build/Debug -filelist /Users/patrickrussell/Documents/FYP/Tutorial/build/Tutorial.build/Debug/Tutorial.build/Objects-normal/i386/Tutorial.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/patrickrussell/Documents/FYP/Tutorial/build/Debug/Tutorial0#
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tutorial_Prefix-dcevhctclwpcnzckmbrivgazkqoq/Tutorial_Prefix.pch.gch Tutorial_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s307799785.549676
+e307799789.859998
+r1
+xProcessPCH
+x/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tutorial_Prefix-dcevhctclwpcnzckmbrivgazkqoq/Tutorial_Prefix.pch.gch
+xTutorial_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Tutorial_Prefix.pch307799785#307799789#0(0"0(0#0#64"/Users/patrickrussell/Documents/FYP/Tutorial/Tutorial_Prefix.pch4231240#1431"    cd /Users/patrickrussell/Documents/FYP/Tutorial    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/patrickrussell/Documents/FYP/Tutorial/build/Tutorial.build/Debug/Tutorial.build/Tutorial-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/Tutorial/build/Tutorial.build/Debug/Tutorial.build/Tutorial-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/Tutorial/build/Tutorial.build/Debug/Tutorial.build/Tutorial-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/Tutorial/build/Tutorial.build/Debug/Tutorial.build/Tutorial-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/Tutorial/build/Debug -I/Users/patrickrussell/Documents/FYP/Tutorial/build/Debug/include -I/Users/patrickrussell/Documents/FYP/Tutorial/build/Tutorial.build/Debug/Tutorial.build/DerivedSources/i386 -I/Users/patrickrussell/Documents/FYP/Tutorial/build/Tutorial.build/Debug/Tutorial.build/DerivedSources -c /Users/patrickrussell/Documents/FYP/Tutorial/Tutorial_Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tutorial_Prefix-dcevhctclwpcnzckmbrivgazkqoq/Tutorial_Prefix.pch.gch0#
+

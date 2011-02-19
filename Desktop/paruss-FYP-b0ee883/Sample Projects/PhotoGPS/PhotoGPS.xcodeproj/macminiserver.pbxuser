@@ -1,0 +1,228 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* PhotoGPSAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1183}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 707}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* PhotoGPS */ = {
+		activeExec = 0;
+		executables = (
+			6BAE1DFD126FDBFB006526C1 /* PhotoGPS */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* PhotoGPSViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1286, 546}}";
+			sepNavSelRange = "{986, 0}";
+			sepNavVisRange = "{0, 1107}";
+			sepNavWindowFrame = "{{-1665, 63}, {1143, 982}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* PhotoGPSViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {824, 2314}}";
+			sepNavSelRange = "{384, 0}";
+			sepNavVisRange = "{0, 1225}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 6BAE1DFD126FDBFB006526C1 /* PhotoGPS */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* PhotoGPS */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* PhotoGPS */,
+		);
+		codeSenseManager = 6BAE1E0E126FDC04006526C1 /* Code sense */;
+		executables = (
+			6BAE1DFD126FDBFB006526C1 /* PhotoGPS */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					609,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 309338586;
+			PBXWorkspaceStateSaveDate = 309338586;
+		};
+		perUserProjectItems = {
+			6BAE1E4D126FDF2F006526C1 = 6BAE1E4D126FDF2F006526C1 /* PBXTextBookmark */;
+			6BAE1EE0126FF0EC006526C1 = 6BAE1EE0126FF0EC006526C1 /* PBXTextBookmark */;
+			6BAE1EE2126FF0EC006526C1 = 6BAE1EE2126FF0EC006526C1 /* PBXTextBookmark */;
+			6BD1EBEA127004AA0043D9BE = 6BD1EBEA127004AA0043D9BE /* PBXTextBookmark */;
+			6BD1EC7E127021DE0043D9BE /* PBXTextBookmark */ = 6BD1EC7E127021DE0043D9BE /* PBXTextBookmark */;
+			6BD1EC84127021FD0043D9BE /* PBXTextBookmark */ = 6BD1EC84127021FD0043D9BE /* PBXTextBookmark */;
+			6BD1EC89127022BC0043D9BE /* PBXTextBookmark */ = 6BD1EC89127022BC0043D9BE /* PBXTextBookmark */;
+			6BD1EC8C127024710043D9BE /* PBXTextBookmark */ = 6BD1EC8C127024710043D9BE /* PBXTextBookmark */;
+			6BD1EC91127024CC0043D9BE /* PBXTextBookmark */ = 6BD1EC91127024CC0043D9BE /* PBXTextBookmark */;
+			6BD1EC92127024ED0043D9BE /* PBXTextBookmark */ = 6BD1EC92127024ED0043D9BE /* PBXTextBookmark */;
+		};
+		sourceControlManager = 6BAE1E0D126FDC04006526C1 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	6BAE1DFD126FDBFB006526C1 /* PhotoGPS */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = PhotoGPS;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	6BAE1E0D126FDC04006526C1 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	6BAE1E0E126FDC04006526C1 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	6BAE1E4D126FDF2F006526C1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* PhotoGPSAppDelegate.m */;
+		name = "PhotoGPSAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 707;
+		vrLoc = 0;
+	};
+	6BAE1EE0126FF0EC006526C1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* PhotoGPSViewController.h */;
+		name = "PhotoGPSViewController.h: 32";
+		rLen = 0;
+		rLoc = 986;
+		rType = 0;
+		vrLen = 1107;
+		vrLoc = 0;
+	};
+	6BAE1EE2126FF0EC006526C1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PhotoGPSViewController.m */;
+		name = "PhotoGPSViewController.m: 82";
+		rLen = 0;
+		rLoc = 2106;
+		rType = 0;
+		vrLen = 1179;
+		vrLoc = 0;
+	};
+	6BD1EBEA127004AA0043D9BE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PhotoGPSViewController.m */;
+		name = "PhotoGPSViewController.m: 142";
+		rLen = 0;
+		rLoc = 4242;
+		rType = 0;
+		vrLen = 1167;
+		vrLoc = 1502;
+	};
+	6BD1EC7E127021DE0043D9BE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PhotoGPSViewController.m */;
+		name = "PhotoGPSViewController.m: 74";
+		rLen = 0;
+		rLoc = 1890;
+		rType = 0;
+		vrLen = 1300;
+		vrLoc = 3417;
+	};
+	6BD1EC84127021FD0043D9BE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PhotoGPSViewController.m */;
+		name = "PhotoGPSViewController.m: 153";
+		rLen = 0;
+		rLoc = 4529;
+		rType = 0;
+		vrLen = 1601;
+		vrLoc = 2930;
+	};
+	6BD1EC89127022BC0043D9BE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PhotoGPSViewController.m */;
+		name = "PhotoGPSViewController.m: 110";
+		rLen = 0;
+		rLoc = 2928;
+		rType = 0;
+		vrLen = 1193;
+		vrLoc = 2248;
+	};
+	6BD1EC8C127024710043D9BE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PhotoGPSViewController.m */;
+		name = "PhotoGPSViewController.m: 18";
+		rLen = 61;
+		rLoc = 416;
+		rType = 0;
+		vrLen = 1285;
+		vrLoc = 3599;
+	};
+	6BD1EC91127024CC0043D9BE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PhotoGPSViewController.m */;
+		name = "PhotoGPSViewController.m: 172";
+		rLen = 0;
+		rLoc = 4966;
+		rType = 0;
+		vrLen = 1079;
+		vrLoc = 3938;
+	};
+	6BD1EC92127024ED0043D9BE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PhotoGPSViewController.m */;
+		name = "PhotoGPSViewController.m: 16";
+		rLen = 0;
+		rLoc = 384;
+		rType = 0;
+		vrLen = 1225;
+		vrLoc = 0;
+	};
+}

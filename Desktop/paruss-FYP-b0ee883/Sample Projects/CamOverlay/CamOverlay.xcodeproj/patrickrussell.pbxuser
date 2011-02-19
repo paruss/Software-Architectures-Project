@@ -1,0 +1,158 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* CamOverlay */ = {
+		activeExec = 0;
+		executables = (
+			FF94857B1263A220003B9A9E /* CamOverlay */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FF94857B1263A220003B9A9E /* CamOverlay */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* CamOverlay */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* CamOverlay */,
+		);
+		codeSenseManager = FF9485871263A240003B9A9E /* Code sense */;
+		executables = (
+			FF94857B1263A220003B9A9E /* CamOverlay */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					705,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 308531047;
+			PBXWorkspaceStateSaveDate = 308531047;
+		};
+		perUserProjectItems = {
+			FF08BCCF12649B790086533B /* PBXTextBookmark */ = FF08BCCF12649B790086533B /* PBXTextBookmark */;
+			FF08BCD012649B790086533B /* PBXTextBookmark */ = FF08BCD012649B790086533B /* PBXTextBookmark */;
+			FF08BCD112649B790086533B /* PBXTextBookmark */ = FF08BCD112649B790086533B /* PBXTextBookmark */;
+			FF08BCD212649B790086533B /* PBXTextBookmark */ = FF08BCD212649B790086533B /* PBXTextBookmark */;
+		};
+		sourceControlManager = FF9485861263A240003B9A9E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	FF08BCA91264970D0086533B /* Title.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {883, 524}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 217}";
+		};
+	};
+	FF08BCCF12649B790086533B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FF08BCA91264970D0086533B /* Title.h */;
+		name = "Title.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 217;
+		vrLoc = 0;
+	};
+	FF08BCD012649B790086533B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FF9485881263A247003B9A9E /* Swap.h */;
+		name = "Swap.h: 22";
+		rLen = 0;
+		rLoc = 365;
+		rType = 0;
+		vrLen = 406;
+		vrLoc = 0;
+	};
+	FF08BCD112649B790086533B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FF9485891263A247003B9A9E /* Swap.m */;
+		name = "Swap.m: 14";
+		rLen = 0;
+		rLoc = 262;
+		rType = 0;
+		vrLen = 877;
+		vrLoc = 144;
+	};
+	FF08BCD212649B790086533B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FF9485891263A247003B9A9E /* Swap.m */;
+		name = "Swap.m: 19";
+		rLen = 0;
+		rLoc = 304;
+		rType = 0;
+		vrLen = 821;
+		vrLoc = 0;
+	};
+	FF94857B1263A220003B9A9E /* CamOverlay */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CamOverlay;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	FF9485861263A240003B9A9E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	FF9485871263A240003B9A9E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	FF9485881263A247003B9A9E /* Swap.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {883, 524}}";
+			sepNavSelRange = "{365, 0}";
+			sepNavVisRange = "{0, 406}";
+		};
+	};
+	FF9485891263A247003B9A9E /* Swap.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {883, 858}}";
+			sepNavSelRange = "{304, 0}";
+			sepNavVisRange = "{0, 821}";
+		};
+	};
+}

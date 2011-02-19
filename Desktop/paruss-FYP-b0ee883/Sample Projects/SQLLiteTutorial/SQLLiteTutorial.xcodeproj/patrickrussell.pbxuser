@@ -1,0 +1,98 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* SQLLiteTutorial */ = {
+		activeExec = 0;
+		executables = (
+			FFD25E971281920200E96AD1 /* SQLLiteTutorial */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FFD25E971281920200E96AD1 /* SQLLiteTutorial */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SQLLiteTutorial */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* SQLLiteTutorial */,
+		);
+		codeSenseManager = FFD25EAD1281920400E96AD1 /* Code sense */;
+		executables = (
+			FFD25E971281920200E96AD1 /* SQLLiteTutorial */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 310761403;
+			PBXWorkspaceStateSaveDate = 310761403;
+		};
+		sourceControlManager = FFD25EAC1281920400E96AD1 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	FFD25E971281920200E96AD1 /* SQLLiteTutorial */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SQLLiteTutorial;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	FFD25EAC1281920400E96AD1 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	FFD25EAD1281920400E96AD1 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	FFD25EB11281928B00E96AD1 /* Animal.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 245}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 224}";
+		};
+	};
+}

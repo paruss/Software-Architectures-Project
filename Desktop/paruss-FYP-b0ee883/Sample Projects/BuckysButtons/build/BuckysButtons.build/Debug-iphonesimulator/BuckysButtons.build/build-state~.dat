@@ -1,0 +1,256 @@
+TBuckysButtons
+v7
+r0
+t308435114.059308
+cCheck dependencies
+cProcessInfoPlistFile /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphonesimulator/BuckysButtons.app/Info.plist BuckysButtons-Info.plist
+cCompileXIB /Users/patrickrussell/Documents/FYP/BuckysButtons/MainWindow.xib
+cCompileXIB /Users/patrickrussell/Documents/FYP/BuckysButtons/BuckysButtonsViewController.xib
+cProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuckysButtons_Prefix-hjphmfisltsawncsasoapryhbexr/BuckysButtons_Prefix.pch.gch BuckysButtons_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BuckysButtons.build/Debug-iphonesimulator/BuckysButtons.build/Objects-normal/i386/main.o /Users/patrickrussell/Documents/FYP/BuckysButtons/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BuckysButtons.build/Debug-iphonesimulator/BuckysButtons.build/Objects-normal/i386/BuckysButtonsAppDelegate.o /Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BuckysButtons.build/Debug-iphonesimulator/BuckysButtons.build/Objects-normal/i386/BuckysButtonsViewController.o /Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphonesimulator/BuckysButtons.app/BuckysButtons normal i386
+cGenerateDSYMFile /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphonesimulator/BuckysButtons.app.dSYM /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphonesimulator/BuckysButtons.app/BuckysButtons
+cTouch /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphonesimulator/BuckysButtons.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/BuckysButtonsViewController.xib
+c000000004CB21C940000000000001A5D
+t1286741140
+s6749
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/BuckysButtons_Prefix.pch
+c000000004CB21C9400000000000000C3
+t1286741140
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsAppDelegate.h
+c000000004CB21C940000000000000209
+t1286741140
+s521
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsAppDelegate.m
+c000000004CB21C940000000000000AAF
+t1286741140
+s2735
+i"BuckysButtonsAppDelegate.h"
+i"BuckysButtonsViewController.h"
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsViewController.h
+c000000004CB220AD00000000000000CF
+t1286742189
+s207
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsViewController.m
+c000000004CB2211C0000000000000396
+t1286742300
+s918
+i"BuckysButtonsViewController.h"
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/MainWindow.xib
+c000000004CB21C940000000000004E71
+t1286741140
+s20081
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphonesimulator/BuckysButtons.build/Objects-normal/i386/BuckysButtons.LinkFileList
+c000000004CB2212700000000000001DE
+t1286742311
+s478
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphonesimulator/BuckysButtons.build/Objects-normal/i386/BuckysButtonsAppDelegate.o
+t1286742313
+s48204
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphonesimulator/BuckysButtons.build/Objects-normal/i386/BuckysButtonsViewController.o
+t1286742313
+s38228
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphonesimulator/BuckysButtons.build/Objects-normal/i386/main.o
+t1286742313
+s6324
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphonesimulator/BuckysButtons.app
+t1286742314
+s238
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphonesimulator/BuckysButtons.app.dSYM
+t1286742314
+s102
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphonesimulator/BuckysButtons.app/BuckysButtons
+t1286742313
+s18152
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphonesimulator/BuckysButtons.app/BuckysButtonsViewController.nib
+t1286742312
+s1269
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphonesimulator/BuckysButtons.app/Info.plist
+t1286742311
+s615
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphonesimulator/BuckysButtons.app/MainWindow.nib
+t1286742312
+s1693
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphonesimulator/BuckysButtons.app/PkgInfo
+t1286742311
+s8
+
+N/Users/patrickrussell/Documents/FYP/BuckysButtons/main.m
+c000000004CB21C940000000000000175
+t1286741140
+s373
+i<UIKit/UIKit.h>
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuckysButtons_Prefix-hjphmfisltsawncsasoapryhbexr/BuckysButtons_Prefix.pch.gch
+t1286742313
+s10204720
+
+NBuckysButtons-Info.plist
+c000000004CB21C94000000000000038D
+t1286741140
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308435111#308435111#0(0"0(0#1#0"2549534656#0"0#
+
+CCompileC build/BuckysButtons.build/Debug-iphonesimulator/BuckysButtons.build/Objects-normal/i386/BuckysButtonsAppDelegate.o /Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308435113.676614
+e308435113.777999
+r1
+xCompileC
+xbuild/BuckysButtons.build/Debug-iphonesimulator/BuckysButtons.build/Objects-normal/i386/BuckysButtonsAppDelegate.o
+x/Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsAppDelegate.m308435113#308435113#0(0"0(0#0#84"/Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsAppDelegate.m2549534656#2203"    cd /Users/patrickrussell/Documents/FYP/BuckysButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphonesimulator/BuckysButtons.build/BuckysButtons-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphonesimulator/BuckysButtons.build/BuckysButtons-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphonesimulator/BuckysButtons.build/BuckysButtons-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphonesimulator/BuckysButtons.build/BuckysButtons-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphonesimulator -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphonesimulator/BuckysButtons.build/DerivedSources/i386 -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphonesimulator/BuckysButtons.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuckysButtons_Prefix-hjphmfisltsawncsasoapryhbexr/BuckysButtons_Prefix.pch -c /Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsAppDelegate.m -o /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphonesimulator/BuckysButtons.build/Objects-normal/i386/BuckysButtonsAppDelegate.o0#
+
+CCompileC build/BuckysButtons.build/Debug-iphonesimulator/BuckysButtons.build/Objects-normal/i386/BuckysButtonsViewController.o /Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308435113.778162
+e308435113.873327
+r1
+xCompileC
+xbuild/BuckysButtons.build/Debug-iphonesimulator/BuckysButtons.build/Objects-normal/i386/BuckysButtonsViewController.o
+x/Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsViewController.m308435113#308435113#0(0"0(0#0#87"/Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsViewController.m2549534656#2209"    cd /Users/patrickrussell/Documents/FYP/BuckysButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphonesimulator/BuckysButtons.build/BuckysButtons-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphonesimulator/BuckysButtons.build/BuckysButtons-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphonesimulator/BuckysButtons.build/BuckysButtons-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphonesimulator/BuckysButtons.build/BuckysButtons-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphonesimulator -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphonesimulator/BuckysButtons.build/DerivedSources/i386 -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphonesimulator/BuckysButtons.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuckysButtons_Prefix-hjphmfisltsawncsasoapryhbexr/BuckysButtons_Prefix.pch -c /Users/patrickrussell/Documents/FYP/BuckysButtons/Classes/BuckysButtonsViewController.m -o /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphonesimulator/BuckysButtons.build/Objects-normal/i386/BuckysButtonsViewController.o0#
+
+CCompileC build/BuckysButtons.build/Debug-iphonesimulator/BuckysButtons.build/Objects-normal/i386/main.o /Users/patrickrussell/Documents/FYP/BuckysButtons/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308435113.543098
+e308435113.676465
+r1
+xCompileC
+xbuild/BuckysButtons.build/Debug-iphonesimulator/BuckysButtons.build/Objects-normal/i386/main.o
+x/Users/patrickrussell/Documents/FYP/BuckysButtons/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/patrickrussell/Documents/FYP/BuckysButtons/main.m308435113#308435113#0(0"0(0#0#56"/Users/patrickrussell/Documents/FYP/BuckysButtons/main.m2549534656#2155"    cd /Users/patrickrussell/Documents/FYP/BuckysButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphonesimulator/BuckysButtons.build/BuckysButtons-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphonesimulator/BuckysButtons.build/BuckysButtons-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphonesimulator/BuckysButtons.build/BuckysButtons-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphonesimulator/BuckysButtons.build/BuckysButtons-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphonesimulator -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphonesimulator/BuckysButtons.build/DerivedSources/i386 -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphonesimulator/BuckysButtons.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuckysButtons_Prefix-hjphmfisltsawncsasoapryhbexr/BuckysButtons_Prefix.pch -c /Users/patrickrussell/Documents/FYP/BuckysButtons/main.m -o /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphonesimulator/BuckysButtons.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/patrickrussell/Documents/FYP/BuckysButtons/BuckysButtonsViewController.xib
+s308435111.697304
+e308435112.278261
+r1
+xCompileXIB
+x/Users/patrickrussell/Documents/FYP/BuckysButtons/BuckysButtonsViewController.xib
+lSLF07#2@42"CompileXIB BuckysButtonsViewController.xib308435111#308435112#0(0"0(0#0#81"/Users/patrickrussell/Documents/FYP/BuckysButtons/BuckysButtonsViewController.xib2549534656#643"    cd /Users/patrickrussell/Documents/FYP/BuckysButtons    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphonesimulator/BuckysButtons.app/BuckysButtonsViewController.nib /Users/patrickrussell/Documents/FYP/BuckysButtons/BuckysButtonsViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/patrickrussell/Documents/FYP/BuckysButtons/MainWindow.xib
+s308435111.695795
+e308435112.401846
+r1
+xCompileXIB
+x/Users/patrickrussell/Documents/FYP/BuckysButtons/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib308435111#308435112#0(0"0(0#0#64"/Users/patrickrussell/Documents/FYP/BuckysButtons/MainWindow.xib2549534656#609"    cd /Users/patrickrussell/Documents/FYP/BuckysButtons    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphonesimulator/BuckysButtons.app/MainWindow.nib /Users/patrickrussell/Documents/FYP/BuckysButtons/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CGenerateDSYMFile /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphonesimulator/BuckysButtons.app.dSYM /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphonesimulator/BuckysButtons.app/BuckysButtons
+s308435114.019825
+e308435114.053653
+r1
+xGenerateDSYMFile
+x/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphonesimulator/BuckysButtons.app.dSYM
+x/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphonesimulator/BuckysButtons.app/BuckysButtons
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/BuckysButtons.app.dSYM build/Debug-iphonesimulator/BuckysButtons.app/BuckysButtons308435114#308435114#0(0"0(0#0#109"/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphonesimulator/BuckysButtons.app/BuckysButtons2549534656#434"    cd /Users/patrickrussell/Documents/FYP/BuckysButtons    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphonesimulator/BuckysButtons.app/BuckysButtons -o /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphonesimulator/BuckysButtons.app.dSYM0#
+
+CLd /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphonesimulator/BuckysButtons.app/BuckysButtons normal i386
+s308435113.873468
+e308435114.019667
+r1
+xLd
+x/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphonesimulator/BuckysButtons.app/BuckysButtons
+xnormal
+xi386
+lSLF07#2@114"Link /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphonesimulator/BuckysButtons.app/BuckysButtons308435113#308435114#0(0"0(0#0#0"2549534656#985"    cd /Users/patrickrussell/Documents/FYP/BuckysButtons    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphonesimulator -F/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphonesimulator -filelist /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphonesimulator/BuckysButtons.build/Objects-normal/i386/BuckysButtons.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphonesimulator/BuckysButtons.app/BuckysButtons0#
+
+CProcessInfoPlistFile /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphonesimulator/BuckysButtons.app/Info.plist BuckysButtons-Info.plist
+s308435111.657892
+e308435111.695625
+r1
+xProcessInfoPlistFile
+x/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphonesimulator/BuckysButtons.app/Info.plist
+xBuckysButtons-Info.plist
+lSLF07#2@32"Process BuckysButtons-Info.plist308435111#308435111#0(0"0(0#0#74"/Users/patrickrussell/Documents/FYP/BuckysButtons/BuckysButtons-Info.plist2549534656#530"    cd /Users/patrickrussell/Documents/FYP/BuckysButtons    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility BuckysButtons-Info.plist -genpkginfo /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphonesimulator/BuckysButtons.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphonesimulator/BuckysButtons.app/Info.plist0#
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuckysButtons_Prefix-hjphmfisltsawncsasoapryhbexr/BuckysButtons_Prefix.pch.gch BuckysButtons_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308435112.402031
+e308435113.542879
+r1
+xProcessPCH
+x/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuckysButtons_Prefix-hjphmfisltsawncsasoapryhbexr/BuckysButtons_Prefix.pch.gch
+xBuckysButtons_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile BuckysButtons_Prefix.pch308435112#308435113#0(0"0(0#0#74"/Users/patrickrussell/Documents/FYP/BuckysButtons/BuckysButtons_Prefix.pch2549534656#2030"    cd /Users/patrickrussell/Documents/FYP/BuckysButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphonesimulator/BuckysButtons.build/BuckysButtons-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphonesimulator/BuckysButtons.build/BuckysButtons-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphonesimulator/BuckysButtons.build/BuckysButtons-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphonesimulator/BuckysButtons.build/BuckysButtons-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphonesimulator -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphonesimulator/BuckysButtons.build/DerivedSources/i386 -I/Users/patrickrussell/Documents/FYP/BuckysButtons/build/BuckysButtons.build/Debug-iphonesimulator/BuckysButtons.build/DerivedSources -c /Users/patrickrussell/Documents/FYP/BuckysButtons/BuckysButtons_Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BuckysButtons_Prefix-hjphmfisltsawncsasoapryhbexr/BuckysButtons_Prefix.pch.gch0#
+
+CTouch /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphonesimulator/BuckysButtons.app
+s308435114.053790
+e308435114.059240
+r1
+xTouch
+x/Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphonesimulator/BuckysButtons.app
+lSLF07#2@101"Touch /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphonesimulator/BuckysButtons.app308435114#308435114#0(0"0(0#0#0"2549534656#306"    cd /Users/patrickrussell/Documents/FYP/BuckysButtons    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/patrickrussell/Documents/FYP/BuckysButtons/build/Debug-iphonesimulator/BuckysButtons.app0#
+

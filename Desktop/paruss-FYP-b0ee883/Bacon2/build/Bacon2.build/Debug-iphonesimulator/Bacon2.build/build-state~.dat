@@ -1,0 +1,248 @@
+TBacon2
+v7
+r0
+t308484210.734799
+cCheck dependencies
+cProcessInfoPlistFile /Users/patrickrussell/Documents/FYP/Bacon2/build/Debug-iphonesimulator/Bacon2.app/Info.plist Bacon2-Info.plist
+cCompileXIB /Users/patrickrussell/Documents/FYP/Bacon2/MainWindow.xib
+cCompileXIB /Users/patrickrussell/Documents/FYP/Bacon2/Bacon2ViewController.xib
+cProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bacon2_Prefix-boznzvwsjwfttibotchtsrsbvead/Bacon2_Prefix.pch.gch Bacon2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Bacon2.build/Debug-iphonesimulator/Bacon2.build/Objects-normal/i386/main.o /Users/patrickrussell/Documents/FYP/Bacon2/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Bacon2.build/Debug-iphonesimulator/Bacon2.build/Objects-normal/i386/Bacon2AppDelegate.o /Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Bacon2.build/Debug-iphonesimulator/Bacon2.build/Objects-normal/i386/Bacon2ViewController.o /Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/patrickrussell/Documents/FYP/Bacon2/Bacon2ViewController.xib
+c000000004CB2DD8B0000000000001A41
+t1286790539
+s6721
+
+N/Users/patrickrussell/Documents/FYP/Bacon2/Bacon2_Prefix.pch
+c000000004CB2DD8B00000000000000B5
+t1286790539
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2AppDelegate.h
+c000000004CB2DD8A00000000000001DF
+t1286790538
+s479
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2AppDelegate.m
+c000000004CB2DD8A0000000000000A8C
+t1286790538
+s2700
+i"Bacon2AppDelegate.h"
+i"Bacon2ViewController.h"
+
+N/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.h
+c000000004CB2E0EF000000000000025D
+t1286791407
+s605
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.m
+c000000004CB2E0EF0000000000000815
+t1286791407
+s2069
+i"Bacon2ViewController.h"
+
+N/Users/patrickrussell/Documents/FYP/Bacon2/MainWindow.xib
+c000000004CB2DD8B0000000000004E1D
+t1286790539
+s19997
+
+N/Users/patrickrussell/Documents/FYP/Bacon2/build/Bacon2.build/Debug-iphonesimulator/Bacon2.build/Objects-normal/i386/Bacon2.LinkFileList
+c000000004CB2E0EF0000000000000191
+t1286791407
+s401
+
+N/Users/patrickrussell/Documents/FYP/Bacon2/build/Bacon2.build/Debug-iphonesimulator/Bacon2.build/Objects-normal/i386/Bacon2AppDelegate.o
+t1286791410
+s47908
+
+N/Users/patrickrussell/Documents/FYP/Bacon2/build/Bacon2.build/Debug-iphonesimulator/Bacon2.build/Objects-normal/i386/Bacon2ViewController.o
+t2
+s0
+
+N/Users/patrickrussell/Documents/FYP/Bacon2/build/Bacon2.build/Debug-iphonesimulator/Bacon2.build/Objects-normal/i386/main.o
+t1286791410
+s6312
+
+N/Users/patrickrussell/Documents/FYP/Bacon2/build/Debug-iphonesimulator/Bacon2.app
+t2
+s0
+
+N/Users/patrickrussell/Documents/FYP/Bacon2/build/Debug-iphonesimulator/Bacon2.app.dSYM
+t2
+s0
+
+N/Users/patrickrussell/Documents/FYP/Bacon2/build/Debug-iphonesimulator/Bacon2.app/Bacon2
+t2
+s0
+
+N/Users/patrickrussell/Documents/FYP/Bacon2/build/Debug-iphonesimulator/Bacon2.app/Bacon2ViewController.nib
+t1286791408
+s1269
+
+N/Users/patrickrussell/Documents/FYP/Bacon2/build/Debug-iphonesimulator/Bacon2.app/Info.plist
+t1286791407
+s587
+
+N/Users/patrickrussell/Documents/FYP/Bacon2/build/Debug-iphonesimulator/Bacon2.app/MainWindow.nib
+t1286791408
+s1679
+
+N/Users/patrickrussell/Documents/FYP/Bacon2/build/Debug-iphonesimulator/Bacon2.app/PkgInfo
+t1286791407
+s8
+
+N/Users/patrickrussell/Documents/FYP/Bacon2/main.m
+c000000004CB2DD8B000000000000016E
+t1286790539
+s366
+i<UIKit/UIKit.h>
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bacon2_Prefix-boznzvwsjwfttibotchtsrsbvead/Bacon2_Prefix.pch.gch
+t1286791410
+s10204720
+
+NBacon2-Info.plist
+c000000004CB2DD8B000000000000038D
+t1286790539
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308484207#308484207#0(0"0(0#1#0"4231240#0"0#
+
+CCompileC build/Bacon2.build/Debug-iphonesimulator/Bacon2.build/Objects-normal/i386/Bacon2AppDelegate.o /Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308484210.542559
+e308484210.638230
+r1
+xCompileC
+xbuild/Bacon2.build/Debug-iphonesimulator/Bacon2.build/Objects-normal/i386/Bacon2AppDelegate.o
+x/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2AppDelegate.m308484210#308484210#0(0"0(0#0#70"/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2AppDelegate.m2549534656#1972"    cd /Users/patrickrussell/Documents/FYP/Bacon2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/Documents/FYP/Bacon2/build/Bacon2.build/Debug-iphonesimulator/Bacon2.build/Bacon2-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/Bacon2/build/Bacon2.build/Debug-iphonesimulator/Bacon2.build/Bacon2-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/Bacon2/build/Bacon2.build/Debug-iphonesimulator/Bacon2.build/Bacon2-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/Bacon2/build/Bacon2.build/Debug-iphonesimulator/Bacon2.build/Bacon2-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/Bacon2/build/Debug-iphonesimulator -I/Users/patrickrussell/Documents/FYP/Bacon2/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Documents/FYP/Bacon2/build/Bacon2.build/Debug-iphonesimulator/Bacon2.build/DerivedSources/i386 -I/Users/patrickrussell/Documents/FYP/Bacon2/build/Bacon2.build/Debug-iphonesimulator/Bacon2.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bacon2_Prefix-boznzvwsjwfttibotchtsrsbvead/Bacon2_Prefix.pch -c /Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2AppDelegate.m -o /Users/patrickrussell/Documents/FYP/Bacon2/build/Bacon2.build/Debug-iphonesimulator/Bacon2.build/Objects-normal/i386/Bacon2AppDelegate.o0#
+
+CCompileC build/Bacon2.build/Debug-iphonesimulator/Bacon2.build/Objects-normal/i386/Bacon2ViewController.o /Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308484210.638387
+e308484210.734691
+r0
+xCompileC
+xbuild/Bacon2.build/Debug-iphonesimulator/Bacon2.build/Objects-normal/i386/Bacon2ViewController.o
+x/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.m: In function '-[Bacon2ViewController mainControlSwitched:]':
+o/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.m:22: error: expected expression before 'else'
+o/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.m: In function '-[Bacon2ViewController switchChanged:]':
+o/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.m:34: error: expected ']' before 'setOn'
+o/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.m:34: error: array subscript is not an integer
+o/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.m:36: error: expected ';' before '}' token
+o/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.m: In function '-[Bacon2ViewController dealloc]':
+o/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.m:92: error: expected ']' before 'release'
+o/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.m:92: error: array subscript is not an integer
+o/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.m:93: error: expected ']' before 'release'
+o/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.m:94: error: expected ']' before 'dealloc'
+o/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.m: At top level:
+o/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.m:95: warning: method possibly missing a [super dealloc] call
+lSLF07#2@81"Compile /Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.m308484210#308484210#0(1539"/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.m: In function '-[Bacon2ViewController mainControlSwitched:]':/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.m:22: error: expected expression before 'else'/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.m: In function '-[Bacon2ViewController switchChanged:]':/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.m:34: error: expected ']' before 'setOn'/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.m:34: error: array subscript is not an integer/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.m:36: error: expected ';' before '}' token/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.m: In function '-[Bacon2ViewController dealloc]':/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.m:92: error: expected ']' before 'release'/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.m:92: error: array subscript is not an integer/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.m:93: error: expected ']' before 'release'/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.m:94: error: expected ']' before 'dealloc'/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.m: At top level:/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.m:95: warning: method possibly missing a [super dealloc] call10(4@33"Expected expression before 'else'308484210#135#119#0(6@73"/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.m308484207#22#0#22#0#19"expected * before *0(4@27"Expected ']' before 'setOn'308484210#383#113#0(6@73"/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.m308484207#34#0#34#0#19"expected * before *0(4@33"Array subscript is not an integer308484210#496#119#0(6@73"/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.m308484207#34#0#34#0#0"0(4@29"Expected ';' before '}' token308484210#615#115#0(6@73"/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.m308484207#36#0#36#0#19"expected * before *0(4@29"Expected ']' before 'release'308484210#852#115#0(6@73"/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.m308484207#92#0#92#0#19"expected * before *0(4@33"Array subscript is not an integer308484210#967#119#0(6@73"/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.m308484207#92#0#92#0#0"0(4@29"Expected ']' before 'release'308484210#1086#115#0(6@73"/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.m308484207#93#0#93#0#19"expected * before *0(4@29"Expected ']' before 'dealloc'308484210#1201#115#0(6@73"/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.m308484207#94#0#94#0#19"expected * before *0(23@13"At top level:308484210#1316#89#0(6@73"/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.m308484207#0#0#0#0#0"0(22@46"Method possibly missing a [super dealloc] call308484210#1405#134#0(6@73"/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.m308484207#95#0#95#0#46"method possibly missing a [super dealloc] call0(0#0#73"/Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.m2549534656#1978"    cd /Users/patrickrussell/Documents/FYP/Bacon2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/Documents/FYP/Bacon2/build/Bacon2.build/Debug-iphonesimulator/Bacon2.build/Bacon2-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/Bacon2/build/Bacon2.build/Debug-iphonesimulator/Bacon2.build/Bacon2-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/Bacon2/build/Bacon2.build/Debug-iphonesimulator/Bacon2.build/Bacon2-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/Bacon2/build/Bacon2.build/Debug-iphonesimulator/Bacon2.build/Bacon2-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/Bacon2/build/Debug-iphonesimulator -I/Users/patrickrussell/Documents/FYP/Bacon2/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Documents/FYP/Bacon2/build/Bacon2.build/Debug-iphonesimulator/Bacon2.build/DerivedSources/i386 -I/Users/patrickrussell/Documents/FYP/Bacon2/build/Bacon2.build/Debug-iphonesimulator/Bacon2.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bacon2_Prefix-boznzvwsjwfttibotchtsrsbvead/Bacon2_Prefix.pch -c /Users/patrickrussell/Documents/FYP/Bacon2/Classes/Bacon2ViewController.m -o /Users/patrickrussell/Documents/FYP/Bacon2/build/Bacon2.build/Debug-iphonesimulator/Bacon2.build/Objects-normal/i386/Bacon2ViewController.o1#
+
+CCompileC build/Bacon2.build/Debug-iphonesimulator/Bacon2.build/Objects-normal/i386/main.o /Users/patrickrussell/Documents/FYP/Bacon2/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308484210.393223
+e308484210.542375
+r1
+xCompileC
+xbuild/Bacon2.build/Debug-iphonesimulator/Bacon2.build/Objects-normal/i386/main.o
+x/Users/patrickrussell/Documents/FYP/Bacon2/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/patrickrussell/Documents/FYP/Bacon2/main.m308484210#308484210#0(0"0(0#0#49"/Users/patrickrussell/Documents/FYP/Bacon2/main.m2549534656#1938"    cd /Users/patrickrussell/Documents/FYP/Bacon2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/Documents/FYP/Bacon2/build/Bacon2.build/Debug-iphonesimulator/Bacon2.build/Bacon2-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/Bacon2/build/Bacon2.build/Debug-iphonesimulator/Bacon2.build/Bacon2-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/Bacon2/build/Bacon2.build/Debug-iphonesimulator/Bacon2.build/Bacon2-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/Bacon2/build/Bacon2.build/Debug-iphonesimulator/Bacon2.build/Bacon2-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/Bacon2/build/Debug-iphonesimulator -I/Users/patrickrussell/Documents/FYP/Bacon2/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Documents/FYP/Bacon2/build/Bacon2.build/Debug-iphonesimulator/Bacon2.build/DerivedSources/i386 -I/Users/patrickrussell/Documents/FYP/Bacon2/build/Bacon2.build/Debug-iphonesimulator/Bacon2.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bacon2_Prefix-boznzvwsjwfttibotchtsrsbvead/Bacon2_Prefix.pch -c /Users/patrickrussell/Documents/FYP/Bacon2/main.m -o /Users/patrickrussell/Documents/FYP/Bacon2/build/Bacon2.build/Debug-iphonesimulator/Bacon2.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/patrickrussell/Documents/FYP/Bacon2/Bacon2ViewController.xib
+s308484207.811514
+e308484208.690882
+r1
+xCompileXIB
+x/Users/patrickrussell/Documents/FYP/Bacon2/Bacon2ViewController.xib
+lSLF07#2@35"CompileXIB Bacon2ViewController.xib308484207#308484208#0(0"0(0#0#67"/Users/patrickrussell/Documents/FYP/Bacon2/Bacon2ViewController.xib2549534656#601"    cd /Users/patrickrussell/Documents/FYP/Bacon2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Documents/FYP/Bacon2/build/Debug-iphonesimulator/Bacon2.app/Bacon2ViewController.nib /Users/patrickrussell/Documents/FYP/Bacon2/Bacon2ViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/patrickrussell/Documents/FYP/Bacon2/MainWindow.xib
+s308484207.809138
+e308484208.690243
+r1
+xCompileXIB
+x/Users/patrickrussell/Documents/FYP/Bacon2/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib308484207#308484208#0(0"0(0#0#57"/Users/patrickrussell/Documents/FYP/Bacon2/MainWindow.xib4717520#581"    cd /Users/patrickrussell/Documents/FYP/Bacon2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Documents/FYP/Bacon2/build/Debug-iphonesimulator/Bacon2.app/MainWindow.nib /Users/patrickrussell/Documents/FYP/Bacon2/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CGenerateDSYMFile /Users/patrickrussell/Documents/FYP/Bacon2/build/Debug-iphonesimulator/Bacon2.app.dSYM /Users/patrickrussell/Documents/FYP/Bacon2/build/Debug-iphonesimulator/Bacon2.app/Bacon2
+r0
+
+CLd /Users/patrickrussell/Documents/FYP/Bacon2/build/Debug-iphonesimulator/Bacon2.app/Bacon2 normal i386
+r0
+
+CProcessInfoPlistFile /Users/patrickrussell/Documents/FYP/Bacon2/build/Debug-iphonesimulator/Bacon2.app/Info.plist Bacon2-Info.plist
+s308484207.747635
+e308484207.808968
+r1
+xProcessInfoPlistFile
+x/Users/patrickrussell/Documents/FYP/Bacon2/build/Debug-iphonesimulator/Bacon2.app/Info.plist
+xBacon2-Info.plist
+lSLF07#2@25"Process Bacon2-Info.plist308484207#308484207#0(0"0(0#0#60"/Users/patrickrussell/Documents/FYP/Bacon2/Bacon2-Info.plist4231240#488"    cd /Users/patrickrussell/Documents/FYP/Bacon2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Bacon2-Info.plist -genpkginfo /Users/patrickrussell/Documents/FYP/Bacon2/build/Debug-iphonesimulator/Bacon2.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/patrickrussell/Documents/FYP/Bacon2/build/Debug-iphonesimulator/Bacon2.app/Info.plist0#
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bacon2_Prefix-boznzvwsjwfttibotchtsrsbvead/Bacon2_Prefix.pch.gch Bacon2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308484208.691086
+e308484210.393004
+r1
+xProcessPCH
+x/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bacon2_Prefix-boznzvwsjwfttibotchtsrsbvead/Bacon2_Prefix.pch.gch
+xBacon2_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Bacon2_Prefix.pch308484208#308484210#0(0"0(0#0#60"/Users/patrickrussell/Documents/FYP/Bacon2/Bacon2_Prefix.pch4231240#1827"    cd /Users/patrickrussell/Documents/FYP/Bacon2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/patrickrussell/Documents/FYP/Bacon2/build/Bacon2.build/Debug-iphonesimulator/Bacon2.build/Bacon2-generated-files.hmap -I/Users/patrickrussell/Documents/FYP/Bacon2/build/Bacon2.build/Debug-iphonesimulator/Bacon2.build/Bacon2-own-target-headers.hmap -I/Users/patrickrussell/Documents/FYP/Bacon2/build/Bacon2.build/Debug-iphonesimulator/Bacon2.build/Bacon2-all-target-headers.hmap -iquote /Users/patrickrussell/Documents/FYP/Bacon2/build/Bacon2.build/Debug-iphonesimulator/Bacon2.build/Bacon2-project-headers.hmap -F/Users/patrickrussell/Documents/FYP/Bacon2/build/Debug-iphonesimulator -I/Users/patrickrussell/Documents/FYP/Bacon2/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Documents/FYP/Bacon2/build/Bacon2.build/Debug-iphonesimulator/Bacon2.build/DerivedSources/i386 -I/Users/patrickrussell/Documents/FYP/Bacon2/build/Bacon2.build/Debug-iphonesimulator/Bacon2.build/DerivedSources -c /Users/patrickrussell/Documents/FYP/Bacon2/Bacon2_Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bacon2_Prefix-boznzvwsjwfttibotchtsrsbvead/Bacon2_Prefix.pch.gch0#
+
+CTouch /Users/patrickrussell/Documents/FYP/Bacon2/build/Debug-iphonesimulator/Bacon2.app
+r0
+

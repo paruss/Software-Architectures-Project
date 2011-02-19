@@ -1,0 +1,702 @@
+THazardMap
+v7
+r0
+t315959183.716489
+cCheck dependencies
+cCpResource build/Debug-iphoneos/HazardMap.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/Info.plist HazardMap-Info.plist
+cCpResource build/Debug-iphoneos/HazardMap.app/UShazard.20081229.pga.5pc50.bin UShazard.20081229.pga.5pc50.bin
+cCompileXIB /Users/patrickrussell/Downloads/HazardMap/en.lproj/HazardMapViewController.xib
+cCompileXIB /Users/patrickrussell/Downloads/HazardMap/en.lproj/MainWindow.xib
+cCopyPNGFile /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/Icon-72.png images/Icon-72.png
+cCopyPNGFile /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/Icon-Small-50.png images/Icon-Small-50.png
+cCopyPNGFile /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/Icon-Small.png images/Icon-Small.png
+cCopyPNGFile /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/Icon-Small@2x.png images/Icon-Small@2x.png
+cCopyPNGFile /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/Icon.png images/Icon.png
+cCopyPNGFile /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/Icon@2x.png images/Icon@2x.png
+cCpResource build/Debug-iphoneos/HazardMap.app/iTunesArtwork images/iTunesArtwork
+cProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HazardMap_Prefix-dqklnsjjrcsdnqbiuczqhssvpfmc/HazardMap_Prefix.pch.gch HazardMap_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HazardMap_Prefix-awanwkgewmomgjfprumxhgjycjra/HazardMap_Prefix.pch.gch HazardMap_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv6/main.o /Users/patrickrussell/Downloads/HazardMap/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv6/HazardMapAppDelegate.o /Users/patrickrussell/Downloads/HazardMap/Classes/HazardMapAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv6/HazardMapViewController.o /Users/patrickrussell/Downloads/HazardMap/Classes/HazardMapViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv6/HazardMap.o /Users/patrickrussell/Downloads/HazardMap/Classes/HazardMap.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv6/HazardMapView.o /Users/patrickrussell/Downloads/HazardMap/Classes/HazardMapView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv6/HazardMap normal armv6
+cCompileC build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv7/main.o /Users/patrickrussell/Downloads/HazardMap/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv7/HazardMapAppDelegate.o /Users/patrickrussell/Downloads/HazardMap/Classes/HazardMapAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv7/HazardMapViewController.o /Users/patrickrussell/Downloads/HazardMap/Classes/HazardMapViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv7/HazardMap.o /Users/patrickrussell/Downloads/HazardMap/Classes/HazardMap.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv7/HazardMapView.o /Users/patrickrussell/Downloads/HazardMap/Classes/HazardMapView.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv7/HazardMap normal armv7
+cCreateUniversalBinary /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/HazardMap normal "armv6 armv7"
+cGenerateDSYMFile /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app.dSYM /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/HazardMap
+cProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/embedded.mobileprovision
+cTouch /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap.xcent
+cCodeSign /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk
+c000000004C6DE9E30000000000000110
+t1282271715
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+c000000004C578FA900000000000001A7
+t1280806825
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+c000000004C578FA900000000000001E5
+t1280806825
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A51050000000000345F00
+t1280987397
+s3432192
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h
+c000000004C5A4FF800000000000004FE
+t1280987128
+s1278
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004C6C2FE600000000000C79C0
+t1282158566
+s817600
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A52B100000000003E1EF0
+t1280987825
+s4071152
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A527F0000000000001466
+t1280987775
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C6C31EB00000000000002FE
+t1282159083
+s766
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C6C320B00000000002801E0
+t1282159115
+s2621920
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C62427000000000000009CD
+t1281507952
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C62430F0000000002EBC2B0
+t1281508111
+s49005232
+
+N/Users/patrickrussell/Downloads/HazardMap/Classes/HazardMap.h
+c000000004C7470BB0000000000000ED1
+t1282699451
+s3793
+i<MapKit/MapKit.h>
+
+N/Users/patrickrussell/Downloads/HazardMap/Classes/HazardMap.m
+c000000004C7470BB000000000000233E
+t1282699451
+s9022
+i"HazardMap.h"
+
+N/Users/patrickrussell/Downloads/HazardMap/Classes/HazardMapAppDelegate.h
+c000000004C7470BB0000000000000B09
+t1282699451
+s2825
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Downloads/HazardMap/Classes/HazardMapAppDelegate.m
+c000000004C7470BB00000000000013DF
+t1282699451
+s5087
+i"HazardMapAppDelegate.h"
+i"HazardMapViewController.h"
+
+N/Users/patrickrussell/Downloads/HazardMap/Classes/HazardMapView.h
+c000000004C7470BB0000000000000B1E
+t1282699451
+s2846
+i<MapKit/MapKit.h>
+
+N/Users/patrickrussell/Downloads/HazardMap/Classes/HazardMapView.m
+c000000004C7470BB0000000000001A01
+t1282699451
+s6657
+i"HazardMapView.h"
+i"HazardMap.h"
+i<CoreGraphics/CoreGraphics.h>
+
+N/Users/patrickrussell/Downloads/HazardMap/Classes/HazardMapViewController.h
+c000000004C7470BB0000000000000AE8
+t1282699451
+s2792
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+
+N/Users/patrickrussell/Downloads/HazardMap/Classes/HazardMapViewController.m
+c000000004C7470BB0000000000000EDC
+t1282699451
+s3804
+i"HazardMapViewController.h"
+i"HazardMap.h"
+i"HazardMapView.h"
+
+N/Users/patrickrussell/Downloads/HazardMap/HazardMap_Prefix.pch
+c000000004C046D6900000000000000BB
+t1275358569
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Downloads/HazardMap/UShazard.20081229.pga.5pc50.bin
+c000000004C046D69000000000012A7EE
+t1275358569
+s1222638
+
+N/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app
+t1294266383
+s612
+
+N/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app.dSYM
+t1294266382
+s102
+
+N/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/HazardMap
+t1294266381
+s72076
+
+N/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/Icon-72.png
+t1294266367
+s925
+
+N/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/Icon-Small-50.png
+t1294266367
+s880
+
+N/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/Icon-Small.png
+t1294266367
+s854
+
+N/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/Icon-Small@2x.png
+t1294266367
+s893
+
+N/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/Icon.png
+t1294266367
+s891
+
+N/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/Icon@2x.png
+t1294266367
+s995
+
+N/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/Info.plist
+t1294266358
+s867
+
+N/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/PkgInfo
+t1294266358
+s8
+
+N/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/ResourceRules.plist
+t1294266358
+s485
+
+N/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/UShazard.20081229.pga.5pc50.bin
+t1294266359
+s1222638
+
+N/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/embedded.mobileprovision
+t1294266382
+s15853
+
+N/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/en.lproj/HazardMapViewController.nib
+t1294266366
+s1935
+
+N/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/en.lproj/MainWindow.nib
+t1294266365
+s1685
+
+N/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/iTunesArtwork
+t1294266367
+s5188
+
+N/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap.xcent
+t1294266382
+s424
+
+N/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv6/HazardMap
+t1294266379
+s35820
+
+N/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv6/HazardMap.LinkFileList
+c000000004D24EFF60000000000000298
+t1294266358
+s664
+
+N/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv6/HazardMap.o
+t1294266378
+s24596
+
+N/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv6/HazardMapAppDelegate.o
+t1294266378
+s48328
+
+N/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv6/HazardMapView.o
+t1294266379
+s43932
+
+N/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv6/HazardMapViewController.o
+t1294266378
+s41728
+
+N/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv6/main.o
+t1294266378
+s6452
+
+N/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv7/HazardMap
+t1294266381
+s31116
+
+N/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv7/HazardMap.LinkFileList
+c000000004D24EFF60000000000000298
+t1294266358
+s664
+
+N/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv7/HazardMap.o
+t1294266381
+s22036
+
+N/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv7/HazardMapAppDelegate.o
+t1294266380
+s48248
+
+N/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv7/HazardMapView.o
+t1294266381
+s43160
+
+N/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv7/HazardMapViewController.o
+t1294266380
+s41668
+
+N/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv7/main.o
+t1294266380
+s6436
+
+N/Users/patrickrussell/Downloads/HazardMap/en.lproj/HazardMapViewController.xib
+c000000004C45D5550000000000004389
+t1279645013
+s17289
+
+N/Users/patrickrussell/Downloads/HazardMap/en.lproj/MainWindow.xib
+c000000004C45D5550000000000004E41
+t1279645013
+s20033
+
+N/Users/patrickrussell/Downloads/HazardMap/images/Icon-72.png
+c000000004C4609BF0000000000000427
+t1279658431
+s1063
+
+N/Users/patrickrussell/Downloads/HazardMap/images/Icon-Small-50.png
+c000000004C4609BF00000000000003E0
+t1279658431
+s992
+
+N/Users/patrickrussell/Downloads/HazardMap/images/Icon-Small.png
+c000000004C4609BF0000000000000396
+t1279658431
+s918
+
+N/Users/patrickrussell/Downloads/HazardMap/images/Icon-Small@2x.png
+c000000004C4609BF00000000000003F2
+t1279658431
+s1010
+
+N/Users/patrickrussell/Downloads/HazardMap/images/Icon.png
+c000000004C4609BF00000000000003EF
+t1279658431
+s1007
+
+N/Users/patrickrussell/Downloads/HazardMap/images/Icon@2x.png
+c000000004C4609BF00000000000004E4
+t1279658431
+s1252
+
+N/Users/patrickrussell/Downloads/HazardMap/images/iTunesArtwork
+c000000004C4609BF0000000000001444
+t1279658431
+s5188
+
+N/Users/patrickrussell/Downloads/HazardMap/main.m
+c000000004C7470BB0000000000000A74
+t1282699451
+s2676
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision
+c000000004CB063CE0000000000003DED
+t1286628302
+s15853
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HazardMap_Prefix-awanwkgewmomgjfprumxhgjycjra/HazardMap_Prefix.pch.gch
+t1294266377
+s10294832
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HazardMap_Prefix-dqklnsjjrcsdnqbiuczqhssvpfmc/HazardMap_Prefix.pch.gch
+t1294266372
+s9831984
+
+NHazardMap-Info.plist
+c000000004C4609BF000000000000046C
+t1279658431
+s1132
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315959158#315959158#0(0"0(0#1#0"2462876304#0"0#
+
+CCodeSign /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app
+s315959182.213302
+e315959183.716276
+r1
+xCodeSign
+x/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app
+lSLF07#2@43"CodeSign build/Debug-iphoneos/HazardMap.app315959182#315959183#0(0"0(0#0#76"/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app2462876304#673"    cd /Users/patrickrussell/Downloads/HazardMap    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Patrick Russell (WD3RPMEYT5)" --resource-rules=/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/ResourceRules.plist --entitlements /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap.xcent /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app0#
+
+CCompileC build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv6/HazardMap.o /Users/patrickrussell/Downloads/HazardMap/Classes/HazardMap.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315959178.775653
+e315959178.943749
+r1
+xCompileC
+xbuild/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv6/HazardMap.o
+x/Users/patrickrussell/Downloads/HazardMap/Classes/HazardMap.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/patrickrussell/Downloads/HazardMap/Classes/HazardMap.m315959178#315959178#0(0"0(0#0#61"/Users/patrickrussell/Downloads/HazardMap/Classes/HazardMap.m2462876304#1815"    cd /Users/patrickrussell/Downloads/HazardMap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-generated-files.hmap -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-own-target-headers.hmap -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-project-headers.hmap -F/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HazardMap_Prefix-dqklnsjjrcsdnqbiuczqhssvpfmc/HazardMap_Prefix.pch -c /Users/patrickrussell/Downloads/HazardMap/Classes/HazardMap.m -o /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv6/HazardMap.o0#
+
+CCompileC build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv6/HazardMapAppDelegate.o /Users/patrickrussell/Downloads/HazardMap/Classes/HazardMapAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315959178.421089
+e315959178.664845
+r1
+xCompileC
+xbuild/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv6/HazardMapAppDelegate.o
+x/Users/patrickrussell/Downloads/HazardMap/Classes/HazardMapAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/patrickrussell/Downloads/HazardMap/Classes/HazardMapAppDelegate.m315959178#315959178#0(0"0(0#0#72"/Users/patrickrussell/Downloads/HazardMap/Classes/HazardMapAppDelegate.m2462876304#1837"    cd /Users/patrickrussell/Downloads/HazardMap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-generated-files.hmap -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-own-target-headers.hmap -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-project-headers.hmap -F/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HazardMap_Prefix-dqklnsjjrcsdnqbiuczqhssvpfmc/HazardMap_Prefix.pch -c /Users/patrickrussell/Downloads/HazardMap/Classes/HazardMapAppDelegate.m -o /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv6/HazardMapAppDelegate.o0#
+
+CCompileC build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv6/HazardMapView.o /Users/patrickrussell/Downloads/HazardMap/Classes/HazardMapView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315959178.943912
+e315959179.093520
+r1
+xCompileC
+xbuild/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv6/HazardMapView.o
+x/Users/patrickrussell/Downloads/HazardMap/Classes/HazardMapView.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/patrickrussell/Downloads/HazardMap/Classes/HazardMapView.m315959178#315959179#0(0"0(0#0#65"/Users/patrickrussell/Downloads/HazardMap/Classes/HazardMapView.m2462876304#1823"    cd /Users/patrickrussell/Downloads/HazardMap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-generated-files.hmap -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-own-target-headers.hmap -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-project-headers.hmap -F/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HazardMap_Prefix-dqklnsjjrcsdnqbiuczqhssvpfmc/HazardMap_Prefix.pch -c /Users/patrickrussell/Downloads/HazardMap/Classes/HazardMapView.m -o /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv6/HazardMapView.o0#
+
+CCompileC build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv6/HazardMapViewController.o /Users/patrickrussell/Downloads/HazardMap/Classes/HazardMapViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315959178.665030
+e315959178.775454
+r1
+xCompileC
+xbuild/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv6/HazardMapViewController.o
+x/Users/patrickrussell/Downloads/HazardMap/Classes/HazardMapViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/patrickrussell/Downloads/HazardMap/Classes/HazardMapViewController.m315959178#315959178#0(0"0(0#0#75"/Users/patrickrussell/Downloads/HazardMap/Classes/HazardMapViewController.m2462876304#1843"    cd /Users/patrickrussell/Downloads/HazardMap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-generated-files.hmap -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-own-target-headers.hmap -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-project-headers.hmap -F/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HazardMap_Prefix-dqklnsjjrcsdnqbiuczqhssvpfmc/HazardMap_Prefix.pch -c /Users/patrickrussell/Downloads/HazardMap/Classes/HazardMapViewController.m -o /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv6/HazardMapViewController.o0#
+
+CCompileC build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv6/main.o /Users/patrickrussell/Downloads/HazardMap/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315959177.988102
+e315959178.420914
+r1
+xCompileC
+xbuild/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv6/main.o
+x/Users/patrickrussell/Downloads/HazardMap/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/patrickrussell/Downloads/HazardMap/main.m315959177#315959178#0(0"0(0#0#48"/Users/patrickrussell/Downloads/HazardMap/main.m2462876304#1797"    cd /Users/patrickrussell/Downloads/HazardMap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-generated-files.hmap -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-own-target-headers.hmap -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-project-headers.hmap -F/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HazardMap_Prefix-dqklnsjjrcsdnqbiuczqhssvpfmc/HazardMap_Prefix.pch -c /Users/patrickrussell/Downloads/HazardMap/main.m -o /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv7/HazardMap.o /Users/patrickrussell/Downloads/HazardMap/Classes/HazardMap.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315959180.970567
+e315959181.171555
+r1
+xCompileC
+xbuild/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv7/HazardMap.o
+x/Users/patrickrussell/Downloads/HazardMap/Classes/HazardMap.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/patrickrussell/Downloads/HazardMap/Classes/HazardMap.m315959180#315959181#0(0"0(0#0#61"/Users/patrickrussell/Downloads/HazardMap/Classes/HazardMap.m2462876304#1815"    cd /Users/patrickrussell/Downloads/HazardMap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-generated-files.hmap -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-own-target-headers.hmap -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-project-headers.hmap -F/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/DerivedSources/armv7 -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HazardMap_Prefix-awanwkgewmomgjfprumxhgjycjra/HazardMap_Prefix.pch -c /Users/patrickrussell/Downloads/HazardMap/Classes/HazardMap.m -o /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv7/HazardMap.o0#
+
+CCompileC build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv7/HazardMapAppDelegate.o /Users/patrickrussell/Downloads/HazardMap/Classes/HazardMapAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315959180.112383
+e315959180.733719
+r1
+xCompileC
+xbuild/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv7/HazardMapAppDelegate.o
+x/Users/patrickrussell/Downloads/HazardMap/Classes/HazardMapAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/patrickrussell/Downloads/HazardMap/Classes/HazardMapAppDelegate.m315959180#315959180#0(0"0(0#0#72"/Users/patrickrussell/Downloads/HazardMap/Classes/HazardMapAppDelegate.m2462876304#1837"    cd /Users/patrickrussell/Downloads/HazardMap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-generated-files.hmap -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-own-target-headers.hmap -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-project-headers.hmap -F/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/DerivedSources/armv7 -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HazardMap_Prefix-awanwkgewmomgjfprumxhgjycjra/HazardMap_Prefix.pch -c /Users/patrickrussell/Downloads/HazardMap/Classes/HazardMapAppDelegate.m -o /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv7/HazardMapAppDelegate.o0#
+
+CCompileC build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv7/HazardMapView.o /Users/patrickrussell/Downloads/HazardMap/Classes/HazardMapView.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315959181.171734
+e315959181.413099
+r1
+xCompileC
+xbuild/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv7/HazardMapView.o
+x/Users/patrickrussell/Downloads/HazardMap/Classes/HazardMapView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/patrickrussell/Downloads/HazardMap/Classes/HazardMapView.m315959181#315959181#0(0"0(0#0#65"/Users/patrickrussell/Downloads/HazardMap/Classes/HazardMapView.m2462876304#1823"    cd /Users/patrickrussell/Downloads/HazardMap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-generated-files.hmap -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-own-target-headers.hmap -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-project-headers.hmap -F/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/DerivedSources/armv7 -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HazardMap_Prefix-awanwkgewmomgjfprumxhgjycjra/HazardMap_Prefix.pch -c /Users/patrickrussell/Downloads/HazardMap/Classes/HazardMapView.m -o /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv7/HazardMapView.o0#
+
+CCompileC build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv7/HazardMapViewController.o /Users/patrickrussell/Downloads/HazardMap/Classes/HazardMapViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315959180.733876
+e315959180.970406
+r1
+xCompileC
+xbuild/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv7/HazardMapViewController.o
+x/Users/patrickrussell/Downloads/HazardMap/Classes/HazardMapViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/patrickrussell/Downloads/HazardMap/Classes/HazardMapViewController.m315959180#315959180#0(0"0(0#0#75"/Users/patrickrussell/Downloads/HazardMap/Classes/HazardMapViewController.m2462876304#1843"    cd /Users/patrickrussell/Downloads/HazardMap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-generated-files.hmap -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-own-target-headers.hmap -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-project-headers.hmap -F/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/DerivedSources/armv7 -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HazardMap_Prefix-awanwkgewmomgjfprumxhgjycjra/HazardMap_Prefix.pch -c /Users/patrickrussell/Downloads/HazardMap/Classes/HazardMapViewController.m -o /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv7/HazardMapViewController.o0#
+
+CCompileC build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv7/main.o /Users/patrickrussell/Downloads/HazardMap/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315959179.951500
+e315959180.112226
+r1
+xCompileC
+xbuild/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv7/main.o
+x/Users/patrickrussell/Downloads/HazardMap/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/patrickrussell/Downloads/HazardMap/main.m315959179#315959180#0(0"0(0#0#48"/Users/patrickrussell/Downloads/HazardMap/main.m2462876304#1797"    cd /Users/patrickrussell/Downloads/HazardMap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-generated-files.hmap -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-own-target-headers.hmap -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-project-headers.hmap -F/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/DerivedSources/armv7 -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HazardMap_Prefix-awanwkgewmomgjfprumxhgjycjra/HazardMap_Prefix.pch -c /Users/patrickrussell/Downloads/HazardMap/main.m -o /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/patrickrussell/Downloads/HazardMap/en.lproj/HazardMapViewController.xib
+s315959158.785420
+e315959166.958920
+r1
+xCompileXIB
+x/Users/patrickrussell/Downloads/HazardMap/en.lproj/HazardMapViewController.xib
+lSLF07#2@47"CompileXIB en.lproj/HazardMapViewController.xib315959158#315959166#0(0"0(0#0#78"/Users/patrickrussell/Downloads/HazardMap/en.lproj/HazardMapViewController.xib2462876304#597"    cd /Users/patrickrussell/Downloads/HazardMap    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/en.lproj/HazardMapViewController.nib /Users/patrickrussell/Downloads/HazardMap/en.lproj/HazardMapViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/patrickrussell/Downloads/HazardMap/en.lproj/MainWindow.xib
+s315959159.980208
+e315959165.576998
+r1
+xCompileXIB
+x/Users/patrickrussell/Downloads/HazardMap/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib315959159#315959165#0(0"0(0#0#65"/Users/patrickrussell/Downloads/HazardMap/en.lproj/MainWindow.xib2462876304#571"    cd /Users/patrickrussell/Downloads/HazardMap    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/en.lproj/MainWindow.nib /Users/patrickrussell/Downloads/HazardMap/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/Icon-72.png images/Icon-72.png
+s315959165.577295
+e315959167.287533
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/Icon-72.png
+ximages/Icon-72.png
+lSLF07#2@77"CopyPNGFile build/Debug-iphoneos/HazardMap.app/Icon-72.png images/Icon-72.png315959165#315959167#0(0"0(0#0#60"/Users/patrickrussell/Downloads/HazardMap/images/Icon-72.png2462876304#580"    cd /Users/patrickrussell/Downloads/HazardMap    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/HazardMap/images/Icon-72.png /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/Icon-72.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/Icon-Small-50.png images/Icon-Small-50.png
+s315959166.959063
+e315959167.287838
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/Icon-Small-50.png
+ximages/Icon-Small-50.png
+lSLF07#2@89"CopyPNGFile build/Debug-iphoneos/HazardMap.app/Icon-Small-50.png images/Icon-Small-50.png315959166#315959167#0(0"0(0#0#66"/Users/patrickrussell/Downloads/HazardMap/images/Icon-Small-50.png2462876304#592"    cd /Users/patrickrussell/Downloads/HazardMap    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/HazardMap/images/Icon-Small-50.png /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/Icon-Small-50.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/Icon-Small.png images/Icon-Small.png
+s315959167.287960
+e315959167.322810
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/Icon-Small.png
+ximages/Icon-Small.png
+lSLF07#2@83"CopyPNGFile build/Debug-iphoneos/HazardMap.app/Icon-Small.png images/Icon-Small.png315959167#315959167#0(0"0(0#0#63"/Users/patrickrussell/Downloads/HazardMap/images/Icon-Small.png2462876304#586"    cd /Users/patrickrussell/Downloads/HazardMap    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/HazardMap/images/Icon-Small.png /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/Icon-Small.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/Icon-Small@2x.png images/Icon-Small@2x.png
+s315959167.323054
+e315959167.358666
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/Icon-Small@2x.png
+ximages/Icon-Small@2x.png
+lSLF07#2@89"CopyPNGFile build/Debug-iphoneos/HazardMap.app/Icon-Small@2x.png images/Icon-Small@2x.png315959167#315959167#0(0"0(0#0#66"/Users/patrickrussell/Downloads/HazardMap/images/Icon-Small@2x.png2462876304#592"    cd /Users/patrickrussell/Downloads/HazardMap    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/HazardMap/images/Icon-Small@2x.png /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/Icon-Small@2x.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/Icon.png images/Icon.png
+s315959167.358830
+e315959167.394624
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/Icon.png
+ximages/Icon.png
+lSLF07#2@71"CopyPNGFile build/Debug-iphoneos/HazardMap.app/Icon.png images/Icon.png315959167#315959167#0(0"0(0#0#57"/Users/patrickrussell/Downloads/HazardMap/images/Icon.png2462876304#574"    cd /Users/patrickrussell/Downloads/HazardMap    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/HazardMap/images/Icon.png /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/Icon.png0#
+
+CCopyPNGFile /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/Icon@2x.png images/Icon@2x.png
+s315959167.394773
+e315959167.434038
+r1
+xCopyPNGFile
+x/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/Icon@2x.png
+ximages/Icon@2x.png
+lSLF07#2@77"CopyPNGFile build/Debug-iphoneos/HazardMap.app/Icon@2x.png images/Icon@2x.png315959167#315959167#0(0"0(0#0#60"/Users/patrickrussell/Downloads/HazardMap/images/Icon@2x.png2462876304#580"    cd /Users/patrickrussell/Downloads/HazardMap    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/patrickrussell/Downloads/HazardMap/images/Icon@2x.png /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/Icon@2x.png0#
+
+CCpResource build/Debug-iphoneos/HazardMap.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+s315959158.607832
+e315959158.783301
+r1
+xCpResource
+xbuild/Debug-iphoneos/HazardMap.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist315959158#315959158#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist2462876304#488"    cd /Users/patrickrussell/Downloads/HazardMap    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app0#
+
+CCpResource build/Debug-iphoneos/HazardMap.app/UShazard.20081229.pga.5pc50.bin UShazard.20081229.pga.5pc50.bin
+s315959158.783447
+e315959159.979750
+r1
+xCpResource
+xbuild/Debug-iphoneos/HazardMap.app/UShazard.20081229.pga.5pc50.bin
+xUShazard.20081229.pga.5pc50.bin
+lSLF07#2@36"Copy UShazard.20081229.pga.5pc50.bin315959158#315959159#0(0"0(0#0#73"/Users/patrickrussell/Downloads/HazardMap/UShazard.20081229.pga.5pc50.bin2462876304#472"    cd /Users/patrickrussell/Downloads/HazardMap    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/patrickrussell/Downloads/HazardMap/UShazard.20081229.pga.5pc50.bin /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app0#
+
+CCpResource build/Debug-iphoneos/HazardMap.app/iTunesArtwork images/iTunesArtwork
+s315959167.434176
+e315959167.468405
+r1
+xCpResource
+xbuild/Debug-iphoneos/HazardMap.app/iTunesArtwork
+ximages/iTunesArtwork
+lSLF07#2@25"Copy images/iTunesArtwork315959167#315959167#0(0"0(0#0#62"/Users/patrickrussell/Downloads/HazardMap/images/iTunesArtwork2462876304#461"    cd /Users/patrickrussell/Downloads/HazardMap    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/patrickrussell/Downloads/HazardMap/images/iTunesArtwork /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app0#
+
+CCreateUniversalBinary /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/HazardMap normal "armv6 armv7"
+s315959181.847295
+e315959181.911858
+r1
+xCreateUniversalBinary
+x/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/HazardMap
+xnormal
+xarmv6 armv7
+lSLF07#2@87"CreateUniversalBinary build/Debug-iphoneos/HazardMap.app/HazardMap normal "armv6 armv7"315959181#315959181#0(0"0(0#0#53"/Users/patrickrussell/Downloads/HazardMap/armv6 armv72462876304#546"    cd /Users/patrickrussell/Downloads/HazardMap    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv6/HazardMap /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv7/HazardMap -output /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/HazardMap0#
+
+CGenerateDSYMFile /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app.dSYM /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/HazardMap
+s315959181.912009
+e315959182.123590
+r1
+xGenerateDSYMFile
+x/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app.dSYM
+x/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/HazardMap
+lSLF07#2@101"GenerateDSYMFile build/Debug-iphoneos/HazardMap.app.dSYM build/Debug-iphoneos/HazardMap.app/HazardMap315959181#315959182#0(0"0(0#0#86"/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/HazardMap2462876304#377"    cd /Users/patrickrussell/Downloads/HazardMap    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/HazardMap -o /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app.dSYM0#
+
+CLd /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv6/HazardMap normal armv6
+s315959179.093661
+e315959179.951270
+r1
+xLd
+x/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv6/HazardMap
+xnormal
+xarmv6
+lSLF07#2@130"Link /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv6/HazardMap315959179#315959179#0(0"0(0#0#0"2462876304#928"    cd /Users/patrickrussell/Downloads/HazardMap    setenv IPHONEOS_DEPLOYMENT_TARGET 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -L/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos -F/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos -filelist /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv6/HazardMap.LinkFileList -dead_strip -miphoneos-version-min=4.1 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -framework CoreLocation -o /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv6/HazardMap0#
+
+CLd /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv7/HazardMap normal armv7
+s315959181.413248
+e315959181.847035
+r1
+xLd
+x/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv7/HazardMap
+xnormal
+xarmv7
+lSLF07#2@130"Link /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv7/HazardMap315959181#315959181#0(0"0(0#0#0"2462876304#928"    cd /Users/patrickrussell/Downloads/HazardMap    setenv IPHONEOS_DEPLOYMENT_TARGET 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -L/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos -F/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos -filelist /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv7/HazardMap.LinkFileList -dead_strip -miphoneos-version-min=4.1 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -framework CoreLocation -o /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/Objects-normal/armv7/HazardMap0#
+
+CProcessInfoPlistFile /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/Info.plist HazardMap-Info.plist
+s315959158.626582
+e315959158.727885
+r1
+xProcessInfoPlistFile
+x/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/Info.plist
+xHazardMap-Info.plist
+lSLF07#2@28"Process HazardMap-Info.plist315959158#315959158#0(0"0(0#0#62"/Users/patrickrussell/Downloads/HazardMap/HazardMap-Info.plist2462876304#582"    cd /Users/patrickrussell/Downloads/HazardMap    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility HazardMap-Info.plist -genpkginfo /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/ResourceRules.plist -o /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/Info.plist0#
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HazardMap_Prefix-awanwkgewmomgjfprumxhgjycjra/HazardMap_Prefix.pch.gch HazardMap_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315959172.750202
+e315959177.987786
+r1
+xProcessPCH
+x/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HazardMap_Prefix-awanwkgewmomgjfprumxhgjycjra/HazardMap_Prefix.pch.gch
+xHazardMap_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile HazardMap_Prefix.pch315959172#315959177#0(0"0(0#0#62"/Users/patrickrussell/Downloads/HazardMap/HazardMap_Prefix.pch2462876304#1690"    cd /Users/patrickrussell/Downloads/HazardMap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-generated-files.hmap -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-own-target-headers.hmap -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-project-headers.hmap -F/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/DerivedSources/armv7 -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/DerivedSources -c /Users/patrickrussell/Downloads/HazardMap/HazardMap_Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HazardMap_Prefix-awanwkgewmomgjfprumxhgjycjra/HazardMap_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HazardMap_Prefix-dqklnsjjrcsdnqbiuczqhssvpfmc/HazardMap_Prefix.pch.gch HazardMap_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315959167.468599
+e315959172.749948
+r1
+xProcessPCH
+x/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HazardMap_Prefix-dqklnsjjrcsdnqbiuczqhssvpfmc/HazardMap_Prefix.pch.gch
+xHazardMap_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile HazardMap_Prefix.pch315959167#315959172#0(0"0(0#0#62"/Users/patrickrussell/Downloads/HazardMap/HazardMap_Prefix.pch2462876304#1690"    cd /Users/patrickrussell/Downloads/HazardMap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-generated-files.hmap -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-own-target-headers.hmap -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap-project-headers.hmap -F/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos -I/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/include -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/DerivedSources/armv6 -I/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/DerivedSources -c /Users/patrickrussell/Downloads/HazardMap/HazardMap_Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HazardMap_Prefix-dqklnsjjrcsdnqbiuczqhssvpfmc/HazardMap_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/embedded.mobileprovision
+s315959182.123750
+e315959182.167817
+r1
+xProcessProductPackaging
+x/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision
+x/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/embedded.mobileprovision
+lSLF07#2@203"ProcessProductPackaging "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" build/Debug-iphoneos/HazardMap.app/embedded.mobileprovision315959182#315959182#0(0"0(0#0#101"/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/embedded.mobileprovision2462876304#440"    cd /Users/patrickrussell/Downloads/HazardMap    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/patrickrussell/Library/MobileDevice/Provisioning Profiles/83C23BD8-710A-4C48-8220-76525F4AC102.mobileprovision" -o /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap.xcent
+s315959182.185794
+e315959182.213136
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+x/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap.xcent
+lSLF07#2@181"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap.xcent315959182#315959182#0(0"0(0#0#110"/Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap.xcent2462876304#444"    cd /Users/patrickrussell/Downloads/HazardMap    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/patrickrussell/Downloads/HazardMap/build/HazardMap.build/Debug-iphoneos/HazardMap.build/HazardMap.xcent0#
+
+CTouch /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app
+s315959182.167927
+e315959182.185638
+r1
+xTouch
+x/Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app
+lSLF07#2@82"Touch /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app315959182#315959182#0(0"0(0#0#0"2462876304#272"    cd /Users/patrickrussell/Downloads/HazardMap    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/patrickrussell/Downloads/HazardMap/build/Debug-iphoneos/HazardMap.app0#
+

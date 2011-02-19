@@ -1,0 +1,813 @@
+TMapCallouts
+v7
+r0
+t316875243.239273
+cCheck dependencies
+cProcessInfoPlistFile /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/Info.plist Info.plist
+cCompileXIB /Users/patrickrussell/Downloads/MapCallouts/en.lproj/MainWindow.xib
+cCompileXIB /Users/patrickrussell/Downloads/MapCallouts/en.lproj/MapViewController.xib
+cCompileXIB /Users/patrickrussell/Downloads/MapCallouts/en.lproj/DetailViewController.xib
+cCpResource build/Debug-iphonesimulator/MapCallouts.app/ReadMe.txt ReadMe.txt
+cCpResource build/Debug-iphonesimulator/MapCallouts.app/Default.png images/Default.png
+cCpResource build/Debug-iphonesimulator/MapCallouts.app/flag.png images/flag.png
+cCpResource build/Debug-iphonesimulator/MapCallouts.app/GoldenGate.png images/GoldenGate.png
+cCpResource build/Debug-iphonesimulator/MapCallouts.app/Icon-72.png images/Icon-72.png
+cCpResource build/Debug-iphonesimulator/MapCallouts.app/Icon-Small-50.png images/Icon-Small-50.png
+cCpResource build/Debug-iphonesimulator/MapCallouts.app/Icon-Small.png images/Icon-Small.png
+cCpResource build/Debug-iphonesimulator/MapCallouts.app/Icon-Small@2x.png images/Icon-Small@2x.png
+cCpResource build/Debug-iphonesimulator/MapCallouts.app/Icon.png images/Icon.png
+cCpResource build/Debug-iphonesimulator/MapCallouts.app/Icon@2x.png images/Icon@2x.png
+cCpResource build/Debug-iphonesimulator/MapCallouts.app/Location.png images/Location.png
+cCpResource build/Debug-iphonesimulator/MapCallouts.app/SFIcon.png images/SFIcon.png
+cCpResource build/Debug-iphonesimulator/MapCallouts.app/iTunesArtwork images/../iTunesArtwork
+cProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ewpwguopajvduoedohdgccbmmvfd/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/main.o /Users/patrickrussell/Downloads/MapCallouts/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/AppDelegate.o /Users/patrickrussell/Downloads/MapCallouts/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/SFAnnotation.o /Users/patrickrussell/Downloads/MapCallouts/SFAnnotation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/MapViewController.o /Users/patrickrussell/Downloads/MapCallouts/MapViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/BridgeAnnotation.o /Users/patrickrussell/Downloads/MapCallouts/BridgeAnnotation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/DetailViewController.o /Users/patrickrussell/Downloads/MapCallouts/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/MapCallouts normal i386
+cGenerateDSYMFile /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app.dSYM /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/MapCallouts
+cTouch /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C6C301100000000000002FE
+t1282158609
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C6C303B000000000016DD50
+t1282158651
+s1498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/patrickrussell/Downloads/MapCallouts/AppDelegate.h
+c000000004C2536810000000000000B22
+t1277507201
+s2850
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Downloads/MapCallouts/AppDelegate.m
+c000000004C2536810000000000000BA4
+t1277507201
+s2980
+i"AppDelegate.h"
+i"MapViewController.h"
+
+N/Users/patrickrussell/Downloads/MapCallouts/BridgeAnnotation.h
+c000000004C2536810000000000000A4F
+t1277507201
+s2639
+i<MapKit/MapKit.h>
+
+N/Users/patrickrussell/Downloads/MapCallouts/BridgeAnnotation.m
+c000000004C2536810000000000000BFE
+t1277507201
+s3070
+i"BridgeAnnotation.h"
+
+N/Users/patrickrussell/Downloads/MapCallouts/DetailViewController.h
+c000000004C2536810000000000000A52
+t1277507201
+s2642
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Downloads/MapCallouts/DetailViewController.m
+c000000004C2536810000000000000B6F
+t1277507201
+s2927
+i"DetailViewController.h"
+
+N/Users/patrickrussell/Downloads/MapCallouts/MapViewController.h
+c000000004C2536810000000000000CA7
+t1277507201
+s3239
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+
+N/Users/patrickrussell/Downloads/MapCallouts/MapViewController.m
+c000000004C253681000000000000288D
+t1277507201
+s10381
+i"MapViewController.h"
+i"DetailViewController.h"
+i"SFAnnotation.h"
+i"BridgeAnnotation.h"
+
+N/Users/patrickrussell/Downloads/MapCallouts/Prefix.pch
+c000000004B96E7580000000000000059
+t1268180824
+s89
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/patrickrussell/Downloads/MapCallouts/ReadMe.txt
+c000000004C2509A70000000000000923
+t1277495719
+s2339
+
+N/Users/patrickrussell/Downloads/MapCallouts/SFAnnotation.h
+c000000004C2536810000000000000B25
+t1277507201
+s2853
+i<MapKit/MapKit.h>
+
+N/Users/patrickrussell/Downloads/MapCallouts/SFAnnotation.m
+c000000004C2536810000000000000BF9
+t1277507201
+s3065
+i"SFAnnotation.h"
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app
+t1294592835
+s646
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app.dSYM
+t1294592835
+s102
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/Default.png
+t1294592829
+s15101
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/GoldenGate.png
+t1294592830
+s223061
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/Icon-72.png
+t1294592829
+s1063
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/Icon-Small-50.png
+t1294592829
+s992
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/Icon-Small.png
+t1294592829
+s918
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/Icon-Small@2x.png
+t1294592829
+s1010
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/Icon.png
+t1294592829
+s1007
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/Icon@2x.png
+t1294592829
+s1252
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/Info.plist
+t1294592819
+s712
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/Location.png
+t1294592829
+s4538
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/MapCallouts
+t1294592835
+s31612
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/PkgInfo
+t1294592819
+s8
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/ReadMe.txt
+t1294592829
+s2339
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/SFIcon.png
+t1294592829
+s263
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/en.lproj/DetailViewController.nib
+t1294592830
+s1068
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/en.lproj/MainWindow.nib
+t1294592828
+s2035
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/en.lproj/MapViewController.nib
+t1294592829
+s1776
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/flag.png
+t1294592829
+s995
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/iTunesArtwork
+t1294592829
+s5188
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/AppDelegate.o
+t1294592834
+s47252
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/BridgeAnnotation.o
+t1294592834
+s10868
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/DetailViewController.o
+t1294592834
+s34376
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/MapCallouts.LinkFileList
+c000000004D29EB320000000000000362
+t1294592818
+s866
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/MapViewController.o
+t1294592834
+s59052
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/SFAnnotation.o
+t1294592834
+s15160
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/main.o
+t1294592833
+s6312
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/StaticAnalyzer/normal/i386/AppDelegate.plist
+t2
+s0
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/StaticAnalyzer/normal/i386/BridgeAnnotation.plist
+t2
+s0
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/StaticAnalyzer/normal/i386/DetailViewController.plist
+t2
+s0
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/StaticAnalyzer/normal/i386/MapViewController.plist
+t2
+s0
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/StaticAnalyzer/normal/i386/SFAnnotation.plist
+t2
+s0
+
+N/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/StaticAnalyzer/normal/i386/main.plist
+t2
+s0
+
+N/Users/patrickrussell/Downloads/MapCallouts/en.lproj/DetailViewController.xib
+c000000004B96E7580000000000004160
+t1268180824
+s16736
+
+N/Users/patrickrussell/Downloads/MapCallouts/en.lproj/MainWindow.xib
+c000000004B96E75800000000000072B4
+t1268180824
+s29364
+
+N/Users/patrickrussell/Downloads/MapCallouts/en.lproj/MapViewController.xib
+c000000004B96E7580000000000005A61
+t1268180824
+s23137
+
+N/Users/patrickrussell/Downloads/MapCallouts/images/../iTunesArtwork
+c000000004C2509590000000000001444
+t1277495641
+s5188
+
+N/Users/patrickrussell/Downloads/MapCallouts/images/Default.png
+c000000004C2509590000000000003AFD
+t1277495641
+s15101
+
+N/Users/patrickrussell/Downloads/MapCallouts/images/GoldenGate.png
+c000000004C1BE0590000000000036755
+t1276895321
+s223061
+
+N/Users/patrickrussell/Downloads/MapCallouts/images/Icon-72.png
+c000000004C2509590000000000000427
+t1277495641
+s1063
+
+N/Users/patrickrussell/Downloads/MapCallouts/images/Icon-Small-50.png
+c000000004C25095900000000000003E0
+t1277495641
+s992
+
+N/Users/patrickrussell/Downloads/MapCallouts/images/Icon-Small.png
+c000000004C1A9FA20000000000000396
+t1276813218
+s918
+
+N/Users/patrickrussell/Downloads/MapCallouts/images/Icon-Small@2x.png
+c000000004C1A9FA200000000000003F2
+t1276813218
+s1010
+
+N/Users/patrickrussell/Downloads/MapCallouts/images/Icon.png
+c000000004C1A9FA200000000000003EF
+t1276813218
+s1007
+
+N/Users/patrickrussell/Downloads/MapCallouts/images/Icon@2x.png
+c000000004C1A9FA200000000000004E4
+t1276813218
+s1252
+
+N/Users/patrickrussell/Downloads/MapCallouts/images/Location.png
+c000000004C1BE05900000000000011BA
+t1276895321
+s4538
+
+N/Users/patrickrussell/Downloads/MapCallouts/images/SFIcon.png
+c000000004C1BE0590000000000000107
+t1276895321
+s263
+
+N/Users/patrickrussell/Downloads/MapCallouts/images/flag.png
+c000000004C1BE05900000000000003E3
+t1276895321
+s995
+
+N/Users/patrickrussell/Downloads/MapCallouts/main.m
+c000000004C2536810000000000000AB0
+t1277507201
+s2736
+i<UIKit/UIKit.h>
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cxzyueqavghwrneoynuykadrckyt/Prefix.pch.pth
+t2
+s0
+
+N/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ewpwguopajvduoedohdgccbmmvfd/Prefix.pch.gch
+t1294592833
+s10221104
+
+NInfo.plist
+c000000004C2509A70000000000000425
+t1277495719
+s1061
+
+CAnalyze /Users/patrickrussell/Downloads/MapCallouts/AppDelegate.m
+s316795860.208258
+e316795860.529458
+r1
+xAnalyze
+x/Users/patrickrussell/Downloads/MapCallouts/AppDelegate.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cxzyueqavghwrneoynuykadrckyt/Prefix.pch' file not found
+o #include "/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cxzyueqavghwrneoynuykadrckyt/Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@65"Analyze /Users/patrickrussell/Downloads/MapCallouts/AppDelegate.m316795860#316795860#0(422"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cxzyueqavghwrneoynuykadrckyt/Prefix.pch' file not found #include "/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cxzyueqavghwrneoynuykadrckyt/Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors316795860#4294967295#0#1(25@161"'/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cxzyueqavghwrneoynuykadrckyt/Prefix.pch' file not found316795860#4294967295#0#0(6@14"<command line>316795860#1#0#1#0#0"0(6@14"<command line>316795860#0#0#0#0#0"0(0#0#57"/Users/patrickrussell/Downloads/MapCallouts/AppDelegate.m2501739152#1994"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-generated-files.hmap -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-project-headers.hmap -F/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cxzyueqavghwrneoynuykadrckyt/Prefix.pch --analyze /Users/patrickrussell/Downloads/MapCallouts/AppDelegate.m -o /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/StaticAnalyzer/normal/i386/AppDelegate.plist0#
+
+CAnalyze /Users/patrickrussell/Downloads/MapCallouts/BridgeAnnotation.m
+s316795861.030998
+e316795861.325975
+r1
+xAnalyze
+x/Users/patrickrussell/Downloads/MapCallouts/BridgeAnnotation.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cxzyueqavghwrneoynuykadrckyt/Prefix.pch' file not found
+o #include "/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cxzyueqavghwrneoynuykadrckyt/Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@70"Analyze /Users/patrickrussell/Downloads/MapCallouts/BridgeAnnotation.m316795861#316795861#0(422"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cxzyueqavghwrneoynuykadrckyt/Prefix.pch' file not found #include "/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cxzyueqavghwrneoynuykadrckyt/Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors316795861#4294967295#0#1(25@161"'/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cxzyueqavghwrneoynuykadrckyt/Prefix.pch' file not found316795861#4294967295#0#0(6@14"<command line>316795861#1#0#1#0#0"0(6@14"<command line>316795861#0#0#0#0#0"0(0#0#62"/Users/patrickrussell/Downloads/MapCallouts/BridgeAnnotation.m2501739152#2004"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-generated-files.hmap -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-project-headers.hmap -F/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cxzyueqavghwrneoynuykadrckyt/Prefix.pch --analyze /Users/patrickrussell/Downloads/MapCallouts/BridgeAnnotation.m -o /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/StaticAnalyzer/normal/i386/BridgeAnnotation.plist0#
+
+CAnalyze /Users/patrickrussell/Downloads/MapCallouts/DetailViewController.m
+s316795861.326208
+e316795861.671027
+r1
+xAnalyze
+x/Users/patrickrussell/Downloads/MapCallouts/DetailViewController.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cxzyueqavghwrneoynuykadrckyt/Prefix.pch' file not found
+o #include "/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cxzyueqavghwrneoynuykadrckyt/Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@74"Analyze /Users/patrickrussell/Downloads/MapCallouts/DetailViewController.m316795861#316795861#0(422"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cxzyueqavghwrneoynuykadrckyt/Prefix.pch' file not found #include "/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cxzyueqavghwrneoynuykadrckyt/Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors316795861#4294967295#0#1(25@161"'/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cxzyueqavghwrneoynuykadrckyt/Prefix.pch' file not found316795861#4294967295#0#0(6@14"<command line>316795861#1#0#1#0#0"0(6@14"<command line>316795861#0#0#0#0#0"0(0#0#66"/Users/patrickrussell/Downloads/MapCallouts/DetailViewController.m2501739152#2012"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-generated-files.hmap -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-project-headers.hmap -F/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cxzyueqavghwrneoynuykadrckyt/Prefix.pch --analyze /Users/patrickrussell/Downloads/MapCallouts/DetailViewController.m -o /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/StaticAnalyzer/normal/i386/DetailViewController.plist0#
+
+CAnalyze /Users/patrickrussell/Downloads/MapCallouts/MapViewController.m
+s316795860.779589
+e316795861.030857
+r1
+xAnalyze
+x/Users/patrickrussell/Downloads/MapCallouts/MapViewController.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cxzyueqavghwrneoynuykadrckyt/Prefix.pch' file not found
+o #include "/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cxzyueqavghwrneoynuykadrckyt/Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@71"Analyze /Users/patrickrussell/Downloads/MapCallouts/MapViewController.m316795860#316795861#0(422"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cxzyueqavghwrneoynuykadrckyt/Prefix.pch' file not found #include "/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cxzyueqavghwrneoynuykadrckyt/Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors316795860#4294967295#0#1(25@161"'/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cxzyueqavghwrneoynuykadrckyt/Prefix.pch' file not found316795860#4294967295#0#0(6@14"<command line>316795860#1#0#1#0#0"0(6@14"<command line>316795860#0#0#0#0#0"0(0#0#63"/Users/patrickrussell/Downloads/MapCallouts/MapViewController.m2501739152#2006"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-generated-files.hmap -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-project-headers.hmap -F/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cxzyueqavghwrneoynuykadrckyt/Prefix.pch --analyze /Users/patrickrussell/Downloads/MapCallouts/MapViewController.m -o /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/StaticAnalyzer/normal/i386/MapViewController.plist0#
+
+CAnalyze /Users/patrickrussell/Downloads/MapCallouts/SFAnnotation.m
+s316795860.529607
+e316795860.779460
+r1
+xAnalyze
+x/Users/patrickrussell/Downloads/MapCallouts/SFAnnotation.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cxzyueqavghwrneoynuykadrckyt/Prefix.pch' file not found
+o #include "/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cxzyueqavghwrneoynuykadrckyt/Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@66"Analyze /Users/patrickrussell/Downloads/MapCallouts/SFAnnotation.m316795860#316795860#0(422"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cxzyueqavghwrneoynuykadrckyt/Prefix.pch' file not found #include "/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cxzyueqavghwrneoynuykadrckyt/Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors316795860#4294967295#0#1(25@161"'/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cxzyueqavghwrneoynuykadrckyt/Prefix.pch' file not found316795860#4294967295#0#0(6@14"<command line>316795860#1#0#1#0#0"0(6@14"<command line>316795860#0#0#0#0#0"0(0#0#58"/Users/patrickrussell/Downloads/MapCallouts/SFAnnotation.m2501739152#1996"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-generated-files.hmap -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-project-headers.hmap -F/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cxzyueqavghwrneoynuykadrckyt/Prefix.pch --analyze /Users/patrickrussell/Downloads/MapCallouts/SFAnnotation.m -o /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/StaticAnalyzer/normal/i386/SFAnnotation.plist0#
+
+CAnalyze /Users/patrickrussell/Downloads/MapCallouts/main.m
+s316795859.946984
+e316795860.208127
+r1
+xAnalyze
+x/Users/patrickrussell/Downloads/MapCallouts/main.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cxzyueqavghwrneoynuykadrckyt/Prefix.pch' file not found
+o #include "/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cxzyueqavghwrneoynuykadrckyt/Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@58"Analyze /Users/patrickrussell/Downloads/MapCallouts/main.m316795859#316795860#0(422"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cxzyueqavghwrneoynuykadrckyt/Prefix.pch' file not found #include "/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cxzyueqavghwrneoynuykadrckyt/Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors316795860#4294967295#0#1(25@161"'/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cxzyueqavghwrneoynuykadrckyt/Prefix.pch' file not found316795860#4294967295#0#0(6@14"<command line>316795860#1#0#1#0#0"0(6@14"<command line>316795860#0#0#0#0#0"0(0#0#50"/Users/patrickrussell/Downloads/MapCallouts/main.m2501739152#1980"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-generated-files.hmap -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-project-headers.hmap -F/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cxzyueqavghwrneoynuykadrckyt/Prefix.pch --analyze /Users/patrickrussell/Downloads/MapCallouts/main.m -o /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/StaticAnalyzer/normal/i386/main.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies316875243#316875243#0(0"0(0#1#0"2501739152#0"0#
+
+CCompileC build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/AppDelegate.o /Users/patrickrussell/Downloads/MapCallouts/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316285634.045316
+e316285634.155123
+r1
+xCompileC
+xbuild/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/AppDelegate.o
+x/Users/patrickrussell/Downloads/MapCallouts/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/patrickrussell/Downloads/MapCallouts/AppDelegate.m316285634#316285634#0(0"0(0#0#57"/Users/patrickrussell/Downloads/MapCallouts/AppDelegate.m2501739152#2039"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-generated-files.hmap -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-project-headers.hmap -F/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ewpwguopajvduoedohdgccbmmvfd/Prefix.pch -c /Users/patrickrussell/Downloads/MapCallouts/AppDelegate.m -o /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/BridgeAnnotation.o /Users/patrickrussell/Downloads/MapCallouts/BridgeAnnotation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316285634.428276
+e316285634.534848
+r1
+xCompileC
+xbuild/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/BridgeAnnotation.o
+x/Users/patrickrussell/Downloads/MapCallouts/BridgeAnnotation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/patrickrussell/Downloads/MapCallouts/BridgeAnnotation.m316285634#316285634#0(0"0(0#0#62"/Users/patrickrussell/Downloads/MapCallouts/BridgeAnnotation.m2501739152#2049"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-generated-files.hmap -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-project-headers.hmap -F/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ewpwguopajvduoedohdgccbmmvfd/Prefix.pch -c /Users/patrickrussell/Downloads/MapCallouts/BridgeAnnotation.m -o /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/BridgeAnnotation.o0#
+
+CCompileC build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/DetailViewController.o /Users/patrickrussell/Downloads/MapCallouts/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316285634.535006
+e316285634.621284
+r1
+xCompileC
+xbuild/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/DetailViewController.o
+x/Users/patrickrussell/Downloads/MapCallouts/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/patrickrussell/Downloads/MapCallouts/DetailViewController.m316285634#316285634#0(0"0(0#0#66"/Users/patrickrussell/Downloads/MapCallouts/DetailViewController.m2501739152#2057"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-generated-files.hmap -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-project-headers.hmap -F/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ewpwguopajvduoedohdgccbmmvfd/Prefix.pch -c /Users/patrickrussell/Downloads/MapCallouts/DetailViewController.m -o /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/DetailViewController.o0#
+
+CCompileC build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/MapViewController.o /Users/patrickrussell/Downloads/MapCallouts/MapViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316285634.258552
+e316285634.428130
+r1
+xCompileC
+xbuild/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/MapViewController.o
+x/Users/patrickrussell/Downloads/MapCallouts/MapViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/patrickrussell/Downloads/MapCallouts/MapViewController.m316285634#316285634#0(0"0(0#0#63"/Users/patrickrussell/Downloads/MapCallouts/MapViewController.m2501739152#2051"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-generated-files.hmap -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-project-headers.hmap -F/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ewpwguopajvduoedohdgccbmmvfd/Prefix.pch -c /Users/patrickrussell/Downloads/MapCallouts/MapViewController.m -o /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/MapViewController.o0#
+
+CCompileC build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/SFAnnotation.o /Users/patrickrussell/Downloads/MapCallouts/SFAnnotation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316285634.155279
+e316285634.258393
+r1
+xCompileC
+xbuild/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/SFAnnotation.o
+x/Users/patrickrussell/Downloads/MapCallouts/SFAnnotation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/patrickrussell/Downloads/MapCallouts/SFAnnotation.m316285634#316285634#0(0"0(0#0#58"/Users/patrickrussell/Downloads/MapCallouts/SFAnnotation.m2501739152#2041"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-generated-files.hmap -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-project-headers.hmap -F/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ewpwguopajvduoedohdgccbmmvfd/Prefix.pch -c /Users/patrickrussell/Downloads/MapCallouts/SFAnnotation.m -o /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/SFAnnotation.o0#
+
+CCompileC build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/main.o /Users/patrickrussell/Downloads/MapCallouts/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316285633.466992
+e316285634.045167
+r1
+xCompileC
+xbuild/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/main.o
+x/Users/patrickrussell/Downloads/MapCallouts/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/patrickrussell/Downloads/MapCallouts/main.m316285633#316285634#0(0"0(0#0#50"/Users/patrickrussell/Downloads/MapCallouts/main.m2501739152#2025"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-generated-files.hmap -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-project-headers.hmap -F/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/DerivedSources -include /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ewpwguopajvduoedohdgccbmmvfd/Prefix.pch -c /Users/patrickrussell/Downloads/MapCallouts/main.m -o /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/patrickrussell/Downloads/MapCallouts/en.lproj/DetailViewController.xib
+s316285628.584211
+e316285630.670555
+r1
+xCompileXIB
+x/Users/patrickrussell/Downloads/MapCallouts/en.lproj/DetailViewController.xib
+lSLF07#2@44"CompileXIB en.lproj/DetailViewController.xib316285628#316285630#0(0"0(0#0#77"/Users/patrickrussell/Downloads/MapCallouts/en.lproj/DetailViewController.xib4231240#627"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/en.lproj/DetailViewController.nib /Users/patrickrussell/Downloads/MapCallouts/en.lproj/DetailViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/patrickrussell/Downloads/MapCallouts/en.lproj/MainWindow.xib
+s316285619.659737
+e316285628.583965
+r1
+xCompileXIB
+x/Users/patrickrussell/Downloads/MapCallouts/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib316285619#316285628#0(0"0(0#0#67"/Users/patrickrussell/Downloads/MapCallouts/en.lproj/MainWindow.xib4717520#607"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/en.lproj/MainWindow.nib /Users/patrickrussell/Downloads/MapCallouts/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/patrickrussell/Downloads/MapCallouts/en.lproj/MapViewController.xib
+s316285620.045261
+e316285629.649893
+r1
+xCompileXIB
+x/Users/patrickrussell/Downloads/MapCallouts/en.lproj/MapViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@41"CompileXIB en.lproj/MapViewController.xib316285620#316285629#0(504"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#74"/Users/patrickrussell/Downloads/MapCallouts/en.lproj/MapViewController.xib2501739152#621"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/en.lproj/MapViewController.nib /Users/patrickrussell/Downloads/MapCallouts/en.lproj/MapViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCpResource build/Debug-iphonesimulator/MapCallouts.app/Default.png images/Default.png
+s316285629.651211
+e316285629.881855
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MapCallouts.app/Default.png
+ximages/Default.png
+lSLF07#2@23"Copy images/Default.png316285629#316285630#0(0"0(0#0#62"/Users/patrickrussell/Downloads/MapCallouts/images/Default.png2501739152#481"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/patrickrussell/Downloads/MapCallouts/images/Default.png /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app0#
+
+CCpResource build/Debug-iphonesimulator/MapCallouts.app/GoldenGate.png images/GoldenGate.png
+s316285629.653295
+e316285630.475653
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MapCallouts.app/GoldenGate.png
+ximages/GoldenGate.png
+lSLF07#2@26"Copy images/GoldenGate.png316285629#316285630#0(0"0(0#0#65"/Users/patrickrussell/Downloads/MapCallouts/images/GoldenGate.png2501739152#484"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/patrickrussell/Downloads/MapCallouts/images/GoldenGate.png /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app0#
+
+CCpResource build/Debug-iphonesimulator/MapCallouts.app/Icon-72.png images/Icon-72.png
+s316285629.654332
+e316285629.876662
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MapCallouts.app/Icon-72.png
+ximages/Icon-72.png
+lSLF07#2@23"Copy images/Icon-72.png316285629#316285630#0(0"0(0#0#62"/Users/patrickrussell/Downloads/MapCallouts/images/Icon-72.png2501739152#481"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/patrickrussell/Downloads/MapCallouts/images/Icon-72.png /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app0#
+
+CCpResource build/Debug-iphonesimulator/MapCallouts.app/Icon-Small-50.png images/Icon-Small-50.png
+s316285629.655369
+e316285629.865572
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MapCallouts.app/Icon-Small-50.png
+ximages/Icon-Small-50.png
+lSLF07#2@29"Copy images/Icon-Small-50.png316285629#316285630#0(0"0(0#0#68"/Users/patrickrussell/Downloads/MapCallouts/images/Icon-Small-50.png2501739152#487"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/patrickrussell/Downloads/MapCallouts/images/Icon-Small-50.png /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app0#
+
+CCpResource build/Debug-iphonesimulator/MapCallouts.app/Icon-Small.png images/Icon-Small.png
+s316285629.656392
+e316285629.876858
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MapCallouts.app/Icon-Small.png
+ximages/Icon-Small.png
+lSLF07#2@26"Copy images/Icon-Small.png316285629#316285630#0(0"0(0#0#65"/Users/patrickrussell/Downloads/MapCallouts/images/Icon-Small.png2501739152#484"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/patrickrussell/Downloads/MapCallouts/images/Icon-Small.png /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app0#
+
+CCpResource build/Debug-iphonesimulator/MapCallouts.app/Icon-Small@2x.png images/Icon-Small@2x.png
+s316285629.657420
+e316285629.882221
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MapCallouts.app/Icon-Small@2x.png
+ximages/Icon-Small@2x.png
+lSLF07#2@29"Copy images/Icon-Small@2x.png316285629#316285630#0(0"0(0#0#68"/Users/patrickrussell/Downloads/MapCallouts/images/Icon-Small@2x.png2501739152#487"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/patrickrussell/Downloads/MapCallouts/images/Icon-Small@2x.png /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app0#
+
+CCpResource build/Debug-iphonesimulator/MapCallouts.app/Icon.png images/Icon.png
+s316285629.658452
+e316285629.877040
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MapCallouts.app/Icon.png
+ximages/Icon.png
+lSLF07#2@20"Copy images/Icon.png316285629#316285630#0(0"0(0#0#59"/Users/patrickrussell/Downloads/MapCallouts/images/Icon.png2501739152#478"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/patrickrussell/Downloads/MapCallouts/images/Icon.png /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app0#
+
+CCpResource build/Debug-iphonesimulator/MapCallouts.app/Icon@2x.png images/Icon@2x.png
+s316285629.865703
+e316285629.903289
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MapCallouts.app/Icon@2x.png
+ximages/Icon@2x.png
+lSLF07#2@23"Copy images/Icon@2x.png316285629#316285630#0(0"0(0#0#62"/Users/patrickrussell/Downloads/MapCallouts/images/Icon@2x.png2501739152#481"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/patrickrussell/Downloads/MapCallouts/images/Icon@2x.png /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app0#
+
+CCpResource build/Debug-iphonesimulator/MapCallouts.app/Location.png images/Location.png
+s316285629.874185
+e316285629.921934
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MapCallouts.app/Location.png
+ximages/Location.png
+lSLF07#2@24"Copy images/Location.png316285629#316285630#0(0"0(0#0#63"/Users/patrickrussell/Downloads/MapCallouts/images/Location.png2501739152#482"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/patrickrussell/Downloads/MapCallouts/images/Location.png /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app0#
+
+CCpResource build/Debug-iphonesimulator/MapCallouts.app/ReadMe.txt ReadMe.txt
+s316285629.650026
+e316285629.874050
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MapCallouts.app/ReadMe.txt
+xReadMe.txt
+lSLF07#2@15"Copy ReadMe.txt316285629#316285630#0(0"0(0#0#54"/Users/patrickrussell/Downloads/MapCallouts/ReadMe.txt4231240#473"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/patrickrussell/Downloads/MapCallouts/ReadMe.txt /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app0#
+
+CCpResource build/Debug-iphonesimulator/MapCallouts.app/SFIcon.png images/SFIcon.png
+s316285629.877154
+e316285629.923142
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MapCallouts.app/SFIcon.png
+ximages/SFIcon.png
+lSLF07#2@22"Copy images/SFIcon.png316285629#316285630#0(0"0(0#0#61"/Users/patrickrussell/Downloads/MapCallouts/images/SFIcon.png2501739152#480"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/patrickrussell/Downloads/MapCallouts/images/SFIcon.png /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app0#
+
+CCpResource build/Debug-iphonesimulator/MapCallouts.app/flag.png images/flag.png
+s316285629.652222
+e316285629.882046
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MapCallouts.app/flag.png
+ximages/flag.png
+lSLF07#2@20"Copy images/flag.png316285629#316285630#0(0"0(0#0#59"/Users/patrickrussell/Downloads/MapCallouts/images/flag.png2501739152#478"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/patrickrussell/Downloads/MapCallouts/images/flag.png /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app0#
+
+CCpResource build/Debug-iphonesimulator/MapCallouts.app/iTunesArtwork images/../iTunesArtwork
+s316285629.879410
+e316285629.923425
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MapCallouts.app/iTunesArtwork
+ximages/../iTunesArtwork
+lSLF07#2@28"Copy images/../iTunesArtwork316285629#316285630#0(0"0(0#0#67"/Users/patrickrussell/Downloads/MapCallouts/images/../iTunesArtwork2501739152#486"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/patrickrussell/Downloads/MapCallouts/images/../iTunesArtwork /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app0#
+
+CGenerateDSYMFile /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app.dSYM /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/MapCallouts
+s316285635.490345
+e316285635.647287
+r1
+xGenerateDSYMFile
+x/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app.dSYM
+x/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/MapCallouts
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/MapCallouts.app.dSYM build/Debug-iphonesimulator/MapCallouts.app/MapCallouts316285635#316285635#0(0"0(0#0#99"/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/MapCallouts2501739152#410"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/MapCallouts -o /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app.dSYM0#
+
+CLd /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/MapCallouts normal i386
+s316285634.621422
+e316285635.490128
+r1
+xLd
+x/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/MapCallouts
+xnormal
+xi386
+lSLF07#2@104"Link /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/MapCallouts316285634#316285635#0(0"0(0#0#0"2501739152#963"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator -F/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator -filelist /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/MapCallouts.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -o /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/MapCallouts0#
+
+CProcessInfoPlistFile /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/Info.plist Info.plist
+s316285618.608164
+e316285619.659508
+r1
+xProcessInfoPlistFile
+x/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist316285618#316285619#0(0"0(0#0#54"/Users/patrickrussell/Downloads/MapCallouts/Info.plist4231240#494"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/Info.plist0#
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cxzyueqavghwrneoynuykadrckyt/Prefix.pch.pth Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s316795855.358876
+e316795859.945644
+r1
+xProcessPCH
+x/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cxzyueqavghwrneoynuykadrckyt/Prefix.pch.pth
+xPrefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+oIn file included from /Users/patrickrussell/Downloads/MapCallouts/Prefix.pch:3:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:26:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h:60:23: error: expected function body after function declarator
+o   CFDataRef metadata) CG_AVAILABLE_STARTING(__MAC_10_7, __IPHONE_4_0);
+o                       ^
+oIn file included from /Users/patrickrussell/Downloads/MapCallouts/Prefix.pch:3:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:8:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGBase.h:21:32: note: instantiated from:
+o # define CG_AVAILABLE_STARTING __OSX_AVAILABLE_STARTING
+o                                ^
+o<scratch space>:82:1: note: instantiated from:
+o __AVAILABILITY_INTERNAL__MAC_10_7
+o ^
+oIn file included from /Users/patrickrussell/Downloads/MapCallouts/Prefix.pch:3:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:250:91: error: expected a type
+o + (void)animateWithDuration:(NSTimeInterval)duration delay:(NSTimeInterval)delay options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                                                                                           ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:256:86: error: expected a type
+o + (void)transitionWithView:(UIView *)view duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                                                                                      ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:258:114: error: expected a type
+o + (void)transitionFromView:(UIView *)fromView toView:(UIView *)toView duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0); // toView added to fromView.superview, fromView removed from its superview
+o                                                                                                                  ^
+oIn file included from /Users/patrickrussell/Downloads/MapCallouts/Prefix.pch:3:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:13:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:187:31: error: unknown type name 'UIApplicationState'
+o @property(nonatomic,readonly) UIApplicationState applicationState __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                               ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:190:4: error: expected a type
+o - (UIBackgroundTaskIdentifier)beginBackgroundTaskWithExpirationHandler:(void(^)(void))handler  __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o    ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:191:28: error: expected a type
+o - (void)endBackgroundTask:(UIBackgroundTaskIdentifier)identifier __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                            ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:202:45: error: expected a type
+o - (void)registerForRemoteNotificationTypes:(UIRemoteNotificationType)types __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);
+o                                             ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:206:4: error: expected a type
+o - (UIRemoteNotificationType)enabledRemoteNotificationTypes __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);
+o    ^
+oIn file included from /Users/patrickrussell/Downloads/MapCallouts/Prefix.pch:3:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:73:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h:82:22: error: unknown type name 'UIDataDetectorTypes'
+o @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);
+o                      ^
+oIn file included from /Users/patrickrussell/Downloads/MapCallouts/Prefix.pch:3:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:79:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h:54:22: error: unknown type name 'UIDataDetectorTypes'
+o @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);
+o                      ^
+o11 errors generated.
+lSLF07#2@21"Precompile Prefix.pch316795855#316795859#0(8093"In file included from /Users/patrickrussell/Downloads/MapCallouts/Prefix.pch:3:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:26:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h:60:23: error: expected function body after function declarator   CFDataRef metadata) CG_AVAILABLE_STARTING(__MAC_10_7, __IPHONE_4_0);                       ^In file included from /Users/patrickrussell/Downloads/MapCallouts/Prefix.pch:3:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:8:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGBase.h:21:32: note: instantiated from: # define CG_AVAILABLE_STARTING __OSX_AVAILABLE_STARTING                                ^<scratch space>:82:1: note: instantiated from: __AVAILABILITY_INTERNAL__MAC_10_7 ^In file included from /Users/patrickrussell/Downloads/MapCallouts/Prefix.pch:3:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:250:91: error: expected a type + (void)animateWithDuration:(NSTimeInterval)duration delay:(NSTimeInterval)delay options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                                                                                           ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:256:86: error: expected a type + (void)transitionWithView:(UIView *)view duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                                                                                      ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:258:114: error: expected a type + (void)transitionFromView:(UIView *)fromView toView:(UIView *)toView duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0); // toView added to fromView.superview, fromView removed from its superview                                                                                                                  ^In file included from /Users/patrickrussell/Downloads/MapCallouts/Prefix.pch:3:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:13:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:187:31: error: unknown type name 'UIApplicationState' @property(nonatomic,readonly) UIApplicationState applicationState __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                               ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:190:4: error: expected a type - (UIBackgroundTaskIdentifier)beginBackgroundTaskWithExpirationHandler:(void(^)(void))handler  __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);    ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:191:28: error: expected a type - (void)endBackgroundTask:(UIBackgroundTaskIdentifier)identifier __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                            ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:202:45: error: expected a type - (void)registerForRemoteNotificationTypes:(UIRemoteNotificationType)types __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);                                             ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:206:4: error: expected a type - (UIRemoteNotificationType)enabledRemoteNotificationTypes __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);    ^In file included from /Users/patrickrussell/Downloads/MapCallouts/Prefix.pch:3:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:73:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h:82:22: error: unknown type name 'UIDataDetectorTypes' @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);                      ^In file included from /Users/patrickrussell/Downloads/MapCallouts/Prefix.pch:3:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:79:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h:54:22: error: unknown type name 'UIDataDetectorTypes' @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);                      ^11 errors generated.1(25@46"Analyzer skipped this file due to parse errors316795859#4294967295#0#11(25@48"expected function body after function declarator316795859#4294967295#0#0(6@155"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h302679128#60#0#60#0#0"0(25@15"expected a type316795859#4294967295#0#0(6@142"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#250#0#250#0#0"0(25@15"expected a type316795859#4294967295#0#0(6@142"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#256#0#256#0#0"0(25@15"expected a type316795859#4294967295#0#0(6@142"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#258#0#258#0#0"0(25@38"unknown type name 'UIApplicationState'316795859#4294967295#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#187#0#187#0#0"0(25@15"expected a type316795859#4294967295#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#190#0#190#0#0"0(25@15"expected a type316795859#4294967295#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#191#0#191#0#0"0(25@15"expected a type316795859#4294967295#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#202#0#202#0#0"0(25@15"expected a type316795859#4294967295#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#206#0#206#0#0"0(25@39"unknown type name 'UIDataDetectorTypes'316795859#4294967295#0#0(6@146"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h303200622#82#0#82#0#0"0(25@39"unknown type name 'UIDataDetectorTypes'316795859#4294967295#0#0(6@145"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h303200623#54#0#54#0#0"0(6@155"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h302679128#0#0#0#0#0"0(0#0#54"/Users/patrickrussell/Downloads/MapCallouts/Prefix.pch2501739152#1833"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-generated-files.hmap -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-project-headers.hmap -F/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/DerivedSources -c /Users/patrickrussell/Downloads/MapCallouts/Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cxzyueqavghwrneoynuykadrckyt/Prefix.pch.pth0#
+
+CProcessPCH /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ewpwguopajvduoedohdgccbmmvfd/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s316285630.670775
+e316285633.466745
+r1
+xProcessPCH
+x/var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ewpwguopajvduoedohdgccbmmvfd/Prefix.pch.gch
+xPrefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@21"Precompile Prefix.pch316285630#316285633#0(0"0(0#0#54"/Users/patrickrussell/Downloads/MapCallouts/Prefix.pch2501739152#1896"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-generated-files.hmap -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-own-target-headers.hmap -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-all-target-headers.hmap -iquote /Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-project-headers.hmap -F/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator -I/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/include -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/DerivedSources/i386 -I/Users/patrickrussell/Downloads/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/DerivedSources -c /Users/patrickrussell/Downloads/MapCallouts/Prefix.pch -o /var/folders/ZL/ZLlMgtawHzG3h7NpWZvmpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ewpwguopajvduoedohdgccbmmvfd/Prefix.pch.gch0#
+
+CTouch /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app
+s316285635.647416
+e316285635.686811
+r1
+xTouch
+x/Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app
+lSLF07#2@93"Touch /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app316285635#316285635#0(0"0(0#0#0"2501739152#292"    cd /Users/patrickrussell/Downloads/MapCallouts    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/patrickrussell/Downloads/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app0#
+

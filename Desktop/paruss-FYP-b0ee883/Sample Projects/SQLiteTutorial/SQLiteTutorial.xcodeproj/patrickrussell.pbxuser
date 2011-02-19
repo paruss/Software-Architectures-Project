@@ -1,0 +1,66 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* SQLiteTutorial */ = {
+		activeExec = 0;
+		executables = (
+			FFA1D06B12E61460007F7B8B /* SQLiteTutorial */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FFA1D06B12E61460007F7B8B /* SQLiteTutorial */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SQLiteTutorial */;
+		codeSenseManager = FFA1D07312E61491007F7B8B /* Code sense */;
+		executables = (
+			FFA1D06B12E61460007F7B8B /* SQLiteTutorial */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 317068385;
+			PBXWorkspaceStateSaveDate = 317068385;
+		};
+		sourceControlManager = FFA1D07212E61491007F7B8B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	FFA1D06B12E61460007F7B8B /* SQLiteTutorial */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SQLiteTutorial;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	FFA1D07212E61491007F7B8B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	FFA1D07312E61491007F7B8B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
